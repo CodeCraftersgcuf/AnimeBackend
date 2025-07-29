@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 55,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Tekkaman Blade II",
+        "alternativeTitle": "Uchuu no Kishi Tekkaman Blade II",
+        "id": "tekkaman-blade-ii-6784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5391f3122388c8086f16388015c263ff.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Solty Rei",
+        "alternativeTitle": "Solty Rei",
+        "id": "solty-rei-2373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09736bd2af5d8b2c899aa59b2dff6c13.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nadia: Secret of Blue Water",
+        "alternativeTitle": "Fushigi no Umi no Nadia",
+        "id": "nadia-secret-of-blue-water-1456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e5894f36e11a94c849ae86a9ad24e51.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Dinosaur King",
+        "alternativeTitle": "Kodai Ouja Kyouryuu King",
+        "id": "dinosaur-king-7532",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/babe264784836b450cfa8cc200b8621c.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Dinosaur King D-Kids Adventure: Pterosaur Legend",
+        "alternativeTitle": "Kodai Ouja Kyouryuu King: Yokuryuu Densetsu",
+        "id": "dinosaur-king-d-kids-adventure-pterosaur-legend-6741",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba603f2c17fd7df1d5c4641fb01bf49e.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 30,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beast Saga",
+        "alternativeTitle": "Beast Saga",
+        "id": "beast-saga-8845",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7840957b0a00d8a98cad2d3177c33df.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Beast Wars Neo",
+        "alternativeTitle": "Chou Seimeitai Transformers Beast Wars Neo",
+        "id": "beast-wars-neo-6050",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f537208d159359f0aee2934559045273.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Beast Wars Second Chou Seimeitai Transformers",
+        "alternativeTitle": "Beast Wars Second Chou Seimeitai Transformers",
+        "id": "beast-wars-second-chou-seimeitai-transformers-6262",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f3c3f7f2e3cddd846721d9151efb6fa.jpg",
+        "episodes": {
+          "sub": 43,
+          "dub": 0,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyblade",
+        "alternativeTitle": "Bakuten Shoot Beyblade",
+        "id": "beyblade-4692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c994b2103c5607cf0cba32c90f2b33b1.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Saint Seiya: The Lost Canvas (season 1+season 2)",
+        "alternativeTitle": "Saint Seiya: The Lost Canvas - Meiou Shinwa",
+        "id": "saint-seiya-the-lost-canvas-season-1season-2-522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/278cec8a4e572e2eda6e5317c6f578af.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "The Big O",
+        "alternativeTitle": "The Big O",
+        "id": "the-big-o-1487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06c5daf10f82925b4b2f6aecc086d194.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Devilman",
+        "alternativeTitle": "Devilman",
+        "id": "devilman-6187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0240cb8a809861304530d0c3eb43166d.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Beyblade G Revolution",
+        "alternativeTitle": "Bakuten Shoot Beyblade G Revolution",
+        "id": "beyblade-g-revolution-3866",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/013edfef2ccbdb7b6697c7da9126321c.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Beyond the Heavens",
+        "alternativeTitle": "Souten Kouro",
+        "id": "beyond-the-heavens-2361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a33a22dff9eecd63673b6dcb6f7244a5.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love and Lies",
+        "alternativeTitle": "Koi to Uso",
+        "id": "love-and-lies-5299",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b4df24344a1f57bb5b244242218c370.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kiddy Grade",
+        "alternativeTitle": "Kiddy Grade",
+        "id": "kiddy-grade-2638",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a1234dc6de4a3d9cfb0d015750d6576.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kishin Taisen Gigantic Formula",
+        "alternativeTitle": "Kishin Taisen Gigantic Formula",
+        "id": "kishin-taisen-gigantic-formula-4128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0db8907341ec144e96eeadc4f753b1f0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Regalia: The Three Sacred Stars",
+        "alternativeTitle": "Regalia: The Three Sacred Stars",
+        "id": "regalia-the-three-sacred-stars-8050",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e278cae419c1d6b15378cbae04d44ea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam: The 08th MS Team",
+        "alternativeTitle": "Mobile Suit Gundam: The 08th MS Team",
+        "id": "mobile-suit-gundam-the-08th-ms-team-490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e315c4b033f36a27c4aa0dd59a6b2846.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "El Hazard: The Magnificent World",
+        "alternativeTitle": "El Hazard: The Magnificent World",
+        "id": "el-hazard-the-magnificent-world-2211",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45480ca725669feba4baedb3f6b76a63.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "El Hazard 2: The Magnificent World",
+        "alternativeTitle": "El Hazard 2: The Magnificent World",
+        "id": "el-hazard-2-the-magnificent-world-4147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a4dd9aae32e75f4d50fec4b328244b65.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "El Hazard: The Alternative World",
+        "alternativeTitle": "El Hazard: The Alternative World",
+        "id": "el-hazard-the-alternative-world-4221",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0e90a42a17e03af466b0674781e97ff.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sister Princess: Re Pure",
+        "alternativeTitle": "Sister Princess: Re Pure",
+        "id": "sister-princess-re-pure-6872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b64aa58d0379436b741840c583d51ca.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Before Green Gables",
+        "alternativeTitle": "Konnichiwa Anne: Before Green Gables",
+        "id": "before-green-gables-1342",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71a50d962a2fff9f00ad31f27f93c62b.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Beet the Vandel Buster Excellion",
+        "alternativeTitle": "Bouken Ou Beet Excellion",
+        "id": "beet-the-vandel-buster-excellion-4732",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76b7eee91effc3a8ebbb46ba04998e4e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Useless Witch Doremi Kaboom!",
+        "alternativeTitle": "Ojamajo Doremi Dokkaan!",
+        "id": "useless-witch-doremi-kaboom-1358",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c68ac13b8c751c0375cde39b4bf9613.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saikyou Ginga Ultimate Zero: Battle Spirits",
+        "alternativeTitle": "Saikyou Ginga Ultimate Zero: Battle Spirits",
+        "id": "saikyou-ginga-ultimate-zero-battle-spirits-5805",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d03117f79d726b725d00b8bf1d2fa207.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Girlfriend is Shobitch",
+        "alternativeTitle": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+        "id": "my-girlfriend-is-shobitch-6688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d62b1f954ebf3fed312a99b8cf7e05c1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Girlfriend Is ShoBitch",
+        "alternativeTitle": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA",
+        "id": "my-girlfriend-is-shobitch-6180",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/471abc3fb276843bb77d383847297600.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "10m"
+      },
+      {
+        "title": "Akane Iro ni Somaru Saka Hardcore OVA",
+        "alternativeTitle": "Akaneiro ni Somaru Saka: Hardcore",
+        "id": "akane-iro-ni-somaru-saka-hardcore-ova-6076",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d481fc086e5b113a1a8c0fc8b46b8e15.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "26m"
+      },
+      {
+        "title": "Akane Iro ni Somaru Saka",
+        "alternativeTitle": "Akaneiro ni Somaru Saka",
+        "id": "akane-iro-ni-somaru-saka-5828",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05cfb64cba2f6b87e512dc306c3d61ae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Najica Blitz Tactics",
+        "alternativeTitle": "Najica Dengeki Sakusen",
+        "id": "najica-blitz-tactics-8021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40b515e4549b930f981685073f478e32.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hunter x Hunter: Greed Island Final",
+        "alternativeTitle": "Hunter x Hunter: Greed Island Final",
+        "id": "hunter-x-hunter-greed-island-final-219",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7f2fd7f56b46e8d263b3af9f6a08d77.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Hunter x Hunter: Greed Island",
+        "alternativeTitle": "Hunter x Hunter: Greed Island",
+        "id": "hunter-x-hunter-greed-island-276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48fcdaf3ba5ddcbcda344a682841b234.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Sankarea: Undying Love",
+        "alternativeTitle": "Sankarea",
+        "id": "sankarea-undying-love-1939",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17c60ce5a71362c43a3cfcbd797348ad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saint Seiya: The Hades Chapter - Inferno",
+        "alternativeTitle": "Saint Seiya: Meiou Hades Meikai-hen",
+        "id": "saint-seiya-the-hades-chapter-inferno-878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c8bb5f54a0e7adf5b1f84624be29573.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Saint Seiya: The Hades Chapter - Sanctuary",
+        "alternativeTitle": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+        "id": "saint-seiya-the-hades-chapter-sanctuary-427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b0260a78eb9d7439cae49b95c9099d3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Saint Seiya: The Hades Chapter - Elysion",
+        "alternativeTitle": "Saint Seiya: Meiou Hades Elysion-hen",
+        "id": "saint-seiya-the-hades-chapter-elysion-1246",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f291c3055acba96ca3f3deb77c18dd2.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "The Demonic King Who Chases His Wife",
+        "alternativeTitle": "Xie Wang Zhui Qi",
+        "id": "the-demonic-king-who-chases-his-wife-4878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7f74f8e8720b50bd455e62eb2035c00.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "The Demonic King Who Chases His Wife 2nd Season",
+        "alternativeTitle": "Xie Wang Zhui Qi Zhi Yishi Qingcheng",
+        "id": "the-demonic-king-who-chases-his-wife-2nd-season-17327",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/329e07583d5c33fde2b9dbe9b855f549.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 30,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Gushing over Magical Girls",
+        "alternativeTitle": "Mahou Shoujo ni Akogarete",
+        "id": "gushing-over-magical-girls-18805",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db8251e4890b905e9f08843930798eef.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yarichin Bitch Club",
+        "alternativeTitle": "Yarichin☆Bitch-bu",
+        "id": "yarichin-bitch-club-16015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a725203de019d4e238ab52c8702d01f4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Non Non Biyori",
+        "alternativeTitle": "Non Non Biyori",
+        "id": "non-non-biyori-579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d57f9932470751615d856fed77ac00b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Castle Town Dandelion",
+        "alternativeTitle": "Joukamachi no Dandelion",
+        "id": "castle-town-dandelion-2636",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91db03ca72b99c74fca7acab6c3ec74b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Majin",
+        "alternativeTitle": "Tokyo Majin Gakuen Kenpucho: Tou",
+        "id": "tokyo-majin-2857",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f0511605896dd65ad00fc7215083b51.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fighting Spirit: New Challenger",
+        "alternativeTitle": "Hajime no Ippo: New Challenger",
+        "id": "fighting-spirit-new-challenger-46",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5be4bc2d005fbcb3eaaecd82056775be.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Miss caretaker of Sunohara-sou",
+        "alternativeTitle": "Sunohara-sou no Kanrinin-san",
+        "id": "miss-caretaker-of-sunohara-sou-4033",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe1ad220ce9e7951b2a2e9107aca3e82.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Corpse Party: Tortured Souls (Uncensored)",
+        "alternativeTitle": "Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou (Uncensored)",
+        "id": "corpse-party-tortured-souls-uncensored-5083",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c002bb3ef7c1bf5858c3352749176532.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
+        "alternativeTitle": "Naruto: Shippuuden Movie 5 - Blood Prison",
+        "id": "naruto-shippuuden-movie-5-blood-prison-1642",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23a436a4ae640fa191a587b5e417bf7d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Sing a Bit of Harmony",
+        "alternativeTitle": "Ai no Utagoe wo Kikasete",
+        "id": "sing-a-bit-of-harmony-15636",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a297fd557f240235bcbaaf009aebd1c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "A Place Further Than The Universe",
+        "alternativeTitle": "Sora yori mo Tooi Basho",
+        "id": "a-place-further-than-the-universe-73",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e63e96b0a804ae9663a002662414e383.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Peter Grill and the Philosopher's Time: Super Extra",
+        "alternativeTitle": "Peter Grill to Kenja no Jikan: Super Extra",
+        "id": "peter-grill-and-the-philosophers-time-super-extra-18165",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/beb8d3d34708ab455d3b97f979f55011.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Le Cirque de Karakuri",
+        "alternativeTitle": "Karakuri Circus (TV)",
+        "id": "le-cirque-de-karakuri-3237",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3d3cf9856db5ee8de278930762d02b5.jpg",
+        "episodes": {
+          "sub": 36,
+          "dub": 0,
+          "eps": 36
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama Season 2",
+        "alternativeTitle": "Gintama'",
+        "id": "gintama-season-2-6",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a2f7d0736f223f096c459751f6f0bd6.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Samurai Girls",
+        "alternativeTitle": "Hyakka Ryouran: Samurai Girls",
+        "id": "samurai-girls-4223",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca3170e2fbb39c48e65444fa48c88d80.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Spy x Family Code: White",
+        "alternativeTitle": "Spy x Family Movie: Code: White",
+        "id": "spy-x-family-code-white-19291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16a4b832318665b71dfe9fbd699158dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "High School DxD OVA",
+        "alternativeTitle": "High School DxD OVA",
+        "id": "high-school-dxd-ova-2300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2371c1154151d0a56b3a880e0bfc8a5.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Devil May Cry",
+        "alternativeTitle": "Devil May Cry",
+        "id": "devil-may-cry-3581",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9287a06fb0b3eaffc782f40693d976c2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "TONIKAWA: Over The Moon For You - High School Days",
+        "alternativeTitle": "Tonikaku Kawaii: Joshikou-hen",
+        "id": "tonikawa-over-the-moon-for-you-high-school-days-18457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/071ea756f7a46b9745d0337ec2a59253.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "alternativeTitle": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "id": "evangelion-3010-thrice-upon-a-time-15699",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cf9df4c909d1bedd5d7d31bdba308ba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "155m"
+      },
+      {
+        "title": "Charlotte: Tsuyoimono-tachi",
+        "alternativeTitle": "Charlotte: Tsuyoimono-tachi",
+        "id": "charlotte-tsuyoimono-tachi-1566",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fc88f6662473c964fb94ebd87ee0c62.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Zombie Land Saga",
+        "alternativeTitle": "Zombieland Saga",
+        "id": "zombie-land-saga-1427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61822f6a6402ea90db7cb87038ee0f62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Let This Grieving Soul Retire",
+        "alternativeTitle": "Nageki no Bourei wa Intai shitai",
+        "id": "let-this-grieving-soul-retire-19356",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f89dba79f67c7441584312bce1c4cdc.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+        "alternativeTitle": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+        "id": "naruto-shippuuden-movie-4-the-lost-tower-1821",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68c5ae4e5b496eb0474920659a9a85e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Dr. Ramune -Mysterious Disease Specialist-",
+        "alternativeTitle": "Kai Byoui Ramune",
+        "id": "dr-ramune-mysterious-disease-specialist-15752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b80227b0e6580369720a58566cec5811.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kemono Michi: Rise Up",
+        "alternativeTitle": "Hataage! Kemono Michi",
+        "id": "kemono-michi-rise-up-4746",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc6a352f5eb320dcae22f5cb5534e2e7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Doukyusei -Classmates-",
+        "alternativeTitle": "Doukyuusei (Movie)",
+        "id": "doukyusei-classmates-215",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0eb3fe5660b13221ff54d5f664d4190d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Scissor Seven Season 4",
+        "alternativeTitle": "Wu Liuqi: Anying Suming",
+        "id": "scissor-seven-season-4-18275",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14fcfcc851e81c559c0ce5e83602d623.png",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "One Piece: The Movie 10 - Strong World",
+        "alternativeTitle": "One Piece Film: Strong World",
+        "id": "one-piece-the-movie-10-strong-world-298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de58e554fa74d9a5443799ab84cf0c65.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Diabolik Lovers",
+        "alternativeTitle": "Diabolik Lovers",
+        "id": "diabolik-lovers-9707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/695a9cb9199fbf8f5ad807e8510d9b79.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Kuma Kuma Kuma Bear Punch!",
+        "alternativeTitle": "Kuma Kuma Kuma Bear 2nd Season",
+        "id": "kuma-kuma-kuma-bear-punch-17374",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d223280706d8f5d2f556c7951c5bf4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Orient Part 2",
+        "alternativeTitle": "Orient: Awajishima Gekitou-hen",
+        "id": "orient-part-2-18089",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1c4dcf2e30bb7370030606c01f4fc9b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Mental Choices Are Completely Interfering With My School Romantic Comedy",
+        "alternativeTitle": "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru",
+        "id": "my-mental-choices-are-completely-interfering-with-my-school-romantic-comedy-2349",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa9347ffee5e45dea2d813058648af20.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High School DxD New: Oppai, Tsutsumimasu!",
+        "alternativeTitle": "High School DxD New: Oppai, Tsutsumimasu!",
+        "id": "high-school-dxd-new-oppai-tsutsumimasu-2329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deee773aa750b74dc464b563a14df362.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Wotaku ni Koi wa Muzukashii OVA",
+        "alternativeTitle": "Wotaku ni Koi wa Muzukashii OVA",
+        "id": "wotaku-ni-koi-wa-muzukashii-ova-712",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acd0006eda9c74c9b9571f1eb139aa0a.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "The Sacred Blacksmith",
+        "alternativeTitle": "Seiken no Blacksmith",
+        "id": "the-sacred-blacksmith-4501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b4f0eb07f3cdd07970bdd4e5c4c5dd6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Panty & Stocking with Garterbelt",
+        "alternativeTitle": "Panty & Stocking with Garterbelt",
+        "id": "panty-stocking-with-garterbelt-944",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7bd20d9f3e2d320f0c31f2c5194d817a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Synduality: Noir",
+        "alternativeTitle": "Synduality: Noir",
+        "id": "synduality-noir-18464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef28e0a459cd16ef863067fc6673c4c2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Elusive Samurai",
+        "alternativeTitle": "Nige Jouzu no Wakagimi",
+        "id": "the-elusive-samurai-19233",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ec60e43741263113cd1287467162fb5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Evangelion: 2.0 You Can (Not) Advance",
+        "alternativeTitle": "Evangelion: 2.0 You Can (Not) Advance",
+        "id": "evangelion-20-you-can-not-advance-176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6b885ff6dfbc63bdf06af0de8aa5ccf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      }
+    ]
+  }
+}

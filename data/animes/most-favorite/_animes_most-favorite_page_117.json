@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 117,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Cardfight!! Vanguard G Stride Gate",
+        "alternativeTitle": "Cardfight!! Vanguard G: Stride Gate-hen",
+        "id": "cardfight-vanguard-g-stride-gate-4818",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c1cce933fa2fb4aeb8ec3e4cf572cfd.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "El Cazador de la Bruja",
+        "alternativeTitle": "El Cazador de la Bruja",
+        "id": "el-cazador-de-la-bruja-2558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f5ee2c6424bb1076b8f4cbe06b5a1c0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Genji Monogatari",
+        "alternativeTitle": "Genji Monogatari",
+        "id": "genji-monogatari-5847",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c554c5c68df1f4b79e64529f21bd2d0f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "106m"
+      },
+      {
+        "title": "Kowabon",
+        "alternativeTitle": "Kowabon",
+        "id": "kowabon-9938",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1c52b1e59a6e7424ada8e0e969b55ad.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Magical Girl Lyrical Nanoha StrikerS",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha StrikerS",
+        "id": "magical-girl-lyrical-nanoha-strikers-1136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55f74c72f09a39a51891048ce90cc3d0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tanin no Kankei",
+        "alternativeTitle": "Tanin no Kankei",
+        "id": "tanin-no-kankei-7301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/346fb4b52bde852d22b081b5fbb3eb2a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Run For Money : The Great Mission",
+        "alternativeTitle": "Tousouchuu: Great Mission",
+        "id": "run-for-money-the-great-mission-18377",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06567097f088d5c93295fdba91dad2d4.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shadow Skill",
+        "alternativeTitle": "Shadow Skill",
+        "id": "shadow-skill-5343",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cde1b7781f0e6406c0366699f36cc54.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "51m"
+      },
+      {
+        "title": "Cells at Work Special",
+        "alternativeTitle": "Hataraku Saibou: Kaze Shoukougun",
+        "id": "cells-at-work-special-2297",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b142611f8725dc5b9a6c711346013f76.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Amagami SS+ Plus Picture Drama",
+        "alternativeTitle": "Amagami SS+ Plus Picture Drama",
+        "id": "amagami-ss-plus-picture-drama-5558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0ae7b0daf31ce69b09f81d41e7825f3.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 28: Crash! Rakuga Kingdom and Almost Four Heroes",
+        "alternativeTitle": "Crayon Shin-chan Movie 28: Gekitotsu! Rakugaki Kingdom to Hobo Yonin no Yuusha",
+        "id": "crayon-shin-chan-movie-28-crash-rakuga-kingdom-and-almost-four-heroes-13342",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/179047170b2d0a8a29f70a887baea1ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Hetalia World★Stars Specials",
+        "alternativeTitle": "Hetalia World★Stars Specials",
+        "id": "hetalia-worldstars-specials-17811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd2d4fcd789dbc27da1d25085a31deaa.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "The Haunted House: The Secret of the Ghost Ball",
+        "alternativeTitle": "Sinbi Apateu: Ghost Ball Bimil",
+        "id": "the-haunted-house-the-secret-of-the-ghost-ball-11673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db83b66c5adb250473fb3350288da13c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My ACG Parents",
+        "alternativeTitle": "Ba Ma Laizi Er Ciyuan",
+        "id": "my-acg-parents-17353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8da7e806fb4e0a6f6f1f2d1c42a3e004.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Galilei Donna: Storia di tre sorelle a caccia di un mistero",
+        "alternativeTitle": "Galilei Donna",
+        "id": "galilei-donna-storia-di-tre-sorelle-a-caccia-di-un-mistero-6086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e797ae81d3f64411e0ede0339446c44f.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Major: Message",
+        "alternativeTitle": "Major: Message",
+        "id": "major-message-280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5a0187bab0a2b66e908f6e0463d7bac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": ".hack//Intermezzo",
+        "alternativeTitle": ".hack//Intermezzo",
+        "id": "hackintermezzo-5449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20068dbb6c6a731c9fb34185ddc44c0f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Macross Zero",
+        "alternativeTitle": "Macross Zero",
+        "id": "macross-zero-1402",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ebc5b6c306f527464c06c0bc6783f09.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Cybersix",
+        "alternativeTitle": "Cybersix",
+        "id": "cybersix-2554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a0f3c43561fff2dc6a1868f61235490.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Solty Rei",
+        "alternativeTitle": "Solty Rei",
+        "id": "solty-rei-2373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09736bd2af5d8b2c899aa59b2dff6c13.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 03: Unkokusai's Ambition",
+        "alternativeTitle": "Crayon Shin-chan Movie 03: Unkokusai no Yabou",
+        "id": "crayon-shin-chan-movie-03-unkokusais-ambition-3892",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d78a0afacf2e50ca95acbf16105abaf9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Neo Angelique Abyss: Second Age",
+        "alternativeTitle": "Neo Angelique Abyss: Second Age",
+        "id": "neo-angelique-abyss-second-age-3390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e74042295029a3eec924540dee79b978.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "In Search of the Lost Future: Special",
+        "alternativeTitle": "Ushinawareta Mirai wo Motomete: Ushinawareta Natsuyasumi wo Motomete",
+        "id": "in-search-of-the-lost-future-special-4589",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7dd1e56f20a4093168cbbcdfaf5e8e83.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "28m"
+      },
+      {
+        "title": "Air in Summer",
+        "alternativeTitle": "Air in Summer",
+        "id": "air-in-summer-2140",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf01a49e3ed995e9492743b1099b762f.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "New Fist of the North Star",
+        "alternativeTitle": "Shin Hokuto no Ken",
+        "id": "new-fist-of-the-north-star-3692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1204df29e633eefc5ac33b2091a93036.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "58m"
+      },
+      {
+        "title": "Macross: Do You Remember Love?",
+        "alternativeTitle": "Macross: Do You Remember Love?",
+        "id": "macross-do-you-remember-love-574",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd2d93aed469c5b353943fc140d12535.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Royal Space Force: The Wings of Honneamise",
+        "alternativeTitle": "Ouritsu Uchuugun: Honneamise no Tsubasa",
+        "id": "royal-space-force-the-wings-of-honneamise-1470",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cb3caac9cab00364a04def51d095c8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "121m"
+      },
+      {
+        "title": "[RAW] Tottemo! Luckyman",
+        "alternativeTitle": "[RAW] Tottemo! Luckyman",
+        "id": "tottemo-luckyman-4035",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ec4825a1516c2c0f4feebbdb29c2bf9.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Goku: Midnight Eye",
+        "alternativeTitle": "Midnight Eye: Gokuu",
+        "id": "goku-midnight-eye-5890",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be1a75146d8ac872fa2125903b4d36da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Welcome to THE SPACE SHOW",
+        "alternativeTitle": "Uchuu Show e Youkoso",
+        "id": "welcome-to-the-space-show-2022",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/651b1678e122599c3f0af02dd9bfbd22.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "136m"
+      },
+      {
+        "title": "[RAW] Perman (1983)",
+        "alternativeTitle": "[RAW] Perman (1983)",
+        "id": "raw-perman-1983-6124",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/536a68fc7e32a29fb6e8e06bc2d2a0b6.jpg",
+        "episodes": {
+          "sub": 526,
+          "dub": 0,
+          "eps": 526
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Himawari!",
+        "alternativeTitle": "Himawari!",
+        "id": "himawari-6518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd394569869fd7977e09b3ca74137c83.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "City Hunter Movie: Shinjuku Private Eyes",
+        "alternativeTitle": "City Hunter Movie: Shinjuku Private Eyes",
+        "id": "city-hunter-movie-shinjuku-private-eyes-1806",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81485dba87c4b7c4687c2d28bd940aa3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "El Hazard: The Magnificent World",
+        "alternativeTitle": "El Hazard: The Magnificent World",
+        "id": "el-hazard-the-magnificent-world-2211",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45480ca725669feba4baedb3f6b76a63.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "Yowamushi Pedal Movie",
+        "alternativeTitle": "Yowamushi Pedal Movie",
+        "id": "yowamushi-pedal-movie-1254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f22b9b7cc68712ea05ebff319a0adbf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "A.D. Police: To Protect and Serve",
+        "alternativeTitle": "A.D. Police (TV)",
+        "id": "ad-police-to-protect-and-serve-7925",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc72809f46dcabd6d39c82ee1bf0e4fc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Re:Zero kara Hajimeru Break Time 2nd Season",
+        "alternativeTitle": "Re:Zero kara Hajimeru Break Time 2nd Season",
+        "id": "rezero-kara-hajimeru-break-time-2nd-season-3473",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15694cb07903bf3d36416d149ae0a93e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Girls & Panzer OVAs",
+        "alternativeTitle": "Girls & Panzer Specials",
+        "id": "girls-panzer-ovas-2802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abd042a01f924ef046dc2131779ec1a5.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Hirogaru Sky! Precure",
+        "alternativeTitle": "Hirogaru Sky! Precure",
+        "id": "hirogaru-sky-precure-18320",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/efe14cc95072a24d780ea717b467019b.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki",
+        "alternativeTitle": "Mayonaka no Occult Koumuin: Hitoribocchi no Kyuuketsuki",
+        "id": "mayonaka-no-occult-koumuin-hitoribocchi-no-kyuuketsuki-2986",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4837a6358f48608f8b0ce53041350e36.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      }
+    ]
+  }
+}

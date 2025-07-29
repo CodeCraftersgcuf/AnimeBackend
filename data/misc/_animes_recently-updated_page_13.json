@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 13,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Fabulous Beasts 4th Season",
+        "alternativeTitle": "You Shou Yan 4th Season",
+        "id": "fabulous-beasts-4th-season-19292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96ba879453a14d50a34a0ec5c777ebac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Kengan Ashura 2nd Season Part 2",
+        "alternativeTitle": "Kengan Ashura Season 2 Part 2",
+        "id": "kengan-ashura-2nd-season-part-2-19201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/934e7dd1ef1a07c7e9f0fe6f6cd6c3a1.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Suicide Squad Isekai",
+        "alternativeTitle": "Isekai Suicide Squad",
+        "id": "suicide-squad-isekai-19252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a90d4bb1543a6c1721e3d239e4733139.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Super Dragon Ball Heroes: Meteor Mission",
+        "alternativeTitle": "Super Dragon Ball Heroes: Meteor Mission",
+        "id": "super-dragon-ball-heroes-meteor-mission-19175",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68df6394d94c6adebbde70fa64a892d4.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Helck",
+        "alternativeTitle": "Helck",
+        "id": "helck-18475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f4f957a60e872f6bcc6b9708ea2ba7a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime Season 03: Specials",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken 3rd Season Specials",
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-03-specials-19148",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0838906a5913c8f3605c502d378849f7.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 1,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Rising Impact Season 2",
+        "alternativeTitle": "Rising Impact Season 2",
+        "id": "rising-impact-season-2-19300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd0f5500787d8d76d15458f802d457df.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "ONA",
+        "duration": "26m"
+      },
+      {
+        "title": "Kimi ni Todoke: From Me to You Season 3",
+        "alternativeTitle": "Kimi ni Todoke 3rd Season",
+        "id": "kimi-ni-todoke-from-me-to-you-season-3-19203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e975691eb7ff907eb3d110e2bc466b3.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "66m"
+      },
+      {
+        "title": "Immortality 3rd Season",
+        "alternativeTitle": "Yong Sheng: Qizhuang Shanhe",
+        "id": "immortality-3rd-season-19158",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/189def631980d421ed9f25e2ece65290.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Villain Initialization",
+        "alternativeTitle": "Fanpai Chushihua",
+        "id": "villain-initialization-19155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddee73fd50cff33c640c0eabd06bf560.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "The Misfit of Demon King Academy II Part 2",
+        "alternativeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
+        "id": "the-misfit-of-demon-king-academy-ii-part-2-17681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/caa49e4e64bafcc49b176f973228f175.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Island of Siliang 2nd Season",
+        "alternativeTitle": "Juan Siliang 2nd Season",
+        "id": "the-island-of-siliang-2nd-season-19177",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0522046e2ce8be7098f826628607563d.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Time-Patrol Bon 2nd Season",
+        "alternativeTitle": "T.P BON Season 2",
+        "id": "time-patrol-bon-2nd-season-19263",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e669705ab6d1d49cb365d8c548dc84b4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "27m"
+      },
+      {
+        "title": "Kinnikuman: Perfect Origin Arc Episode 0",
+        "alternativeTitle": "Kinnikuman: Kanpeki Chоujin Shiso-hen Episode 0",
+        "id": "kinnikuman-perfect-origin-arc-episode-0-19260",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb7fe3b9958e446c1791ec1b5ce37515.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Nyaaaanvy",
+        "alternativeTitle": "Nyaaaanvy",
+        "id": "nyaaaanvy-19172",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25b9d720d072eae78c73b9fe8a60ebc5.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Dragon Prince Yuan",
+        "alternativeTitle": "Yuan Zun",
+        "id": "dragon-prince-yuan-19174",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb6f61a1b09729347e6c10e76fa1bb34.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Oblivion Battery",
+        "alternativeTitle": "Boukyaku Battery (TV)",
+        "id": "oblivion-battery-19103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5979976bedce7d9ad42771296a411ea.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+        "alternativeTitle": "Kimetsu no Yaiba: Hashira Geiko-hen",
+        "id": "demon-slayer-kimetsu-no-yaiba-hashira-training-arc-19107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f06eb0baf5520aa639b546fc189400d.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+        "alternativeTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+        "id": "mushoku-tensei-jobless-reincarnation-season-2-part-2-19147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a0da3af056880ef24fe6c866078b96.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sound! Euphonium 3",
+        "alternativeTitle": "Hibike! Euphonium 3",
+        "id": "sound-euphonium-3-15728",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b754e41063fd71da3397e13e0c1a3f2a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Go! Go! Loser Ranger!",
+        "alternativeTitle": "Sentai Daishikkaku",
+        "id": "go-go-loser-ranger-19139",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fcf4a4bfda6a6a5f63377beebe56041.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Captain Tsubasa Season 2: Junior Youth-hen",
+        "alternativeTitle": "Captain Tsubasa Season 2: Junior Youth-hen",
+        "id": "captain-tsubasa-season-2-junior-youth-hen-18571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcf6309921b0b1389c7f62c3876ef2e2.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Tonari no Youkai-san",
+        "alternativeTitle": "Tonari no Youkai-san",
+        "id": "tonari-no-youkai-san-19100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6469db54893c32fc2cacaf338d5b69.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The New Gate",
+        "alternativeTitle": "The New Gate",
+        "id": "the-new-gate-19122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e12209bde810deb434f0325b945a886f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Kaiju No. 8",
+        "alternativeTitle": "Kaijuu 8-gou",
+        "id": "kaiju-no-8-19145",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edfc7fe935b6eac2d704cf5b0a60e356.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hey! Tonbo",
+        "alternativeTitle": "Ooi! Tonbo",
+        "id": "hey-tonbo-19098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21c48a748f0ca4739b991d4d78976104.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Girls Band Cry",
+        "alternativeTitle": "Girls Band Cry",
+        "id": "girls-band-cry-19115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ee4fe82e35f214e5676bcf22d5d64d6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Irregular at Magic High School Season 3",
+        "alternativeTitle": "Mahouka Koukou no Rettousei 3rd Season",
+        "id": "the-irregular-at-magic-high-school-season-3-19142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c88b9a228d9bfda84fba5795ec2cd593.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wind Breaker",
+        "alternativeTitle": "Wind Breaker",
+        "id": "wind-breaker-19136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9bb23228e5a641b5a3e9386382dae3a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Viral Hit",
+        "alternativeTitle": "Kenka Dokugaku",
+        "id": "viral-hit-19114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edf74a5bdd04e0764cb71390f83857ad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Date A Live V",
+        "alternativeTitle": "Date A Live V",
+        "id": "date-a-live-v-19144",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/987156345df524528ff0001d350c407e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mysterious Disappearances",
+        "alternativeTitle": "Kaii to Otome to Kamikakushi",
+        "id": "mysterious-disappearances-19126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7cf93a1492ba1cb5d8c76af676267a18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Many Sides of Voice Actor Radio",
+        "alternativeTitle": "Seiyuu Radio no Uraomote",
+        "id": "the-many-sides-of-voice-actor-radio-19121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a165e967ca566b006c06422df6f99b1f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Golden Wug",
+        "alternativeTitle": "Jin Can Wangshi",
+        "id": "the-golden-wug-19198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/533669c76c28f93cc2449592f17d0135.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Rinkai!",
+        "alternativeTitle": "Rinkai!",
+        "id": "rinkai-19099",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1560d4b1ef634047532c60c9821e0e04.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Unnamed Memory",
+        "alternativeTitle": "Unnamed Memory",
+        "id": "unnamed-memory-19135",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9083491750ce69aae1a916304b4cf3ce.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tadaima, Okaeri",
+        "alternativeTitle": "Tadaima, Okaeri",
+        "id": "tadaima-okaeri-19116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78e485190f9da2d4502da66890e9ff89.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Tsukimichi -Moonlit Fantasy- Season 2",
+        "alternativeTitle": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+        "id": "tsukimichi-moonlit-fantasy-season-2-18877",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74738a6fa2c6303f2da0603d58c67671.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chillin' in Another World with Level 2 Super Cheat Powers",
+        "alternativeTitle": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+        "id": "chillin-in-another-world-with-level-2-super-cheat-powers-19129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a44d4ba0c5b352daf2f7916383d132f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Train to the End of the World",
+        "alternativeTitle": "Shuumatsu Train Doko e Iku?",
+        "id": "train-to-the-end-of-the-world-19106",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c322c791493b191eb77e6a25df2fb000.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

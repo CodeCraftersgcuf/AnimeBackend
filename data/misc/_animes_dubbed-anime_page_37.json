@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 37,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Citrus",
+        "alternativeTitle": "Citrus",
+        "id": "citrus-5651",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfb5d396d17c1935fe491764285fb702.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Birthday Wonderland",
+        "alternativeTitle": "Birthday Wonderland",
+        "id": "birthday-wonderland-5645",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba8b5e75c41b31eefd5d1f6ca7b2558f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Upotte!!: Miatte Waratte",
+        "alternativeTitle": "Upotte!!: Miatte Waratte",
+        "id": "upotte-miatte-waratte-5642",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45e4931a226d86efc34c8d7d408b8881.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou",
+        "alternativeTitle": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou",
+        "id": "project-a-ko-2-daitokuji-zaibatsu-no-inbou-5634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c119b940ddf54c36488b8c864b69da43.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "Space Battleship Tiramisu Zwei",
+        "alternativeTitle": "Uchuu Senkan Tiramisù II",
+        "id": "space-battleship-tiramisu-zwei-5627",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebe8b471dc7df7675d672b8b2cdb8583.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Pucca",
+        "alternativeTitle": "Pucca",
+        "id": "pucca-5616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18a0a0343b1935bf22465b877b9ca7fb.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokemon the Movie 18: Hoopa and the Clash of Ages",
+        "alternativeTitle": "Pokemon Movie 18: Ring no Choumajin Hoopa",
+        "id": "pokemon-the-movie-18-hoopa-and-the-clash-of-ages-5614",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/496ae1464babbcb9eea295390df74920.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "78m"
+      },
+      {
+        "title": "A Tree of Palme",
+        "alternativeTitle": "Palme no Ki",
+        "id": "a-tree-of-palme-5611",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fef846766d6936a50025f76af3a8205.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "136m"
+      },
+      {
+        "title": "Nyoron! Churuya-san",
+        "alternativeTitle": "Nyoro-n Churuya-san",
+        "id": "nyoron-churuya-san-5605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e29869a6f0aaf73c74646e9b498c3cee.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Dirty Pair Flash 3",
+        "alternativeTitle": "Dirty Pair Flash 3",
+        "id": "dirty-pair-flash-3-5589",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e32d4efde0cd631600813f9f970fc67c.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Comic Party Revolution",
+        "alternativeTitle": "Comic Party Revolution",
+        "id": "comic-party-revolution-5587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f8992c26e9915ec3a3d32e119f1c966.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Assault Lily: Bouquet",
+        "alternativeTitle": "Assault Lily: Bouquet",
+        "id": "assault-lily-bouquet-5584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2c7026dc8e4d63f3453091ba893caa0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arc the Lad",
+        "alternativeTitle": "Arc the Lad",
+        "id": "arc-the-lad-5583",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c7f3bfc9e63f7c58d10eea3d0dacc15.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Koukaku Kidoutai Arise: Another Mission",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Another Mission",
+        "id": "koukaku-kidoutai-arise-another-mission-5576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4764820d3010197c80bd2cd96bec96b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Bubblegum Crash",
+        "alternativeTitle": "Bubblegum Crash",
+        "id": "bubblegum-crash-5562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9cb2fe82679097fc6351a34a74088c6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "All Purpose Cultural Cat Girl Nuku Nuku TV",
+        "alternativeTitle": "Bannou Bunka Neko-Musume (1998)",
+        "id": "all-purpose-cultural-cat-girl-nuku-nuku-tv-5561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53b00b70b80b7d7f0280c87cdd9b2cff.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sorcerer Hunters",
+        "alternativeTitle": "Bakuretsu Hunters OVA",
+        "id": "sorcerer-hunters-5560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b50e8e6fc29874c9170b1e4e1e534d67.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+        "alternativeTitle": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+        "id": "akuma-no-riddle-shousha-wa-dare-nukiuchi-test-5557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2988f3548fef2ec5c6a028c6313164cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Absolute Duo",
+        "alternativeTitle": "Absolute Duo",
+        "id": "absolute-duo-5554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a681ad2af60271bd3b1ae544b5b14265.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "009 Re:Cyborg",
+        "alternativeTitle": "009 Re:Cyborg",
+        "id": "009-recyborg-5553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/451a9596347aa509f80116c06b542ae9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "103m"
+      },
+      {
+        "title": "Pokemon: Pichu Bros. in Party Panic",
+        "alternativeTitle": "Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+        "id": "pokemon-pichu-bros-in-party-panic-5537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/129a2cef089472eb858b233c8636010f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "58m"
+      },
+      {
+        "title": "Gonna be the Twin-Tail!!",
+        "alternativeTitle": "Ore, Twintail ni Narimasu.",
+        "id": "gonna-be-the-twin-tail-5534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1fe0a4e1e50d3433a5e700020fbac08.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Street Fighter Alpha: The Movie",
+        "alternativeTitle": "Street Fighter Zero The Animation",
+        "id": "street-fighter-alpha-the-movie-5520",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/554b157f3a6e0e332ff8f7a6919b6c10.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Dragonar Academy",
+        "alternativeTitle": "Seikoku no Dragonar",
+        "id": "dragonar-academy-5515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34383ccdd826863738142948befb58f7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wise Man's Grandchild",
+        "alternativeTitle": "Kenja no Mago",
+        "id": "wise-mans-grandchild-5498",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a2e9879369831e1e84d17f6000137c9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Juni Taisen: Zodiac War",
+        "alternativeTitle": "Juuni Taisen",
+        "id": "juni-taisen-zodiac-war-5497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3a593e6d1c537b7e9cdb9da45fa3747.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Godzilla: Planet of the Monsters",
+        "alternativeTitle": "Godzilla 1: Kaijuu Wakusei",
+        "id": "godzilla-planet-of-the-monsters-5490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f885becac325ce98fc0751c269a3d151.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Fuuka",
+        "alternativeTitle": "Fuuka",
+        "id": "fuuka-5488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c5f8cd67a04b94152ea63ca9e302a29.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Legend of the Legendary Heroes: Iris Report",
+        "alternativeTitle": "Densetsu no Yuusha no Densetsu: Iris Report",
+        "id": "the-legend-of-the-legendary-heroes-iris-report-5483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/418c9c4b42267bab6b90c68e874d1888.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Cosmo Warrior Zero",
+        "alternativeTitle": "Cosmo Warrior Zero",
+        "id": "cosmo-warrior-zero-5480",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/347944decdb9b0b64669248bfe68ba9c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Burn Up Excess",
+        "alternativeTitle": "Burn Up Excess",
+        "id": "burn-up-excess-5475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78977532fa2e2935afbdcba09bb682a9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Cyber Team in Akihabara",
+        "alternativeTitle": "Akihabara Dennou-gumi",
+        "id": "cyber-team-in-akihabara-5474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cccac518b335bd86a6c0fdaa6038126a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Linebarrels of Iron",
+        "alternativeTitle": "Kurogane no Linebarrels Specials",
+        "id": "linebarrels-of-iron-5469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4df394bfebfdab45238b3299a6a00fe.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Gun Frontier",
+        "alternativeTitle": "Gun Frontier",
+        "id": "gun-frontier-5464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c19b1d04d7f39a2e2bae1b410f5c441.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

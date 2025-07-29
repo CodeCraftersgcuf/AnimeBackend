@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 88,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Fafner of the Blue Sky",
+        "alternativeTitle": "Soukyuu no Fafner: Dead Aggressor",
+        "id": "fafner-of-the-blue-sky-2360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cb6013abd601ce23a0bf547e0102f60.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Solo Leveling Season 2: Arise from the Shadow",
+        "alternativeTitle": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+        "id": "solo-leveling-season-2-arise-from-the-shadow-19413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65f92e6e315a931ef872da4b312442b8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Searching For The Immortals",
+        "alternativeTitle": "Xian Ji Xun Zong",
+        "id": "searching-for-the-immortals-19664",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff256b2473f53efdb5996e5d92e99bfa.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Kurogane Communication",
+        "alternativeTitle": "Kurogane Communication",
+        "id": "kurogane-communication-4996",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad1a72b22ccb06546940df19ada36455.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Hyper Police",
+        "alternativeTitle": "Hyper Police",
+        "id": "hyper-police-3796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4dfdd0d2394a3f2e2cf884555d13a8e0.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Idol Fighter Su-Chi-Pai",
+        "alternativeTitle": "Idol Fight Suchie-Pai 2",
+        "id": "idol-fighter-su-chi-pai-10600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/504dc8e960fd7fd7bcbc85ab787723d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Tiger Crane",
+        "alternativeTitle": "Hu He Yao Shi Lu",
+        "id": "tiger-crane-19668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bac9518af4ade8e8d3ad0a494ff98f5e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Ice",
+        "alternativeTitle": "Ice",
+        "id": "ice-9663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5266d1b726c1cc9125540a4795c6fb2d.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Shin Hakkenden",
+        "alternativeTitle": "Shin Hakkenden",
+        "id": "shin-hakkenden-2843",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3375461532d77802df72d04a606d9e12.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fire Emblem",
+        "alternativeTitle": "Fire Emblem",
+        "id": "fire-emblem-8989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95e7773a4dc76e65ad6ffb1dbd44e2e1.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Galaxy Fraulein Yuna",
+        "alternativeTitle": "Ginga Ojousama Densetsu Yuna: Kanashimi no Siren",
+        "id": "galaxy-fraulein-yuna-7802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1c8e320d343591cc57d0b1e5306e26e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Galaxy Fraulein Yuna Returns",
+        "alternativeTitle": "Ginga Ojousama Densetsu Yuna: Shin'en no Fairy",
+        "id": "galaxy-fraulein-yuna-returns-7282",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4160aea0ab4ab8eb3e1ce7e6eb4e3f5e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "31m"
+      },
+      {
+        "title": "Martial Universe 5th Season",
+        "alternativeTitle": "Wu Dong Qian Kun 5th Season",
+        "id": "martial-universe-5th-season-19670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/362e9973278195904045f8821ae057bf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+        "alternativeTitle": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+        "id": "aldnoahzero-ame-no-danshou-the-penultimate-truth-19672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b428fd90db23f8b71558cdfd651354b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece Egghead Arc Recap",
+        "alternativeTitle": "One Piece Egghead Arc Recap",
+        "id": "one-piece-egghead-arc-recap-19673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07b6c5a73ca9444b153faca33ba25275.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "80m"
+      },
+      {
+        "title": "One Piece: The Log of the Rivalry! The Straw Hats vs. Cipher Pol",
+        "alternativeTitle": "One Piece: Innen no Log! Mugiwara no Ichimi to Cipher Pol",
+        "id": "one-piece-the-log-of-the-rivalry-the-straw-hats-vs-cipher-pol-19676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5627cb205cdf2959cc59314b3a18b42.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Making History! The Turbulent Old and New Four Emperors!",
+        "alternativeTitle": "One Piece: Kizamareru Rekishi! Gekidou no Shinkyuu Yonkou!",
+        "id": "one-piece-making-history-the-turbulent-old-and-new-four-emperors-19677",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d33097bcac119e6f740e3895059d0c74.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Unwavering Justice! The Navy's Proud Log!",
+        "alternativeTitle": "One Piece: Yuruganu Seigi! Kaigun no Hokoritakaki Log!",
+        "id": "one-piece-unwavering-justice-the-navys-proud-log-19674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83104ddcf71cb4ef8be9289d041b8d6b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Rakshasa Street 4th Season",
+        "alternativeTitle": "Zhen Hun Jie 4th Season",
+        "id": "rakshasa-street-4th-season-19411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a6b0e741761ae158e6d970f44cbd0fd.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "One Piece: Recapping Fierce Fights! The Countercharge Alliance vs. Big Mom",
+        "alternativeTitle": "One Piece: Dai Gekisen Tokushuu! Hangeki Doumei vs. Big Mom",
+        "id": "one-piece-recapping-fierce-fights-the-countercharge-alliance-vs-big-mom-19683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a30a09db1d100f1dd710c3e5fac4e93.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Recapping Fierce Fights! Zoro vs. a Lead Performer!",
+        "alternativeTitle": "One Piece: Dai Gekisen Tokushuu! Zoro vs. Ookanban!",
+        "id": "one-piece-recapping-fierce-fights-zoro-vs-a-lead-performer-19682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c508d9a80fc99a46264ae1cb37f9ce4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: A Project to Fully Enjoy! `Surgeon of Death` Trafalgar Law",
+        "alternativeTitle": "One Piece: Dai Tannou Kikaku! \"Shi no Gekai\" Trafalgar Law",
+        "id": "one-piece-a-project-to-fully-enjoy-surgeon-of-death-trafalgar-law-19686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8a83e302e8412083a0aa17124bc287e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Heavenly Brick Hero",
+        "alternativeTitle": "Tianting Ban Zhuan Xia",
+        "id": "heavenly-brick-hero-19395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46897a140eb4e45ba9fd5f75a1d9b2e6.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "King of Thorn",
+        "alternativeTitle": "Ibara no Ou",
+        "id": "king-of-thorn-3523",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19f0b9125f5d2701f0b8f7e1524b97ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Knights of Sidonia: Battle for Planet Nine",
+        "alternativeTitle": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+        "id": "knights-of-sidonia-battle-for-planet-nine-836",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7bb06f597d81afc91b33a93d443ab4e3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Legend of Lemnear",
+        "alternativeTitle": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas",
+        "id": "legend-of-lemnear-9263",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9a2d35791356c9b3151522563d2584b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "42m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-is-it-wrong-to-expect-a-hot-spring-in-a-dungeon-3152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d41439ca9f294d934718b555f9804f82.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Dogs: Bullets & Carnage",
+        "alternativeTitle": "Dogs: Bullets & Carnage",
+        "id": "dogs-bullets-carnage-2116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d2bb313b6763b0fa1ed368741c92f46.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "15m"
+      },
+      {
+        "title": "Eden of The East the Movie II: Paradise Lost",
+        "alternativeTitle": "Higashi no Eden Movie II: Paradise Lost",
+        "id": "eden-of-the-east-the-movie-ii-paradise-lost-1171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2463fd8946a30e22f1af95fcb264955.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Code Geass: Akito the Exiled - To Beloved Ones",
+        "alternativeTitle": "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e",
+        "id": "code-geass-akito-the-exiled-to-beloved-ones-2869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4489400a9e3cd986299f0f12cec3055.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Code Geass: Akito the Exiled - Memories of Hatred",
+        "alternativeTitle": "Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara",
+        "id": "code-geass-akito-the-exiled-memories-of-hatred-2317",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/403ed27d25ab6b39b5c4daa90cb25756.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Code Geass: Akito the Exiled - The Brightness Falls",
+        "alternativeTitle": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+        "id": "code-geass-akito-the-exiled-the-brightness-falls-2054",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0d77c4f497e082b34075ea8731dec3a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Code Geass: Akito the Exiled - The Wyvern Arrives",
+        "alternativeTitle": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+        "id": "code-geass-akito-the-exiled-the-wyvern-arrives-1808",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b32969a557d21e260054af609ed1058.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "51m"
+      },
+      {
+        "title": "Code Geass: Akito the Exiled - The Wyvern Divided",
+        "alternativeTitle": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu",
+        "id": "code-geass-akito-the-exiled-the-wyvern-divided-1369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/246c1ab517bf522576cfcbe1997900f7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 48,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Suzume’s Door-Locking",
+        "alternativeTitle": "Suzume no Tojimari",
+        "id": "suzumes-doorlocking-18190",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88d7186ebed8856c731b2dd132aaf68a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "Immortality 2nd Season",
+        "alternativeTitle": "Yong Sheng: Shi Nian Zhi Yue",
+        "id": "immortality-2nd-season-18446",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7f51a661342def87375810673088104.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Clannad ~After Story~",
+        "alternativeTitle": "Clannad: After Story",
+        "id": "clannad-after-story-15",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04e65044c0d9637367efe0cddf7dd205.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Welcome to the Ballroom",
+        "alternativeTitle": "Ballroom e Youkoso",
+        "id": "welcome-to-the-ballroom-271",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a418abdd21dea35df0bd2f03d1f9e2e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gundam Build Fighters",
+        "alternativeTitle": "Gundam Build Fighters",
+        "id": "gundam-build-fighters-783",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfba9def2c026a35ccf322b2cd5c91b0.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "∀ Gundam",
+        "alternativeTitle": "Turn A Gundam",
+        "id": "gundam-1039",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/913831d50456f316b3f4865794f60f9b.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo",
+        "alternativeTitle": "City Hunter: Kinkyuu Namachuukei!? Kyouakuhan Saeba Ryou no Saigo",
+        "id": "city-hunter-kinkyuu-namachuukei-kyouakuhan-saeba-ryou-no-saigo-1807",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c34115aa591e3d7f2d6425bc3994f4e4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "91m"
+      },
+      {
+        "title": "Gintama: Monster Strike-hen",
+        "alternativeTitle": "Gintama: Monster Strike-hen",
+        "id": "gintama-monster-strike-hen-2063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76bda540971cef5895acf56bc3e77ecf.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Digimon Adventure 02: Revenge of Diaboromon",
+        "alternativeTitle": "Digimon Adventure 02: Diablomon no Gyakushuu",
+        "id": "digimon-adventure-02-revenge-of-diaboromon-2319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1527d95ebd8f958f4dbb814da462349c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "Ceres, Celestial Legend",
+        "alternativeTitle": "Ayashi no Ceres",
+        "id": "ceres-celestial-legend-2575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc7d1cf0c636cdc3e6bba492a9698671.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "Rune Soldier",
+        "alternativeTitle": "Mahou Senshi Louie",
+        "id": "rune-soldier-2831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fccb719fe20085bc5d9033da4faa03b2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Magical Stage Fancy Lala",
+        "alternativeTitle": "Mahou no Stage Fancy Lala",
+        "id": "magical-stage-fancy-lala-3087",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9291effbdf5ebb2aa79d2ce242cb0b4a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Emma: A Victorian Romance - Intermission",
+        "alternativeTitle": "Eikoku Koi Monogatari Emma: Intermission",
+        "id": "emma-a-victorian-romance-intermission-3343",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162dfe995bcdce98ea06794bfc076ffa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Indian Summer",
+        "alternativeTitle": "Koharu Biyori",
+        "id": "indian-summer-5135",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11247b5e872e468981248083c1996cc2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Jack and the Beanstalk",
+        "alternativeTitle": "Jack to Mame no Ki",
+        "id": "jack-and-the-beanstalk-6159",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3c9776ce21e7193798cf627f9f03657.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Space Battleship Tiramisu",
+        "alternativeTitle": "Uchuu Senkan Tiramisù",
+        "id": "space-battleship-tiramisu-6415",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1862ff4935570d8af9c856177afad3eb.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Ground Defense Force! Mao-chan",
+        "alternativeTitle": "Rikujou Bouei-tai Mao-chan",
+        "id": "ground-defense-force-mao-chan-6671",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d31e66333e199d735fa117f8057f4ec3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Idol Angel Welcome Yoko",
+        "alternativeTitle": "Idol Tenshi Youkoso Youko",
+        "id": "idol-angel-welcome-yoko-6927",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86fb7cb0ef3e200394df04d74d360bee.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season",
+        "alternativeTitle": "Kaijuu Girls: Ultra Kaijuu Gijinka Keikaku 2nd Season",
+        "id": "kaijuu-girls-ultra-kaijuu-gijinka-keikaku-2nd-season-7439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/679c4b8e876c30138aacb4d71b5a57a0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Cardfight!! Vanguard Gaiden: If",
+        "alternativeTitle": "Cardfight!! Vanguard Gaiden: If",
+        "id": "cardfight-vanguard-gaiden-if-7951",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca8fa6d51358b0975a75c75bd6c74907.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Judo Sanka",
+        "alternativeTitle": "[RAW] Judo Sanka",
+        "id": "judo-sanka-14351",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/601fcbd2733ae4cc002bb0ea25055249.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 0,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "My Teen Romantic Comedy SNAFU Climax! OVA",
+        "alternativeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA",
+        "id": "my-teen-romantic-comedy-snafu-climax-ova-17423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d91f1e40166ccaf5a163843c1ac7ee5f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Kitarou Tanjou: Gegege no Nazo",
+        "alternativeTitle": "Kitarou Tanjou: Gegege no Nazo",
+        "id": "kitarou-tanjou-gegege-no-nazo-17679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c01dfabfd02d3c9790b99f6a90ee7bf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Zhen Dao Ge Specials",
+        "alternativeTitle": "Zhen Dao Ge: Tebie Pian",
+        "id": "zhen-dao-ge-specials-18703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/866e140462616e70afb416b875f275a7.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Owarimonogatari Second Season",
+        "alternativeTitle": "Owarimonogatari 2nd Season",
+        "id": "owarimonogatari-second-season-16",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd6209d6f7a4c36fa0a6c7504102a309.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Ace of Diamond Act II",
+        "alternativeTitle": "Diamond no Ace: Act II",
+        "id": "ace-of-diamond-act-ii-272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e3a94911133e0ca7a803fd6630a1e5f.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Carole & Tuesday",
+        "alternativeTitle": "Carole & Tuesday",
+        "id": "carole-tuesday-528",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ddac3b17fd5d8847edb95a608a0d554.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Junjo Romantica 3",
+        "alternativeTitle": "Junjou Romantica 3",
+        "id": "junjo-romantica-3-784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/444133bb9f51d80019b0aec5a8bbc428.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Urusei Yatsura",
+        "alternativeTitle": "Urusei Yatsura",
+        "id": "urusei-yatsura-1040",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d61aecaa9ce183a784b2382f62151eb.jpg",
+        "episodes": {
+          "sub": 195,
+          "dub": 0,
+          "eps": 195
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Re:CREATORS",
+        "alternativeTitle": "Re:Creators",
+        "id": "recreators-1296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2adb0c3af7a233b2d569ce8a85184987.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gabriel DropOut",
+        "alternativeTitle": "Gabriel DropOut",
+        "id": "gabriel-dropout-1552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f6082f719cd12aca86cb52a92338241.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Code Geass: Akito the Exiled - The Wyvern Arrives",
+        "alternativeTitle": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
+        "id": "code-geass-akito-the-exiled-the-wyvern-arrives-1808",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b32969a557d21e260054af609ed1058.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "51m"
+      },
+      {
+        "title": "GJ Club",
+        "alternativeTitle": "GJ-bu",
+        "id": "gj-club-2064",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d477defb5b40e1b4b24a8353c7bb1306.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sorcerer Stabber Orphen",
+        "alternativeTitle": "Majutsushi Orphen",
+        "id": "sorcerer-stabber-orphen-2832",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8147734cb12eb8b48f9bf02c3af983a5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Puella Magi Madoka Magica Concept Movie",
+        "alternativeTitle": "Mahou Shoujo Madoka★Magica: Concept Movie",
+        "id": "puella-magi-madoka-magica-concept-movie-3088",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09aa0f026224fa1cfcdaf90699f92ff9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "4m"
+      },
+      {
+        "title": "Nana: Special Recaps",
+        "alternativeTitle": "Nana Recaps",
+        "id": "nana-special-recaps-3600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb36de7b6a5b578731ea3be75c6f254c.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Stratos 4 Advance Kanketsu-hen",
+        "alternativeTitle": "Stratos 4 Advance Kanketsu-hen",
+        "id": "stratos-4-advance-kanketsu-hen-3856",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98bc40d8d5541025a0eb15a85ea64f40.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Babylon",
+        "alternativeTitle": "Babylon",
+        "id": "babylon-4112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1e8f0f6d20ca692d758da9e651a149f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blood Blockade Battlefront: Even These Are the Worst and Best Days Ever",
+        "alternativeTitle": "Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi",
+        "id": "blood-blockade-battlefront-even-these-are-the-worst-and-best-days-ever-4368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/070d20664ac0bd618a1d54499fd0a5a9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Candy Candy: The Call of Spring",
+        "alternativeTitle": "Candy Candy: Haru no Yobigoe",
+        "id": "candy-candy-the-call-of-spring-5648",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85f55bdda627af2a951d1d22281b3119.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 14,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Eighty Six: 2nd Season",
+        "alternativeTitle": "86: 2nd Season",
+        "id": "eighty-six-2nd-season-17760",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f541027a742b8f7987cff501426207c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Next Life as a Villainess: All Routes Lead to Doom!",
+        "alternativeTitle": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+        "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-1482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a21af89d0231b5e80b73d845f04b0916.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Food Wars! The Third Plate",
+        "alternativeTitle": "Shokugeki no Souma: San no Sara",
+        "id": "food-wars-the-third-plate-295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3c916f408e9755523e5116ffe13c9b0.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Insomniacs After School",
+        "alternativeTitle": "Kimi wa Houkago Insomnia",
+        "id": "insomniacs-after-school-18344",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/202a4c434af567174dc7683de096a96c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Ancient Magus' Bride Season 2",
+        "alternativeTitle": "Mahoutsukai no Yome Season 2",
+        "id": "the-ancient-magus-bride-season-2-18338",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e41a7b0fb1912457ce9f43e037c74eb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable (Uncensored)",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai (Uncensored)",
+        "id": "jojos-bizarre-adventure-part-4-diamond-is-unbreakable-uncensored-89",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/674b068e98b6d409a0999a60b8b15122.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Boarding School Juliet",
+        "alternativeTitle": "Kishuku Gakkou no Juliet",
+        "id": "boarding-school-juliet-1623",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9ec8b100639d17e901c5e9490c96e1c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Whisker Away",
+        "alternativeTitle": "Nakitai Watashi wa Neko wo Kaburu",
+        "id": "a-whisker-away-1772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30d734a5c62ba302c1bf70733408f5e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "High Card",
+        "alternativeTitle": "High Card",
+        "id": "high-card-18313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71e709d703c37be7253caadfd955f8cb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Monthly Girls' Nozaki-kun",
+        "alternativeTitle": "Gekkan Shoujo Nozaki-kun",
+        "id": "monthly-girls-nozaki-kun-530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09bed74b60b8cc7664dbe09b565d72bb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Danganronpa: The Animation",
+        "alternativeTitle": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+        "id": "danganronpa-the-animation-2237",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aeb385697c0be265c2fc42ed4a7c2874.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Date A Live IV",
+        "alternativeTitle": "Date A Live IV",
+        "id": "date-a-live-iv-15683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62affa4ef286bcb7da766591d2a78ad6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Makeine: Too Many Losing Heroines!",
+        "alternativeTitle": "Make Heroine ga Oosugiru!",
+        "id": "makeine-too-many-losing-heroines-19235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e816461264123b3ce4352a540518fb8f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sankarea: Undying Love",
+        "alternativeTitle": "Sankarea",
+        "id": "sankarea-undying-love-1939",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17c60ce5a71362c43a3cfcbd797348ad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Dangers in My Heart Season 2",
+        "alternativeTitle": "Boku no Kokoro no Yabai Yatsu Season 2",
+        "id": "the-dangers-in-my-heart-season-2-18868",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e4a334bce531ac33033253bebdf8259.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "KonoSuba: God's Blessing on This Wonderful World! 3",
+        "alternativeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+        "id": "konosuba-gods-blessing-on-this-wonderful-world-3-19108",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c534bc3db886ec705a2e17fe8e8d0069.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Akudama Drive",
+        "alternativeTitle": "Akudama Drive",
+        "id": "akudama-drive-12846",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fee733a9759ff6ee4e27aea8af1db9fe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "K-ON!",
+        "alternativeTitle": "K-On!",
+        "id": "k-on-742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6553154da420862885081f9f7f8db1c2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ishura",
+        "alternativeTitle": "Ishura",
+        "id": "ishura-18817",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa6b91de5d6f22f992ae115507740546.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blue Exorcist: Kyoto Saga",
+        "alternativeTitle": "Ao no Exorcist: Kyoto Fujouou-hen",
+        "id": "blue-exorcist-kyoto-saga-1628",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c67b220676a2273832fcfe4bbde55c2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kiznaiver",
+        "alternativeTitle": "Kiznaiver",
+        "id": "kiznaiver-1701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91df960552e6bf8ba75129145300ebd6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Great Pretender",
+        "alternativeTitle": "Great Pretender",
+        "id": "great-pretender-152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9ab7b3afdc4ada50338caf28409c8e2.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "School Babysitters",
+        "alternativeTitle": "Gakuen Babysitters",
+        "id": "school-babysitters-767",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57472564bc89ac328456b2969d8dcc7e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+        "alternativeTitle": "Fantasy Bishoujo Juniku Ojisan to",
+        "id": "life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-17934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5984b825a46f169f7287eabf9dc35035.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Redo of Healer",
+        "alternativeTitle": "Kaifuku Jutsushi no Yarinaoshi",
+        "id": "redo-of-healer-15754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79e4b6cfe769c487fdcccd33e9cd160f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Serial Experiments Lain",
+        "alternativeTitle": "Serial Experiments Lain",
+        "id": "serial-experiments-lain-503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6369d73882594ca5f30861f74a2b8e9b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+        "alternativeTitle": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+        "id": "ive-been-killing-slimes-for-300-years-and-maxed-out-my-level-15557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d75b2c818c650c8ff1468a5017c4e5e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Haven't You Heard? I'm Sakamoto",
+        "alternativeTitle": "Sakamoto Desu ga?",
+        "id": "havent-you-heard-im-sakamoto-1247",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb452e2c2d93e810a555b293c996b587.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Harem in a Fantasy World Labyrinth",
+        "alternativeTitle": "Isekai Meikyuu de Harem wo",
+        "id": "a-harem-in-a-fantasy-world-labyrinth-17403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9553d7b03b7e61849fb20faccca10543.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Maid I Hired Recently Is Mysterious",
+        "alternativeTitle": "Saikin Yatotta Maid ga Ayashii",
+        "id": "the-maid-i-hired-recently-is-mysterious-18085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d1009385741aae5e9de68f2e9349040.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yuri!!! On ICE",
+        "alternativeTitle": "Yuri!!! on Ice",
+        "id": "yuri-on-ice-615",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e54652d267c7a3c19023ee302e4b9dab.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Light of a Firefly Forest",
+        "alternativeTitle": "Hotarubi no Mori e",
+        "id": "the-light-of-a-firefly-forest-140",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a6e14612d84ea7f614084eb9bd8c254.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Undefeated Bahamut Chronicle",
+        "alternativeTitle": "Saijaku Muhai no Bahamut",
+        "id": "undefeated-bahamut-chronicle-5049",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf8dfb68daa8c2ba626adcc0069f1d3b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dan Da Dan",
+        "alternativeTitle": "Dandadan",
+        "id": "dan-da-dan-19319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8b56a7589ff9edb6c86977c31e27a06.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Witch and the Beast",
+        "alternativeTitle": "Majo to Yajuu",
+        "id": "the-witch-and-the-beast-18850",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5b5f94c61005c1969923a9676d092ad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Dungeon of Black Company",
+        "alternativeTitle": "Meikyuu Black Company",
+        "id": "the-dungeon-of-black-company-15801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4ed02683ab2d8936ded597a7c698c0f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hellsing Ultimate",
+        "alternativeTitle": "Hellsing Ultimate",
+        "id": "hellsing-ultimate-133",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05d81a6f6ea447f6ab6e22a11b9cf679.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "One Piece Film: Red",
+        "alternativeTitle": "One Piece Film: Red",
+        "id": "one-piece-film-red-18236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1e98b07e290cd9653b41a895342a377.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+        "alternativeTitle": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+        "id": "the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-18286",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a76ca9cc2d90461344e8ba4cc5826258.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sword Art Online: Alicization War of Underworld (Part 2)",
+        "alternativeTitle": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+        "id": "sword-art-online-alicization-war-of-underworld-part-2-1666",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/851942b533808db227d51c2dd7bafbbf.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

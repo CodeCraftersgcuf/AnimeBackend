@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 179,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Natsufuku no Shoujo-tachi",
+        "alternativeTitle": "Natsufuku no Shoujo-tachi",
+        "id": "natsufuku-no-shoujo-tachi-7653",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73627342a3d18120dbc91eb8cc2390c2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "34m"
+      },
+      {
+        "title": "Nagareboshi Lens",
+        "alternativeTitle": "Nagareboshi Lens",
+        "id": "nagareboshi-lens-5038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/910ad7fc652af5b6e94e9b92c6c3a8f9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "18m"
+      },
+      {
+        "title": "The Girl Downstairs Extra",
+        "alternativeTitle": "Aishang Ta de Liyou Extra",
+        "id": "the-girl-downstairs-extra-19297",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc96d4128dba2233b0e5ef9a83d95642.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "The Metaverse",
+        "alternativeTitle": "Bai Jia Jue Zhi: Jianghu Gui Shi Lu",
+        "id": "the-metaverse-19290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b233fc4195ca5ef630a03e7146f1bfce.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Planetarian: Hoshi no Hito",
+        "alternativeTitle": "Planetarian: Hoshi no Hito",
+        "id": "planetarian-hoshi-no-hito-684",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88c554f41fc7afba2a376bdd1bd0467b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "Cosmos Pink Shock",
+        "alternativeTitle": "Cosmos Pink Shock",
+        "id": "cosmos-pink-shock-9363",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9d19df6466c31507f81b45cee076dc2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "35m"
+      },
+      {
+        "title": "My Sister Momoko",
+        "alternativeTitle": "Momoko, Kaeru no Uta ga Kikoeru yo.",
+        "id": "my-sister-momoko-1561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5b6a1889ca1fcfe84ac37ccd7c6b5af.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "79m"
+      },
+      {
+        "title": "Planetarian: Snow Globe",
+        "alternativeTitle": "Planetarian: Snow Globe",
+        "id": "planetarian-snow-globe-15515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca76966804cdeaee767f289a952e5e35.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "36m"
+      },
+      {
+        "title": "Kimi ni Todoke: From Me to You Season 3",
+        "alternativeTitle": "Kimi ni Todoke 3rd Season",
+        "id": "kimi-ni-todoke-from-me-to-you-season-3-19203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e975691eb7ff907eb3d110e2bc466b3.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "66m"
+      },
+      {
+        "title": "Maryuu Senki",
+        "alternativeTitle": "Maryuu Senki",
+        "id": "maryuu-senki-9864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bfdfc639e1ec9360a35673d27db10f01.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Dragon Nest: Throne of Elves",
+        "alternativeTitle": "Long Zhi Gu: Jingling Wangzuo",
+        "id": "dragon-nest-throne-of-elves-2224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ae7a10c0b5299666a47c3f2713a415a.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Dragon Nest: Warriors' Dawn",
+        "alternativeTitle": "Long Zhi Gu: Poxiao Qibing",
+        "id": "dragon-nest-warriors-dawn-2731",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6581c6fb5a27b9d961dc9bfbad84207.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Nagasaki 1945 ~ The Angelus Bells",
+        "alternativeTitle": "Nagasaki 1945: Angelus no Kane",
+        "id": "nagasaki-1945-the-angelus-bells-5865",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/effc01aee407dddb9971af2957bc98ba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "My Wife is a High School Girl",
+        "alternativeTitle": "Okusama wa Joshikousei (TV)",
+        "id": "my-wife-is-a-high-school-girl-6471",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1297edce49d8349849bb2132499196c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nana to Kaoru",
+        "alternativeTitle": "Nana to Kaoru",
+        "id": "nana-to-kaoru-9114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa5b3e177662ce7dfee18e30b6ee4ac5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Penguin Musume Heart",
+        "alternativeTitle": "Penguin Musume Heart",
+        "id": "penguin-musumeheart-4579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6e64c29e38cc6e7621c3838a2f26845.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Pigtails",
+        "alternativeTitle": "Mitsuami no Kamisama",
+        "id": "pigtails-4484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6f35fe102ac8d23889b720a2a10ec90.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "28m"
+      },
+      {
+        "title": "Pikaia!!",
+        "alternativeTitle": "Pikaia!!",
+        "id": "pikaia-11116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca46ed113f212dbe19998f9a261b9da9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Pikaia!",
+        "alternativeTitle": "Pikaia!",
+        "id": "pikaia-7834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09a60df301cb9bb382e4ac99beb20430.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Penguin Musume Heart Special",
+        "alternativeTitle": "Penguin Musume Heart Special",
+        "id": "penguin-musumeheart-special-6386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba100af3a030ee02acacefcc9b946578.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Penguin's Memory: Shiawase Monogatari",
+        "alternativeTitle": "Penguin's Memory: Shiawase Monogatari",
+        "id": "penguins-memory-shiawase-monogatari-3098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c5284feedf9c063da65b4da7bc28bd9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Supreme Sword God",
+        "alternativeTitle": "Jiandao Di Yi Xian",
+        "id": "supreme-sword-god-19289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/055c0b5fc5fe550ec47b36da09c7b244.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Immortality 3rd Season",
+        "alternativeTitle": "Yong Sheng: Qizhuang Shanhe",
+        "id": "immortality-3rd-season-19158",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/189def631980d421ed9f25e2ece65290.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "The New Gate",
+        "alternativeTitle": "The New Gate",
+        "id": "the-new-gate-19122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e12209bde810deb434f0325b945a886f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "The Duke of Death and His Maid Season 3",
+        "alternativeTitle": "Shinigami Bocchan to Kuro Maid 3rd Season",
+        "id": "the-duke-of-death-and-his-maid-season-3-19128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d20bd9561d2f1764d75b458f05b7f89d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+        "alternativeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+        "id": "i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-19132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0243e0f50f9d67e960794be6380a276d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Condition Called Love",
+        "alternativeTitle": "Hananoi-kun to Koi no Yamai",
+        "id": "a-condition-called-love-19138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56940139cdae0325e98566ce40567387.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Young Imperial Guards 2nd Season",
+        "alternativeTitle": "Shaonian Jinyiwei 2nd Season",
+        "id": "the-young-imperial-guards-2nd-season-11497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d0207cfdc22dacf184b8cacea190c8a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "The Young Imperial Guards",
+        "alternativeTitle": "Shaonian Jinyiwei",
+        "id": "the-young-imperial-guards-6393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac329630a142540ce5f0eef84c8aa11c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "The Young Imperial Guards 2nd Season Prologue",
+        "alternativeTitle": "Shaonian Jinyiwei 2nd Season Xuzhang",
+        "id": "the-young-imperial-guards-2nd-season-prologue-19288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bbb0053949d9fc7d372cb56151dd834a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "The Young Imperial Guards Prologue",
+        "alternativeTitle": "Shaonian Jinyiwei Xuzhang",
+        "id": "the-young-imperial-guards-prologue-19287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e47f640195e76ae538bfb80d976734fb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Meganebu!",
+        "alternativeTitle": "Meganebu!",
+        "id": "meganebu-6745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df167e48ff4c08038cc5f78b50864665.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Proud Emperor of Eternity",
+        "alternativeTitle": "Wangu Kuang Di",
+        "id": "the-proud-emperor-of-eternity-19277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59b4a740efa33186f8398e151fe7943e.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "Natsume Yuujinchou Go Specials",
+        "alternativeTitle": "Natsume Yuujinchou Go Specials",
+        "id": "natsume-yuujinchou-go-specials-197",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c86b9ed99fd0a98778545151e8a1ac07.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Seishun Fuufu Monogatari: Koiko no Mainichi",
+        "alternativeTitle": "Seishun Fuufu Monogatari: Koiko no Mainichi",
+        "id": "seishun-fuufu-monogatari-koiko-no-mainichi-11447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64f084f9f176ed9df51c4e9599f1874a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Villain Initialization",
+        "alternativeTitle": "Fanpai Chushihua",
+        "id": "villain-initialization-19155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddee73fd50cff33c640c0eabd06bf560.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "The Great White Snake",
+        "alternativeTitle": "Hakujaden",
+        "id": "the-great-white-snake-7414",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/289ee5342c275ef718b16042d9d17953.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "78m"
+      },
+      {
+        "title": "Crest of the Stars: Birth",
+        "alternativeTitle": "Seikai no Danshou: Tanjou",
+        "id": "crest-of-the-stars-birth-2950",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89870afa631a6576e6ce887b5f418d34.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "4 Week Lovers",
+        "alternativeTitle": "4 Ju Aein",
+        "id": "4-week-lovers-19285",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb6277f8637846cc73b33630114c65ec.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "Hyperventilation",
+        "alternativeTitle": "Hyperventilation",
+        "id": "hyperventilation-15941",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1c7460e4005dc89002ac1633f22317c.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "3m"
+      }
+    ]
+  }
+}

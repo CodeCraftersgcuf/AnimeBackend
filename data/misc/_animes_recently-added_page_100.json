@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 100,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Voice of Fox",
+        "alternativeTitle": "Kitsune no Koe",
+        "id": "voice-of-fox-6002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b2af48acc87a77499fac7ad40f7d3e5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "VS Knight Lamune & 40 Fire",
+        "alternativeTitle": "VS Knight Lamune & 40 Fire",
+        "id": "vs-knight-lamune-40-fire-4176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d897c0a3bc13c2a41245c88e4dcb4745.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Vlad Love",
+        "alternativeTitle": "Vlad Love",
+        "id": "vlad-love-15602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28605942aafe27fed8092a5c50274926.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Usakame",
+        "alternativeTitle": "Usakame",
+        "id": "usakame-8598",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9e49b454b67a75a17b3237320f494dc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Virtual-san Looking",
+        "alternativeTitle": "Virtual-san wa Miteiru",
+        "id": "virtual-san-looking-9480",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95d89956201274a23e88cd321c5680bb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "UzaMaid!",
+        "alternativeTitle": "Uchi no Maid ga Uzasugiru!",
+        "id": "uzamaid-3611",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d0e943f9e90dfadc9423a8744e86354.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yona of the Dawn",
+        "alternativeTitle": "Akatsuki no Yona",
+        "id": "yona-of-the-dawn-439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f25045ed5c1e81d9644ab11f1ffd485.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yotsuiro Biyori",
+        "alternativeTitle": "Rokuhoudou Yotsuiro Biyori",
+        "id": "yotsuiro-biyori-1245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ce4118cd7b078cda9d5ecbdf6d0ba02.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yamibo: Darkness, The Hat and the Travelers of the Books",
+        "alternativeTitle": "Yami to Boushi to Hon no Tabibito",
+        "id": "yamibo-darkness-the-hat-and-the-travelers-of-the-books-5351",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6fe2ee1ba8d519b3b61d9319bfecfc6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bunny Drop",
+        "alternativeTitle": "Usagi Drop",
+        "id": "bunny-drop-113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/036b4c7ecc84c896e1bbeadbd44088de.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Ushio & Tora: 2nd Season",
+        "alternativeTitle": "Ushio to Tora (TV) 2nd Season",
+        "id": "ushio-tora-2nd-season-576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c217c55830751f2cf1f89f5b3b55ce82.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ushio and Tora",
+        "alternativeTitle": "Ushio to Tora (TV)",
+        "id": "ushio-and-tora-1252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da2bc3526c8c60b7bbd9d0a671fecdde.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yamada-kun and the Seven Witches",
+        "alternativeTitle": "Yamada-kun to 7-nin no Majo (TV)",
+        "id": "yamada-kun-and-the-seven-witches-1097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd12b6af8646176def3caafc477c2f91.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Modern Magic Made Simple",
+        "alternativeTitle": "Yoku Wakaru Gendai Mahou",
+        "id": "modern-magic-made-simple-6025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff6b99a49f87ee1f1aca98aa9dcc588e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Xuan Yuan Sword Luminary",
+        "alternativeTitle": "Ken En Ken: Aoki Kagayaki",
+        "id": "xuan-yuan-sword-luminary-7780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/779b395ffe0f72147b5dfa311fe7d17f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wooser's Hand-to-Mouth Life: Awakening Arc",
+        "alternativeTitle": "Wooser no Sono Higurashi: Kakusei-hen",
+        "id": "woosers-hand-to-mouth-life-awakening-arc-5171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c23e4cf8c3ef5b9632cc10ffa7ed1f51.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Wooser's Hand-to-Mouth Life: Phantasmagoric Arc",
+        "alternativeTitle": "Wooser no Sono Higurashi: Mugen-hen",
+        "id": "woosers-hand-to-mouth-life-phantasmagoric-arc-5350",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8d88b4f808de7e97f2cfc27bf1be1f1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Wooser's Hand-to-Mouth Life",
+        "alternativeTitle": "Wooser no Sono Higurashi",
+        "id": "woosers-hand-to-mouth-life-7058",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67d1879c717c1c80c6635af188327995.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "World Break: Aria of Curse for a Holy Swordsman",
+        "alternativeTitle": "Seiken Tsukai no World Break",
+        "id": "world-break-aria-of-curse-for-a-holy-swordsman-3753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f04bb82b6e8083027a185b784b10a9f0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World Fool News Part II",
+        "alternativeTitle": "World Fool News (TV) Part II",
+        "id": "world-fool-news-part-ii-8703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49bd5d1a2e502fb1d9877ec17c954030.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "WWW.WAGNARIA!!",
+        "alternativeTitle": "WWW.Working!!",
+        "id": "wwwwagnaria-1719",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28110546706e127c5cc56ff1609ab39e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "World Fool News",
+        "alternativeTitle": "World Fool News (TV)",
+        "id": "world-fool-news-8125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46949067b46c32a1dcf4797c465616e2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Witch Craft Works",
+        "alternativeTitle": "Witch Craft Works",
+        "id": "witch-craft-works-3217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f833d32db551eb942a8e97a401f2aa2a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tsukipro The Animation",
+        "alternativeTitle": "Tsukipro The Animation",
+        "id": "tsukipro-the-animation-4763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c51026458b9e1dbd7a55ec0c57fbb367.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Woodpecker Detective's Office",
+        "alternativeTitle": "Kitsutsuki Tanteidokoro",
+        "id": "woodpecker-detectives-office-7964",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6172da7550261a26192a0343fe5f5154.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World Conquest Zvezda Plot",
+        "alternativeTitle": "Sekai Seifuku: Bouryaku no Zvezda",
+        "id": "world-conquest-zvezda-plot-3194",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83576b74941826f80ff3855e0c734918.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Working Buddies!",
+        "alternativeTitle": "Hataraku Onii-san!",
+        "id": "working-buddies-6545",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a2299a4d1b8bc4da713b195f7daba17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Working Buddies! No 2!",
+        "alternativeTitle": "Hataraku Onii-san! no 2!",
+        "id": "working-buddies-no-2-6336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba1d663de737dd885c7d58d6008faad1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "[RAW] The Many Dream Journeys of Meme",
+        "alternativeTitle": "[RAW] Meme Iroiro Yume no Tabi",
+        "id": "the-many-dream-journeys-of-meme-5033",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/77caa2386bd801b9d10d72fb805b5ebe.jpg",
+        "episodes": {
+          "sub": 127,
+          "dub": 0,
+          "eps": 127
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
+        "alternativeTitle": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
+        "id": "worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us-913",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f21b0d0b59bf1d897bb233e6d6899c43.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Coji-Coji",
+        "alternativeTitle": "[RAW] Sakura Momoko Gekijou: Coji-Coji",
+        "id": "coji-coji-11374",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a114d53b8f2a636aeaec2ab1bf3799e.jpg",
+        "episodes": {
+          "sub": 100,
+          "dub": 0,
+          "eps": 100
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Oraa Guzura Dado (1987)",
+        "alternativeTitle": "[RAW] Oraa Guzura Dado (1987)",
+        "id": "oraa-guzura-dado-1987-7026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa9df3442b17cc21230ea425876dcf8b.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "[RAW] Sally the Witch",
+        "alternativeTitle": "[RAW] Mahoutsukai Sally",
+        "id": "sally-the-witch-6254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cac09cc8bf542379e4451df40644ca9.jpg",
+        "episodes": {
+          "sub": 109,
+          "dub": 0,
+          "eps": 109
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "[RAW] Ultra B",
+        "alternativeTitle": "[RAW] Ultra B",
+        "id": "ultra-b-7829",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a1e27cf67618ce1e126aefef6afbe25.jpg",
+        "episodes": {
+          "sub": 117,
+          "dub": 0,
+          "eps": 117
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "[RAW] Cyborg Kuro-chan",
+        "alternativeTitle": "[RAW] Cyborg Kuro-chan",
+        "id": "cyborg-kuro-chan-3146",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b53d12f9e3c88a40569e0c4461b484b4.jpg",
+        "episodes": {
+          "sub": 66,
+          "dub": 0,
+          "eps": 66
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Pro Golfer Saru (TV)",
+        "alternativeTitle": "[RAW] Pro Golfer Saru (TV)",
+        "id": "pro-golfer-saru-tv-11202",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f15f4f8e0ad35d2dd0598c0b354c640.jpg",
+        "episodes": {
+          "sub": 153,
+          "dub": 0,
+          "eps": 153
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "[RAW] Kashi no Ki Mokku",
+        "alternativeTitle": "[RAW] Kashi no Ki Mokku",
+        "id": "kashi-no-ki-mokku-8373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e36bfdd3d90c11b424ee493a9c08fa93.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Try Knights",
+        "alternativeTitle": "Try Knights",
+        "id": "try-knights-10475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/097ffe7d6cebe4de499a33fddd5941c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "[RAW] Gu-Gu Ganmo",
+        "alternativeTitle": "[RAW] Gu-Gu Ganmo",
+        "id": "gu-gu-ganmo-7807",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/220e4ba83eaa9bcb08e9e8cbe8d05102.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Patalliro!",
+        "alternativeTitle": "Patalliro!",
+        "id": "patalliro-2365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/542c3dbb4c089bd6a3f76e952961bd24.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 42,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Bio Hunter",
+        "alternativeTitle": "Bio Hunter",
+        "id": "bio-hunter-8183",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8009a8b929319108101e76e2a243edff.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "58m"
+      },
+      {
+        "title": "Rozen Maiden: Ouvertüre",
+        "alternativeTitle": "Rozen Maiden: Ouvertüre",
+        "id": "rozen-maiden-ouverture-939",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddd862a27722ce171b51c9180c2d5f0e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Maken-Ki!",
+        "alternativeTitle": "Maken-Ki!",
+        "id": "maken-ki-6098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ccf9ed4d53750e4ffc3217e2536c82d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Maken-Ki! Two",
+        "alternativeTitle": "Maken-Ki! Two",
+        "id": "maken-ki-two-7097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25c19c5d8dcfafec9962a1885d9e5125.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maken-Ki! OVA",
+        "alternativeTitle": "Maken-Ki! OVA",
+        "id": "maken-ki-ova-5000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aeee75e1942c815eeff0a591f6701c91.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Last Exile",
+        "alternativeTitle": "Last Exile",
+        "id": "last-exile-772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25345f369e093de5f4539a16ca4ba9db.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soul Land: 5th Season",
+        "alternativeTitle": "Douluo Dalu: Xiaowu Juebie",
+        "id": "soul-land-5th-season-648",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccb9889d3e55f27f6d5ebeda9378969c.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Soul Land: 3rd Season",
+        "alternativeTitle": "Douluo Dalu: Hao Tian Yang Wei",
+        "id": "soul-land-3rd-season-595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/607bcf2dffcc668b2b54faf0e1c7ccf8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Soul Land: 4th Season",
+        "alternativeTitle": "Douluo Dalu: Qian Hua Xi Jin",
+        "id": "soul-land-4th-season-477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21b14074996e0d5f1d65f5ffd992e5cd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Soul Land: 2nd Season",
+        "alternativeTitle": "Douluo Dalu: Jingying Sai",
+        "id": "soul-land-2nd-season-386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd4cbfbbae123185246046309426a733.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Soul Land: 7th Season",
+        "alternativeTitle": "Douluo Dalu: Hanhai Qian Kun",
+        "id": "soul-land-7th-season-17806",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79027f766010a70c3ee514a77de291b2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Soul Land: 8th Season",
+        "alternativeTitle": "Douluo Dalu: Haishen Zhi Guang",
+        "id": "soul-land-8th-season-17800",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60e04baaf1754e898daaaa8ca4d41f76.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Soul Land: 6th Season",
+        "alternativeTitle": "Douluo Dalu: Xingdou Xian Ji Pian",
+        "id": "soul-land-6th-season-17795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35ebfa97bcecfbdd3048d846a011c92f.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Tokyo Revengers",
+        "alternativeTitle": "Tokyo Revengers",
+        "id": "tokyo-revengers-15585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c04ee7106ea54910abdd39563d239374.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Zetman",
+        "alternativeTitle": "Zetman",
+        "id": "zetman-3951",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aa69ff04dbf8fabc062c7180ad1a1e4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Testament of Sister New Devil",
+        "alternativeTitle": "Shinmai Maou no Testament Departures",
+        "id": "the-testament-of-sister-new-devil-3683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ae0ff2a2d579ff3deca00d35a9e8422.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "59m"
+      },
+      {
+        "title": "Noragami OVA",
+        "alternativeTitle": "Noragami OVA",
+        "id": "noragami-ova-833",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d828c5697e5a7923e813883da3ca584f.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Noragami Aragoto OVA",
+        "alternativeTitle": "Noragami Aragoto OVA",
+        "id": "noragami-aragoto-ova-608",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a933877222de4ea27358fcd162c596e1.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Devilman: Crybaby - Digest Eizou",
+        "alternativeTitle": "Devilman: Crybaby - Digest Eizou",
+        "id": "devilman-crybaby-digest-eizou-8292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a5fe180f9e884666b699adc81e07ab6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Akame ga Kill!",
+        "alternativeTitle": "Akame ga Kill!",
+        "id": "akame-ga-kill-1329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfd6b4cb63f4ca2acbee3b55a7c29afb.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bleach the Movie: The DiamondDust Rebellion",
+        "alternativeTitle": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+        "id": "bleach-the-movie-the-diamonddust-rebellion-1669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dbe550d596d8f48422e3bf27ebdeb811.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Operation Han-Gyaku-Sei Million Arthur",
+        "alternativeTitle": "Hangyakusei Million Arthur",
+        "id": "operation-han-gyaku-sei-million-arthur-7604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4cb01b090b8a56bfacbee8658c0cd79.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Operation Han-Gyaku-Sei Million Arthur 2nd Season",
+        "alternativeTitle": "Hangyakusei Million Arthur 2nd Season",
+        "id": "operation-han-gyaku-sei-million-arthur-2nd-season-6455",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be8f494b5db34eee035633ee52591d00.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sword Art Online the Movie -Ordinal Scale-",
+        "alternativeTitle": "Sword Art Online Movie: Ordinal Scale",
+        "id": "sword-art-online-the-movie-ordinal-scale-1036",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6a3cd118072edd0f155336f93e9e8d5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Super Crooks",
+        "alternativeTitle": "Super Crooks",
+        "id": "super-crooks-17918",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d0e96e0265b3abac8660d57fc1df48f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Last Exile: Fam, the Silver Wing",
+        "alternativeTitle": "Last Exile: Ginyoku no Fam",
+        "id": "last-exile-fam-the-silver-wing-3183",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d989264b79773194ce894febc679e10a.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 21,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Last Exile: Fam, the Silver Wing Recaps",
+        "alternativeTitle": "Last Exile: Ginyoku no Fam - Adjournment",
+        "id": "last-exile-fam-the-silver-wing-recaps-5790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b8b26703a1a506dd8b94b8548b6ca8a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Gunslinger Girl: Il Teatrino",
+        "alternativeTitle": "Gunslinger Girl: Il Teatrino",
+        "id": "gunslinger-girl-il-teatrino-2880",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb88101eda4306aa3792651f1e68aa05.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sekirei",
+        "alternativeTitle": "Sekirei",
+        "id": "sekirei-2936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1302c0755b495809fcf6719b488eccc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sekirei: Pure Engagement",
+        "alternativeTitle": "Sekirei: Pure Engagement",
+        "id": "sekirei-pure-engagement-1942",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3036e93bb1fe5ef63ba1736d11488335.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magical Girl Lyrical Nanoha StrikerS",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha StrikerS",
+        "id": "magical-girl-lyrical-nanoha-strikers-1136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55f74c72f09a39a51891048ce90cc3d0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Dog Days''",
+        "alternativeTitle": "Dog Days''",
+        "id": "dog-days-3584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/552cbc375682749074f9b4803aa4fd84.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kishibe Rohan wa Ugokanai",
+        "alternativeTitle": "Kishibe Rohan wa Ugokanai",
+        "id": "kishibe-rohan-wa-ugokanai-1444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3b73730e8ff67c9474d6a9b07a2aade.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha ViVid",
+        "id": "mahou-shoujo-lyrical-nanoha-vivid-4626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bbd443e9dd8777d73b48d67459f28be.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

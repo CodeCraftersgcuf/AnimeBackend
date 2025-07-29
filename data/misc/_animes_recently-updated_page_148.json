@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 148,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Yume-iro Pâtissière SP Professional",
+        "alternativeTitle": "Yume-iro Pâtissière SP Professional",
+        "id": "yume-iro-patissiere-sp-professional-1196",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cd67b8f063775b2124140aadc679b0b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Amagi Brilliant Park",
+        "alternativeTitle": "Amagi Brilliant Park",
+        "id": "amagi-brilliant-park-1452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2207409e2c327d626fe4563c92748f1a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magical Sisters Yoyo & Nene",
+        "alternativeTitle": "Majokko Shimai no Yoyo to Nene",
+        "id": "magical-sisters-yoyo-nene-1708",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9dab3c750352bb3a32b16885458e5a8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Burn the Witch",
+        "alternativeTitle": "Burn the Witch",
+        "id": "burn-the-witch-2476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb6378acfba97847bb75034de250bcc3.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Movie",
+        "duration": "21m"
+      },
+      {
+        "title": "Mama is Just a Fourth Grade Pupil",
+        "alternativeTitle": "Mama wa Shougaku 4 Nensei",
+        "id": "mama-is-just-a-fourth-grade-pupil-2732",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f8ea39a6cf12194b3bbc2965700f974.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne.",
+        "alternativeTitle": "Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne.",
+        "id": "mikakunin-de-shinkoukei-kamoniku-tte-midori-ppoi-aji-ga-suru-no-ne-2988",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35fe7c3c3219391ce348e88bc7982ed2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "11m"
+      },
+      {
+        "title": "Mado King Granzort",
+        "alternativeTitle": "Madou King Granzort",
+        "id": "mado-king-granzort-3244",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a912b4d064ac37a0132553052e987e40.jpg",
+        "episodes": {
+          "sub": 41,
+          "dub": 0,
+          "eps": 41
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Anonymous Noise",
+        "alternativeTitle": "Fukumenkei Noise",
+        "id": "anonymous-noise-3500",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1bb8f494b36cd3a2ff6e216274c8e355.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aim for the Ace! The Movie (1979)",
+        "alternativeTitle": "Ace wo Nerae! (1979)",
+        "id": "aim-for-the-ace-the-movie-1979-4268",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e17e5284eb629be6c3ce274df3367b3f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Genshiken Nidaime Specials",
+        "alternativeTitle": "Genshiken Nidaime Specials",
+        "id": "genshiken-nidaime-specials-4524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c602d0fb5664c72eda2738e05332a58.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Box of Goblins: The Case of the Spirits in the Boxes",
+        "alternativeTitle": "Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto",
+        "id": "box-of-goblins-the-case-of-the-spirits-in-the-boxes-5036",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e5319d7de879155a4384e0c5049f814.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "16m"
+      },
+      {
+        "title": "Wo de Ni Tian Shen Qi",
+        "alternativeTitle": "Wo de Ni Tian Shen Qi",
+        "id": "wo-de-ni-tian-shen-qi-5548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e9fc34a31a6ddf29e21b25a71963733.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "The irregular at magic high school: Get to Know Magic Studies!",
+        "alternativeTitle": "Yoku Wakaru Mahouka!",
+        "id": "the-irregular-at-magic-high-school-get-to-know-magic-studies-6572",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1346fe349e2c5ab6a7b6a05f117d596b.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Saishuu Shiken Kujira",
+        "alternativeTitle": "Saishuu Shiken Kujira",
+        "id": "saishuu-shiken-kujira-10156",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d805482f852c43586494b99dfb7caa0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Ninja Collection",
+        "alternativeTitle": "Ninja Collection",
+        "id": "ninja-collection-10668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e96eaf0397fce54b17daf69a54a34f47.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Ippon Bouchou Mantarou",
+        "alternativeTitle": "Ippon Bouchou Mantarou",
+        "id": "ippon-bouchou-mantarou-14252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3553bd8e1ef799320289b2f0027c9458.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "The Boy and the Beast",
+        "alternativeTitle": "Bakemono no Ko",
+        "id": "the-boy-and-the-beast-173",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79345280b2ef511dd48f25428faf485c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken",
+        "id": "that-time-i-got-reincarnated-as-a-slime-429",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6f0a1657b0f119bb850fe3b1bbf81b5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Outlaw Star",
+        "alternativeTitle": "Seihou Bukyou Outlaw Star",
+        "id": "outlaw-star-685",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28fc237d7f0ec9f0ffba9b8ed8b3d0ee.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "White Album 2",
+        "alternativeTitle": "White Album 2",
+        "id": "white-album-2-941",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04dc9c4a6433f3657a763a2da1d4f98b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aggretsuko",
+        "alternativeTitle": "Aggressive Retsuko",
+        "id": "aggretsuko-1197",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9002649d0485d2eabefed88f7f69676b.jpg",
+        "episodes": {
+          "sub": 100,
+          "dub": 0,
+          "eps": 100
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Interviews With Monster Girls: The Demi-chans' Summer Break",
+        "alternativeTitle": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+        "id": "interviews-with-monster-girls-the-demi-chans-summer-break-1453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2d277a65ee7fe618fbc007655975c68.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Mardock Scramble: The Third Exhaust",
+        "alternativeTitle": "Mardock Scramble: The Third Exhaust",
+        "id": "mardock-scramble-the-third-exhaust-1709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a766b943a005794de5b1ae19e2b68dd5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "68m"
+      },
+      {
+        "title": "[C] CONTROL - The Money and Soul of Possibility",
+        "alternativeTitle": "C: The Money of Soul and Possibility Control",
+        "id": "c-control-the-money-and-soul-of-possibility-2477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1de5554400a5f340abab357df43abd10.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "The Comic Artist and His Assistants",
+        "alternativeTitle": "Mangaka-san to Assistant-san to The Animation",
+        "id": "the-comic-artist-and-his-assistants-2733",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83e382b8d356fc546e4a968d75928e12.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "MM!",
+        "alternativeTitle": "MM!",
+        "id": "mm-2989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/297c38a646da5d2b9aaa0ecd2f0d6dbe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Magic User's Club (OVA)",
+        "alternativeTitle": "Mahoutsukai Tai!",
+        "id": "magic-users-club-ova-3245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de53da7efe846c1126995d4e1f3a84b8.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Shining Heresy",
+        "alternativeTitle": "Soukou Kihei Votoms: Kakuyaku taru Itan",
+        "id": "armored-trooper-votoms-shining-heresy-3757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4867f20c20d330516ab555247a67a9d.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Sakura Wars",
+        "alternativeTitle": "Sakura Taisen",
+        "id": "sakura-wars-4013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55214dc86894bff3e39e69cf3bfd01ea.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aim for the Ace! 2",
+        "alternativeTitle": "Ace wo Nerae! 2",
+        "id": "aim-for-the-ace-2-4269",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b4dc59f08c94e93415d2762bcaa9866.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Zenonzard The Animation (OVA)",
+        "alternativeTitle": "Zenonzard The Animation (OVA)",
+        "id": "zenonzard-the-animation-ova-4781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97111fed2acee1d3d1d1fff8ce1f3af5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "27m"
+      },
+      {
+        "title": "Mushi-Uta",
+        "alternativeTitle": "Mushi-Uta",
+        "id": "mushi-uta-5037",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d93829b346bde3ec1da005976715f576.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hyakka Ryouran: Samurai Bride Specials",
+        "alternativeTitle": "Hyakka Ryouran: Samurai Bride Specials",
+        "id": "hyakka-ryouran-samurai-bride-specials-5293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dc0d135bb96362d0af508a658946df2.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Saikyou Ginga Ultimate Zero: Battle Spirits",
+        "alternativeTitle": "Saikyou Ginga Ultimate Zero: Battle Spirits",
+        "id": "saikyou-ginga-ultimate-zero-battle-spirits-5805",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d03117f79d726b725d00b8bf1d2fa207.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gangsta.",
+        "alternativeTitle": "Gangsta. Recap",
+        "id": "gangsta-6061",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32e67093cdb795012d76cdfe52d5036a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Corpse Party: Missing Footage (Uncensored)",
+        "alternativeTitle": "Corpse Party: Missing Footage (Uncensored)",
+        "id": "corpse-party-missing-footage-uncensored-7597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9c6930c4d4ef222b0301085f5cb97f8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "11m"
+      },
+      {
+        "title": "Herobank",
+        "alternativeTitle": "Hero Bank",
+        "id": "herobank-7853",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5c03643fe140c096d930f607f534406.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
+        "alternativeTitle": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
+        "id": "chou-deneiban-sd-gundam-sangokuden-brave-battle-warriors-8365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2abeffbddd407e91a533729b15c7ed8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "13m"
+      },
+      {
+        "title": "_Summer",
+        "alternativeTitle": "_Summer",
+        "id": "summer-8877",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52ae68c7fb579085fb628b6793d8767a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Senjou no Valkyria Special",
+        "alternativeTitle": "Senjou no Valkyria Special",
+        "id": "senjou-no-valkyria-special-9133",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f82b4744423abae5bb5615554769ee8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      }
+    ]
+  }
+}

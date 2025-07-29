@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 122,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Barakamon",
+        "alternativeTitle": "Barakamon",
+        "id": "barakamon-130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66711f8a306cb28e13be3a595883dfe0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Soul Land: 2nd Season",
+        "alternativeTitle": "Douluo Dalu: Jingying Sai",
+        "id": "soul-land-2nd-season-386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd4cbfbbae123185246046309426a733.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Hayate the Combat Butler!!",
+        "alternativeTitle": "Hayate no Gotoku!!",
+        "id": "hayate-the-combat-butler-898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f742cc1c9bce983e6edbdbbb92ef062.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tsubasa RESERVoir CHRoNiCLE",
+        "alternativeTitle": "Tsubasa Chronicle",
+        "id": "tsubasa-reservoir-chronicle-1410",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b259f1fbc07716710c43bd4f72de769a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sword Art Online: Alicization War of Underworld (Part 2)",
+        "alternativeTitle": "Sword Art Online: Alicization - War of Underworld 2nd Season",
+        "id": "sword-art-online-alicization-war-of-underworld-part-2-1666",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/851942b533808db227d51c2dd7bafbbf.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Expelled from Paradise",
+        "alternativeTitle": "Rakuen Tsuihou",
+        "id": "expelled-from-paradise-1922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9a47d716e0e595388793a6d49c30271.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "103m"
+      },
+      {
+        "title": "Twin Star Exorcists",
+        "alternativeTitle": "Sousei no Onmyouji",
+        "id": "twin-star-exorcists-2178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0c2f71ae35c9d02dce5d847fe34e7e7.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yu-Gi-Oh! GX",
+        "alternativeTitle": "Yu☆Gi☆Oh!: Duel Monsters GX",
+        "id": "yu-gi-oh-gx-2946",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fb1587e7e93befcf0909b66d42acfcb.jpg",
+        "episodes": {
+          "sub": 180,
+          "dub": 180,
+          "eps": 180
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Vampire Hunter D",
+        "alternativeTitle": "Vampire Hunter D",
+        "id": "vampire-hunter-d-3202",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb677dca30c80bab8c19bf02969c0dc9.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Glass Mask: The Girl of a Thousand Masks",
+        "alternativeTitle": "Glass no Kamen: Sen no Kamen wo Motsu Shoujo",
+        "id": "glass-mask-the-girl-of-a-thousand-masks-3714",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ada1d1cfd5de090ee2db9a74d4eebf9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Kinnikuman II Sei: Ultimate Muscle",
+        "alternativeTitle": "Kinnikuman II Sei: Ultimate Muscle",
+        "id": "kinnikuman-ii-sei-ultimate-muscle-3970",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb2a14ed582cef804e82368cd6c90f60.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kobato.: Hajimete no Kobato.",
+        "alternativeTitle": "Kobato.: Hajimete no Kobato.",
+        "id": "kobato-hajimete-no-kobato-4226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a70ce2426c8305b1c6808070d6225e72.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to",
+        "alternativeTitle": "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to",
+        "id": "mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to-4482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fa0a1f9c40c5faf29f82ad7df75fee1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Juusenki L-Gaim",
+        "alternativeTitle": "Juusenki L-Gaim",
+        "id": "juusenki-l-gaim-4994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e4a59d855980f225bfcd594f6fc6858.jpg",
+        "episodes": {
+          "sub": 54,
+          "dub": 0,
+          "eps": 54
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Monster Girl Doctor",
+        "alternativeTitle": "Monster Musume no Oishasan",
+        "id": "monster-girl-doctor-5762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7ce3fb3d9a5c7abf383f1ef57e32092.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "[RAW] Dangard Ace",
+        "alternativeTitle": "[RAW] Wakusei Robo Danguard Ace",
+        "id": "dangard-ace-6786",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53493d04f82b15ca0de9ac64e7e1cb00.jpg",
+        "episodes": {
+          "sub": 56,
+          "dub": 0,
+          "eps": 56
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Oishinbo: The Japan-America Rice War",
+        "alternativeTitle": "Oishinbo: Nichibei Kome Sensou",
+        "id": "oishinbo-the-japan-america-rice-war-7298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d029d5f1010d607db970f1cce0e77e91.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Jiu Se Lu",
+        "alternativeTitle": "Jiu Se Lu",
+        "id": "jiu-se-lu-7810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc589674b66f11110f51a6069d2d6458.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "AIKa R-16: Virgin Mission",
+        "alternativeTitle": "AIKa R-16: Virgin Mission",
+        "id": "aika-r-16-virgin-mission-8066",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72d7c9436b61217bad25dab69df79f78.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Kyouryuu Tankentai Born Free",
+        "alternativeTitle": "Kyouryuu Tankentai Born Free",
+        "id": "kyouryuu-tankentai-born-free-8322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f3f7c6819c35a3607c5bcff17944145.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Duel Masters (2017)",
+        "alternativeTitle": "[RAW] Duel Masters (2017)",
+        "id": "duel-masters-2017-8834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf4224c5ba8ec4e59c21485952f6ab9a.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Digimon Adventure 02 Movie",
+        "alternativeTitle": "Digimon Adventure 02: The Beginning",
+        "id": "digimon-adventure-02-movie-18562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2ca4978eb929f6cb449d3455540c51b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "My Demon Tyrant and Sweet Baby Season 5",
+        "alternativeTitle": "My Demon Tyrant and Sweet Baby Season 5",
+        "id": "my-demon-tyrant-and-sweet-baby-season-5-19586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da45f7a76a5b17ebbb138cbfa2f31c22.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "My Hero Academia 2",
+        "alternativeTitle": "Boku no Hero Academia 2nd Season",
+        "id": "my-hero-academia-2-131",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cf943f264358d31e264ff459fcf50f8.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragon Ball Super: Broly",
+        "alternativeTitle": "Dragon Ball Super Movie: Broly",
+        "id": "dragon-ball-super-broly-387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b138786ca53a86413d89806cb6836dd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Sailor Moon: Sailor Stars",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+        "id": "sailor-moon-sailor-stars-643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de4c242b109f74d1937601895214d85b.jpg",
+        "episodes": {
+          "sub": 34,
+          "dub": 34,
+          "eps": 34
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Toilet-Bound Hanako-kun",
+        "alternativeTitle": "Jibaku Shounen Hanako-kun",
+        "id": "toilet-bound-hanako-kun-899",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e16f624b483c7fc0d7db86c02417af6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Initial D Battle Stage 2",
+        "alternativeTitle": "Initial D Battle Stage 2",
+        "id": "initial-d-battle-stage-2-1155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ac0dafbbc2e66ee33416257f0989680.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "80m"
+      },
+      {
+        "title": "Stellar Transformations",
+        "alternativeTitle": "Xing Chen Bian",
+        "id": "stellar-transformations-1411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b27dbfdb52b86688848376f23b365325.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Toradora!: Bento Battle",
+        "alternativeTitle": "Toradora!: Bentou no Gokui",
+        "id": "toradora-bento-battle-1667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/398b7ab78159a17f932af8eab8cf4d38.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "selector spread WIXOSS",
+        "alternativeTitle": "Selector Spread WIXOSS",
+        "id": "selector-spread-wixoss-1923",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bbce94f12647a31481a05b6a7b65504.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tales of Zestiria the X",
+        "alternativeTitle": "Tales of Zestiria the Cross",
+        "id": "tales-of-zestiria-the-x-2179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ff821f4ab36b42e5d9bb3316013e605.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Robot Carnival",
+        "alternativeTitle": "Robot Carnival",
+        "id": "robot-carnival-2435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c63db1fea074a2d39ba112018d952a62.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "91m"
+      },
+      {
+        "title": "Phi-Brain ~ Puzzle of God",
+        "alternativeTitle": "Phi Brain: Kami no Puzzle",
+        "id": "phi-brain-puzzle-of-god-2691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a3a3fb8a1b13a47bcefed6a85b828e5.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "My Little Sister Can't Be This Cute",
+        "alternativeTitle": "Ore no Imouto ga Konnani Kawaii Wake ga Nai",
+        "id": "my-little-sister-cant-be-this-cute-2947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab4fcf78e119aad17614b5f21dcca1b5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Virtua Fighter",
+        "alternativeTitle": "Virtua Fighter",
+        "id": "virtua-fighter-3203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ce29baf2825896234a712281b9a1bd6.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 35
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Princess Princess",
+        "alternativeTitle": "Princess Princess",
+        "id": "princess-princess-3459",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddbc610ab4c40408bb552309ff3e300c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hellsing: Psalm of the Darkness",
+        "alternativeTitle": "Hellsing: Psalm of the Darkness",
+        "id": "hellsing-psalm-of-the-darkness-3715",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad1cd3f8987b73896d7e5564283eaab2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Kirakira☆Precure A La Mode",
+        "alternativeTitle": "Kirakira☆Precure A La Mode",
+        "id": "kirakiraprecure-a-la-mode-3971",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/321150404cf6c2c990ac63bc647ff1e4.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Here is Greenwood",
+        "alternativeTitle": "Koko wa Green Wood",
+        "id": "here-is-greenwood-4227",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/137ca5d20e22eef39068ec09485859ea.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      }
+    ]
+  }
+}

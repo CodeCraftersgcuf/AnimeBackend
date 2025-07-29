@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 175,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "LUPIN THE 3rd PART 6 Episode 0",
+        "alternativeTitle": "Lupin III: Part 6 Episode 0",
+        "id": "lupin-the-3rd-part-6-episode-0-17923",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ae519a260cbb85b3790889f18f64d97.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Akuma-kun (Movie)",
+        "alternativeTitle": "Akuma-kun (Movie)",
+        "id": "akuma-kun-movie-8241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/197cfaa5c4524f3d9e46fcfb0e66f0e7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "Boku no Oldies wa All Color",
+        "alternativeTitle": "Boku no Oldies wa All Color",
+        "id": "boku-no-oldies-wa-all-color-13073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/358dc05a4b73a1fba8ebf605df03ffed.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Fish in the Trap",
+        "alternativeTitle": "Osakana wa Ami no Naka",
+        "id": "fish-in-the-trap-10275",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/141b1d89f26c9fd2d861784acdc23b7c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Detective Conan: Love Story at Police Headquarters - Wedding Eve",
+        "alternativeTitle": "Detective Conan: Love Story at Police Headquarters - Wedding Eve",
+        "id": "detective-conan-love-story-at-police-headquarters-wedding-eve-18224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f500125d43b070fb2460fc0eceb783f3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "95m"
+      },
+      {
+        "title": "City Hunter: Ryou no Propose",
+        "alternativeTitle": "City Hunter: Ryou no Propose",
+        "id": "city-hunter-ryou-no-propose-5478",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/451bddc1709f1a291f3749401b3e22b1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "9m"
+      },
+      {
+        "title": "Kangaeru Jikan",
+        "alternativeTitle": "Kangaeru Jikan",
+        "id": "kangaeru-jikan-14505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acaf54e3d94f4147a9332ded2933a405.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "3m"
+      },
+      {
+        "title": "Geisters: Fractions of the Earth",
+        "alternativeTitle": "Geisters: Fractions of the Earth",
+        "id": "geisters-fractions-of-the-earth-8370",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87a89a5c4365a277ebf491d8de3bc84c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 13,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To Heart Omake",
+        "alternativeTitle": "To Heart Omake",
+        "id": "to-heart-omake-6859",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b6a72ce4ae92e8b6fca6d834de86e7b.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Manga Nihon Keizai Nyuumon",
+        "alternativeTitle": "Manga Nihon Keizai Nyuumon",
+        "id": "manga-nihon-keizai-nyuumon-15082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff19e32e2775027aad4d7e22bcddb405.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+        "alternativeTitle": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+        "id": "shin-kimagure-orangeroad-soshite-ano-natsu-no-hajimari-1779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/590f96c00daee8faff86b3d408508bb6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "One-Million Year Trip: Bander Book",
+        "alternativeTitle": "100-man-nen Chikyuu no Tabi: Bander Book",
+        "id": "one-million-year-trip-bander-book-8725",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0f35c9a41eb8043591ea342b5def17e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "94m"
+      },
+      {
+        "title": "Masuda Kousuke Gekijou Gag Manga Biyori 2",
+        "alternativeTitle": "Masuda Kousuke Gekijou Gag Manga Biyori 2",
+        "id": "masuda-kousuke-gekijou-gag-manga-biyori-2-2645",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0717f02d54e3e0b444352d5fddde8ecd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Kigyou Senshi Yamazaki: Long Distance Call",
+        "alternativeTitle": "Kigyou Senshi Yamazaki: Long Distance Call",
+        "id": "kigyou-senshi-yamazaki-long-distance-call-8642",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c0346da5980c600aa67fcb291df056d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Nijuushi no Hitomi",
+        "alternativeTitle": "Nijuushi no Hitomi",
+        "id": "nijuushi-no-hitomi-10726",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd5ca06329148860c2867fcb9ae6c87f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "70m"
+      },
+      {
+        "title": "Apotheosis 2nd Season",
+        "alternativeTitle": "Bai Lian Cheng Shen 2nd Season",
+        "id": "apotheosis-2nd-season-19024",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5e29e3cfe9f696f982a6fe36487631d.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Dororonpa!",
+        "alternativeTitle": "Dororonpa!",
+        "id": "raw-dororonpa-13461",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fbb3d60b34f2a59aeb6f1499436bc92.jpg",
+        "episodes": {
+          "sub": 114,
+          "dub": 0,
+          "eps": 114
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Mighty Space Miners",
+        "alternativeTitle": "Oira Uchuu no Tankoufu",
+        "id": "mighty-space-miners-6646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/865f29e8e72e69427b5edbe90b6385d8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Shigofumi Picture Drama",
+        "alternativeTitle": "Shigofumi Picture Drama",
+        "id": "shigofumi-picture-drama-5623",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f94c003b8bf70b12e4cecfd5ac9b3730.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "The Siamese: First Mission",
+        "alternativeTitle": "The Siamese: First Mission",
+        "id": "the-siamese-first-mission-12072",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d0004ba4ec5b92b32c32b46c2b8b584.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+        "alternativeTitle": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+        "id": "great-mazinger-tai-getter-robo-g-kuuchuu-daigekitotsu-7721",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa190336f95498d01a411539edaf587c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "Naki no Ryuu: Hiryuu no Shou (1991)",
+        "alternativeTitle": "Naki no Ryuu: Hiryuu no Shou (1991)",
+        "id": "naki-no-ryuu-hiryuu-no-shou-1991-15404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49856af0c7839819ec73679789e39ab6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary",
+        "alternativeTitle": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary",
+        "id": "tsuki-wa-higashi-ni-hi-wa-nishi-ni-operation-sanctuary-7223",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb3d5ec799136c7f1ded3ca132b0f25b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Michel",
+        "alternativeTitle": "Suhoyojeong Michel",
+        "id": "michel-6234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17065c7f1da86aafdbb3a677321122d6.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Meow Meow Japanese History",
+        "alternativeTitle": "Neko Neko Nihonshi 2nd Season",
+        "id": "meow-meow-japanese-history-15474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0284904cb1e9ec720d45156fd24e36c9.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "[RAW] Mouretsu Atarou",
+        "alternativeTitle": "[RAW] Mouretsu Atarou",
+        "id": "mouretsu-atarou-15337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0da350324a6b5712248ff63a54a88c5a.jpg",
+        "episodes": {
+          "sub": 90,
+          "dub": 0,
+          "eps": 90
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Sprites of Floria",
+        "alternativeTitle": "Hanasaku Kizuna no Romantan",
+        "id": "the-sprites-of-floria-9724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79ff1892497725b47ea16a7516bff550.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Super Zugan",
+        "alternativeTitle": "Super Zugan",
+        "id": "super-zugan-11872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/77752f2ae7d0af6fad086528c55a3aac.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Dr. Slump and Arale-chan Movie 02: \"Hoyoyo!\" Space Adventure",
+        "alternativeTitle": "Dr. Slump Movie 02: \"Hoyoyo!\" Uchuu Daibouken",
+        "id": "dr-slump-and-arale-chan-movie-02-hoyoyo-space-adventure-5946",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cf4f8be8aaf9ba0ec70fbf7e5c70985.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Sugar Bunnies Fleur",
+        "alternativeTitle": "Sugar Bunnies Fleur",
+        "id": "sugar-bunnies-fleur-11843",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41d05b83c3e4b0af1fe3b5f957045bd9.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "The Westward 3rd season",
+        "alternativeTitle": "Xi Xing Ji: Suming Pian",
+        "id": "the-westward-3rd-season-18032",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4594cc76b912bac374dfe7298a941f3c.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Ginga no Uo Ursa Minor Blue",
+        "alternativeTitle": "Ginga no Uo Ursa Minor Blue",
+        "id": "ginga-no-uo-ursa-minor-blue-7064",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c35773607467f9b29219648c17f58b76.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Di Gi Charat Natsuyasumi Special",
+        "alternativeTitle": "Di Gi Charat Natsuyasumi Special",
+        "id": "di-gi-charat-natsuyasumi-special-5314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3d153939f54bb614dde3c10ef6e46f4.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Magical Princess Minky Momo: La Ronde in my Dream",
+        "alternativeTitle": "Mahou no Princess Minky Momo: Yume no Naka no Rondo",
+        "id": "magical-princess-minky-momo-la-ronde-in-my-dream-5601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d8061a5f25a39ec10d4b1580c2706ad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "86m"
+      },
+      {
+        "title": "I am THE Shiratori Reiko!",
+        "alternativeTitle": "Shiratori Reiko de Gozaimasu!",
+        "id": "i-am-the-shiratori-reiko-11600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d004a2943c49b73bc38eccfe17c7198.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Time Bokan: The Villains Strike Back",
+        "alternativeTitle": "Time Bokan: Gyakushuu no San Akunin",
+        "id": "time-bokan-the-villains-strike-back-8065",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d0c175b6b882f777e8591d26d5c93ce.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Samurai Shodown The Motion Picture",
+        "alternativeTitle": "Samurai Spirits: Haten Gouma no Shou",
+        "id": "samurai-shodown-the-motion-picture-9612",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d813c7727162cd8b52532aab7de0ea11.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "68m"
+      },
+      {
+        "title": "Daimos",
+        "alternativeTitle": "Toushou Daimos",
+        "id": "daimos-2787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68fc2a1385bd5d30910abf1e84aabf98.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Manga Nihonshi",
+        "alternativeTitle": "[RAW] Manga Nihonshi",
+        "id": "manga-nihonshi-15083",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3996fcf40efe6316ededc5f77fa632ef.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Di Gi Charat Christmas Special",
+        "alternativeTitle": "Di Gi Charat Christmas Special",
+        "id": "di-gi-charat-christmas-special-5373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2c19f413fb15643f5f53305523eb699.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      }
+    ]
+  }
+}

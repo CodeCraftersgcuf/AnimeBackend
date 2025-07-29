@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 43,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Mahou Shoujo Lyrical Nanoha ViVid: Special Program",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha ViVid: Special Program",
+        "id": "mahou-shoujo-lyrical-nanoha-vivid-special-program-7510",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f16fd5dc46c37d080faf2058f9686d3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "The Mystic Archives of Dantalian",
+        "alternativeTitle": "Dantalian no Shoka",
+        "id": "the-mystic-archives-of-dantalian-2479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4c737e41eb540753f11f917359ac046.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Afro Samurai: Resurrection",
+        "alternativeTitle": "Afro Samurai: Resurrection",
+        "id": "afro-samurai-resurrection-2024",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4146cf859589e9891c80ecd089cd735.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Guilty Crown: Lost Christmas",
+        "alternativeTitle": "Guilty Crown: Lost Christmas - An Episode of Port Town",
+        "id": "guilty-crown-lost-christmas-3794",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a15b3a88fbba50a331da8aee0281521.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "14m"
+      },
+      {
+        "title": "Shakugan no Shana: Season II",
+        "alternativeTitle": "Shakugan no Shana II (Second)",
+        "id": "shakugan-no-shana-season-ii-1232",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e133285c12f58d6afe14645aec95205.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shakugan no Shana: Season III",
+        "alternativeTitle": "Shakugan no Shana III (Final)",
+        "id": "shakugan-no-shana-season-iii-1364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8357b65ae1d567f0b62c9bac351c64bc.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shakugan no Shana S: OVA Series",
+        "alternativeTitle": "Shakugan no Shana S",
+        "id": "shakugan-no-shana-s-ova-series-2000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13db5f35a22618ed530cca4c004da41e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "The Journey",
+        "alternativeTitle": "The Journey",
+        "id": "the-journey-17743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3e5b0c7b67345d3154fee6fe9cea8ea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Xam'd: Lost Memories",
+        "alternativeTitle": "Bounen no Xamdou",
+        "id": "xamd-lost-memories-1021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9e23a999576cfda2fa8933d5cfc3abf.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Eon Kid",
+        "alternativeTitle": "Iron Kid",
+        "id": "eon-kid-3797",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47adbc79d1d830d8ca2aac45cfa3c86a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Linebarrels of Iron",
+        "alternativeTitle": "Kurogane no Linebarrels",
+        "id": "linebarrels-of-iron-3742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce62722d6ab3c8900710a0fe439fc6da.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Linebarrels of Iron",
+        "alternativeTitle": "Kurogane no Linebarrels Specials",
+        "id": "linebarrels-of-iron-5469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4df394bfebfdab45238b3299a6a00fe.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Shakugan no Shana: The Movie",
+        "alternativeTitle": "Shakugan no Shana Movie",
+        "id": "shakugan-no-shana-the-movie-1943",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c6107b9e10611439612f45ad3f536df.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Fleet Girls Collection KanColle Movie Sequence",
+        "alternativeTitle": "KanColle Movie",
+        "id": "fleet-girls-collection-kancolle-movie-sequence-1462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6e5b0e52e01c15909bb36bc1a76a420.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Naruto: The Cross Roads",
+        "alternativeTitle": "Naruto: The Cross Roads",
+        "id": "naruto-the-cross-roads-4291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99d7c753d9535c0d91858e4dd2a8d939.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "Wanna Be the Strongest in the World",
+        "alternativeTitle": "Sekai de Ichiban Tsuyoku Naritai!",
+        "id": "wanna-be-the-strongest-in-the-world-8522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f008e42d00c9b5af3fbd9b1c996cbb4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sekai de Ichiban Tsuyoku Naritai! Specials",
+        "alternativeTitle": "Sekai de Ichiban Tsuyoku Naritai! Specials",
+        "id": "sekai-de-ichiban-tsuyoku-naritai-specials-8697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21d9f62c92a0174774a995d64f3fe4d0.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Shakugan no Shana: Season I",
+        "alternativeTitle": "Shakugan no Shana",
+        "id": "shakugan-no-shana-season-i-1474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46b469f368cc095a724912d50d51229a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Genocyber",
+        "alternativeTitle": "Genocyber",
+        "id": "genocyber-8494",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79878e6e3687d880f6f0c53a04737d63.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "One Piece: Defeat the Pirate Ganzack!",
+        "alternativeTitle": "One Piece: Taose! Kaizoku Ganzack",
+        "id": "one-piece-defeat-the-pirate-ganzack-4498",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf42f6e03566212945df91b25bb62510.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "ONE PIECE FILM GOLD 〜episode 0〜",
+        "alternativeTitle": "One Piece Film: Gold Episode 0 - 711 ver.",
+        "id": "one-piece-film-gold-episode-0-2853",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4b191bf7af9d38d4548af84d3c1573b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Steamboy",
+        "alternativeTitle": "Steamboy",
+        "id": "steamboy-2088",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f055c77ca435777057d49707e9ed59a2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "126m"
+      },
+      {
+        "title": "One Piece Special: Adventure in the Ocean's Navel",
+        "alternativeTitle": "One Piece: Umi no Heso no Daibouken-hen",
+        "id": "one-piece-special-adventure-in-the-oceans-navel-2348",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/878cfee15c8fab4b1341462f72461cad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "49m"
+      },
+      {
+        "title": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
+        "alternativeTitle": "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+        "id": "one-piece-special-open-upon-the-great-sea-a-fathers-huge-huge-dream-2347",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f76225081860e89adacad5ef06af20f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "46m"
+      },
+      {
+        "title": "One Piece Recap",
+        "alternativeTitle": "One Piece Recap",
+        "id": "one-piece-recap-2836",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80cbbff9ab97108fb57908d05930133a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Demon Slayer Movie: Mugen Train",
+        "alternativeTitle": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "id": "kimetsu-no-yaiba-movie-mugen-ressha-hen-15763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab45afa989aa5a2e06ef973c8482b015.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "alternativeTitle": "Kimetsu no Yaiba",
+        "id": "demon-slayer-kimetsu-no-yaiba-47",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30df93feaa422101659e14d0a2a2f582.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Area 88 (TV)",
+        "alternativeTitle": "Area 88 (TV)",
+        "id": "area-88-tv-3489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a2ea6ff861e3e0eacd8ebe06050f785.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Muteking the Dancing Hero",
+        "alternativeTitle": "Muteking the Dancing Hero",
+        "id": "muteking-the-dancing-hero-15821",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59fb0cd1a1c011ff219b80503301443c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "IS: Infinite Stratos 2: Long Vacation Edition - The Memories of One Summer",
+        "alternativeTitle": "IS: Infinite Stratos 2 - Hitonatsu no Omoide",
+        "id": "is-infinite-stratos-2-long-vacation-edition-the-memories-of-one-summer-3798",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d10cf58ad5ab8c250a49af633da7d5c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "39m"
+      },
+      {
+        "title": "Muv-Luv Alternative",
+        "alternativeTitle": "Muv-Luv Alternative",
+        "id": "muv-luv-alternative-17193",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f943c60471afadedca9ff65215084eda.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sumomomo Momomo: Chijou Saikyou no Yome",
+        "alternativeTitle": "Sumomomo Momomo: Chijou Saikyou no Yome",
+        "id": "sumomomo-momomo-chijou-saikyou-no-yome-3857",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e892b4a9d8d3934b940412cac73cba7.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "elDLIVE",
+        "alternativeTitle": "ēlDLIVE",
+        "id": "eldlive-7272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81105088c52529efb933b8705c2b9732.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Drowning Sorrows in Raging Fire",
+        "alternativeTitle": "Lie Huo Jiao Chou",
+        "id": "drowning-sorrows-in-raging-fire-17360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd0e3f57a00a64c5405672ccaab795c8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "15m"
+      }
+    ]
+  }
+}

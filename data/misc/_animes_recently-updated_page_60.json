@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 60,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Kanamewo",
+        "alternativeTitle": "Kanamewo",
+        "id": "kanamewo-4642",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57c44d71934aa219e26ee91515b649da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Nightsong of Splendor",
+        "alternativeTitle": "Kasei Yakyoku",
+        "id": "nightsong-of-splendor-4898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4585bf6f8e13f375a033af00f3ab4951.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Sword Art Online: Alicization - Recollection",
+        "alternativeTitle": "Sword Art Online: Alicization - Recollection",
+        "id": "sword-art-online-alicization-recollection-5154",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1ee1fe36a5e46ff7b69b20ddd16fb87.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Granblue Fantasy The Animation Season 2 Extras",
+        "alternativeTitle": "Granblue Fantasy The Animation Season 2 Extras",
+        "id": "granblue-fantasy-the-animation-season-2-extras-5410",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8db90af258e57c18e7414e2b00924bd1.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "KO Century Beast Warriors",
+        "alternativeTitle": "KO Seiki Beast Sanjuushi",
+        "id": "ko-century-beast-warriors-5666",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ab0feae3184792f296ce70bbfe66f2c.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Seiyu's Life!: Petit Uchiage",
+        "alternativeTitle": "Sore ga Seiyuu!: Petit Uchiage",
+        "id": "seiyus-life-petit-uchiage-5922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db9fef6e514b53e9de2ee08467d59605.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "14m"
+      },
+      {
+        "title": "Kaifeng Strange Tales: This Lord Bao is Not That Great",
+        "alternativeTitle": "Kai Feng Qitan: Zhege Baogong Bu Taixing",
+        "id": "kaifeng-strange-tales-this-lord-bao-is-not-that-great-7202",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9462785b86dcc68e087cbc5b1fae1646.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Tattoon Master",
+        "alternativeTitle": "Tattoon Master",
+        "id": "tattoon-master-7458",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98fd21628ce989357b319b2317cf73c8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Joshi Kausei",
+        "alternativeTitle": "Joshikausei",
+        "id": "joshi-kausei-8738",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95c15f14a6cdf9e72006e3d4bdfc4885.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Glasslip",
+        "alternativeTitle": "Glasslip",
+        "id": "glasslip-9506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5daca33cbef98d5e9a60a3f648da889.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Cosmopolitan Prayers",
+        "alternativeTitle": "Chou Henshin Cosprayers",
+        "id": "the-cosmopolitan-prayers-10274",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/859c34a96cdd00f0afdfd1fb1b7bed7d.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "8m"
+      },
+      {
+        "title": "Eien no 831",
+        "alternativeTitle": "Eien no 831",
+        "id": "eien-no-831-17954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42677b31ab740b6d438140cc653198dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "105m"
+      },
+      {
+        "title": "Binan Koukou Chikyuu Bouei-bu Eternal Love!",
+        "alternativeTitle": "Binan Koukou Chikyuu Bouei-bu Eternal Love!",
+        "id": "binan-koukou-chikyuu-bouei-bu-eternal-love-19490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86bf849617a7df87e75102b376a7ead3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "81m"
+      },
+      {
+        "title": "Haikyuu!!: To the Top 2nd Season",
+        "alternativeTitle": "Haikyuu!!: To the Top 2nd Season",
+        "id": "haikyuu-to-the-top-2nd-season-35",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b956e64e19a837a10b881c05fa81455.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aria the Natural",
+        "alternativeTitle": "Aria the Natural",
+        "id": "aria-the-natural-291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c626937b602dd72623a039917da6988c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai",
+        "alternativeTitle": "Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai",
+        "id": "sekaiichi-hatsukoi-movie-yokozawa-takafumi-no-baai-547",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fe7ef0b91b86c00f6db6903e8c1628d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "IDOLiSH7",
+        "alternativeTitle": "IDOLiSH7",
+        "id": "idolish7-803",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7563a120d632cfcd49357b43fea4377.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 0,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fairy Tail Final Series",
+        "alternativeTitle": "Fairy Tail: Final Series",
+        "id": "fairy-tail-final-series-1315",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d876e1c356745d40d55f5c033626d14.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Goblin Slayer",
+        "alternativeTitle": "Goblin Slayer",
+        "id": "goblin-slayer-1571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32c878db0dd447d3bd2737144d043412.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
+        "alternativeTitle": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+        "id": "shimoneta-a-boring-world-where-the-concept-of-dirty-jokes-doesnt-exist-2083",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ddea188767aa58614d0ec70ee5bf823.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "MÄR: Märchen Awakens Romance",
+        "alternativeTitle": "MÄR",
+        "id": "mar-marchen-awakens-romance-2339",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/071552c5bca231fd1d83daf38256c55b.jpg",
+        "episodes": {
+          "sub": 102,
+          "dub": 0,
+          "eps": 102
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Oh! Edo Rocket",
+        "alternativeTitle": "Oh! Edo Rocket",
+        "id": "oh-edo-rocket-2595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4514b367d4d88fe22035efd9c8d5d227.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+        "alternativeTitle": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+        "id": "yokohama-kaidashi-kikou-quiet-country-cafe-2851",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba0f1b52d37d63777e7ad51b9049b3a2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Birdy the Mighty",
+        "alternativeTitle": "Tetsuwan Birdy",
+        "id": "birdy-the-mighty-3107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09fd690406d0e751b55f3db8b60b404b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Lagrange: The Flower of Rin-ne Season 2",
+        "alternativeTitle": "Rinne no Lagrange Season 2",
+        "id": "lagrange-the-flower-of-rin-ne-season-2-3619",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec858f4ac3f1c4c0fff9cf5bd8a41ed8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Idaten Jump",
+        "alternativeTitle": "[RAW] Idaten Jump",
+        "id": "raw-idaten-jump-3875",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bd92b05e61ddc0d207f890c88b889dc.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Future Card Buddyfight",
+        "alternativeTitle": "Future Card Buddyfight",
+        "id": "future-card-buddyfight-4387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4530fc1e791ff7623e903d214c7850be.jpg",
+        "episodes": {
+          "sub": 64,
+          "dub": 64,
+          "eps": 64
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Katsugeki Touken Ranbu",
+        "alternativeTitle": "Katsugeki/Touken Ranbu",
+        "id": "katsugeki-touken-ranbu-4643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e7840b694a70fc08c8223dfc5c2a522.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Girl Meets Girl",
+        "alternativeTitle": "Kashimashi: Girl Meets Girl",
+        "id": "girl-meets-girl-4899",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22a07ae77fb9dd3e917d5d6c646616b2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Transformers Victory",
+        "alternativeTitle": "Tatakae! Chou Robot Seimeitai Transformers Victory",
+        "id": "transformers-victory-5155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/443a5f17225084cba9b53d0a331557f7.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kochoki",
+        "alternativeTitle": "Kochouki: Wakaki Nobunaga",
+        "id": "kochoki-5667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bddd67ed166908298779341751b7d02c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blue Dragon",
+        "alternativeTitle": "Blue Dragon",
+        "id": "blue-dragon-6179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41cf15717e16011db1ea39a4b1f713bc.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars",
+        "alternativeTitle": "Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars",
+        "id": "ginga-tetsudou-no-yoru-fantasy-railroad-in-the-stars-6435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0647830e48e5d6a148405ccc8e971c0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "[RAW] Chouja Raideen",
+        "alternativeTitle": "[RAW] Chouja Raideen",
+        "id": "chouja-raideen-6691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ddb48e13cbec621ac855f806d375739.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Suna no Bara: Yuki no Mokushiroku",
+        "alternativeTitle": "Suna no Bara: Yuki no Mokushiroku",
+        "id": "suna-no-bara-yuki-no-mokushiroku-6947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/957c45ff2720e2413a496f4578e487f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Moeyo Ken TV",
+        "alternativeTitle": "Kidou Shinsengumi Moeyo Ken TV",
+        "id": "moeyo-ken-tv-7203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19bc7ed307456953eda368a2b8d1ad76.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "DNA Sights 999.9",
+        "alternativeTitle": "DNA Sights 999.9",
+        "id": "dna-sights-9999-7715",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a47698abeb0c27f568627d88e6b85f35.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "[RAW] Yobarete Tobidete Akubi-chan",
+        "alternativeTitle": "[RAW] Yobarete Tobidete Akubi-chan",
+        "id": "yobarete-tobidete-akubi-chan-8227",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b0a3ae45fcfbad876236d3de59665e6.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "A Hundred Percents",
+        "alternativeTitle": "100%",
+        "id": "a-hundred-percents-9251",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cac689f88c26396a13e80703a44fcab.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "53m"
+      },
+      {
+        "title": "Fish in the Trap",
+        "alternativeTitle": "Osakana wa Ami no Naka",
+        "id": "fish-in-the-trap-10275",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/141b1d89f26c9fd2d861784acdc23b7c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      }
+    ]
+  }
+}

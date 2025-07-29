@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 11,
+      "currentPage": 3,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "A Bouquet for an Ugly Girl",
+        "alternativeTitle": "Busu ni Hanataba wo.",
+        "id": "a-bouquet-for-an-ugly-girl-19767",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6e5447f50616963c3225364896c8be4.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Delicious Party♡Precure",
+        "alternativeTitle": "Delicious Party♡Precure",
+        "id": "delicious-partyprecure-17945",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ad880700443ac9ec86140e913bf3bf9.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 0,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Demon Hunter 2nd Season",
+        "alternativeTitle": "Cang Yuan Tu 2nd Season",
+        "id": "the-demon-hunter-2nd-season-19495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97165a14541e1fc1d1c7806d17b5d2b7.jpg",
+        "episodes": {
+          "sub": 34,
+          "dub": 0,
+          "eps": 34
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Peerless Battle Spirit",
+        "alternativeTitle": "Jueshi Zhan Hun",
+        "id": "peerless-battle-spirit-19209",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6666eaccda15aeebd73e90a95a0df2f.jpg",
+        "episodes": {
+          "sub": 126,
+          "dub": 0,
+          "eps": 126
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Super Dragon Ball Heroes: Meteor Mission",
+        "alternativeTitle": "Super Dragon Ball Heroes: Meteor Mission",
+        "id": "super-dragon-ball-heroes-meteor-mission-19175",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68df6394d94c6adebbde70fa64a892d4.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Wushen Zhuzai",
+        "alternativeTitle": "Wushen Zhuzai",
+        "id": "wushen-zhuzai-4037",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd7927e81e521af7fb95ed010d6f3fcf.jpg",
+        "episodes": {
+          "sub": 562,
+          "dub": 0,
+          "eps": 562
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Godzilla: Singular Point",
+        "alternativeTitle": "Godzilla: S.P",
+        "id": "godzilla-singular-point-15719",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41365ac1af33ea415577f01d760cbf17.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blade Runner: Black Lotus",
+        "alternativeTitle": "Blade Runner: Black Lotus",
+        "id": "blade-runner-black-lotus-15664",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef0005a77c37e63759499201b781a2eb.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shrouding the Heavens",
+        "alternativeTitle": "Zhe Tian",
+        "id": "shrouding-the-heavens-18635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/774db8f67bda9e97e285f8ce0fa050b5.jpg",
+        "episodes": {
+          "sub": 101,
+          "dub": 0,
+          "eps": 104
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Uchuujin MuuMuu",
+        "alternativeTitle": "Uchuujin MuuMuu",
+        "id": "uchuujin-muumuu-19598",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5558fe41e94b3ee11a89842f1eef075c.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hotel Inhumans",
+        "alternativeTitle": "Hotel Inhumans",
+        "id": "hotel-inhumans-19745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0b4f738f3efefd4439779c09e8ff797.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You and Idol Precure♪",
+        "alternativeTitle": "Kimi to Idol Precure♪",
+        "id": "you-and-idol-precure-19509",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/890b72a89c29f9f02ffe82bdbf1f8298.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "City The Animation",
+        "alternativeTitle": "City The Animation",
+        "id": "city-the-animation-19775",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ff626b07a13f465b0974dc05f628e7a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "27m"
+      },
+      {
+        "title": "With Vengeance",
+        "alternativeTitle": "Kizu darake Seijo yori Houfuku wo Komete",
+        "id": "with-vengeance-19740",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7abcc65667e4eeaf7fc9f4123c447c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "14m"
+      },
+      {
+        "title": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima PLUS",
+        "alternativeTitle": "Hypnosis Mic: Division Rap Battle - Rhyme Anima +",
+        "id": "hypnosismic-division-rap-battle-rhyme-anima-plus-18612",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0a9d0ea71b460c7c0e141906ca04619.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Toilet-Bound Hanako-kun Season 2 Part 2",
+        "alternativeTitle": "Jibaku Shounen Hanako-kun 2 Part 2",
+        "id": "toilet-bound-hanako-kun-season-2-part-2-19771",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31e9bf1d374c8eb4d0011159dbc896c2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cultural Exchange With a Game Centre Girl",
+        "alternativeTitle": "Game Center Shoujo to Ibunka Kouryuu",
+        "id": "cultural-exchange-with-a-game-centre-girl-19761",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4445ab97836dd14b03dfab9c5de6b42a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Peerless Martial Spirit",
+        "alternativeTitle": "Jue Shi Wu Hun",
+        "id": "peerless-martial-spirit-17322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfc2446a6b956c4f3ebaede6f5de2bed.jpg",
+        "episodes": {
+          "sub": 475,
+          "dub": 0,
+          "eps": 475
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Supreme God Emperor Season 2",
+        "alternativeTitle": "Wu Shang Shen Di 2nd Season",
+        "id": "supreme-god-emperor-season-2-18402",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1abaa7f5d440c98591010827e2fe60b.jpg",
+        "episodes": {
+          "sub": 407,
+          "dub": 0,
+          "eps": 407
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "One Step Toward Freedom",
+        "alternativeTitle": "Dubu Xiaoyao",
+        "id": "one-step-toward-freedom-13488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ec9babc641cc191acfbecf93b51a349.jpg",
+        "episodes": {
+          "sub": 445,
+          "dub": 0,
+          "eps": 445
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Everyday Host",
+        "alternativeTitle": "Everyday Host",
+        "id": "everyday-host-19601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/177fae6c9e32aca4db5bdccc6faec97f.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Nyaight of the Living Cat",
+        "alternativeTitle": "Nyaight of the Living Cat",
+        "id": "nyaight-of-the-living-cat-19757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8630e6c2477877ec91fc6585a8ebafa2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kinnikuman: Perfect Origin Arc",
+        "alternativeTitle": "Kinnikuman: Kanpeki Chоujin Shiso-hen",
+        "id": "kinnikuman-perfect-origin-arc-19214",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74f191bc219d61d4f6e18c3add9be486.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Perman (1983)",
+        "alternativeTitle": "Perman",
+        "id": "perman-1983-18142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea29478b5f4562aaa7462549fe9cd0a7.jpg",
+        "episodes": {
+          "sub": 295,
+          "dub": 0,
+          "eps": 526
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Pyramid Game",
+        "alternativeTitle": "Pyramid Game",
+        "id": "pyramid-game-19729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c24c5ef3f733de28d3012d32a813be7.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Bad Girl",
+        "alternativeTitle": "Bad Girl",
+        "id": "bad-girl-19759",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a886802f75f0dfb2b0f5580e480a37c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Demon's Ascension",
+        "alternativeTitle": "Mo Tian Ji",
+        "id": "demons-ascension-19796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1acb384a7399ddde4c5022aa1b997a7.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "The Dangerous Convenience Store",
+        "alternativeTitle": "Wiheomhan Pyeonuijeom",
+        "id": "the-dangerous-convenience-store-19703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/390afd25ae456195af9d7c1cd028aedd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Enter The Garden",
+        "alternativeTitle": "Azuki: Enter The Garden",
+        "id": "enter-the-garden-19156",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eceb1ae6ae089303382cfc6c2efe75b3.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "See You Tomorrow at the Food Court",
+        "alternativeTitle": "Food Court de, Mata Ashita.",
+        "id": "see-you-tomorrow-at-the-food-court-19748",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c6ff7d9c8ee5ea036904162f04d9511.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Be Forever Yamato: Rebel 3199",
+        "alternativeTitle": "Yamato yo, Towa ni: Rebel 3199",
+        "id": "be-forever-yamato-rebel-3199-19192",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2145d1be7ca04b3079c572e8500797d.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "Necronomico and the Cosmic Horror Show",
+        "alternativeTitle": "Necronomico no Cosmic Horror Show",
+        "id": "necronomico-and-the-cosmic-horror-show-19736",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0982ae70f86376971ddbdab4bbacb76.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nine: Ruler's Crown",
+        "alternativeTitle": "9: Ruler's Crown",
+        "id": "nine-rulers-crown-19741",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdeccca4a2f866aba719dcdb640cb8e7.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ninjala (TV)",
+        "alternativeTitle": "Ninjala (TV)",
+        "id": "ninjala-tv-17942",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78ff6f4f63f4e6e879164fdb4d43c8e3.jpg",
+        "episodes": {
+          "sub": 137,
+          "dub": 0,
+          "eps": 137
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Against The Sky Supreme",
+        "alternativeTitle": "Ni Tian Zhizun",
+        "id": "against-the-sky-supreme-18646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/079d9f88c5c3149cde06020275571934.jpg",
+        "episodes": {
+          "sub": 253,
+          "dub": 0,
+          "eps": 480
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Embers",
+        "alternativeTitle": "Yujin Xingzhe",
+        "id": "embers-19709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4934288465aa1722c34ab905c4faea17.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Bakugan: Evolutions",
+        "alternativeTitle": "Bakugan: Evolutions",
+        "id": "bakugan-evolutions-18037",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a4f42f4670502584b7381d19cf788ed.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Bullet/Bullet",
+        "alternativeTitle": "Bullet/Bullet",
+        "id": "bulletbullet-19726",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d632a9faba80a43fa1c4bf5d98ec97a.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Kamitsubaki City Under Construction",
+        "alternativeTitle": "Kamitsubaki-shi Kensetsuchuu.",
+        "id": "kamitsubaki-city-under-construction-19742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/577e52a7c7e82186ce0ffb9b6f90d743.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lingwu Continent",
+        "alternativeTitle": "Ling Wu Dalu",
+        "id": "lingwu-continent-19295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
+        "episodes": {
+          "sub": 89,
+          "dub": 0,
+          "eps": 89
+        },
+        "type": "ONA",
+        "duration": "10m"
+      }
+    ]
+  }
+}

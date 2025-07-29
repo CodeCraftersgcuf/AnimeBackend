@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 38,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Occultic;Nine",
+        "alternativeTitle": "Occultic;Nine",
+        "id": "occulticnine-3748",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f41682f6a6c5d13b8beb0f52801e340.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Space Runaway Ideon",
+        "alternativeTitle": "Densetsu Kyojin Ideon",
+        "id": "space-runaway-ideon-3789",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7320f2a1b40c2d34659dcee251cbfd27.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Serial Experiments Lain",
+        "alternativeTitle": "Serial Experiments Lain",
+        "id": "serial-experiments-lain-503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6369d73882594ca5f30861f74a2b8e9b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nobunaga Concerto",
+        "alternativeTitle": "Nobunaga Concerto",
+        "id": "nobunaga-concerto-1188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7bc283704a27a0663687220e4426777.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Ninja Scroll: The Series",
+        "alternativeTitle": "Juubee Ninpuuchou: Ryuuhougyoku-hen",
+        "id": "ninja-scroll-the-series-4830",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c8b494b1e90898fa300fcc2c7cbec1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "New Game!!",
+        "alternativeTitle": "New Game!!",
+        "id": "new-game-831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b11f084a0ccdb4aa45f2885eb6887ea.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "New Game!",
+        "alternativeTitle": "New Game!",
+        "id": "new-game-1178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1abb426d71ba33f19bc8f62082ca9aad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nyanko Days",
+        "alternativeTitle": "Nyanko Days",
+        "id": "nyanko-days-5233",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64095610d58935da645046d28fb44703.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Null Peta",
+        "alternativeTitle": "Null Peta",
+        "id": "null-peta-6304",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4dc49dfbfe8fee132901be95b6f754fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Occult Academy",
+        "alternativeTitle": "Seikimatsu Occult Gakuin",
+        "id": "occult-academy-3292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80ffe2ff43dd1ca5852c1a1f14fed76b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Natsu no Arashi!",
+        "alternativeTitle": "Natsu no Arashi!",
+        "id": "natsu-no-arashi-2399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c97c45137edbbce2b705d8bc8d3ae58.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Netsuzou Trap -NTR-",
+        "alternativeTitle": "Netsuzou TRap",
+        "id": "netsuzou-trap-ntr-9646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e43063a92ae1410db491df7cd7f9d9fa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Toutotsu ni Egypt Kami",
+        "alternativeTitle": "Toutotsu ni Egypt Shin",
+        "id": "toutotsu-ni-egypt-kami-15587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a66d8da4c0a7c0429a1572387d09334.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Onara Goro",
+        "alternativeTitle": "Onara Gorou",
+        "id": "onara-goro-9377",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce61e9e8cec91f58e5364eadbb8650d7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ninja Collection",
+        "alternativeTitle": "Ninja Collection",
+        "id": "ninja-collection-10668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e96eaf0397fce54b17daf69a54a34f47.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Nazotokine",
+        "alternativeTitle": "Nazotokine",
+        "id": "nazotokine-10365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b87c1ad3e9b56158945c44c528ad734.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Nanana's Buried Treasure",
+        "alternativeTitle": "Ryuugajou Nanana no Maizoukin (TV)",
+        "id": "nananas-buried-treasure-2696",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0966b9f5d74469d2e94fe08525acd54e.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gatchaman",
+        "alternativeTitle": "Kagaku Ninja-tai Gatchaman",
+        "id": "gatchaman-3720",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9956d197072360c5d26a4b4a44ed4abc.jpg",
+        "episodes": {
+          "sub": 105,
+          "dub": 105,
+          "eps": 105
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "NAMUAMIDABUTSU! -UTENA-",
+        "alternativeTitle": "Namu Amida Butsu!: Rendai Utena",
+        "id": "namuamidabutsu-utena-7738",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bbafe4574e4af8a200f2ce150729d4ea.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Summer Storm! Open for Business",
+        "alternativeTitle": "Natsu no Arashi! Akinaichuu",
+        "id": "summer-storm-open-for-business-2231",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56bd36e5f08be4bc72a139e83bdaa5a9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Neo Angelique Abyss: Second Age",
+        "alternativeTitle": "Neo Angelique Abyss: Second Age",
+        "id": "neo-angelique-abyss-second-age-3390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e74042295029a3eec924540dee79b978.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Pretty Cure",
+        "alternativeTitle": "Futari wa Precure",
+        "id": "pretty-cure-3586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46c334d98017151be1e62553ca8951de.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Naked Wolves",
+        "alternativeTitle": "Naked Wolves",
+        "id": "naked-wolves-8436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/929666acf46c1fddb2e97b91949a98f1.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Neo Angelique Abyss",
+        "alternativeTitle": "Neo Angelique Abyss",
+        "id": "neo-angelique-abyss-4100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1bc295642e2252481ded71a85b86f1f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JK-MESHI!",
+        "alternativeTitle": "JK Meshi!",
+        "id": "jk-meshi-10519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6412e272751c0d04ad80d95a35cf3b4f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Rainy Cocoa",
+        "alternativeTitle": "Ame-iro Cocoa",
+        "id": "rainy-cocoa-10446",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2aea8e315576cd3ce0e6a1397b1749f9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Qualidea Code",
+        "alternativeTitle": "Qualidea Code",
+        "id": "qualidea-code-5618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ecdcade712e93a3bb58214954d73444.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tong Ling Fei",
+        "alternativeTitle": "Tong Ling Fei",
+        "id": "tong-ling-fei-829",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df407bff7cec7cc2a1ca97088d6b5b54.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Photon: The Idiot Adventures",
+        "alternativeTitle": "Photon",
+        "id": "photon-the-idiot-adventures-3289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/250f65ae28b13e1dffd98d58079bdf59.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Joker Game",
+        "alternativeTitle": "Joker Game",
+        "id": "joker-game-3355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec14ee958253f60d03732acf06c28986.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pikotaro's Lullaby La La By (TV)",
+        "alternativeTitle": "Pikotarou no Lullaby Lullaby (TV)",
+        "id": "pikotaros-lullaby-la-la-by-tv-9323",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f2c07d565abac95e8d78b880500965c.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Oneechan ga Kita",
+        "alternativeTitle": "Oneechan ga Kita",
+        "id": "oneechan-ga-kita-6305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ccf9ff3e8c4bcacf3d5607631314e16.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Juni Taisen: Zodiac War",
+        "alternativeTitle": "Juuni Taisen",
+        "id": "juni-taisen-zodiac-war-5497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3a593e6d1c537b7e9cdb9da45fa3747.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "alternativeTitle": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-bunny-girl-senpai-149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11ce0781db5a024b36461797ac4d4db7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Piacevole: My Italian Cooking",
+        "alternativeTitle": "Piace: Watashi no Italian",
+        "id": "piacevole-my-italian-cooking-8409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d99ff4589963ba81cc852a8cd0cdcb54.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "One Room",
+        "alternativeTitle": "One Room",
+        "id": "one-room-9215",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7c9846544417b7adaeb1190712cdcb4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Persona 4 the Golden ANIMATION",
+        "alternativeTitle": "Persona 4 the Golden Animation",
+        "id": "persona-4-the-golden-animation-5062",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d79e5be1b5ce903d49d028c21757b75.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Room Second Season",
+        "alternativeTitle": "One Room Second Season",
+        "id": "one-room-second-season-7392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/743e4a10f3613e7dda65e9e3c16e3d26.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Phantom in the Twilight",
+        "alternativeTitle": "Phantom in the Twilight",
+        "id": "phantom-in-the-twilight-6106",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f815668c858631ce27194abeedfb8596.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Parasyte -the maxim-",
+        "alternativeTitle": "Kiseijuu: Sei no Kakuritsu",
+        "id": "parasyte-the-maxim-136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/076dd094add6f1d9c8bfa1a010af8487.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 108,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Baccano!",
+        "alternativeTitle": "Baccano!",
+        "id": "baccano-129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/799e20886574444d86896803ee6a23d3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Made in Abyss Movie 1: Journey's Dawn",
+        "alternativeTitle": "Made in Abyss Movie 1: Tabidachi no Yoake",
+        "id": "made-in-abyss-movie-1-journeys-dawn-424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a10c4e42d3800be2075c548ba10c24dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Made in Abyss Movie 2: Wandering Twilight",
+        "alternativeTitle": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+        "id": "made-in-abyss-movie-2-wandering-twilight-225",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4f4d6d100fffdbc11cb82c4514fa652.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Tokyo Ghoul: \"Pinto\"",
+        "alternativeTitle": "Tokyo Ghoul: \"Pinto\"",
+        "id": "tokyo-ghoul-pinto-2280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15fd320fc66dff2571176ee4a0402555.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Major Movie: Yuujou no Winning Shot",
+        "alternativeTitle": "Major Movie: Yuujou no Winning Shot",
+        "id": "major-movie-yuujou-no-winning-shot-489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b0a6e18d168a4811b71b7b73ebf878a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Kirakira☆Precure A La Mode",
+        "alternativeTitle": "Kirakira☆Precure A La Mode",
+        "id": "kirakiraprecure-a-la-mode-3971",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/321150404cf6c2c990ac63bc647ff1e4.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Samurai Champloo",
+        "alternativeTitle": "Samurai Champloo",
+        "id": "samurai-champloo-98",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ce2e104272b8200c4fdc9485a2c5ad3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Steel Angel Kurumi",
+        "alternativeTitle": "Koutetsu Tenshi Kurumi",
+        "id": "steel-angel-kurumi-4454",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8f166692c227631254f9a25cb9bff7a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Baccano! Specials",
+        "alternativeTitle": "Baccano! Specials",
+        "id": "baccano-specials-338",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b0d3e35f8ae257c104c1d5d682b9c01.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "Gleipnir",
+        "alternativeTitle": "Gleipnir",
+        "id": "gleipnir-3377",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af53ff68b87e37e2faa4f73043cac3b1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Noblesse",
+        "alternativeTitle": "Noblesse",
+        "id": "noblesse-4006",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7330176d8155ec4403de893e719b97ee.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Irregular at Magic High School: Visitor Arc",
+        "alternativeTitle": "Mahouka Koukou no Rettousei: Raihousha-hen",
+        "id": "the-irregular-at-magic-high-school-visitor-arc-631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b72b138f65d03a6088ca4ac5ef1f0881.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Day I Became a God",
+        "alternativeTitle": "Kamisama ni Natta Hi",
+        "id": "the-day-i-became-a-god-15757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53b70f158dd6299da500a0fa7f8b1faf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Warlords of Sigrdrifa",
+        "alternativeTitle": "Senyoku no Sigrdrifa",
+        "id": "warlords-of-sigrdrifa-5261",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b78b0539df9ea06fb74a23702a26925.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tenchi Muyou!",
+        "alternativeTitle": "Tenchi Muyou!",
+        "id": "tenchi-muyou-1734",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/737791945b195ed66555e6c0baed2074.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tenchi Muyou! GXP",
+        "alternativeTitle": "Tenchi Muyou! GXP",
+        "id": "tenchi-muyou-gxp-2785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fdd3962c805e98d0c86aebfe3e1a29a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sasami Magical Girls Club 2nd Season",
+        "alternativeTitle": "Sasami: Mahou Shoujo Club 2",
+        "id": "sasami-magical-girls-club-4659",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd17f9de11dec64f5e7663515fb33629.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sasami Magical Girls Club",
+        "alternativeTitle": "Sasami: Mahou Shoujo Club",
+        "id": "sasami-magical-girls-club-5164",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1635857ca43ca66b652b33b6a1a67b6c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Magical Girl Pretty Sammy OVA",
+        "alternativeTitle": "Mahou Shoujo Pretty Sammy OVA",
+        "id": "magical-girl-pretty-sammy-ova-6285",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6511486f49c29b449766e9ecec55e012.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Phantom: Requiem for the Phantom",
+        "alternativeTitle": "Phantom: Requiem for the Phantom",
+        "id": "phantom-requiem-for-the-phantom-501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70132a601fabcb54d101e8b93db8c5e9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dual! Parallel Runrun Monogatari Special;",
+        "alternativeTitle": "Dual! Parallel Runrun Monogatari Special;",
+        "id": "dual-parallel-runrun-monogatari-special-3872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62400c1810ab525f2ca0c331b23518cc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "Dual! Parallel Trouble Adventure",
+        "alternativeTitle": "Dual! Parallel Lun-Lun Monogatari",
+        "id": "dual-parallel-trouble-adventure-3171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db3cbe46cc25851954a625511966b610.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Seraph of the End: Vampire Reign",
+        "alternativeTitle": "Owari no Seraph",
+        "id": "seraph-of-the-end-vampire-reign-1536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d93a1caa9551838b22f994a015c5a0b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Majikoi: Oh! Samurai Girls",
+        "alternativeTitle": "Maji de Watashi ni Koi Shinasai!",
+        "id": "majikoi-oh-samurai-girls-4405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e69bf71f8b12f55f3907cbb0ce8fd89.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Seraph of the End: Battle in Nagoya",
+        "alternativeTitle": "Owari no Seraph: Nagoya Kessen-hen",
+        "id": "seraph-of-the-end-battle-in-nagoya-1138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bb4890a5c73e15d50dd4e4a4e004780.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Katanagatari",
+        "alternativeTitle": "Katanagatari",
+        "id": "katanagatari-164",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b04a0e2d1bd69409e3f2eea50d0530a0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "50m"
+      },
+      {
+        "title": "Boogiepop Phantom",
+        "alternativeTitle": "Boogiepop wa Warawanai",
+        "id": "boogiepop-phantom-2901",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d1682743c8f6ec336f3b42828fe87db.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "K-On!: Ura-On!",
+        "alternativeTitle": "K-On!: Ura-On!",
+        "id": "k-on-ura-on-6614",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/673e7e41a2236c1567da7a71cdb51501.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Owari no Seraph: Vampire Shahar",
+        "alternativeTitle": "Owari no Seraph: Kyuuketsuki Shahar",
+        "id": "owari-no-seraph-vampire-shahar-2838",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/136890ba9a5b131f2d58c67ab795d98b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Seraph of the Endless",
+        "alternativeTitle": "Owaranai Seraph",
+        "id": "seraph-of-the-endless-2267",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6780ef917b03fab7a139d1fc243d799e.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Seraph of the Endless",
+        "alternativeTitle": "Owaranai Seraph: Nagoya-hen",
+        "id": "seraph-of-the-endless-2268",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4dd55b5741dab28ed42c525a4fb3ec13.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "K-ON!",
+        "alternativeTitle": "K-On!",
+        "id": "k-on-742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6553154da420862885081f9f7f8db1c2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "K-On!: Live House!",
+        "alternativeTitle": "K-On!: Live House!",
+        "id": "k-on-live-house-743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/303a2f1c6349128a6fc0996fb59c89f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokyo Ghoul √A",
+        "alternativeTitle": "Tokyo Ghoul √A",
+        "id": "tokyo-ghoul-a-3130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8798db1ca7bd21638202c622c770b313.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "alternativeTitle": "Tokyo Ghoul",
+        "id": "tokyo-ghoul-790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6ffd8294e7a5d540d7c462e94400189.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Cockpit",
+        "alternativeTitle": "The Cockpit",
+        "id": "the-cockpit-2679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d493bdbc236c22c66f5e299244647422.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "The Devil is a Part-Timer!",
+        "alternativeTitle": "Hataraku Maou-sama!",
+        "id": "the-devil-is-a-part-timer-724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd20fb570c5eee303116b8a5da84ae0d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Made in Abyss",
+        "alternativeTitle": "Made in Abyss",
+        "id": "made-in-abyss-32",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd3c2fdc4c6ac5fbeb0110e9bfd465d4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "K-On!!: Keikaku!",
+        "alternativeTitle": "K-On!!: Keikaku!",
+        "id": "k-on-keikaku-727",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cce34c4672c2082c0da6f15f82368b9f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Terror in Resonance",
+        "alternativeTitle": "Zankyou no Terror",
+        "id": "terror-in-resonance-380",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96f95b821b6e04dd6f40a36e843dbf27.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      }
+    ]
+  }
+}

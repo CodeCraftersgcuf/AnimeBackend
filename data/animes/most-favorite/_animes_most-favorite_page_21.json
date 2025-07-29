@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 21,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Fate/Grand Order: Absolute Demonic Front - Babylonia",
+        "alternativeTitle": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+        "id": "fategrand-order-absolute-demonic-front-babylonia-564",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71fb9b40457f3bec252b78608ffd0c24.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 21,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragonar Academy",
+        "alternativeTitle": "Seikoku no Dragonar",
+        "id": "dragonar-academy-5515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34383ccdd826863738142948befb58f7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ride Your Wave",
+        "alternativeTitle": "Kimi to, Nami ni Noretara",
+        "id": "ride-your-wave-1622",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b29ee2e66c5bdc6196cf6e40042e7c84.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Ayaka: A Story of Bonds and Wounds",
+        "alternativeTitle": "Ayaka",
+        "id": "ayaka-a-story-of-bonds-and-wounds-18467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/180fcc0036a291329bc80878546bd17d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Goblin Slayer: Goblin",
+        "alternativeTitle": "Goblin Slayer: Goblin's Crown",
+        "id": "goblin-slayer-goblins-crown-2878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042a07b44abbae9af200bc1ca2fdde16.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Dragon Ball Super: Super Hero",
+        "alternativeTitle": "Dragon Ball Super: Super Hero",
+        "id": "dragon-ball-super-super-hero-18232",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3a0c29bf713cc99e35de227eb9c93d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "Bloom Into You",
+        "alternativeTitle": "Yagate Kimi ni Naru",
+        "id": "bloom-into-you-614",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4586f6b9ffd361adec4a9b5461030f54.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Great Jahy Will Not Be Defeated!",
+        "alternativeTitle": "Jahy-sama wa Kujikenai!",
+        "id": "the-great-jahy-will-not-be-defeated-17885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9fc0de8394d935e12357ed3d8358f17.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 20,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "When They Cry",
+        "alternativeTitle": "Higurashi no Naku Koro ni",
+        "id": "when-they-cry-568",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/381a92d1f165eef343d7f97e02bca35a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tales of Wedding Rings [Uncensored]",
+        "alternativeTitle": "Kekkon Yubiwa Monogatari [Uncensored]",
+        "id": "tales-of-wedding-rings-uncensored-18964",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6abee8ef9c3a3f38173dd0bceadf7c35.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Grandpa and Grandma Turn Young Again",
+        "alternativeTitle": "Jiisan Baasan Wakagaeru",
+        "id": "grandpa-and-grandma-turn-young-again-19134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/704b868a055a17ef88820e456a2eccb3.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Seven Mortal Sins",
+        "alternativeTitle": "Sin: Nanatsu no Taizai",
+        "id": "seven-mortal-sins-8934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fe78d8f93076cba64e91779f888e284.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "If it's for My Daughter, I'd Even Defeat a Demon Lord",
+        "alternativeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+        "id": "if-its-for-my-daughter-id-even-defeat-a-demon-lord-3411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1776c83175cd72d9eebf011493881c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Punch Man Specials",
+        "alternativeTitle": "One Punch Man Specials",
+        "id": "one-punch-man-specials-909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/095dbd73ccb0506e0e7ce16021df0924.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Infinite Stratos 2",
+        "alternativeTitle": "IS: Infinite Stratos 2",
+        "id": "infinite-stratos-2-5324",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c139455bc1480a2f35a7b0dc5ba6f4b3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Baccano!",
+        "alternativeTitle": "Baccano!",
+        "id": "baccano-129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/799e20886574444d86896803ee6a23d3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "YU-NO: A girl who chants love at the bound of this world.",
+        "alternativeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+        "id": "yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-5328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/992b9a5f69eb74bf227a6918e729427e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Moriarty the Patriot",
+        "alternativeTitle": "Yuukoku no Moriarty 2nd Season",
+        "id": "moriarty-the-patriot-17269",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2c609590d0bb52e76c753723efae683.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Miss Kobayashi's Dragon Maid Mini Shorts",
+        "alternativeTitle": "Kobayashi-san Chi no Maid Dragon SHORTS",
+        "id": "miss-kobayashis-dragon-maid-mini-shorts-15767",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46199d4c778e0d27b1a4238ea2c29b68.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 4,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Puella Magi Madoka Magica",
+        "alternativeTitle": "Mahou Shoujo Madoka★Magica",
+        "id": "puella-magi-madoka-magica-155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b9cbf5d0461f96c7cb1bf011cfac352.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+        "alternativeTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+        "id": "mushoku-tensei-jobless-reincarnation-season-2-part-2-19147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a0da3af056880ef24fe6c866078b96.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation Specials - Episode 0",
+        "alternativeTitle": "Mushoku Tensei II - Isekai Ittara Honki Dasu Specials - Episode 0",
+        "id": "mushoku-tensei-jobless-reincarnation-specials-episode-0-18495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60a801845f55ad185014e69238ec989f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu Special",
+        "alternativeTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu Special",
+        "id": "mushoku-tensei-isekai-ittara-honki-dasu-special-17953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/224d942822334deba9542b4260642559.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Full Metal Panic!",
+        "alternativeTitle": "Full Metal Panic!",
+        "id": "full-metal-panic-1116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ebd732704f68b961359f07d9fb930a0.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gushing over Magical Girls [Uncensored]",
+        "alternativeTitle": "Mahou Shoujo ni Akogarete [Uncensored]",
+        "id": "gushing-over-magical-girls-uncensored-18952",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/344f05c36a76badc85e40e53d9f9b2db.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "[C] CONTROL - The Money and Soul of Possibility",
+        "alternativeTitle": "C: The Money of Soul and Possibility Control",
+        "id": "c-control-the-money-and-soul-of-possibility-2477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1de5554400a5f340abab357df43abd10.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Re-Main",
+        "alternativeTitle": "Re-Main",
+        "id": "re-main-17670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef591ac1976c4432ffe07ebc522385ce.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Malevolent Spirits: Mononogatari",
+        "alternativeTitle": "Mononogatari",
+        "id": "malevolent-spirits-mononogatari-18300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fb3330b12e98c51a7d3bc3824ba1785.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
+        "alternativeTitle": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
+        "id": "my-daughter-left-the-nest-and-returned-an-s-rank-adventurer-18565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a004f970383d06535ce6941adcda627.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Heaven's Lost Property",
+        "alternativeTitle": "Sora no Otoshimono",
+        "id": "heavens-lost-property-1924",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78b67eddf1c29cdbc28d2d5a23918e44.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Demon Slayer: The Hashira Meeting Arc",
+        "alternativeTitle": "Demon Slayer: The Hashira Meeting Arc",
+        "id": "demon-slayer-the-hashira-meeting-arc-17859",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4db3749989c98cd4a4513b003737e8d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "160m"
+      },
+      {
+        "title": "SERVAMP",
+        "alternativeTitle": "Servamp",
+        "id": "servamp-3755",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fd6cc16c3de098e5e0e3640ffbe049e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball Super: Broly",
+        "alternativeTitle": "Dragon Ball Super Movie: Broly",
+        "id": "dragon-ball-super-broly-387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b138786ca53a86413d89806cb6836dd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Tower of God Season 2: Workshop Battle",
+        "alternativeTitle": "Kami no Tou: Koubou-sen",
+        "id": "tower-of-god-season-2-workshop-battle-19400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae16a38c56edc0cc5a89f6454d7c8460.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blood Blockade Battlefront & Beyond",
+        "alternativeTitle": "Kekkai Sensen & Beyond",
+        "id": "blood-blockade-battlefront-beyond-651",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc9b009bd7b2362aeca473d86467e258.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Iroduku: The World in Colors",
+        "alternativeTitle": "Irozuku Sekai no Ashita kara",
+        "id": "iroduku-the-world-in-colors-1386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a569070be76671124b3c60f0c539e36b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beelzebub",
+        "alternativeTitle": "Beelzebub",
+        "id": "beelzebub-624",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd0489c24f51d5b2d6632bd4f10f4621.jpg",
+        "episodes": {
+          "sub": 60,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Uzumaki: Spiral into Horror",
+        "alternativeTitle": "Uzumaki",
+        "id": "uzumaki-spiral-into-horror-15600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31391cad058098cf6a14359829468bea.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "0m"
+      },
+      {
+        "title": "Over the Sky",
+        "alternativeTitle": "Kimi wa Kanata",
+        "id": "over-the-sky-15764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f402e8b836e5122ca9d3dc7be66b11a7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+        "alternativeTitle": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+        "id": "the-seven-deadly-sins-four-knights-of-the-apocalypse-18588",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abf03e6cea6b5c949d9435e945c0fcd7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

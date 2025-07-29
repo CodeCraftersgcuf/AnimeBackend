@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 153,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Mokei Senshi Gunpla Builders Beginning G",
+        "alternativeTitle": "Mokei Senshi Gunpla Builders Beginning G",
+        "id": "mokei-senshi-gunpla-builders-beginning-g-5002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59e88cc9de02f84b978eec452e01d9dd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Tamayura: More Aggressive",
+        "alternativeTitle": "Tamayura: More Aggressive",
+        "id": "tamayura-more-aggressive-1421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0ed8f0bb3189067535379cfb1062695.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Girls & Panzer: Dai 63-kai Senshadou Zenkoku Koukousei Taikai Recap",
+        "alternativeTitle": "Girls & Panzer: Dai 63-kai Senshadou Zenkoku Koukousei Taikai Recap",
+        "id": "girls-panzer-dai-63-kai-senshadou-zenkoku-koukousei-taikai-recap-3420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3025d5752fee221e19ddbe6608949e51.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "122m"
+      },
+      {
+        "title": "Magical Play",
+        "alternativeTitle": "Mahou Yuugi 2D",
+        "id": "magical-play-6377",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e597a6611261bb88ac453295c888cb6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Captain Harlock: Arcadia of my Youth",
+        "alternativeTitle": "Waga Seishun no Arcadia",
+        "id": "captain-harlock-arcadia-of-my-youth-1543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdb317bab11cefcf11918bed4ce439b5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "Rowdy Sumo Wrestler Matsutaro!!",
+        "alternativeTitle": "Abarenbou Rikishi!! Matsutarou",
+        "id": "rowdy-sumo-wrestler-matsutaro-7514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67260a1d6c6e22fb14e297e90c1014fb.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Kakyusei 2",
+        "alternativeTitle": "Kakyuusei 2: Hitomi no Naka no Shoujo-tachi",
+        "id": "kakyusei-2-8301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae72e69e609042fcbf8159fcf92c5b66.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "G-On Riders Special",
+        "alternativeTitle": "G-On Riders Special",
+        "id": "g-on-riders-special-8904",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/295b1bf1a891ecb44c306ecabed73ee8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaikan Phrase",
+        "alternativeTitle": "Kaikan Phrase",
+        "id": "kaikan-phrase-1889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fcb87276dae6f7b83e4c7591a2e4c47.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hagane Orchestra",
+        "alternativeTitle": "Hagane Orchestra",
+        "id": "hagane-orchestra-9161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2423e19fa1c92db827923afe23e849f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Fairy Musketeers",
+        "alternativeTitle": "Otogi Juushi Akazukin",
+        "id": "fairy-musketeers-3750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f0194fd7a496f3bebaeba8c7d0ad725.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Macross 7 Plus",
+        "alternativeTitle": "Macross 7 Plus",
+        "id": "macross-7-plus-4533",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca976820175790cbc4d014385266061e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Be-Bop Kaizokuban",
+        "alternativeTitle": "Be-Bop Kaizokuban",
+        "id": "be-bop-kaizokuban-13024",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d718b1eb23ac7d3aba2e83350b156d94.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Ryu the Primitive Boy",
+        "alternativeTitle": "Genshi Shounen Ryuu",
+        "id": "ryu-the-primitive-boy-6699",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/802e023ba1fb9cf8a440715e93e68eb2.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Wei, Kanjian Erduo La! 2",
+        "alternativeTitle": "Wei, Kanjian Erduo La! 2",
+        "id": "wei-kanjian-erduo-la-2-1872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb11590227fcaa5612e0f5c36c0a7970.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Huyao Xiao Hongniang: Jin Chenxi",
+        "alternativeTitle": "Huyao Xiao Hongniang: Jin Chenxi",
+        "id": "huyao-xiao-hongniang-jin-chenxi-3668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc1be8a1be155a884accc078ec249dc.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Tonbo! Season 2",
+        "alternativeTitle": "Ooi! Tonbo 2nd Season",
+        "id": "tonbo-season-2-19370",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf149d033f66bc394bd96c5ea5adb8d3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 12,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Animation Runner Kuromi",
+        "alternativeTitle": "Animation Seisaku Shinkou Kuromi-chan",
+        "id": "animation-runner-kuromi-3864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31a440f27c245f8782d67e5d3cc71b83.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "38m"
+      },
+      {
+        "title": "Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?",
+        "alternativeTitle": "Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?",
+        "id": "zettai-karen-children-ova-aitazousei-ubawareta-mirai-2620",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5cca6b52c4fbaaa910d41b22523f8bcc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Fireball Gebaude Baude",
+        "alternativeTitle": "Gebäude Bäude",
+        "id": "fireball-gebaude-baude-17267",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a5ca28d34276f926d0eddd6c5f9958c.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Be Forever Yamato",
+        "alternativeTitle": "Yamato yo Towa ni",
+        "id": "be-forever-yamato-5245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d75be4a3ced6a15412395fa9aed3402c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "148m"
+      },
+      {
+        "title": "Jewelpet Kira☆Deco!",
+        "alternativeTitle": "Jewelpet Kira☆Deco!",
+        "id": "jewelpet-kiradeco-5129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80e81fcfaafadb0c3599b7df912b60b2.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Macross 7: The Movie - The Galaxy is Calling Me",
+        "alternativeTitle": "Macross 7 Movie: Ginga ga Ore wo Yondeiru!",
+        "id": "macross-7-the-movie-the-galaxy-is-calling-me-3882",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6bc8f6108040dc52a69a8b9417a75bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "33m"
+      },
+      {
+        "title": "Rilakkuma's Theme Park Adventure",
+        "alternativeTitle": "Rilakkuma to Yuuenchi",
+        "id": "rilakkumas-theme-park-adventure-17309",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f84e1a9ba5da1d7c1510d4313f44994.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "Metal Armor Dragonar",
+        "alternativeTitle": "Kikou Senki Dragonar",
+        "id": "metal-armor-dragonar-4900",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1718d8ca0ca46835c4d9b11d20f880b.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yatogame-chan Kansatsu Nikki 4th Sea",
+        "alternativeTitle": "Yatogame-chan Kansatsu Nikki 4th Season",
+        "id": "yatogame-chan-kansatsu-nikki-4th-sea-17998",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3ff3e7ce2bed6c626413be1561e7071.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Saishuu Shiken Kujira Progressive",
+        "alternativeTitle": "Saishuu Shiken Kujira Progressive",
+        "id": "saishuu-shiken-kujira-progressive-7471",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/752e82793f8f38efddcd767bbded91ce.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Roommates",
+        "alternativeTitle": "Xi Jing Sushe",
+        "id": "roommates-19268",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7656104bb3af1591bc7c5be6e2ed3845.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Chiruran 1/2",
+        "alternativeTitle": "Chiruran: Nibun no Ichi",
+        "id": "chiruran-12-8999",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/733f74a020c981e12de84a53052d32f6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Macross F Movie 2: Sayonara no Tsubasa",
+        "alternativeTitle": "Macross F Movie 2: Sayonara no Tsubasa",
+        "id": "macross-f-movie-2-sayonara-no-tsubasa-573",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24812f7064834916f6b07eae5664cb67.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "114m"
+      },
+      {
+        "title": "Gargoyle of Yoshinaga House",
+        "alternativeTitle": "Yoshinaga-sanchi no Gargoyle",
+        "id": "gargoyle-of-yoshinaga-house-4497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7175cbfc26e514c2d8984a41c64ee53.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hidamari Sketch x 365 Specials",
+        "alternativeTitle": "Hidamari Sketch x 365 Specials",
+        "id": "hidamari-sketch-x-365-specials-920",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e4e9b8c4d273a02bb4d8917ec223d87.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Jungle Taitei (1989)",
+        "alternativeTitle": "Jungle Taitei (1989)",
+        "id": "jungle-taitei-1989-4829",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/729ad688fd16b67ee20db5963cdf1d99.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Maiden Rose",
+        "alternativeTitle": "Hyakujitsu no Bara",
+        "id": "maiden-rose-16130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60f472c28bc5c9c8b9da9d2a92e5e5d8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Iczelion",
+        "alternativeTitle": "Iczer-Girl Iczelion",
+        "id": "iczelion-9004",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b99349951a72f2a0e2a185150185d7dc.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Bono Bono",
+        "alternativeTitle": "Bonobono (TV 2016)",
+        "id": "bono-bono-6535",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a345da1df8b687c8a9b3ba7c671ad38c.jpg",
+        "episodes": {
+          "sub": 154,
+          "dub": 89,
+          "eps": 154
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Galaxy Angel 3",
+        "alternativeTitle": "Galaxy Angel 3",
+        "id": "galaxy-angel-3-2213",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0eac5387a8085b9b2e7451bf99dac8f8.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Princess Jellyfish Specials",
+        "alternativeTitle": "Kuragehime: Eiyuu Retsuden☆",
+        "id": "princess-jellyfish-specials-5417",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14c4d6f44d40b54c73de9f00733f61fc.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "The Blossom Man",
+        "alternativeTitle": "Hanasaka Jiisan",
+        "id": "the-blossom-man-10301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76cf629e973b02e55cba17a356826fb0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "6m"
+      },
+      {
+        "title": "Futari wa Precure: Splash☆Star Maji★Doki♥ Theater",
+        "alternativeTitle": "Futari wa Precure: Splash☆Star Maji★Doki♥ Theater",
+        "id": "futari-wa-precure-splashstar-majidoki-theater-7087",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98e5f338e49178847122288b42c32a9c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "12m"
+      }
+    ]
+  }
+}

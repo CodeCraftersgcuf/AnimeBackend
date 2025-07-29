@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 159,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Zhen Dao Ge 2nd Season",
+        "alternativeTitle": "Zhen Dao Ge 2nd Season",
+        "id": "zhen-dao-ge-2nd-season-18700",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/00d32ca67adc852ca1e622f258a7315c.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Stardust Telepath",
+        "alternativeTitle": "Hoshikuzu Telepath",
+        "id": "stardust-telepath-18595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b192240b0e531f75d4c1cdd658b44e13.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Okubyou na Venus",
+        "alternativeTitle": "Okubyou na Venus",
+        "id": "okubyou-na-venus-9222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b4f433b083ff82a0ca7d4b22b58a0cc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "Azure Nihon Data Center",
+        "alternativeTitle": "Azure Nihon Data Center",
+        "id": "azure-nihon-data-center-10047",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49fe2ae64bee937ab1b995266d3d9c8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Kaina of the Great Snow Sea: Star Sage",
+        "alternativeTitle": "Ooyukiumi no Kaina: Hoshi no Kenja",
+        "id": "kaina-of-the-great-snow-sea-star-sage-18432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7bcdf57e5a2008712593ee528cdbecd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Burn the Witch #0.8",
+        "alternativeTitle": "Burn the Witch #0.8",
+        "id": "burn-the-witch-08-18688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecd743cea3324b4753e3735ae2149354.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Space Cat: The Adventures of Mardock",
+        "alternativeTitle": "Uchuu Neko: Mardock no Bouken",
+        "id": "space-cat-the-adventures-of-mardock-12271",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/879317ab2f18b6670592ac430d22821e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Rascal Does Not Dream of a Sister Venturing Out",
+        "alternativeTitle": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-a-sister-venturing-out-18934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c563da71f1ff4427ee75cc413e75e14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "73m"
+      },
+      {
+        "title": "Gushing over Magical Girls [Uncensored]",
+        "alternativeTitle": "Mahou Shoujo ni Akogarete [Uncensored]",
+        "id": "gushing-over-magical-girls-uncensored-18952",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/344f05c36a76badc85e40e53d9f9b2db.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fluffy Paradise",
+        "alternativeTitle": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
+        "id": "fluffy-paradise-18799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8eb5c6f92a85d2ea805a7812cec2c1e3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Vexations of a Shut-In Vampire Princess",
+        "alternativeTitle": "Hikikomari Kyuuketsuki no Monmon",
+        "id": "the-vexations-of-a-shut-in-vampire-princess-18589",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8aa6e7e042d898d85ab93d880f99015b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dropkick on My Devil!!: End of Century Edition",
+        "alternativeTitle": "Jashin-chan Dropkick \"Seikimatsu-hen\"",
+        "id": "dropkick-on-my-devil-end-of-century-edition-18691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ff4b322b5ea953f7994218af5f1a541.png",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Keio Flying Squadron",
+        "alternativeTitle": "Keio Yugekitai: Katsugeki-hen",
+        "id": "keio-flying-squadron-18790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7cd95e9c95afe4100d4faac02736531.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "9m"
+      },
+      {
+        "title": "Jeremy no Ki",
+        "alternativeTitle": "Jeremy no Ki",
+        "id": "jeremy-no-ki-14301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bc45ae229108dde10dfbaa902c2c3fa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "21m"
+      },
+      {
+        "title": "Zom 100: Bucket List of the Dead",
+        "alternativeTitle": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+        "id": "zom-100-bucket-list-of-the-dead-18423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6b0c0889e49de49b34b3e72fbecbfdf.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Daily Life of the Immortal King 4",
+        "alternativeTitle": "Xian Wang de Richang Shenghuo 4",
+        "id": "the-daily-life-of-the-immortal-king-4-18706",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11370f0ab895f9ecfb438c80b6d80509.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!",
+        "alternativeTitle": "Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.",
+        "id": "my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me-18847",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e670bd9fd14f8659450e9be3d87f517b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Witch and the Beast",
+        "alternativeTitle": "Majo to Yajuu",
+        "id": "the-witch-and-the-beast-18850",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5b5f94c61005c1969923a9676d092ad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chained Soldier",
+        "alternativeTitle": "Mato Seihei no Slave",
+        "id": "chained-soldier-18871",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0fe9094bb5a11c190d4cc4736a5a38e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Delusional Monthly Magazine",
+        "alternativeTitle": "Gekkan Mousou Kagaku",
+        "id": "delusional-monthly-magazine-18745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d7537f85cbd5011c7fc7601bfed2d47.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Delicious in Dungeon",
+        "alternativeTitle": "Dungeon Meshi",
+        "id": "delicious-in-dungeon-18506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45f648679dc0bc867c3229ece67d5e4a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sengoku Youko",
+        "alternativeTitle": "Sengoku Youko",
+        "id": "sengoku-youko-18772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4623195c9641ee6d94c67a4ea4c01be2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shaman King: Flowers",
+        "alternativeTitle": "Shaman King: Flowers",
+        "id": "shaman-king-flowers-18826",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/047641b442c41ae964a1b860ac16ed75.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Foolish Angel Dances with the Devil",
+        "alternativeTitle": "Oroka na Tenshi wa Akuma to Odoru",
+        "id": "the-foolish-angel-dances-with-the-devil-18832",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09bc8e43023088364578211c6261ac23.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Urusei Yatsura (2022) 2nd Season",
+        "alternativeTitle": "Urusei Yatsura (2022) 2nd Season",
+        "id": "urusei-yatsura-2022-2nd-season-18835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f56b13e4f855e09bd1bb26fecbfbe55.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Metallic Rouge",
+        "alternativeTitle": "Metallic Rouge",
+        "id": "metallic-rouge-18844",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af079457fb4f53196f1feaa0d9a48e7d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hokkaido Gals Are Super Adorable!",
+        "alternativeTitle": "Dosanko Gal wa Namara Menkoi",
+        "id": "hokkaido-gals-are-super-adorable-18853",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24ba624cdf5d637738ce5fa08354b62c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Zhen Dao Ge Specials",
+        "alternativeTitle": "Zhen Dao Ge: Tebie Pian",
+        "id": "zhen-dao-ge-specials-18703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/866e140462616e70afb416b875f275a7.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Tales of Wedding Rings [Uncensored]",
+        "alternativeTitle": "Kekkon Yubiwa Monogatari [Uncensored]",
+        "id": "tales-of-wedding-rings-uncensored-18964",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6abee8ef9c3a3f38173dd0bceadf7c35.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shangri-La Frontier Special",
+        "alternativeTitle": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su Recap",
+        "id": "shangri-la-frontier-special-18973",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e691590340c27a39972959e15efe5c8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
+        "alternativeTitle": "30-sai made Doutei dato Mahoutsukai ni Nareru Rashii",
+        "id": "cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard-18769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20544737590cc9bee591743552a9e594.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gushing over Magical Girls",
+        "alternativeTitle": "Mahou Shoujo ni Akogarete",
+        "id": "gushing-over-magical-girls-18805",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db8251e4890b905e9f08843930798eef.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Doctor Elise: The Royal Lady with the Lamp",
+        "alternativeTitle": "Gekai Elise",
+        "id": "doctor-elise-the-royal-lady-with-the-lamp-18823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee2fa15713a01db5268c9be11b1edeef.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bottom-Tier Character Tomozaki 2nd Stage",
+        "alternativeTitle": "Jaku-Chara Tomozaki-kun 2nd Stage",
+        "id": "bottom-tier-character-tomozaki-2nd-stage-18865",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f631f0c11c5c333af72ceaac559b761c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Synduality: Noir Part 2",
+        "alternativeTitle": "Synduality: Noir Part 2",
+        "id": "synduality-noir-part-2-18754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ab7d30fae806cb5afdb681414dc016d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ishura",
+        "alternativeTitle": "Ishura",
+        "id": "ishura-18817",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa6b91de5d6f22f992ae115507740546.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
+        "alternativeTitle": "Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen",
+        "id": "villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord-18829",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e94cb3492301020bec6c69c3233c778a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tenjin",
+        "alternativeTitle": "Tenjin",
+        "id": "tenjin-18961",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6a391464441b2f8f81d9b66138a2a26.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Mellow",
+        "alternativeTitle": "Mellow",
+        "id": "mellow-15161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78691b1c8ba4cde344db41aa61062d81.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Tis Time for \"Torture,\" Princess",
+        "alternativeTitle": "Himesama \"Goumon\" no Jikan desu",
+        "id": "tis-time-for-torture-princess-18778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e6409575dd1fa50a463c79e0b47f3a7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

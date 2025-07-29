@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 133,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Dirty Pair OVA",
+        "alternativeTitle": "Dirty Pair OVA",
+        "id": "dirty-pair-ova-3170",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44085c772d401143fe61c7fd6e3c46bb.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Kabukibu!",
+        "alternativeTitle": "Kabuki-bu!",
+        "id": "kabukibu-5219",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4fe3c08039aaab8e21647cce9df4eb0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gatchaman",
+        "alternativeTitle": "Kagaku Ninja-tai Gatchaman",
+        "id": "gatchaman-3720",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9956d197072360c5d26a4b4a44ed4abc.jpg",
+        "episodes": {
+          "sub": 105,
+          "dub": 105,
+          "eps": 105
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey",
+        "alternativeTitle": "Space Pirate Captain Herlock: Outside Legend - The Endless Odyssey",
+        "id": "space-pirate-captain-herlock-outside-legend-the-endless-odyssey-2100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0398d2946997a948455fab15726e656.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Magical Girl Lyrical Nanoha: The Movie 2nd A's",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+        "id": "magical-girl-lyrical-nanoha-the-movie-2nd-as-313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b902fd24e809c7981037c2a29b09679.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "149m"
+      },
+      {
+        "title": "Ranma ½: Yomigaeru Kioku",
+        "alternativeTitle": "Ranma ½: Yomigaeru Kioku",
+        "id": "ranma-yomigaeru-kioku-1180",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2827628299d0c4b5d8272e514ffa634.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ranma ½: Akumu! Shunmin Kou",
+        "alternativeTitle": "Ranma ½: Akumu! Shunmin Kou",
+        "id": "ranma-akumu-shunmin-kou-1472",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a00b5fc4a621721a672f84681c66ddd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Gifuu Doudou!!: Kanetsugu to Keiji",
+        "alternativeTitle": "Gifuu Doudou!!: Kanetsugu to Keiji",
+        "id": "gifuu-doudou-kanetsugu-to-keiji-5848",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b546723499b6e4237bba57e984d3fe06.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fire Emblem",
+        "alternativeTitle": "Fire Emblem",
+        "id": "fire-emblem-8989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95e7773a4dc76e65ad6ffb1dbd44e2e1.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Katte ni Kaizou",
+        "alternativeTitle": "Katte ni Kaizou",
+        "id": "katte-ni-kaizou-3910",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0981e9e836544ee01bb6fa1db8f52be.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Shion no Ou",
+        "alternativeTitle": "Shion no Ou",
+        "id": "shion-no-ou-1365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab4e348ab16ddaf7fb60621a156fba66.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kill Me Baby: Butsuzou Kegatte Nise Halloween",
+        "alternativeTitle": "Kill Me Baby: Butsuzou Kegatte Nise Halloween",
+        "id": "kill-me-baby-butsuzou-kegatte-nise-halloween-3565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98a3f78adbccb3b833f1a30e7f985297.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Dragon Collection",
+        "alternativeTitle": "Dragon Collection",
+        "id": "dragon-collection-6916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e55e7939687b13392b3b2e473ddb7f9e.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Genius Party Beyond",
+        "alternativeTitle": "Genius Party Beyond",
+        "id": "genius-party-beyond-2583",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41d44c8d03b149bd8ca6b79057cd82fe.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "15m"
+      },
+      {
+        "title": "Tiger Mask W",
+        "alternativeTitle": "Tiger Mask W",
+        "id": "tiger-mask-w-3626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92de4ddb9358a72eae12d1d224770430.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Switch",
+        "alternativeTitle": "Switch",
+        "id": "switch-3778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83347f84a563941b70ef4bc70a5e5df1.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Major Movie: Yuujou no Winning Shot",
+        "alternativeTitle": "Major Movie: Yuujou no Winning Shot",
+        "id": "major-movie-yuujou-no-winning-shot-489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b0a6e18d168a4811b71b7b73ebf878a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Yes! Precure 5 GoGo!",
+        "alternativeTitle": "Yes! Precure 5 GoGo!",
+        "id": "yes-precure-5-gogo-3111",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8208a691499f48b5e0676645be13006d.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tales of Little Women",
+        "alternativeTitle": "Ai no Wakakusa Monogatari",
+        "id": "tales-of-little-women-1754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2eb97a94e7b93a3d416d4b4026626613.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 48,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kamichu!: The Goddess is a Middle School Student (Specials)",
+        "alternativeTitle": "Kamichu! Specials",
+        "id": "kamichu-the-goddess-is-a-middle-school-student-specials-1575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b71e958ecc6ea8ee3f675aac235254a7.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "The Sword of Dawn",
+        "alternativeTitle": "Changye Kaita Zhe",
+        "id": "the-sword-of-dawn-18193",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2af6bd5fae59eaa7bbcf5ace737c56eb.png",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou",
+        "alternativeTitle": "Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou",
+        "id": "inugami-san-to-nekoyama-san-nekoyama-san-to-onsen-ryokou-5851",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f0a73ff183f1f68c96ce8d6053c4dad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!",
+        "alternativeTitle": "Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!",
+        "id": "sengoku-basara-setonai-no-gekitotsu-hi-wo-fuku-umi-no-daiyousai-fugaku-2782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f349ebae2fc3550292d702df08bf0ea9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Hidamari Sketch x 365",
+        "alternativeTitle": "Hidamari Sketch x 365",
+        "id": "hidamari-sketch-x-365-737",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c58807728d52b51118c85e02552b13b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ryoko's Case File",
+        "alternativeTitle": "Yakushiji Ryouko no Kaiki Jikenbo",
+        "id": "ryokos-case-file-3204",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb726779c2393d19417559e548d437c5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Banner of the Stars II",
+        "alternativeTitle": "Seikai no Senki II",
+        "id": "banner-of-the-stars-ii-753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2da1e2034d3ee5c9eae2f120714d5eec.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Patema Inverted: Beginning of the Day",
+        "alternativeTitle": "Sakasama no Patema: Beginning of the Day",
+        "id": "patema-inverted-beginning-of-the-day-1863",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35d815921d50e7f0f41d9bec72d2c18.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "Fist of the North Star: Legend of Kenshiro",
+        "alternativeTitle": "Hokuto no Ken Zero: Kenshirou Den",
+        "id": "fist-of-the-north-star-legend-of-kenshiro-1631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5297a3e894ca4ae8a4fea04fd1c329c5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Itsudatte My Santa!",
+        "alternativeTitle": "Itsudatte My Santa!",
+        "id": "itsudatte-my-santa-8035",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bfbc166d4fe9ae2b434cf90846ca0dd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Giniro no Olynsis: Tokito",
+        "alternativeTitle": "Giniro no Olynsis: Tokito",
+        "id": "giniro-no-olynsis-tokito-6605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe8c89234fe10813d404b0d3663a3ab0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Music Girls",
+        "alternativeTitle": "Ongaku Shoujo (TV)",
+        "id": "music-girls-8161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32da6a54ec08b04d0a9a907315167b40.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "All Saints Street 3",
+        "alternativeTitle": "Wan Sheng Jie 3",
+        "id": "all-saints-street-3-17969",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a27aca96da8af27d2fdaa2b1a3e1997a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "Dr. Slump: Arale-chan [RAW]",
+        "alternativeTitle": "Dr. Slump: Arale-chan [RAW]",
+        "id": "dr-slump-arale-chan-raw-2906",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bd8e88f0828f5c69560f6cbd82317e7.jpg",
+        "episodes": {
+          "sub": 243,
+          "dub": 0,
+          "eps": 243
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kuttsukiboshi",
+        "alternativeTitle": "Kuttsukiboshi",
+        "id": "kuttsukiboshi-7423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b8ea1a133cdc2db9a92ceeeff65743e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "8 Man After",
+        "alternativeTitle": "Eightman After",
+        "id": "8-man-after-7190",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/964b6c6cda94859bcd0ab82af58068e5.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Stellar Transformation 4th Season",
+        "alternativeTitle": "Xingchen Bian: Po Tian Mi Ju",
+        "id": "stellar-transformation-4th-season-18024",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3d424b18c430ff0268a7e33a4541bed.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "alternativeTitle": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "id": "hibike-euphonium-movie-photo-session-e-youkoso-7885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58da8e2f380c72781a31fde4508dd273.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "4m"
+      },
+      {
+        "title": "Natsunagu!",
+        "alternativeTitle": "Natsunagu!",
+        "id": "natsunagu-8460",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c253cb5e8dbef43387f719550b45867.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "DNA² OVA",
+        "alternativeTitle": "DNA² OVA",
+        "id": "dna2-ova-5402",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7eb7d7dfbd3cfe07cc392d00068410cd.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Megaton-kyuu Musashi 2nd Season",
+        "alternativeTitle": "Megaton-kyuu Musashi 2nd Season",
+        "id": "megaton-kyuu-musashi-2nd-season-18202",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a63c80ec77adabe9bd0521f97e4d80d.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

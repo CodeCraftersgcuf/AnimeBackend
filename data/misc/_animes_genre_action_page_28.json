@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 28,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Super Robot Wars OG: The Inspector",
+        "alternativeTitle": "Super Robot Taisen OG: The Inspector",
+        "id": "super-robot-wars-og-the-inspector-2541",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8b56b39647355987ff1eeca337d07f7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Art Online: Alicization",
+        "alternativeTitle": "Sword Art Online: Alicization",
+        "id": "sword-art-online-alicization-1298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19551cc7bfb4b94894014d2802763913.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sword Art Online Alicization War of Underworld",
+        "alternativeTitle": "Sword Art Online: Alicization - War of Underworld",
+        "id": "sword-art-online-alicization-war-of-underworld-1037",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d603f410f92a9cc7f5a31110c2da8c60.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Gai The Animation",
+        "alternativeTitle": "Sword Gai The Animation",
+        "id": "sword-gai-the-animation-8336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f71f1d50a2cab5c00c036bd88205837.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Katana Maidens: Toji no Miko",
+        "alternativeTitle": "Toji no Miko",
+        "id": "katana-maidens-toji-no-miko-4188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d1f1b17f67bbbd352c81f2688a42903.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Symphogear",
+        "alternativeTitle": "Senki Zesshou Symphogear",
+        "id": "symphogear-3475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a386daf18d1e60df338195620e7931b4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Symphogear G",
+        "alternativeTitle": "Senki Zesshou Symphogear G",
+        "id": "symphogear-g-1662",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d54a08a3dd7d25c9195be0a1abef39f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Symphogear GX",
+        "alternativeTitle": "Senki Zesshou Symphogear GX",
+        "id": "symphogear-gx-1778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dadfc2d1a496eb33313a3ff2d11ea53c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Senki Zesshou Symphogear AXZ",
+        "alternativeTitle": "Senki Zesshou Symphogear AXZ",
+        "id": "senki-zesshou-symphogear-axz-1285",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02d316e5d6da69e849f732da90e10bb0.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Senki Zesshou Symphogear XV",
+        "alternativeTitle": "Senki Zesshou Symphogear XV",
+        "id": "senki-zesshou-symphogear-xv-265",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0ee6cc155556257fe1950a8033d21f7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sorcerer Stabber Orphen",
+        "alternativeTitle": "Majutsushi Orphen",
+        "id": "sorcerer-stabber-orphen-2832",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8147734cb12eb8b48f9bf02c3af983a5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Seven Knights Revolution: The Hero's Successor",
+        "alternativeTitle": "Seven Knights Revolution: Eiyuu no Keishousha",
+        "id": "seven-knights-revolution-the-heros-successor-17496",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9ea71694386e8955063813cdd6e5312.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "SSSS.Dynazenon",
+        "alternativeTitle": "SSSS.Dynazenon",
+        "id": "ssssdynazenon-15563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d744829666ceda17408d9184f299847.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Super High Speed Galvion",
+        "alternativeTitle": "Chou Kousoku Galvion",
+        "id": "super-high-speed-galvion-7799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fa7ee4070c7dd4cbccaa1c9b5fe56d1.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Star☆Twinkle Precure",
+        "alternativeTitle": "Star☆Twinkle Precure",
+        "id": "startwinkle-precure-2603",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a572c134556cf633a1f5b4ca4a88827.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soul Eater NOT!",
+        "alternativeTitle": "Soul Eater NOT!",
+        "id": "soul-eater-not-7980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75f19bf74cbb8a0d91ce28a3d63cc1b4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Soul Eater",
+        "alternativeTitle": "Soul Eater",
+        "id": "soul-eater-655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a94f17d3bde8a93d1b2a52c06faa474.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Katanagatari",
+        "alternativeTitle": "Katanagatari",
+        "id": "katanagatari-164",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b04a0e2d1bd69409e3f2eea50d0530a0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "50m"
+      },
+      {
+        "title": "Samurai Champloo",
+        "alternativeTitle": "Samurai Champloo",
+        "id": "samurai-champloo-98",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ce2e104272b8200c4fdc9485a2c5ad3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Seraph of the End: Vampire Reign",
+        "alternativeTitle": "Owari no Seraph",
+        "id": "seraph-of-the-end-vampire-reign-1536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d93a1caa9551838b22f994a015c5a0b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Seraph of the End: Battle in Nagoya",
+        "alternativeTitle": "Owari no Seraph: Nagoya Kessen-hen",
+        "id": "seraph-of-the-end-battle-in-nagoya-1138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bb4890a5c73e15d50dd4e4a4e004780.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Smile Pretty Cure!",
+        "alternativeTitle": "Smile Precure!",
+        "id": "smile-pretty-cure-4331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7ab7f7e93c8986837fcb4132c8b705f.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "SUPER HXEROS",
+        "alternativeTitle": "Dokyuu Hentai HxEros",
+        "id": "super-hxeros-8679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0841db879c9b4407382cd93b72e42a00.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Seven Senses of the Re'Union",
+        "alternativeTitle": "Shichisei no Subaru",
+        "id": "seven-senses-of-the-reunion-7399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23adcc5d7a8fc238e538279082fdf978.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saber Marionette J",
+        "alternativeTitle": "Saber Marionette J",
+        "id": "saber-marionette-j-2081",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4d39a91a615be85c0dae74799ebbce2.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Saber Marionette J Again",
+        "alternativeTitle": "Saber Marionette J Again",
+        "id": "saber-marionette-j-again-2612",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89e1558bf654d518121366f4f757feec.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Saber Marionette J to X",
+        "alternativeTitle": "Saber Marionette J to X",
+        "id": "saber-marionette-j-to-x-2355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a071f642ec354c4547677dad2ecb0239.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Saber Marionette R",
+        "alternativeTitle": "Saber Marionette R",
+        "id": "saber-marionette-r-5235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e2d66b793b72dac44c35f70b0aa0066.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana",
+        "alternativeTitle": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana",
+        "id": "keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-7963",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8deccda6e35d84e1d7312743ab4a56b8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Steam Detectives",
+        "alternativeTitle": "Kaiketsu Jouki Tanteidan",
+        "id": "steam-detectives-5131",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c279999d742c47cd80842f079460f4fe.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Strike Witches: Road to Berlin",
+        "alternativeTitle": "Strike Witches: Road to Berlin",
+        "id": "strike-witches-road-to-berlin-11831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28d977c2b57f30ed87a1b4ecf30ecded.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Saber Rider and the Star Sheriffs",
+        "alternativeTitle": "Sei Juushi Bismarck",
+        "id": "saber-rider-and-the-star-sheriffs-2615",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed2d41cafcea1dd9fcd4c28688b4e053.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shangri-La",
+        "alternativeTitle": "Shangri-La",
+        "id": "shangri-la-3294",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/944c823b33058dc375f38e6eed431b74.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Senran Kagura: Ninja Flash",
+        "alternativeTitle": "Senran Kagura",
+        "id": "senran-kagura-ninja-flash-6493",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b1032ab96c64a700834ad0c0c304449.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

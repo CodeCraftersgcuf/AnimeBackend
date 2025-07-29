@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 83,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Hell Girl: Fourth Twilight",
+        "alternativeTitle": "Jigoku Shoujo: Yoi no Togi",
+        "id": "hell-girl-fourth-twilight-5662",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23b811c7ec3850c2ca9bd4d6a2f0c7d2.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy",
+        "alternativeTitle": "One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+        "id": "one-piece-special-the-detective-memoirs-of-chief-straw-hat-luffy-2538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e92eef56e90c0a4c2457b68f8da51e3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "42m"
+      },
+      {
+        "title": "Delusional Monthly Magazine",
+        "alternativeTitle": "Gekkan Mousou Kagaku",
+        "id": "delusional-monthly-magazine-18745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d7537f85cbd5011c7fc7601bfed2d47.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cardcaptor Sakura: The Movie",
+        "alternativeTitle": "Cardcaptor Sakura: Movie 1",
+        "id": "cardcaptor-sakura-the-movie-1149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b74df8f5d22e9d191266c40d3fdcabc6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "81m"
+      },
+      {
+        "title": "Senyuu.",
+        "alternativeTitle": "Senyuu.",
+        "id": "senyuu-2082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f1d72d42623af5a64aa022ef0b1eb65.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Someone's Gaze",
+        "alternativeTitle": "Dareka no Manazashi",
+        "id": "someones-gaze-1878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71ff5466993c143c0a146f959e1b7e6d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "6m"
+      },
+      {
+        "title": "Pokémon: Mewtwo Strikes Back—Evolution",
+        "alternativeTitle": "Pokemon Movie 22: Mewtwo no Gyakushuu Evolution",
+        "id": "pokemon-mewtwo-strikes-backevolution-7394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b1414e108b164ded2bc14f5a4638080.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Spicy Girl",
+        "alternativeTitle": "Ma La Nu Pei",
+        "id": "spicy-girl-14985",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/842e77ece45567a8700ac17be8a33d03.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Acro Trip",
+        "alternativeTitle": "Acro Trip",
+        "id": "acro-trip-19360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d19dfa4c4fa2d159fc5503ec47fed75.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Magilumiere Co. Ltd.",
+        "alternativeTitle": "Kabushikigaisha Magi-Lumière",
+        "id": "magilumiere-co-ltd-19357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50dba3709f716a66809e0d8371dc6baf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Godzilla: The Planet Eater",
+        "alternativeTitle": "Godzilla 3: Hoshi wo Kuu Mono",
+        "id": "godzilla-the-planet-eater-6735",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d9ef3a0b037c574d6b42b6a0bc61e77.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Natsu no Arashi!",
+        "alternativeTitle": "Natsu no Arashi!",
+        "id": "natsu-no-arashi-2399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c97c45137edbbce2b705d8bc8d3ae58.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aiura",
+        "alternativeTitle": "Aiura",
+        "id": "aiura-4784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66c723ad62ec6e6aee817600c5976d93.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Cestvs: The Roman Fighter",
+        "alternativeTitle": "Cestvs: The Roman Fighter",
+        "id": "cestvs-the-roman-fighter-17291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0852f0628708172a98a96174d27779b.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Interviews With Monster Girls: The Demi-chans' Summer Break",
+        "alternativeTitle": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+        "id": "interviews-with-monster-girls-the-demi-chans-summer-break-1453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2d277a65ee7fe618fbc007655975c68.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Blue Submarine No. 6",
+        "alternativeTitle": "Ao no 6-gou",
+        "id": "blue-submarine-no-6-3413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/608e4c26c09cee42d37c3d8844789341.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Battle Angel Alita",
+        "alternativeTitle": "Gunnm",
+        "id": "battle-angel-alita-3178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f07a0f51c498662f569aaef4784c2f57.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "One Piece: Take Aim! The Pirate Baseball King",
+        "alternativeTitle": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+        "id": "one-piece-mezase-kaizoku-yakyuu-ou-3391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d09255209e6f32a295d81557416c403.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "5m"
+      },
+      {
+        "title": "My Journey in an Alternate World",
+        "alternativeTitle": "Wo De Yi Jie Zhi Lu",
+        "id": "my-journey-in-an-alternate-world-18026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d54c76f9fe852b34f7099b8a60b5b10.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Dropout Idol Fruit Tart",
+        "alternativeTitle": "Ochikobore Fruit Tart",
+        "id": "dropout-idol-fruit-tart-15500",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5740e41952567626c6f987233cdfb5fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yowamushi Pedal: New Generation",
+        "alternativeTitle": "Yowamushi Pedal: New Generation",
+        "id": "yowamushi-pedal-new-generation-997",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fbd23247d7be76c702aed4eada899587.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "FLCL: Shoegaze",
+        "alternativeTitle": "FLCL: Shoegaze",
+        "id": "flcl-shoegaze-18570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1bc35911c4dfa9fb40f7157dac55c55.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "D-Frag!*",
+        "alternativeTitle": "D-Frag!*",
+        "id": "d-frag-1980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a9c536cdd09022734c2b7463b7afafd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "The Furious Yama",
+        "alternativeTitle": "Da Wang Bu Gaoxing",
+        "id": "the-furious-yama-6267",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcebd2d017f0ded19675989fce71d6ec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Strange Love",
+        "alternativeTitle": "Hen",
+        "id": "strange-love-9889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6f9c3337f8bbd5ead563e1cb25668ad.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Beyblade Burst Dynamite Battle",
+        "alternativeTitle": "Beyblade Burst Dynamite Battle",
+        "id": "beyblade-burst-dynamite-battle-17718",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f8c7846c62b55a4f9d5303518287726.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Star Blazers: Space Battleship Yamato 2199",
+        "alternativeTitle": "Uchuu Senkan Yamato 2199",
+        "id": "star-blazers-space-battleship-yamato-2199-162",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b66ad2cf313c0ca4a29ef9978de6a32c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Jade Dynasty",
+        "alternativeTitle": "Zhu Xian",
+        "id": "jade-dynasty-18139",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/295784fa5c24011005d213c027a7ce48.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Dead Leaves",
+        "alternativeTitle": "Dead Leaves",
+        "id": "dead-leaves-2654",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/642fb5209c5c5072bf321d419858018c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "52m"
+      },
+      {
+        "title": "H2O: Footprints in the Sand",
+        "alternativeTitle": "H2O: Footprints in the Sand",
+        "id": "h2o-footprints-in-the-sand-3270",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73c074c571feeb440f50f33b2e7ee9a5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Captain Tsubasa",
+        "alternativeTitle": "Captain Tsubasa",
+        "id": "captain-tsubasa-2314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/872cdcd93b16984374a9b715ea29774d.jpg",
+        "episodes": {
+          "sub": 128,
+          "dub": 0,
+          "eps": 128
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tanaka-kun wa Kyou mo Kedaruge",
+        "alternativeTitle": "Tanaka-kun wa Kyou mo Kedaruge",
+        "id": "tanaka-kun-wa-kyou-mo-kedaruge-2534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23dea0d43914fdd3230b991364c22ba0.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Ghost Talker's Daydream",
+        "alternativeTitle": "Teizokurei Daydream",
+        "id": "ghost-talkers-daydream-7048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffa8fb76a641dd8190e36211cd46c8c2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Ichiban Ushiro no Daimaou Specials",
+        "alternativeTitle": "Ichiban Ushiro no Daimaou Specials",
+        "id": "ichiban-ushiro-no-daimaou-specials-4562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4c0148136890889d7b5162cf5518cca.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "A3! Season Autumn & Winter",
+        "alternativeTitle": "A3! Season Autumn & Winter",
+        "id": "a3-season-autumn-winter-15633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98345702012a6fe6dc4a93f53ae5183a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Caligula",
+        "alternativeTitle": "Caligula (TV)",
+        "id": "caligula-7797",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/515411938384d6c88e9cbafa485a767d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+        "alternativeTitle": "Full Metal Panic! The Second Raid: Wari to Hima na Sentaichou no Ichinichi",
+        "id": "full-metal-panic-the-second-raid-wari-to-hima-na-sentaichou-no-ichinichi-1060",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f0524dacf359ae3c79558c8d95ef0ca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "30m"
+      },
+      {
+        "title": "009 Re:Cyborg",
+        "alternativeTitle": "009 Re:Cyborg",
+        "id": "009-recyborg-5553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/451a9596347aa509f80116c06b542ae9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "103m"
+      },
+      {
+        "title": "Butlers: Chitose Momotose Monogatari",
+        "alternativeTitle": "Butlers: Chitose Momotose Monogatari",
+        "id": "butlers-chitose-momotose-monogatari-9033",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6dd46544152d16eb6207d94f5940f559.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "\"Ippon\" again!",
+        "alternativeTitle": "Mou Ippon!",
+        "id": "ippon-again-18304",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/687ec0391144d5f85fd1d0d7d85c05b2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "22m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 14,
+      "currentPage": 8,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Arion",
+        "alternativeTitle": "Arion",
+        "id": "arion-7490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e1f81faf8255291b6edad8cf297987b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Ark Nine",
+        "alternativeTitle": "Ark IX",
+        "id": "ark-nine-10046",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85c78fc69e826b99fe89c9c00d8b1091.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "11m"
+      },
+      {
+        "title": "Arknights: Perish in Frost",
+        "alternativeTitle": "Arknights: Fuyukomori Kaerimichi",
+        "id": "arknights-perish-in-frost-18598",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/77a3500e993c85189f493eb2302729a7.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arknights Animation: Prelude to Dawn",
+        "alternativeTitle": "Arknights: Reimei Zensou",
+        "id": "arknights-animation-prelude-to-dawn-18175",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/989587ed4bb13d80711dd8be32854a22.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Arknights: Rise from Ember",
+        "alternativeTitle": "Arknights: Rise from Ember",
+        "id": "arknights-rise-from-ember-19768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/761de12ac14d81fb28a5e991d9db31a9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Armed Blue Gunvolt",
+        "alternativeTitle": "Armed Blue Gunvolt",
+        "id": "armed-blue-gunvolt-8786",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a86698f2be68405f94bafd469df52ec.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "21m"
+      },
+      {
+        "title": "Armitage III",
+        "alternativeTitle": "Armitage III",
+        "id": "armitage-iii-3368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f7566b44f15f0e972833530b557834c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "Armitage III: Dual-Matrix",
+        "alternativeTitle": "Armitage III: Dual-Matrix",
+        "id": "armitage-iii-dual-matrix-4068",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c84bb6f691b641b0fc71db5631d6dc9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Armitage III: Poly-Matrix",
+        "alternativeTitle": "Armitage III: Poly-Matrix",
+        "id": "armitage-iii-poly-matrix-3253",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1bf928d34a9a0401ce4073222307a02.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "ARP Backstage Pass",
+        "alternativeTitle": "ARP Backstage Pass",
+        "id": "arp-backstage-pass-9134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b6b4b4c15bb9c2a14094796d6996fe7.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "ARP Backstage Pass Special",
+        "alternativeTitle": "ARP Backstage Pass Special",
+        "id": "arp-backstage-pass-special-12940",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a06e098d8cd02e18d91d50be2a904108.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Arte",
+        "alternativeTitle": "Arte",
+        "id": "arte-2812",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c88d62f31b2ad3eabfbce92fa413dcf5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Artiswitch",
+        "alternativeTitle": "Artiswitch",
+        "id": "artiswitch-18063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c442e9912c8a617c7e4942663f06c30.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Aru Tabibito no Nikki",
+        "alternativeTitle": "Aru Tabibito no Nikki",
+        "id": "aru-tabibito-no-nikki-2969",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f6b6222b22d7db13f8c4aed81c0bf60.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Aru Tabibito no Nikki Specials",
+        "alternativeTitle": "Aru Tabibito no Nikki Specials",
+        "id": "aru-tabibito-no-nikki-specials-6261",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cbe4781f64b69cfb3cbd8e5c7592860.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+        "alternativeTitle": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+        "id": "arve-rezzle-kikaijikake-no-yousei-tachi-6723",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08c1d01dff7741a292afbba8ed3d12fe.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "Asa made Jugyou Chu!",
+        "alternativeTitle": "Asa made Jugyou Chu!",
+        "id": "asa-made-jugyou-chu-7406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d9ddab481f546eb22209115e94356c0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Ashiaraiyashiki no Juunin-tachi.",
+        "alternativeTitle": "Ashiaraiyashiki no Juunin-tachi.",
+        "id": "ashiaraiyashiki-no-juunin-tachi-10200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/896f108170ad422575b98f414cf0bc0b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "6m"
+      },
+      {
+        "title": "Attack on Tomorrow",
+        "alternativeTitle": "Ashita e Attack!",
+        "id": "attack-on-tomorrow-6240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af56519c52ff5de6a4c6156496395fe6.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ashita no Joe (Movie)",
+        "alternativeTitle": "Ashita no Joe (Movie)",
+        "id": "ashita-no-joe-movie-3075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd09d9852dee999afef716b0a7ae475e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "153m"
+      },
+      {
+        "title": "Ashita no Joe 2 (Movie)",
+        "alternativeTitle": "Ashita no Joe 2 (Movie)",
+        "id": "ashita-no-joe-2-movie-2506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac3e5826bec7a7b86407e07c061f429e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      },
+      {
+        "title": "Ashita no Joe Pilots",
+        "alternativeTitle": "Ashita no Joe Pilots",
+        "id": "ashita-no-joe-pilots-7003",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6808860706511463dc59add6c837c6c6.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Asobi Asobase: Workshop of Fun",
+        "alternativeTitle": "Asobi Asobase",
+        "id": "asobi-asobase-workshop-of-fun-301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25b28dd34fe11f0129db5a510b7635af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Asobi Asobase OVA",
+        "alternativeTitle": "Asobi Asobase OVA",
+        "id": "asobi-asobase-ova-1548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/281bf2872167a4156c37557ecdb5c4cc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "13m"
+      },
+      {
+        "title": "Asobi Asobase Specials",
+        "alternativeTitle": "Asobi Asobase Specials",
+        "id": "asobi-asobase-specials-1306",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/027a2ed36d91b7d942f1b7a9a1be8272.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "Assassins Pride",
+        "alternativeTitle": "Assassins Pride",
+        "id": "assassins-pride-8067",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49d3f80e73bc99d36ef290f4964647c9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Assault Lily: Bouquet",
+        "alternativeTitle": "Assault Lily: Bouquet",
+        "id": "assault-lily-bouquet-5584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2c7026dc8e4d63f3453091ba893caa0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Assault Lily: Fruits",
+        "alternativeTitle": "Assault Lily: Fruits",
+        "id": "assault-lily-fruits-17437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76d6fb5037397ab81de2145bf9d3b6bb.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Assemble Insert",
+        "alternativeTitle": "Assemble Insert",
+        "id": "assemble-insert-7590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a509ab15b0dc6a068249b88c6cde5117.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Astarotte's Toy",
+        "alternativeTitle": "Astarotte no Omocha!",
+        "id": "astarottes-toy-5201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44b68ddaf2ef48d367249cfaaf0a233e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Astarotte's Toy EX",
+        "alternativeTitle": "Astarotte no Omocha! EX",
+        "id": "astarottes-toy-ex-4978",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ece3f90c4b60f29e1902cb0d0d334d0c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "21m"
+      },
+      {
+        "title": "Astro Boy (2003)",
+        "alternativeTitle": "Astro Boy: Tetsuwan Atom",
+        "id": "astro-boy-2003-3577",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/808a6d8708c6618d2b5c533cec738f6f.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Astro Note",
+        "alternativeTitle": "Astro Note",
+        "id": "astro-note-19113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08b233c5dd862dbac0d22fba0f7a55cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Astroganger",
+        "alternativeTitle": "Astroganger",
+        "id": "astroganger-6142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e785981ab8cbf740562e6163b9527f0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Asura Cryin",
+        "alternativeTitle": "Asura Cryin'",
+        "id": "asura-cryin-3701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a5077dea1fdaca2ed9fc4a7f254e8da.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Asura Cryin",
+        "alternativeTitle": "Asura Cryin' 2",
+        "id": "asura-cryin-2-2235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e794d88cdda0ef7e4cbad86760ab841.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

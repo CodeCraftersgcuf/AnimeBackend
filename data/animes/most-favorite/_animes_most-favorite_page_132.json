@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 132,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Edens Zero (Recap Movie)",
+        "alternativeTitle": "Edens Zero (Recap Movie)",
+        "id": "edens-zero-recap-movie-18401",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0df28fdcfc365fd4015ab3c371fd3185.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "71m"
+      },
+      {
+        "title": "Mr. Osomatsu the Movie",
+        "alternativeTitle": "Osomatsu-san Movie",
+        "id": "mr-osomatsu-the-movie-794",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/841724830fc9d75698399fd81561da5b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "IDOLM@STER Xenoglossia",
+        "alternativeTitle": "iDOLM@STER Xenoglossia",
+        "id": "idolmster-xenoglossia-5596",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45ea7ff84a5036f34835890335f0aa0e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Spirits in Chinese Brushes",
+        "alternativeTitle": "Qi Hou Bilu",
+        "id": "spirits-in-chinese-brushes-18967",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8406cb9a4f64aa0cb7638df402d2dbb1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Mitsudomoe: Oppai Ippai Mama Genki",
+        "alternativeTitle": "Mitsudomoe: Oppai Ippai Mama Genki",
+        "id": "mitsudomoe-oppai-ippai-mama-genki-1326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22fe63d2147ec3bfc72ac3da57f88834.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Gakuen Utopia Manabi Straight!",
+        "alternativeTitle": "Gakuen Utopia Manabi Straight!",
+        "id": "gakuen-utopia-manabi-straight-2413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9e03da2bee9e8cb2ec0202e8f8fedba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+        "alternativeTitle": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo",
+        "id": "ar-tonelico-sekai-no-owari-de-utai-tsuzukeru-shoujo-7349",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ec04221e59cdfb4632709a74fc9803e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III Episode 0: The First Contact",
+        "alternativeTitle": "Lupin III: Episode 0 \"First Contact\"",
+        "id": "lupin-iii-episode-0-the-first-contact-1224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df74652cb5c7231ae7daa40c003d3c85.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "92m"
+      },
+      {
+        "title": "Those Who Hunt Elves II",
+        "alternativeTitle": "Elf wo Karu Mono-tachi II",
+        "id": "those-who-hunt-elves-ii-3419",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91ced8114cc011be9e843f0fff09daa5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Virtua Fighter",
+        "alternativeTitle": "Virtua Fighter",
+        "id": "virtua-fighter-3203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ce29baf2825896234a712281b9a1bd6.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 35
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Aki no Kanade",
+        "alternativeTitle": "Aki no Kanade",
+        "id": "aki-no-kanade-3488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b75301e503a4c306dc5cc9e148e9ae3e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "F-Zero: GP Legend",
+        "alternativeTitle": "F-Zero: Falcon Densetsu",
+        "id": "f-zero-gp-legend-6148",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/387d9d14026bf9b14c153201440520ab.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Heya Camp△: Sauna to Gohan to Sanrin Bike",
+        "alternativeTitle": "Heya Camp△: Sauna to Gohan to Sanrin Bike",
+        "id": "heya-camp-sauna-to-gohan-to-sanrin-bike-1883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/227cfaea0b2baea4374d4656d70ac243.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Hetalia World Series: Specials",
+        "alternativeTitle": "Hetalia World Series Specials",
+        "id": "hetalia-world-series-specials-1379",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa83ca5b2e1097a066993a9b9315ceef.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Ninja Girl & Samurai Master 2nd",
+        "alternativeTitle": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
+        "id": "ninja-girl-samurai-master-2nd-3027",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/694260dd6286059d80609f3c6eaefc9a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ro-Kyu-Bu! SS",
+        "alternativeTitle": "Ro-Kyu-Bu! SS",
+        "id": "ro-kyu-bu-ss-3033",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34bca5fc080c8383a664b7e9b4a43ec8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dongguo Xiaojie",
+        "alternativeTitle": "Dongguo Xiaojie",
+        "id": "dongguo-xiaojie-7692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af1b7c55577fdd2524d2e1a0be4bbf74.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Hifuu Club Activity Record: The Sealed Esoteric History",
+        "alternativeTitle": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+        "id": "hifuu-club-activity-record-the-sealed-esoteric-history-2328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/295167d642d2a9477d4193b33c5f78c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Love Rice",
+        "alternativeTitle": "Love Kome: We Love Rice",
+        "id": "love-rice-10521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a26367702f77c00d4a39f5148fda315.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Lee's Detective Agency: A Day in Lungmen",
+        "alternativeTitle": "Li Shi Zhentan Shiwusuo: A Day in Lungmen",
+        "id": "lees-detective-agency-a-day-in-lungmen-18245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59b84565a43d6ffd0aea39cc0d97a190.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "The Legend and the Hero 4th Season",
+        "alternativeTitle": "Wu Geng Ji 4th Season",
+        "id": "the-legend-and-the-hero-4th-season-18069",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2742daec78cc933587231277382fea36.jpg",
+        "episodes": {
+          "sub": 42,
+          "dub": 0,
+          "eps": 42
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "Twin Angels Break",
+        "alternativeTitle": "Twin Angel Break",
+        "id": "twin-angels-break-8340",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d642f6f4580486e97c9546ede1ba5032.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kemono Friends 2",
+        "alternativeTitle": "Kemono Friends 2",
+        "id": "kemono-friends-2-8374",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd1ccba2938a2cec7868785f123210d2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Battle Royal High School",
+        "alternativeTitle": "Battle Royal High School",
+        "id": "battle-royal-high-school-9203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e6accc5815911de35f5996d239dd8df.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "59m"
+      },
+      {
+        "title": "Pokemon: Twilight Wings",
+        "alternativeTitle": "Hakumei no Tsubasa",
+        "id": "pokemon-twilight-wings-1273",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34fca59b802278500c75e74e19efbaf6.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Aikatsu Planet!",
+        "alternativeTitle": "Aikatsu Planet!",
+        "id": "aikatsu-planet-17201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5b69bf8802dbfe95b195f3bd193f61e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Tenchi Muyo! Ryo-Ohki 5th Season",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 5th Season",
+        "id": "tenchi-muyo-ryo-ohki-5th-season-7126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bed5209cfc749c4bfad0edc17ddb3a76.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Piacevole: My Italian Cooking",
+        "alternativeTitle": "Piace: Watashi no Italian",
+        "id": "piacevole-my-italian-cooking-8409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d99ff4589963ba81cc852a8cd0cdcb54.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Dream Festival!",
+        "alternativeTitle": "Dream Festival!",
+        "id": "dream-festival-4463",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd23311eaefb32a17282f5783fcefae8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Escha Chron",
+        "alternativeTitle": "Escha Chron",
+        "id": "escha-chron-5744",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e52e07db935ff567b69a3ceb4261135.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Magical DoReMi: Sharp",
+        "alternativeTitle": "Ojamajo Doremi Sharp",
+        "id": "magical-doremi-sharp-2185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c84318a9bb4d74c3c1345e9df4ae64d4.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Tachikoma na Hibi",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikomatic-days-2729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0936abf1199746726f926836d6b2f997.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Otogi Zoshi: The Legend of Magatama",
+        "alternativeTitle": "Otogizoushi",
+        "id": "otogi-zoshi-the-legend-of-magatama-3678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f8592418abc0cab5aa49213700717f3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tamayura: Sotsugyou Shashin Part 1 - Kizashi",
+        "alternativeTitle": "Tamayura: Sotsugyou Shashin Part 1 - Kizashi",
+        "id": "tamayura-sotsugyou-shashin-part-1-kizashi-1143",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcd5ef991d5cfc7dffdff37f151eb8f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "52m"
+      },
+      {
+        "title": "Maesetsu! Opening Act",
+        "alternativeTitle": "Maesetsu!",
+        "id": "maesetsu-opening-act-15785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ba02f0733b258e53e647fbe9ab488c4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Toutotsu ni Egypt Kami",
+        "alternativeTitle": "Toutotsu ni Egypt Shin",
+        "id": "toutotsu-ni-egypt-kami-15587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a66d8da4c0a7c0429a1572387d09334.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Getter Robo: Armageddon",
+        "alternativeTitle": "Change!! Getter Robo: Sekai Saigo no Hi",
+        "id": "getter-robo-armageddon-1071",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/199101626a37735a209475c31d582cf7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Doraemon Movie 08: Nobita and the Knights on Dinosaurs",
+        "alternativeTitle": "Doraemon Movie 08: Nobita to Ryuu no Kishi",
+        "id": "doraemon-movie-08-nobita-and-the-knights-on-dinosaurs-3585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a334a614c145d937a253eb92165f35fe.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Violence Jack: Hell's Wind",
+        "alternativeTitle": "Violence Jack: Hell's Wind-hen",
+        "id": "violence-jack-hells-wind-9479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4129fcfbb19e80607ca8b2790b11fc3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "54m"
+      },
+      {
+        "title": "Humanity Has Declined Specials",
+        "alternativeTitle": "Jinrui wa Suitai Shimashita Specials",
+        "id": "humanity-has-declined-specials-2586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4f48af69cb9efd5dbf967a895e86724.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "2m"
+      }
+    ]
+  }
+}

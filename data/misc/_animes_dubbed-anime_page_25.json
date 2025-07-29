@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 25,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Battle Skipper",
+        "alternativeTitle": "Bishoujo Yuugekitai Battle Skipper",
+        "id": "battle-skipper-9898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a44d7cafffe2b6fb995211c93d2db70.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Strange Love",
+        "alternativeTitle": "Hen",
+        "id": "strange-love-9889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6f9c3337f8bbd5ead563e1cb25668ad.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Arcade Gamer Fubuki",
+        "alternativeTitle": "Arcade Gamer Fubuki",
+        "id": "arcade-gamer-fubuki-9883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ef228a2930ba4d68575723899930d6e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Cybernetics Guardian",
+        "alternativeTitle": "Seijuuki Cyguard",
+        "id": "cybernetics-guardian-9868",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aefbf7feeb993dc9b1184e7cbf6cedca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Hermes: Winds of Love",
+        "alternativeTitle": "Hermes: Ai wa Kaze no Gotoku",
+        "id": "hermes-winds-of-love-9820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3e46c2b3a281a99abedbbf91b58d59b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "114m"
+      },
+      {
+        "title": "Battle Arena Toshinden",
+        "alternativeTitle": "Toushinden",
+        "id": "battle-arena-toshinden-9779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25e228b3456c166c19243551a2503d23.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Shironeko Project ZERO CHRONICLE",
+        "alternativeTitle": "Shironeko Project: Zero Chronicle",
+        "id": "shironeko-project-zero-chronicle-9768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/834a5d5bd5ea4ceaa4dda5ae402d4901.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lord of Vermilion: The Crimson King",
+        "alternativeTitle": "Lord of Vermilion: Guren no Ou",
+        "id": "lord-of-vermilion-the-crimson-king-9752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b465502a9d9b564de16dbbd992bcdf2b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ulysses: Jeanne d'Arc and the Alchemist Knight",
+        "alternativeTitle": "Ulysses: Jehanne Darc to Renkin no Kishi",
+        "id": "ulysses-jeanne-darc-and-the-alchemist-knight-9737",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5508859e367a3beaa4725cca814967cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Onigiri",
+        "alternativeTitle": "Onigiri",
+        "id": "onigiri-9734",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d4021c9aa7fc6df42303e1c9f9fddba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Elysium",
+        "alternativeTitle": "Elysium",
+        "id": "elysium-9721",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52f4914833f6efe1527eea4f09ec2793.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "86m"
+      },
+      {
+        "title": "Diabolik Lovers",
+        "alternativeTitle": "Diabolik Lovers",
+        "id": "diabolik-lovers-9707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/695a9cb9199fbf8f5ad807e8510d9b79.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Judge",
+        "alternativeTitle": "Yami no Shihosha Judge",
+        "id": "judge-9701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8aa7040ff9aab64d57965cb853506d5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "SD Gundam Force",
+        "alternativeTitle": "SD Gundam Force",
+        "id": "sd-gundam-force-9697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f7547b68fb26232daed09ad626a502d.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sentou Yousei Shoujo Tasukete! Mave-chan",
+        "alternativeTitle": "Sentou Yousei Shoujo Tasukete! Mave-chan",
+        "id": "sentou-yousei-shoujo-tasukete-mave-chan-9686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4200499ecb4ddd6ac2ca418792bc3ac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Hatena Illusion",
+        "alternativeTitle": "Hatena☆Illusion",
+        "id": "hatena-illusion-9679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a06fd0de8a7967b66b6f308c7425b445.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ice",
+        "alternativeTitle": "Ice",
+        "id": "ice-9663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5266d1b726c1cc9125540a4795c6fb2d.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Hand Shakers",
+        "alternativeTitle": "Hand Shakers",
+        "id": "hand-shakers-9662",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c42664c093b48aa6050feb6afce8c7b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Isekai Cheat Magician",
+        "alternativeTitle": "Isekai Cheat Magician",
+        "id": "isekai-cheat-magician-9632",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1005a3857dd6b09b020d92c581371061.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dies irae",
+        "alternativeTitle": "Dies Irae",
+        "id": "dies-irae-9629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1753799dfa133e6d5bcb719236623f85.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Samurai Shodown The Motion Picture",
+        "alternativeTitle": "Samurai Spirits: Haten Gouma no Shou",
+        "id": "samurai-shodown-the-motion-picture-9612",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d813c7727162cd8b52532aab7de0ea11.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "68m"
+      },
+      {
+        "title": "Demon Fighter Kocho",
+        "alternativeTitle": "Yakusai Kochou",
+        "id": "demon-fighter-kocho-9606",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2dc216591af323e0b33ba64b189927e4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Listeners",
+        "alternativeTitle": "Listeners",
+        "id": "listeners-9595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c0adbb5f9db012dff6b5d78185b7476.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Jungle De Ikou!",
+        "alternativeTitle": "Jungle de Ikou!",
+        "id": "jungle-de-ikou-9591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/195e25b7305599c42e244ed0d9e99e5b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Choushin Hime Dangaizer 3",
+        "alternativeTitle": "Choushin Hime Dangaizer 3",
+        "id": "choushin-hime-dangaizer-3-9584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/367b656aca089dcdde4d739120dd3a65.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Psychic Force",
+        "alternativeTitle": "Psychic Force",
+        "id": "psychic-force-9565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85e5642b2e4af5b7e8362cea2bee9bd1.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "31m"
+      },
+      {
+        "title": "Hakyu Hoshin Engi",
+        "alternativeTitle": "Hakyuu Houshin Engi",
+        "id": "hakyu-hoshin-engi-9548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6a86fc63917b05b77d53063e6bbd9bb.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cutie Honey Universe",
+        "alternativeTitle": "Cutie Honey Universe",
+        "id": "cutie-honey-universe-9546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e66646f547b16ae47907f56a41d3db5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Marriage",
+        "alternativeTitle": "Marriage: Kekkon",
+        "id": "marriage-9511",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8ad7bdd772973cdad7df2d9c48f4305.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Basilisk: The Ouka Ninja Scrolls",
+        "alternativeTitle": "Basilisk: Ouka Ninpouchou",
+        "id": "basilisk-the-ouka-ninja-scrolls-9501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a366d721faebcf951650780870ee3eaf.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Violence Jack: Hell's Wind",
+        "alternativeTitle": "Violence Jack: Hell's Wind-hen",
+        "id": "violence-jack-hells-wind-9479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4129fcfbb19e80607ca8b2790b11fc3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "54m"
+      },
+      {
+        "title": "AFTERLOST",
+        "alternativeTitle": "Shoumetsu Toshi",
+        "id": "afterlost-9475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e5003c2eec1c169b361238570b8039c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nanatsu no Bitoku Specials",
+        "alternativeTitle": "Nanatsu no Bitoku Specials",
+        "id": "nanatsu-no-bitoku-specials-9456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fc981acbfa89101e9edbb0b9fdbc2a4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Yu☆Gi☆Oh!: Sevens",
+        "alternativeTitle": "Yu☆Gi☆Oh!: Sevens",
+        "id": "yugioh-sevens-9390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eda25afbd8e3baf78d17e31b7a5506b1.jpg",
+        "episodes": {
+          "sub": 92,
+          "dub": 92,
+          "eps": 92
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 50,
+      "hasNextPage": false
+    },
+    "response": [
+      {
+        "title": "Isuca: Gokuraku",
+        "alternativeTitle": "Isuca: Gokuraku",
+        "id": "isuca-gokuraku-6706",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a17a1f88ef57e848d5a056b2ace1d6c0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "momokuri",
+        "alternativeTitle": "Momokuri",
+        "id": "momokuri-3090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a4a3e1e9b2e985e7ee6eb1e623c9a2ba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Seton Academy: Join the Pack!",
+        "alternativeTitle": "Murenase! Seton Gakuen",
+        "id": "seton-academy-join-the-pack-3014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/461edc67d9b82b3c8a2fd167c7666bf6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Natsume's Book of Friends Season 3",
+        "alternativeTitle": "Natsume Yuujinchou San",
+        "id": "natsumes-book-of-friends-season-3-69",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/338b3e1777a4e134007b9381c2fb7a1f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Triage X: Recollection XOXO",
+        "alternativeTitle": "Triage X: Recollection XOXO",
+        "id": "triage-x-recollection-xoxo-5709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62db663444d9979451ab4bba13570561.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "So, I Can't Play H! (OVA)",
+        "alternativeTitle": "Dakara Boku wa, H ga Dekinai.: Mie Sugi! Mizugi Contest",
+        "id": "so-i-cant-play-h-ova-4737",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0714e2290b17e207d8a0fa24cdb76c1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Midnight Punch",
+        "alternativeTitle": "Mayonaka Punch",
+        "id": "midnight-punch-19217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c2c44fb720a7e8041f19259dd83f1c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bakugan Battle Brawlers",
+        "alternativeTitle": "Bakugan Battle Brawlers",
+        "id": "bakugan-battle-brawlers-6724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d00fd51807a68fa354aab89d217fa5cb.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama.: Slip Arc",
+        "alternativeTitle": "Gintama.: Porori-hen",
+        "id": "gintama-slip-arc-88",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c3ebf11a61fc9738817e679cf1ae7ea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shoshimin: How to Become Ordinary Season 2",
+        "alternativeTitle": "Shoushimin Series 2nd Season",
+        "id": "shoshimin-how-to-become-ordinary-season-2-19557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/580c6de0eec119563d47b49803bafa01.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Brothers Conflict",
+        "alternativeTitle": "Brothers Conflict",
+        "id": "brothers-conflict-7184",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a89425e641de41f9049b75de78789751.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Record of Mortal's Journey to Immortality Season 3",
+        "alternativeTitle": "Fanren Xiu Xian Chuan 3rd Season",
+        "id": "a-record-of-mortals-journey-to-immortality-season-3-19015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
+        "episodes": {
+          "sub": 81,
+          "dub": 0,
+          "eps": 81
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Detective Conan Movie 25: The Bride of Halloween",
+        "alternativeTitle": "Detective Conan Movie 25: Halloween no Hanayome",
+        "id": "detective-conan-movie-25-the-bride-of-halloween-18225",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f853b563b758977252bcfc34c7b34f0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "NekoparA",
+        "alternativeTitle": "Nekopara",
+        "id": "nekopara-4487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c41996607e97b2544733caab045ae9d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Overlord Movie 2: The Dark Hero",
+        "alternativeTitle": "Overlord Movie 2: Shikkoku no Eiyuu",
+        "id": "overlord-the-dark-hero-1086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8f0db771d175c4f0619fbd0bfb00c06.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Gintama Season 5",
+        "alternativeTitle": "Gintama.",
+        "id": "gintama-season-5-12",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53463791fa7b97b16a5c8a72a175403d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Hina",
+        "alternativeTitle": "Love Hina",
+        "id": "love-hina-2985",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8e6fa000a940b884eaa580e22583962.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Backflip!!",
+        "alternativeTitle": "Bakuten!!",
+        "id": "backflip-17295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26ba23575d9162b25ebd18f52ec08668.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Grappler Baki",
+        "alternativeTitle": "Grappler Baki",
+        "id": "grappler-baki-4392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ada3f8f08a4df3e9b71c24d5b243f1f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Dragon Ball Z Special 1: Bardock, The Father of Goku",
+        "alternativeTitle": "Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen",
+        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku-1334",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f455fe83e1bf8ffce978cbd0995f22d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "47m"
+      },
+      {
+        "title": "Nyaruko: Crawling With Love!",
+        "alternativeTitle": "Haiyore! Nyaruko-san",
+        "id": "nyaruko-crawling-with-love-3232",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/659200a630ea14bd71fbf30531b655f3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+        "alternativeTitle": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+        "id": "kaijin-kaihatsu-bu-no-kuroitsu-san-17938",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1e3f6e3529ae5595b3241c81c26485b.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Babylon",
+        "alternativeTitle": "Babylon",
+        "id": "babylon-4112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1e8f0f6d20ca692d758da9e651a149f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sorcerous Stabber Orphen",
+        "alternativeTitle": "Majutsushi Orphen Hagure Tabi",
+        "id": "sorcerous-stabber-orphen-8674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/834e8b021b76ff02e6234735217f10c5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Desert Punk",
+        "alternativeTitle": "Sunabouzu",
+        "id": "desert-punk-1782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc5db8c2d0b6c472a306af4d45235a81.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Inazuma Eleven: Orion no Kokuin",
+        "alternativeTitle": "Inazuma Eleven: Orion no Kokuin",
+        "id": "inazuma-eleven-orion-no-kokuin-4397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ae56e1e4231ac58f3af0068ec4eb50b.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sing a Bit of Harmony",
+        "alternativeTitle": "Ai no Utagoe wo Kikasete",
+        "id": "sing-a-bit-of-harmony-15636",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a297fd557f240235bcbaaf009aebd1c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Sasaki and Miyano: Graduation Arc",
+        "alternativeTitle": "Sasaki to Miyano Movie: Sotsugyou-hen",
+        "id": "sasaki-and-miyano-graduation-arc-18263",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/313afd369485f66de926848a9fd00a29.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "Please Teacher!",
+        "alternativeTitle": "Onegai☆Teacher",
+        "id": "please-teacher-2763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/812d14f02a6eac1db788ca8f4824e9a1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hell Girl",
+        "alternativeTitle": "Jigoku Shoujo",
+        "id": "hell-girl-1132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/479ad7f7a3605fbedc2c389f4423bec0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Qualidea Code",
+        "alternativeTitle": "Qualidea Code",
+        "id": "qualidea-code-5618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ecdcade712e93a3bb58214954d73444.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Giant Killing",
+        "alternativeTitle": "Giant Killing",
+        "id": "giant-killing-1317",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10ad5baae15feca4ddd17ccc32ef753d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure: Battle Tendency",
+        "alternativeTitle": "JoJo no Kimyou na Bouken: Battle Tendency",
+        "id": "jojos-bizarre-adventure-battle-tendency-17656",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c36c58895408997c82cb46883bfea0b0.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Ah! My Goddess",
+        "alternativeTitle": "Aa! Megami-sama! (TV)",
+        "id": "ah-my-goddess-2046",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64887a85186002fc761959ef0f43b833.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/stay night: Unlimited Blade Works - Prologue",
+        "alternativeTitle": "Fate/stay night: Unlimited Blade Works Prologue",
+        "id": "fatestay-night-unlimited-blade-works-prologue-389",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f42ac14fc94fdb866fe617749efa5b14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "51m"
+      },
+      {
+        "title": "After-School Hanako-kun",
+        "alternativeTitle": "Houkago Shounen Hanako-kun",
+        "id": "after-school-hanako-kun-18592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c95031220a7a3203dc56d47195b40d09.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Digimon Adventure 02",
+        "alternativeTitle": "Digimon Adventure 02",
+        "id": "digimon-adventure-02-2510",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8431d856934c60664a13814f222510e2.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Doraemon Movie 40: Nobita's New Dinosaur",
+        "alternativeTitle": "Doraemon Movie 40: Nobita no Shin Kyouryuu",
+        "id": "doraemon-movie-40-nobitas-new-dinosaur-13455",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ec3a83fb7af953c03aad712bf827d58.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Nekomonogatari Black (The Monogatari Series)",
+        "alternativeTitle": "Nekomonogatari: Kuro",
+        "id": "nekomonogatari-black-the-monogatari-series-546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61c0a0bc1bab35bf37fe53efa6e6c76a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+        "alternativeTitle": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+        "id": "violet-evergarden-eternity-and-the-auto-memory-doll-147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4007352297470711682d15329a487eb4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      }
+    ]
+  }
+}

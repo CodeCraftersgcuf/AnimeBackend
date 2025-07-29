@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 128,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Fleet Girls Collection KanColle Movie Sequence",
+        "alternativeTitle": "KanColle Movie",
+        "id": "fleet-girls-collection-kancolle-movie-sequence-1462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6e5b0e52e01c15909bb36bc1a76a420.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "The Journey",
+        "alternativeTitle": "The Journey",
+        "id": "the-journey-17743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3e5b0c7b67345d3154fee6fe9cea8ea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Tsukipro The Animation 2nd Season",
+        "alternativeTitle": "Tsukipro The Animation 2",
+        "id": "tsukipro-the-animation-2nd-season-15589",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7619313a66bf926a1ae05288423ed511.jpeg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yowamushi Pedal OVA: Special Ride",
+        "alternativeTitle": "Yowamushi Pedal: Special Ride",
+        "id": "yowamushi-pedal-ova-special-ride-1954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0df739da88e4e906ef5989d4964182f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "Saint☆Young Men",
+        "alternativeTitle": "Saint☆Oniisan",
+        "id": "saintyoung-men-1525",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9cb4cdc96c1970233e3fcf81fded148a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "Violence Jack: Hell's Wind",
+        "alternativeTitle": "Violence Jack: Hell's Wind-hen",
+        "id": "violence-jack-hells-wind-9479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4129fcfbb19e80607ca8b2790b11fc3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "54m"
+      },
+      {
+        "title": "Blue Exorcist: Runaway Kuro",
+        "alternativeTitle": "Ao no Exorcist: Kuro no Iede",
+        "id": "blue-exorcist-runaway-kuro-2234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f80cbf2fae7333337a7ff48b59e2bf86.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Violence Jack: Slumking",
+        "alternativeTitle": "Violence Jack: Harlem Bomber-hen",
+        "id": "violence-jack-slumking-9945",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d1ac05f9af339f1b88109046fa11cad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Touch: Cross Road - Kaze no Yukue",
+        "alternativeTitle": "Touch: Cross Road - Kaze no Yukue",
+        "id": "touch-cross-road-kaze-no-yukue-3762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/555b0526502cc77491e5f8d36f2f5a48.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Shakugan no Shana: The Movie",
+        "alternativeTitle": "Shakugan no Shana Movie",
+        "id": "shakugan-no-shana-the-movie-1943",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c6107b9e10611439612f45ad3f536df.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Karakai Jouzu no Takagi-san: Water Slide",
+        "alternativeTitle": "Karakai Jouzu no Takagi-san: Water Slide",
+        "id": "karakai-jouzu-no-takagi-san-water-slide-1558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ecbdefd430c154c596ab7a1e2e8d855.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Bokura wa Minna Kawai-sou: Hajimete no",
+        "alternativeTitle": "Bokura wa Minna Kawai-sou: Hajimete no",
+        "id": "bokura-wa-minna-kawai-sou-hajimete-no-1069",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/285aab25e7df01f38dd9370a2b5af8d2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Devilman: Crybaby - Digest Eizou",
+        "alternativeTitle": "Devilman: Crybaby - Digest Eizou",
+        "id": "devilman-crybaby-digest-eizou-8292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a5fe180f9e884666b699adc81e07ab6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Corpse Princess: Kuro - Even So, As a Person",
+        "alternativeTitle": "Shikabane Hime: Kuro – Soredemo, Hito to Shite",
+        "id": "corpse-princess-kuro-even-so-as-a-person-3548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ee1888e73ec05e70248bdfb990649e7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "World War Blue",
+        "alternativeTitle": "Aoi Sekai no Chuushin de",
+        "id": "world-war-blue-8602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ae888399f1cf09ed5484a830c1a03c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Cross Road",
+        "alternativeTitle": "Cross Road",
+        "id": "cross-road-1825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d838118ad79f8a107f713a89c612f55f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Your Light: Kase-san and Morning Glories",
+        "alternativeTitle": "Kimi no Hikari: Asagao to Kase-san.",
+        "id": "your-light-kase-san-and-morning-glories-2563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c649b42bab51415474c225ae120141d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "6m"
+      },
+      {
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+        "alternativeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+        "id": "rezero-kara-hajimeru-isekai-seikatsu-memory-snow-1473",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca6faf0784e4233fc3fdfbae441eb789.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Twilight Of The Dark Master",
+        "alternativeTitle": "Shihaisha no Tasogare",
+        "id": "twilight-of-the-dark-master-8475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8eb41890e1cddc11ed71ad2f194d358.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Foodie Boy’s Classic of Mountains & Seas",
+        "alternativeTitle": "Foodie Boy’s Classic of Mountains & Seas",
+        "id": "foodie-boys-classic-of-mountains-seas-17957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3b36904fb691f9f12c9b50cf1103c1a.jpeg",
+        "episodes": {
+          "sub": 41,
+          "dub": 0,
+          "eps": 41
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Rakshasa Street",
+        "alternativeTitle": "Zhen Hun Jie Recaps",
+        "id": "rakshasa-street-5812",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c11f76a7de266ee40041795cd723eac.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "69m"
+      },
+      {
+        "title": "Mobile Police Patlabor 2: The Movie",
+        "alternativeTitle": "Kidou Keisatsu Patlabor 2 the Movie",
+        "id": "mobile-police-patlabor-2-the-movie-696",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43f21e74046c8ed7a7905add52a891c0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "Stella no Mahou Specials",
+        "alternativeTitle": "Stella no Mahou Specials",
+        "id": "stella-no-mahou-specials-4779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16c374b3e30bc1dcbe915b99f589ca78.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "13m"
+      },
+      {
+        "title": "Food Wars! The Third Plate OVA",
+        "alternativeTitle": "Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina",
+        "id": "food-wars-the-third-plate-ova-1603",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afd7293e26cbc94a5a844839e2f474ff.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "SANTA COMPANY ~Midsummer Merry Christmas~",
+        "alternativeTitle": "Santa Company: Manatsu no Merry Christmas",
+        "id": "santa-company-midsummer-merry-christmas-17520",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/253fed8c3168f1ce60ccd797784e8bec.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "26m"
+      },
+      {
+        "title": "Guilty Crown: Lost Christmas",
+        "alternativeTitle": "Guilty Crown: Lost Christmas - An Episode of Port Town",
+        "id": "guilty-crown-lost-christmas-3794",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a15b3a88fbba50a331da8aee0281521.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "14m"
+      },
+      {
+        "title": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
+        "alternativeTitle": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
+        "id": "nodame-cantabile-finale-mine-to-kiyora-no-saikai-750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f7a6247e8647c683a55ae5ab8f154da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+        "alternativeTitle": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+        "id": "the-genius-princes-guide-to-raising-a-nation-out-of-debt-17506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67d9db2506cabd6031721e957a59c97d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
+        "alternativeTitle": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
+        "id": "yoku-wakaru-mahouka-saiseitte-nani-6026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c30bdc63a40c7c7871cdc0a1ecf944f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+        "alternativeTitle": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+        "id": "shoujokageki-revue-starlight-rondo-rondo-rondo-11633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f28731a16bec2f3de017bea6848101e7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "One Piece Special: Adventure in the Ocean's Navel",
+        "alternativeTitle": "One Piece: Umi no Heso no Daibouken-hen",
+        "id": "one-piece-special-adventure-in-the-oceans-navel-2348",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/878cfee15c8fab4b1341462f72461cad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "49m"
+      },
+      {
+        "title": "Donten: Laughing Under the Clouds - Gaiden: Chapter 3 - Conspiracy of the Military",
+        "alternativeTitle": "Donten ni Warau Gaiden: Ouka, Tenbou no Kakehashi",
+        "id": "donten-laughing-under-the-clouds-gaiden-chapter-3-conspiracy-of-the-military-3147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64d225eaaf25782d2e0015e5bc811979.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "57m"
+      },
+      {
+        "title": "Garakowa -Restore the World-",
+        "alternativeTitle": "Glass no Hana to Kowasu Sekai",
+        "id": "garakowa-restore-the-world-4618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73480032f7e7c5d085c6f157a206e132.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "67m"
+      },
+      {
+        "title": "Ichigo 100% Original DVD Animation",
+        "alternativeTitle": "Ichigo 100% OVA",
+        "id": "ichigo-100-original-dvd-animation-3906",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65d5d2eae070ee5fa51a5f8a776efe65.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Strawberry 100%",
+        "alternativeTitle": "Ichigo 100% Special 2",
+        "id": "strawberry-100-3992",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/227c43948d5a324a54a87b2b70c30b40.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Wotaku ni Koi wa Muzukashii OVA",
+        "alternativeTitle": "Wotaku ni Koi wa Muzukashii OVA",
+        "id": "wotaku-ni-koi-wa-muzukashii-ova-712",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acd0006eda9c74c9b9571f1eb139aa0a.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
+        "alternativeTitle": "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+        "id": "one-piece-special-open-upon-the-great-sea-a-fathers-huge-huge-dream-2347",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f76225081860e89adacad5ef06af20f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "46m"
+      },
+      {
+        "title": "Wind: A Breath of Heart",
+        "alternativeTitle": "Wind: A Breath of Heart",
+        "id": "wind-a-breath-of-heart-7567",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/150d3c7f9bd4f0d256b4069055e8d765.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "16m"
+      },
+      {
+        "title": "Black Jack: The Movie",
+        "alternativeTitle": "Black Jack the Movie",
+        "id": "black-jack-the-movie-2207",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f282db7b58718448e07898803e426dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Donten: Laughing Under the Clouds - Gaiden: Chapter 2 - The Tragedy of Fuuma Ninja Tribe",
+        "alternativeTitle": "Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma",
+        "id": "donten-laughing-under-the-clouds-gaiden-chapter-2-the-tragedy-of-fuuma-ninja-tribe-1810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3793d6eff6b1181d2ca66d3324448138.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "60m"
+      }
+    ]
+  }
+}

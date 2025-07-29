@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 18,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Just Because!",
+        "alternativeTitle": "Just Because!",
+        "id": "just-because-2333",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43151fbe0b94fc004e517c41ea908af3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Marmalade Boy",
+        "alternativeTitle": "Marmalade Boy",
+        "id": "marmalade-boy-1583",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/666111369d73033eea013259bb433aa4.jpg",
+        "episodes": {
+          "sub": 76,
+          "dub": 76,
+          "eps": 76
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aria the Origination: Sono Choppiri Himitsu no Basho ni...",
+        "alternativeTitle": "Aria the Origination: Sono Choppiri Himitsu no Basho ni...",
+        "id": "aria-the-origination-sono-choppiri-himitsu-no-basho-ni-508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3645fa1335b8e8d70ae293faf603246.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Cardfight!! Vanguard Link Joker",
+        "alternativeTitle": "Cardfight!! Vanguard: Link Joker-hen",
+        "id": "cardfight-vanguard-link-joker-2793",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7986f18a3d140207e1c7164f1d9c4de.jpg",
+        "episodes": {
+          "sub": 59,
+          "dub": 0,
+          "eps": 59
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Last Hope",
+        "alternativeTitle": "Juushinki Pandora",
+        "id": "last-hope-6460",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dbb2ab072537cd0d3ee5ab12c54998c7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cardfight!! Vanguard Asia Circuit",
+        "alternativeTitle": "Cardfight!! Vanguard: Asia Circuit-hen",
+        "id": "cardfight-vanguard-asia-circuit-4117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd2b40bf6940e65b9abe734577339a84.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah My Buddha Katsu Special",
+        "alternativeTitle": "Amaenaide yo!! Katsu!!: Damasarenaide yo!!",
+        "id": "ah-my-buddha-katsu-special-5118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/606e05df6df1424da1c27b1a51e379f5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "A Town Where You Live",
+        "alternativeTitle": "Kimi no Iru Machi",
+        "id": "a-town-where-you-live-3670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c456fed0fe24033b65e5983c99dfd25b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Yurumates 3D",
+        "alternativeTitle": "Yurumates 3D",
+        "id": "yurumates-3d-6770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25d0107d6aeb71d44fc2c4f2bc352d29.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Chio's School Road",
+        "alternativeTitle": "Chio-chan no Tsuugakuro",
+        "id": "chios-school-road-1688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16f35b17737bdffdf90aee558a7d1048.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yurumates 3D Plus",
+        "alternativeTitle": "Yurumates 3D Plus",
+        "id": "yurumates-3d-plus-6302",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85e5f7cb23216ea906c603b1fbfde721.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Chikyuu Bouei Kigyou Dai-Guard",
+        "alternativeTitle": "Chikyuu Bouei Kigyou Dai-Guard",
+        "id": "chikyuu-bouei-kigyou-dai-guard-3052",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3411d84bd6bdc240b7bbe97523e0c50.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Durarara!! Specials",
+        "alternativeTitle": "Durarara!! Specials",
+        "id": "durarara-specials-644",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e1b2d149ad801fbc496bb3b542b84cd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Yu☆Gi☆Oh! Zexal Second",
+        "alternativeTitle": "Yu☆Gi☆Oh! Zexal Second",
+        "id": "yugioh-zexal-second-4109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/690900bbd5b66043406da09e6998cd57.jpg",
+        "episodes": {
+          "sub": 73,
+          "dub": 73,
+          "eps": 73
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yu-Gi-Oh! Zexal",
+        "alternativeTitle": "Yu☆Gi☆Oh! Zexal",
+        "id": "yu-gi-oh-zexal-6500",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3eeaadc507f6c645ce6144eb4d7b9da.jpg",
+        "episodes": {
+          "sub": 73,
+          "dub": 73,
+          "eps": 73
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "GS Mikami",
+        "alternativeTitle": "GS Mikami",
+        "id": "gs-mikami-2803",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e26fa4cd7ef6ef991ad924fbc3c1b5e2.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 0,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cardfight!! Vanguard Legion Mate",
+        "alternativeTitle": "Cardfight!! Vanguard: Legion Mate-hen",
+        "id": "cardfight-vanguard-legion-mate-4301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/803b1d25475f697095a5305c28d01123.jpg",
+        "episodes": {
+          "sub": 33,
+          "dub": 0,
+          "eps": 33
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Accel World",
+        "alternativeTitle": "Accel World",
+        "id": "accel-world-2109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a31ed251de92862d8816f2930fd888f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aria the Natural",
+        "alternativeTitle": "Aria the Natural",
+        "id": "aria-the-natural-291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c626937b602dd72623a039917da6988c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aria the Animation",
+        "alternativeTitle": "Aria the Animation",
+        "id": "aria-the-animation-1019",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0f2dd83f7e04e0dc227a1cab174abd6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Durarara!! x2 Ketsu",
+        "alternativeTitle": "Durarara!!x2 Ketsu",
+        "id": "durarara-x2-ketsu-388",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08fcdab3d6b421db6756d69e17c2fffd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Durarara!! x2 Shou",
+        "alternativeTitle": "Durarara!!x2 Shou",
+        "id": "durarara-x2-shou-478",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b55f592809c37d3231d972ae232ab9df.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Durarara!! x2 Ten",
+        "alternativeTitle": "Durarara!!x2 Ten",
+        "id": "durarara-x2-ten-484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ca63c473c8b7715d5fb2a754ed61a18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah My Buddha Katsu",
+        "alternativeTitle": "Amaenaide yo!! Katsu!!",
+        "id": "ah-my-buddha-katsu-4689",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f74dd14b1869332ecc707f82860de79.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah My Buddha",
+        "alternativeTitle": "Amaenaide yo!!",
+        "id": "ah-my-buddha-5740",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0387362068e623599fdaa392dd58b26b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ginga Eiyuu Densetsu Gaiden",
+        "alternativeTitle": "Ginga Eiyuu Densetsu Gaiden",
+        "id": "ginga-eiyuu-densetsu-gaiden-366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d7a257f2f7f1b66293de03317ec3987.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Ginga Eiyuu Densetsu Gaiden (1999)",
+        "alternativeTitle": "Ginga Eiyuu Densetsu Gaiden (1999)",
+        "id": "ginga-eiyuu-densetsu-gaiden-1999-443",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75b9aec4f00caf34e8e39e9f26294ff4.jpg",
+        "episodes": {
+          "sub": 28,
+          "dub": 0,
+          "eps": 28
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Planetes",
+        "alternativeTitle": "Planetes",
+        "id": "planetes-210",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a15df0380b930a986e1f04f90a23c53b.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fantastic Detective Labyrinth",
+        "alternativeTitle": "Suteki Tantei Labyrinth",
+        "id": "fantastic-detective-labyrinth-4602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cb19fa9c21430f61a048038cc573d0d.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Emma: A Victorian Romance",
+        "alternativeTitle": "Eikoku Koi Monogatari Emma",
+        "id": "emma-a-victorian-romance-1074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1bc1dfa3057246a473669ada93fa83b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Earl and Fairy",
+        "alternativeTitle": "Hakushaku to Yousei",
+        "id": "earl-and-fairy-2326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b267313bd8f6add9cdec58a9e5278158.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Aria the Origination",
+        "alternativeTitle": "Aria the Origination",
+        "id": "aria-the-origination-80",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52fbc3ecfdd85e6767977c8ebf0e9e95.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Knights of Sidonia",
+        "alternativeTitle": "Sidonia no Kishi",
+        "id": "knights-of-sidonia-1001",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c6527ced654a56e36707c7743dd89b1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Durarara!!",
+        "alternativeTitle": "Durarara!!",
+        "id": "durarara-303",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe8a0297310f4b6d8f2aab3bbf01f005.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Legend of the Galactic Heroes",
+        "alternativeTitle": "Ginga Eiyuu Densetsu",
+        "id": "legend-of-the-galactic-heroes-5",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/830851972f7453ad853adeb71e423f25.jpg",
+        "episodes": {
+          "sub": 110,
+          "dub": 0,
+          "eps": 110
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "11eyes",
+        "alternativeTitle": "11eyes",
+        "id": "11eyes-7242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a05e3093a45c709b47d38d098c2722bd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "100% Teacher Pascal",
+        "alternativeTitle": "100% Pascal-sensei (TV)",
+        "id": "100-teacher-pascal-8878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b2b6dbd503817dbc38a20e941f094a5.jpg",
+        "episodes": {
+          "sub": 36,
+          "dub": 0,
+          "eps": 36
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "A Lull in the Sea",
+        "alternativeTitle": "Nagi no Asu kara",
+        "id": "a-lull-in-the-sea-395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1484f38d8a9c7065c9dffc5087285670.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "07-Ghost",
+        "alternativeTitle": "07-Ghost",
+        "id": "07-ghost-2503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcbadaeb8aa3aee97f9fbf575754c329.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "ACCA: 13-Territory Inspection Dept.",
+        "alternativeTitle": "ACCA: 13-ku Kansatsu-ka",
+        "id": "acca-13-territory-inspection-dept-1054",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b0c7889a5eb144612af6956599c3c1c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

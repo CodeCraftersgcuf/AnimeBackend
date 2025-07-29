@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 189,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Digimon Fusion",
+        "alternativeTitle": "Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku",
+        "id": "digimon-fusion-2796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d014929320993e0a7043af052b1352db.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Digimon Fusion",
+        "alternativeTitle": "Digimon Xros Wars",
+        "id": "digimon-fusion-4552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d0cae5278958053b63fc2692dd5e487.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ikkitousen: Xtreme Xecutor Specials",
+        "alternativeTitle": "Ikkitousen: Xtreme Xecutor Specials",
+        "id": "ikkitousen-xtreme-xecutor-specials-5321",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae30b5b604a8e85f903eef7c34b61552.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Ikkitousen: Great Guardians Specials",
+        "alternativeTitle": "Ikkitousen: Great Guardians Specials",
+        "id": "ikkitousen-great-guardians-specials-5218",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e48ad5e9564740e424793506b425bc75.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Ikkitousen: Dragon Destiny Specials",
+        "alternativeTitle": "Ikkitousen: Dragon Destiny Specials",
+        "id": "ikkitousen-dragon-destiny-specials-5026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d75505d1b9ca53859949f9f1c18029f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Meow Meow Japanese History",
+        "alternativeTitle": "Neko Neko Nihonshi 3rd Season",
+        "id": "meow-meow-japanese-history-15475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66e0c0040ae0b517bd0d56f2a8925e93.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Meow Meow Japanese History",
+        "alternativeTitle": "Neko Neko Nihonshi 2nd Season",
+        "id": "meow-meow-japanese-history-15474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0284904cb1e9ec720d45156fd24e36c9.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Meow Meow Japanese History",
+        "alternativeTitle": "Neko Neko Nihonshi",
+        "id": "meow-meow-japanese-history-7103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0cc3d4c040d450629efb3d44a1187d1.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Kyou kara Maou! 3rd Series",
+        "alternativeTitle": "Kyou kara Maou! 3rd Series",
+        "id": "kyou-kara-maou-3rd-series-771",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33ad4d1145155bfc747cb9a1d6e7d744.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kyou kara Maou! R",
+        "alternativeTitle": "Kyou kara Maou! R",
+        "id": "kyou-kara-maou-r-1639",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce5d12e5c75f53bbf69bb6878c808380.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "22/7",
+        "alternativeTitle": "22/7",
+        "id": "227-4292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2b9386d914d9d1901cee0cdbb807df3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "7 Seeds 2nd Season",
+        "alternativeTitle": "7 Seeds 2nd Season",
+        "id": "7-seeds-2nd-season-2738",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b40aa69b2ebde61865edd5930f0772e6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "To LOVE-Ru Darkness 2nd OVA",
+        "alternativeTitle": "To LOVE-Ru Darkness 2nd OVA",
+        "id": "to-love-ru-darkness-2nd-ova-1289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc526886203914c1659f3a7f84cd15ae.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "To LOVE-Ru Darkness OVA",
+        "alternativeTitle": "To LOVE-Ru Darkness OVA",
+        "id": "to-love-ru-darkness-ova-1236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd069c0b1a47b7626f75eb49dd743fcb.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "To LOVE-Ru OVA",
+        "alternativeTitle": "To LOVE-Ru OVA",
+        "id": "to-love-ru-ova-2200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba01be9991c8b452baec4d73863e03b2.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Shaman King",
+        "alternativeTitle": "Shaman King",
+        "id": "shaman-king-874",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/106a33e1fedf1b305e231674b675d38c.jpg",
+        "episodes": {
+          "sub": 64,
+          "dub": 0,
+          "eps": 64
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K.: Reawakened",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan: Ψ-shidou-hen",
+        "id": "the-disastrous-life-of-saiki-k-reawakened-333",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62ceded78a7866ac8ffd889a2cd804e4.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K. Final Arc",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+        "id": "the-disastrous-life-of-saiki-k-final-arc-281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50888b6a169a08dfaf4cf95e17eb6504.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "50m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K. 2",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan 2",
+        "id": "the-disastrous-life-of-saiki-k-2-94",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05878f31a262e24cde809c15266a03ba.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Run with the Wind",
+        "alternativeTitle": "Kaze ga Tsuyoku Fuiteiru",
+        "id": "run-with-the-wind-105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebfddbd35bd01c7d3d3b96b3cc02e2b2.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lagrange: The Flower of Rin-ne – Kamogawa Days",
+        "alternativeTitle": "Rinne no Lagrange: Kamogawa Days",
+        "id": "lagrange-the-flower-of-rin-ne-kamogawa-days-4342",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d3cd503085d8bf85cbe518de3ab0b1d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Rinne no Lagrange Season 2 Specials",
+        "alternativeTitle": "Rinne no Lagrange Season 2 Specials",
+        "id": "rinne-no-lagrange-season-2-specials-6672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e6f153a02e5b582e1be132ac3d78092.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Lagrange: The Flower of Rin-ne Specials",
+        "alternativeTitle": "Rinne no Lagrange Specials",
+        "id": "lagrange-the-flower-of-rin-ne-specials-7044",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58b34f6911f3e21a0b6bedc956ad5da6.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Rainbow",
+        "alternativeTitle": "Rainbow: Nisha Rokubou no Shichinin",
+        "id": "rainbow-91",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e73b01daa8388ced7b0c7cd3e8f6ca02.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Vanquished Queens",
+        "alternativeTitle": "Vanquished Queens",
+        "id": "vanquished-queens-7683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef415fafc14642b5dcc0319c85d6fcb6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Queen's Blade: Grimoire",
+        "alternativeTitle": "Queen's Blade: Grimoire",
+        "id": "queens-blade-grimoire-7107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30034021b50d6bebf6be4ee020349f6e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Vanquished Queens Specials",
+        "alternativeTitle": "Vanquished Queens Specials",
+        "id": "vanquished-queens-specials-9343",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66d0a35254e73082dac8c174b660d721.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "Pastel Memories",
+        "alternativeTitle": "Pastel Memories",
+        "id": "pastel-memories-10098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8aff8fa38f0d2aa7d299619f052c1c3a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Six Gates Faraway Mon Colle Knights",
+        "alternativeTitle": "Rokumon Tengai Mon Colle Knights",
+        "id": "six-gates-faraway-mon-colle-knights-5722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a97cb655540bfadb966ac98bc33b206d.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sleepy Princess in the Demon Castle",
+        "alternativeTitle": "Maoujou de Oyasumi",
+        "id": "sleepy-princess-in-the-demon-castle-1467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ed62cb82973260ecd96e2fb84b22b94.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Asteroid in Love",
+        "alternativeTitle": "Koisuru Asteroid",
+        "id": "asteroid-in-love-3996",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c899082514f4f6a369def4fdb3e85c92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kimagure Orange☆Road",
+        "alternativeTitle": "Kimagure Orange☆Road",
+        "id": "kimagure-orangeroad-1399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed311971dd93f2af64ecf27f1228d4a8.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kemurikusa (TV)",
+        "alternativeTitle": "Kemurikusa (TV)",
+        "id": "kemurikusa-tv-3275",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96831021b5401fcdc14b81e0ac116574.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kemono Friends 2",
+        "alternativeTitle": "Kemono Friends 2",
+        "id": "kemono-friends-2-8374",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd1ccba2938a2cec7868785f123210d2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Reborn!",
+        "alternativeTitle": "Katekyo Hitman Reborn!",
+        "id": "reborn-311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7e82ca9b8e9d9db37bafc4d4ecee201.jpg",
+        "episodes": {
+          "sub": 203,
+          "dub": 0,
+          "eps": 203
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dropkick on My Devil!! Dash",
+        "alternativeTitle": "Jashin-chan Dropkick'",
+        "id": "dropkick-on-my-devil-dash-1816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f8611ea04585c84acdab564f0f0d912.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Joshi Kausei",
+        "alternativeTitle": "Joshikausei",
+        "id": "joshi-kausei-8738",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95c15f14a6cdf9e72006e3d4bdfc4885.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "DD Fist of the North Star 2: Strawberry Flavor Plus",
+        "alternativeTitle": "DD Hokuto no Ken 2 Ichigo Aji+",
+        "id": "dd-fist-of-the-north-star-2-strawberry-flavor-plus-8306",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0037b72fecdba475d89a86d6b1ae33a1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "DD Fist of the North Star",
+        "alternativeTitle": "DD Hokuto no Ken (2013)",
+        "id": "dd-fist-of-the-north-star-5679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68335e8db4ceb0559f001a50bb4f2998.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "DD Fist of the North Star",
+        "alternativeTitle": "DD Hokuto no Ken",
+        "id": "dd-fist-of-the-north-star-7319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d437394978bafebf306fb182d0e4a96.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      }
+    ]
+  }
+}

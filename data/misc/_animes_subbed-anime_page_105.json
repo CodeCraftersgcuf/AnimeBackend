@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 105,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Captain Earth",
+        "alternativeTitle": "Captain Earth",
+        "id": "captain-earth-6144",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/483b42f727df7b2aaff5b38604fe9577.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Astroganger",
+        "alternativeTitle": "Astroganger",
+        "id": "astroganger-6142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e785981ab8cbf740562e6163b9527f0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Relative Worlds",
+        "alternativeTitle": "Ashita Sekai ga Owaru toshitemo",
+        "id": "the-relative-worlds-6141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91bb533d689a24d44cf6919d37d3fd2d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Yume Tsukai",
+        "alternativeTitle": "Yume Tsukai",
+        "id": "yume-tsukai-6138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b3f499628c0a57830dde0188a38442b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix",
+        "alternativeTitle": "Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix",
+        "id": "tobidasu-pripara-minna-de-mezase-idolgrand-prix-6137",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0283e3921ffc35e18bdcc49bf9b23bd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Takunomi",
+        "alternativeTitle": "Takunomi.",
+        "id": "takunomi-6133",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ebbdc7662f3cf8aea459240493b647.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Strike Witches: 501st JOINT FIGHTER WING Take Off!",
+        "alternativeTitle": "Strike Witches: 501 Butai Hasshin Shimasu!",
+        "id": "strike-witches-501st-joint-fighter-wing-take-off-6132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1748955a74b407084daa27bcbceb0a6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "The Qwaser of Stigmata: Portrait of the Empress",
+        "alternativeTitle": "Seikon no Qwaser: Jotei no Shouzou",
+        "id": "the-qwaser-of-stigmata-portrait-of-the-empress-6130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e64c0c372fe5aea56eb2aea6568403e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Sakura Wars: School of Paris",
+        "alternativeTitle": "Sakura Taisen: Ecole de Paris",
+        "id": "sakura-wars-school-of-paris-6129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9cf53b4ca20532cb63ef20b9ce1f040.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Little Bean",
+        "alternativeTitle": "Qing Chi Hong Xiaodou Ba!",
+        "id": "little-bean-6127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e324c0eefcb3dc295871f5c7a557342.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Project A-Ko 3: Cinderella Rhapsody",
+        "alternativeTitle": "Project A-Ko 3: Cinderella Rhapsody",
+        "id": "project-a-ko-3-cinderella-rhapsody-6126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42da15008ecf8852a8033ce98b5797ea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Wicked City",
+        "alternativeTitle": "Youjuu Toshi",
+        "id": "wicked-city-6121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37beeb4e5e51d3700a40a3056a510a8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "The Guardian Brothers",
+        "alternativeTitle": "Xiao Men Shen",
+        "id": "the-guardian-brothers-6120",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b23da9ed255a6108fd372ed1cae30a6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "UFO Robo Grendizer tai Great Mazinger",
+        "alternativeTitle": "UFO Robo Grendizer tai Great Mazinger",
+        "id": "ufo-robo-grendizer-tai-great-mazinger-6119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19b02a06e7d9d7dd0eb465d37e4778f4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "Space Pirate Mito",
+        "alternativeTitle": "Uchuu Kaizoku Mito no Daibouken",
+        "id": "space-pirate-mito-6118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d6591ad265f08e887cefce7641ca9fd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To Heart: Remember My Memories",
+        "alternativeTitle": "To Heart: Remember My Memories",
+        "id": "to-heart-remember-my-memories-6117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98c6d629f7b513cde13444dd4bc32482.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA",
+        "alternativeTitle": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA",
+        "id": "saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova-6114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3265990e43325ec74e488c1124005e2b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "RoboMasters the Animated Series",
+        "alternativeTitle": "RoboMasters the Animated Series",
+        "id": "robomasters-the-animated-series-6113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a2821e59117ce402468218cebf1401f.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pingu in the City 2nd Season",
+        "alternativeTitle": "Pingu in the City (2018)",
+        "id": "pingu-in-the-city-2nd-season-6107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/447f43a0571a0dd9391bd27b5b2a27d2.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Phantom in the Twilight",
+        "alternativeTitle": "Phantom in the Twilight",
+        "id": "phantom-in-the-twilight-6106",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f815668c858631ce27194abeedfb8596.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Panty & Stocking in Sanitarybox",
+        "alternativeTitle": "Panty & Stocking in Sanitarybox",
+        "id": "panty-stocking-in-sanitarybox-6105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c29c58c6eab86519715658098274dea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "One Off",
+        "alternativeTitle": "One Off",
+        "id": "one-off-6102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec54d54ed842316425a305aec3a95e39.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "15m"
+      },
+      {
+        "title": "Prince Nezha's Triumph Against Dragon King",
+        "alternativeTitle": "Nezha Nao Hai",
+        "id": "prince-nezhas-triumph-against-dragon-king-6100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89439a33933312804a8db7c30e634c93.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "58m"
+      },
+      {
+        "title": "Maken-Ki!",
+        "alternativeTitle": "Maken-Ki!",
+        "id": "maken-ki-6098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ccf9ed4d53750e4ffc3217e2536c82d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kuusen Madoushi Kouhosei no Kyoukan: Lecty no, Ikimonogatari",
+        "alternativeTitle": "Kuusen Madoushi Kouhosei no Kyoukan: Lecty no, Ikimonogatari",
+        "id": "kuusen-madoushi-kouhosei-no-kyoukan-lecty-no-ikimonogatari-6096",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8ce83700d439c7ec1933f6a272a3267.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "I'm glad I could keep running.",
+        "alternativeTitle": "Hashiri Tsuzukete Yokattatte.",
+        "id": "im-glad-i-could-keep-running-6091",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb68fa67575d6b83d7a01353ae70eda6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Ace Attorney",
+        "alternativeTitle": "Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari!",
+        "id": "ace-attorney-6089",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bc81ae1b890daf336f07baeb9705ae4.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Neighborhood Story The Movie",
+        "alternativeTitle": "Gokinjo Monogatari the Movie",
+        "id": "neighborhood-story-the-movie-6087",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce8e6d9354b3742f2435ebe6da3b1cca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "Galilei Donna: Storia di tre sorelle a caccia di un mistero",
+        "alternativeTitle": "Galilei Donna",
+        "id": "galilei-donna-storia-di-tre-sorelle-a-caccia-di-un-mistero-6086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e797ae81d3f64411e0ede0339446c44f.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Comic Party Specials",
+        "alternativeTitle": "Comic Party Specials",
+        "id": "comic-party-specials-6082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50a75a7c6ddd1037398386cdd61be91d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Anime-Gataris",
+        "alternativeTitle": "Animegataris",
+        "id": "anime-gataris-6078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34285b893f9414d1262a9886c2375d72.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Akane Iro ni Somaru Saka Hardcore OVA",
+        "alternativeTitle": "Akaneiro ni Somaru Saka: Hardcore",
+        "id": "akane-iro-ni-somaru-saka-hardcore-ova-6076",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d481fc086e5b113a1a8c0fc8b46b8e15.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "26m"
+      },
+      {
+        "title": "Aikatsu on Parade! (ONA)",
+        "alternativeTitle": "Aikatsu on Parade! (ONA)",
+        "id": "aikatsu-on-parade-ona-6075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c573abe71b3e70569127082f4498155.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Age 12.",
+        "alternativeTitle": "12-sai.: Chicchana Mune no Tokimeki",
+        "id": "age-12-6074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05468c1c7f54abcdabf08cbd48387bb4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

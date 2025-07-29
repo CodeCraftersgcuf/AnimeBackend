@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 48,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Made in Abyss Movie 1: Journey's Dawn",
+        "alternativeTitle": "Made in Abyss Movie 1: Tabidachi no Yoake",
+        "id": "made-in-abyss-movie-1-journeys-dawn-424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a10c4e42d3800be2075c548ba10c24dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Vampire Knight: Guilty",
+        "alternativeTitle": "Vampire Knight: Guilty",
+        "id": "vampire-knight-guilty-2535",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71ee32472475d7fd5d8e77b75dfe957e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Strike the Blood Second",
+        "alternativeTitle": "Strike the Blood II",
+        "id": "strike-the-blood-second-3127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf2e92f0da17d3ef457e79a2c98b224b.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Protocol: Rain",
+        "alternativeTitle": "Bokura no Ameiro Protocol",
+        "id": "protocol-rain-18605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62092bdec7530c0df717e0abaa09d74a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Urusei Yatsura (2022) 2nd Season",
+        "alternativeTitle": "Urusei Yatsura (2022) 2nd Season",
+        "id": "urusei-yatsura-2022-2nd-season-18835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f56b13e4f855e09bd1bb26fecbfbe55.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Babanbabanban Vampire",
+        "alternativeTitle": "Babanbabanban Vampire",
+        "id": "babanbabanban-vampire-19466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfcbd1515dc56000a65cd2fc1d48e8d7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kizumonogatari III: Reiketsu-hen",
+        "alternativeTitle": "Kizumonogatari III: Reiketsu-hen",
+        "id": "kizumonogatari-iii-reiketsu-hen-22",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fbf9f604cd3bf564317f54536671b003.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "83m"
+      },
+      {
+        "title": "Dance in the Vampire Bund",
+        "alternativeTitle": "Dance in the Vampire Bund",
+        "id": "dance-in-the-vampire-bund-3338",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f64ec96abc62356ba75bf0c45b0015f0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yashahime: Princess Half-Demon",
+        "alternativeTitle": "Hanyou no Yashahime: Sengoku Otogizoushi",
+        "id": "yashahime-princess-half-demon-1131",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35f5d28908f3f2f6b6e5b43c3b6b264e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dance with Devils",
+        "alternativeTitle": "Dance with Devils",
+        "id": "dance-with-devils-6186",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ff8e966e240508627bfa062350c4b49.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Naruto OVA3: Hidden Leaf Village Grand Sports Festival",
+        "alternativeTitle": "Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! - Konoha no Sato no Dai Undoukai",
+        "id": "naruto-ova3-hidden-leaf-village-grand-sports-festival-4136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4bb0d2caaa9591fdb3c442738d7f87a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Rainbow",
+        "alternativeTitle": "Rainbow: Nisha Rokubou no Shichinin",
+        "id": "rainbow-91",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e73b01daa8388ced7b0c7cd3e8f6ca02.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Blue Archive the Animation",
+        "alternativeTitle": "Blue Archive the Animation",
+        "id": "blue-archive-the-animation-19125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea3dd4a5448f8a1a1dedd0e3a6521745.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "ORESUKI Are you the only one who loves me: Game Over",
+        "alternativeTitle": "ORESUKI Are you the only one who loves me: Game Over",
+        "id": "oresuki-are-you-the-only-one-who-loves-me-game-over-17963",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f8b745a574abe160c23919431b1c957.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "70m"
+      },
+      {
+        "title": "Love, Chunibyo & Other Delusions!: Sparkling... Slapstick Noel",
+        "alternativeTitle": "Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel",
+        "id": "love-chunibyo-other-delusions-sparkling-slapstick-noel-1515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d1ab1a2ad509781e1390363cc130a7e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "My Happy Marriage",
+        "alternativeTitle": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
+        "id": "my-happy-marriage-18892",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce5562e78f5267a9d515f7ac2d692aeb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Revolutionary Girl Utena",
+        "alternativeTitle": "Shoujo Kakumei Utena",
+        "id": "revolutionary-girl-utena-317",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/adcf2c668e2ea1d5609075ba7a10727b.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kekkaishi",
+        "alternativeTitle": "Kekkaishi (TV)",
+        "id": "kekkaishi-1176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb96778c31a037addd3436ce36ae5efe.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Build Divide: Code Black",
+        "alternativeTitle": "Build Divide: Code Black",
+        "id": "build-divide-code-black-17912",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12e788c92bff8b30532b7463bf748027.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Durarara!! x2 Shou",
+        "alternativeTitle": "Durarara!!x2 Shou",
+        "id": "durarara-x2-shou-478",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b55f592809c37d3231d972ae232ab9df.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magical Girl Site",
+        "alternativeTitle": "Mahou Shoujo Site",
+        "id": "magical-girl-site-5887",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c3bf2bc77cc645afeed5b07eba19203.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mononoke",
+        "alternativeTitle": "Mononoke",
+        "id": "mononoke-137",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/929ca8f1cb6b62d99a1af76d4aae5054.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "One Piece 3D: Strawhat Chase",
+        "alternativeTitle": "One Piece 3D: Mugiwara Chase",
+        "id": "one-piece-3d-strawhat-chase-3188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01605691c2a52ce8c5f3226ec4a631a9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "Date A Live II: Kurumi Star Festival",
+        "alternativeTitle": "Date A Live II: Kurumi Star Festival",
+        "id": "date-a-live-ii-kurumi-star-festival-625",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5782daafd189cda8d9de763fc98c1001.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Teasing Master Takagi-san: The Movie",
+        "alternativeTitle": "Karakai Jouzu no Takagi-san Movie",
+        "id": "teasing-master-takagisan-the-movie-18253",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67ac19a9ebdd2c928b36dd9ce01367f3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "73m"
+      },
+      {
+        "title": "Adachi and Shimamura",
+        "alternativeTitle": "Adachi to Shimamura",
+        "id": "adachi-and-shimamura-15634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad1f579d9836fbc965a2b115f0b5b008.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fruits Basket (2001)",
+        "alternativeTitle": "Fruits Basket",
+        "id": "fruits-basket-2001-1024",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3d45b9feef92ba28811cb8d8066f40f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Strike the Blood III",
+        "alternativeTitle": "Strike the Blood III",
+        "id": "strike-the-blood-iii-3104",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de73580d33277fc372fe23e105fa4e21.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Nobunaga the Fool",
+        "alternativeTitle": "Nobunaga the Fool",
+        "id": "nobunaga-the-fool-4843",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1f856fcfd531f63c8260cbfb81a3910.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Sweet Tyrant",
+        "alternativeTitle": "Akkun to Kanojo",
+        "id": "my-sweet-tyrant-4293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/439e3284eab74c5fb9b89667b701590f.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Requiem of the Rose King",
+        "alternativeTitle": "Baraou no Souretsu",
+        "id": "requiem-of-the-rose-king-15655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0506970d1863560c2ec7dc7e87d09e53.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season",
+        "alternativeTitle": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season",
+        "id": "a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized-2nd-season-19367",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f5abb230576afc9894520bd66de30b5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "GARO: THE ANIMATION",
+        "alternativeTitle": "Garo: Honoo no Kokuin",
+        "id": "garo-the-animation-1831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e74d3f74076f6111d0df592e092775f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Drifting Home",
+        "alternativeTitle": "Ame wo Tsugeru Hyouryuu Danchi",
+        "id": "drifting-home-18150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60260e6b74bf15e08cbfa737052cebba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "A Day Before Us (Season Zero)",
+        "alternativeTitle": "A Day Before Us",
+        "id": "a-day-before-us-season-zero-3782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53d02ca403b59826fbe8b6f5aa991ad4.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "The Secret World of Arrietty",
+        "alternativeTitle": "Karigurashi no Arrietty",
+        "id": "the-secret-world-of-arrietty-570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc0be1bf5fe6c8912ffeefb8908b60ad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "The Dinner Table Detective",
+        "alternativeTitle": "Nazotoki wa Dinner no Ato de",
+        "id": "the-dinner-table-detective-19571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd4bf0e6216701d3180a78b13d631864.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokémon: Origins",
+        "alternativeTitle": "Pokemon: The Origin",
+        "id": "pokemon-origins-872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b91b63228e35f09d701e2926b4a58784.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "21m"
+      },
+      {
+        "title": "Weather Report Girl",
+        "alternativeTitle": "Otenki Oneesan",
+        "id": "weather-report-girl-16916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6890f1e09d56e0c7a5cfcd3e637123a4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+        "alternativeTitle": "Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!",
+        "id": "naruto-narutimate-hero-3-tsuini-gekitotsu-jounin-vs-genin-musabetsu-dairansen-taikai-kaisai-4485",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/939f107dc40ca24056b90c0b215bd475.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 11,
+      "currentPage": 1,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "One Piece",
+        "alternativeTitle": "One Piece",
+        "id": "one-piece-100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+        "episodes": {
+          "sub": 1137,
+          "dub": 1122,
+          "eps": 1137
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakamoto Days",
+        "alternativeTitle": "Sakamoto Days",
+        "id": "sakamoto-days-19431",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bbe7ece956bbefc6f385a7a447c182c.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Case Closed",
+        "alternativeTitle": "Detective Conan",
+        "id": "case-closed-323",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
+        "episodes": {
+          "sub": 1169,
+          "dub": 123,
+          "eps": 1169
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "To Be Hero X",
+        "alternativeTitle": "Tu Bian Yingxiong X",
+        "id": "to-be-hero-x-19591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3af81a186b40dc69e969075f218c74a9.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 17,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "No Longer Allowed In Another World",
+        "alternativeTitle": "Isekai Shikkaku",
+        "id": "no-longer-allowed-in-another-world-19247",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b97e75f9de748632c4458eefb3ec8d8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword of the Demon Hunter: Kijin Gentosho",
+        "alternativeTitle": "Kijin Gentoushou",
+        "id": "sword-of-the-demon-hunter-kijin-gentosho-19554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1363cdc748d342ce2ab2e0ec7c21bc78.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 8,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dan Da Dan Season 2",
+        "alternativeTitle": "Dandadan 2nd Season",
+        "id": "dan-da-dan-season-2-19793",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4303d95c719242ab6e459d477b0a8c08.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gachiakuta",
+        "alternativeTitle": "Gachiakuta",
+        "id": "gachiakuta-19785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokémon Horizons: The Series",
+        "alternativeTitle": "Pokemon (2023)",
+        "id": "pokemon-horizons-the-series-18397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
+        "episodes": {
+          "sub": 103,
+          "dub": 89,
+          "eps": 103
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lord of Mysteries",
+        "alternativeTitle": "Guimi Zhi Zhu: Xiaochou Pian",
+        "id": "lord-of-mysteries-19802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c5a71674d8fc4af6ee57ffeb7b2617.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 2,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "35m"
+      },
+      {
+        "title": "The Fragrant Flower Blooms with Dignity",
+        "alternativeTitle": "Kaoru Hana wa Rin to Saku",
+        "id": "the-fragrant-flower-blooms-with-dignity-19789",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0b91bbbd75c16315c767bf3a9c8a3fc.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Water Magician",
+        "alternativeTitle": "Mizu Zokusei no Mahoutsukai",
+        "id": "the-water-magician-19770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3de30534cd752a56b7323d979cd08b9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Super Dragon Ball Heroes",
+        "alternativeTitle": "Super Dragon Ball Heroes",
+        "id": "super-dragon-ball-heroes-9688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc1904280b9effa1624c0d2b2652aa52.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Please Put Them On, Takamine-san [UNCENSORED]",
+        "alternativeTitle": "Haite Kudasai, Takamine-san [UNCENSORED]",
+        "id": "please-put-them-on-takamine-san-uncensored-19640",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/427526598ffeb6a0521ed6ca8c78b549.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Clevatess",
+        "alternativeTitle": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+        "id": "clevatess-19760",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d53c0d4ebad9dd8f22ccb1ba37568213.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Dress-Up Darling Season 2",
+        "alternativeTitle": "Sono Bisque Doll wa Koi wo Suru Season 2",
+        "id": "my-dress-up-darling-season-2-19794",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41c10d21a2be8f2aef7491504eb64444.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Battle Through The Heavens 5th Season",
+        "alternativeTitle": "Doupo Cangqiong: Nian Fan",
+        "id": "battle-through-the-heavens-5th-season-18119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
+        "episodes": {
+          "sub": 157,
+          "dub": 52,
+          "eps": 157
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaiju No. 8 Season 2",
+        "alternativeTitle": "Kaijuu 8-gou 2nd Season",
+        "id": "kaiju-no-8-season-2-19792",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a3c3a24bc6aebc4b3c01ca82a5033ed.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Witch Watch",
+        "alternativeTitle": "Witch Watch",
+        "id": "witch-watch-19552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80082b698ed84bf8d784d299faf50124.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 14,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chuhai Lips [UNCENSORED]",
+        "alternativeTitle": "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite [UNCENSORED]",
+        "id": "chuhai-lips-uncensored-19750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfd3971725d67ddda2c0a13c6768ecfe.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 1,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "New Saga",
+        "alternativeTitle": "Tsuyokute New Saga",
+        "id": "new-saga-19774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/36cb7408e1016c2a85bd8541851408e6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakamoto Days Part 2",
+        "alternativeTitle": "Sakamoto Days Part 2",
+        "id": "sakamoto-days-part-2-19787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16938f0dfd1d36cab6a0c604ab4669d5.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Super Dragon Ball Heroes: Big Bang Mission!!!",
+        "alternativeTitle": "Super Dragon Ball Heroes: Big Bang Mission!!!",
+        "id": "super-dragon-ball-heroes-big-bang-mission-17970",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/440f62e68ca62b339b712bd3051e2133.jpg",
+        "episodes": {
+          "sub": 19,
+          "dub": 0,
+          "eps": 19
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Apocalypse Bringer Mynoghra",
+        "alternativeTitle": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+        "id": "apocalypse-bringer-mynoghra-19772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5158a52746ac1a0af5ca85fd2ff25366.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+        "alternativeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+        "id": "i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-season-2-19781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc90c348158e7ee0df92885576ad7603.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 1,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "alternativeTitle": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+        "id": "demon-slayer-kimetsu-no-yaiba-infinity-castle-19722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61297ee36cf2c6c51a4a055b2999a709.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "155m"
+      },
+      {
+        "title": "Scooped Up by an S-Rank Adventurer!",
+        "alternativeTitle": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
+        "id": "scooped-up-by-an-s-rank-adventurer-19764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b94b16fa2b966943695c1696637c4bc7.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyblade X",
+        "alternativeTitle": "Beyblade X",
+        "id": "beyblade-x-18632",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
+        "episodes": {
+          "sub": 88,
+          "dub": 51,
+          "eps": 88
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Takopi's Original Sin",
+        "alternativeTitle": "Takopii no Genzai",
+        "id": "takopis-original-sin-19799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be519acac4c3a026e537a674b608d860.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Soul Land 2: Peerless Tang Sect",
+        "alternativeTitle": "Douluo Dalu II: Jueshi Tangmen",
+        "id": "soul-land-2-peerless-tang-sect-18416",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
+        "episodes": {
+          "sub": 111,
+          "dub": 0,
+          "eps": 104
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Swallowed Star 2nd Season",
+        "alternativeTitle": "Tunshi Xingkong 2nd Season",
+        "id": "swallowed-star-2nd-season-18018",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23cc8e120b74d5fc55050b0e88f00758.jpg",
+        "episodes": {
+          "sub": 154,
+          "dub": 0,
+          "eps": 154
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "The Rising of the Shield Hero Season 4",
+        "alternativeTitle": "Tate no Yuusha no Nariagari Season 4",
+        "id": "the-rising-of-the-shield-hero-season-4-19790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f388247d0d1c9dfd45c9e704ebe031aa.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shin Chan",
+        "alternativeTitle": "Crayon Shin-chan",
+        "id": "shin-chan-1058",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e823a4a4b8b1445deac56a7075aa8748.jpg",
+        "episodes": {
+          "sub": 78,
+          "dub": 78,
+          "eps": 78
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "Renegade Immortal",
+        "alternativeTitle": "Xian Ni",
+        "id": "renegade-immortal-18573",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c22744a486998778432fd1f92216129.jpg",
+        "episodes": {
+          "sub": 99,
+          "dub": 1,
+          "eps": 99
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Secrets of the Silent Witch",
+        "alternativeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+        "id": "secrets-of-the-silent-witch-19777",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80041e1c6d7346e561fd39d10507ddf9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Call of the Night Season 2",
+        "alternativeTitle": "Yofukashi no Uta Season 2",
+        "id": "call-of-the-night-season-2-19791",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e19ae2576c697406e319f26ac939fce.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dr. Stone: Science Future Part 2",
+        "alternativeTitle": "Dr. Stone: Science Future Part 2",
+        "id": "dr-stone-science-future-part-2-19784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b75dcc53fe3edbd35ebd4f10e4d62ada.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Summer Hikaru Died",
+        "alternativeTitle": "Hikaru ga Shinda Natsu",
+        "id": "the-summer-hikaru-died-19783",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59ecd5571fb25e6b09ff27f580fd2fbb.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tougen Anki",
+        "alternativeTitle": "Tougen Anki",
+        "id": "tougen-anki-19779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5e326f8234a54e407d7e3c86f9d68e2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Welcome to the Outcast's Restaurant!",
+        "alternativeTitle": "Tsuihousha Shokudou e Youkoso!",
+        "id": "welcome-to-the-outcasts-restaurant-19751",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fa01484297cdd8460e99d11efdf4667.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

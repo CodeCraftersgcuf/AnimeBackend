@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 48,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Yu☆Gi☆Oh! (Movie)",
+        "alternativeTitle": "Yu☆Gi☆Oh! (Movie)",
+        "id": "yugioh-movie-3936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d63f593ee8864e53ac2bd90a2601bbe2.png",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Ghost Slayers Ayashi",
+        "alternativeTitle": "Tenpou Ibun: Ayakashi Ayashi",
+        "id": "ghost-slayers-ayashi-3931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e4d22880f9ba024a67b6c44aa13ae45.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 25,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tenchi Muyou! Ryououki 2nd Season - Special",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 2nd Season Picture Drama",
+        "id": "tenchi-muyou-ryououki-2nd-season-special-3929",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2705a9063dc51f08e656e08a9ee672d9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Pokémon the Series: Sun & Moon",
+        "alternativeTitle": "Pokemon Sun & Moon",
+        "id": "pokemon-the-series-sun-moon-3918",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4448bc18eb2e66aa9db24982b2227a1.jpg",
+        "episodes": {
+          "sub": 145,
+          "dub": 145,
+          "eps": 145
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon The Movie 13: Zoroark: Master of Illusions",
+        "alternativeTitle": "Pokemon Movie 13: Genei no Hasha Zoroark",
+        "id": "pokemon-the-movie-13-zoroark-master-of-illusions-3917",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df9c5a0fa63643983e5ce020a6b421db.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Sunday Without God: Memories",
+        "alternativeTitle": "Kamisama no Inai Nichiyoubi: Kioku",
+        "id": "sunday-without-god-memories-3908",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31fbebae97f3213923c11462c3a02722.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "The World God Only Knows: Flag 0",
+        "alternativeTitle": "Kami nomi zo Shiru Sekai: Flag 0",
+        "id": "the-world-god-only-knows-flag-0-3907",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09b05a57d370578faf99447036e6fb8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "1m"
+      },
+      {
+        "title": "I''s Pure",
+        "alternativeTitle": "I''s Pure",
+        "id": "is-pure-3905",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fdb883d3b5b61b94cfa5a028ba13537.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Mirage of Blaze: Rebels of the River Edge",
+        "alternativeTitle": "Honoo no Mirage: Minagiwa no Hangyakusha",
+        "id": "mirage-of-blaze-rebels-of-the-river-edge-3904",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/060262fcef6eec00dad59791cdec4a4b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Aria the Scarlet Ammo",
+        "alternativeTitle": "Hidan no Aria",
+        "id": "aria-the-scarlet-ammo-3902",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ce77c2fd05e42497e4d89cbfc654bbb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball Z: Super Android 13!",
+        "alternativeTitle": "Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin",
+        "id": "dragon-ball-z-super-android-13-3896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d86d8fdff6282a65d10913a3a4a9b2a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "CLAMP School Detectives",
+        "alternativeTitle": "Clamp Gakuen Tanteidan",
+        "id": "clamp-school-detectives-3891",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bc37b1eaf6f2058e29f0ecc1f33ac4a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Oh! My Goddess: The Adventures of Mini-Goddess",
+        "alternativeTitle": "Aa! Megami-sama!: Chichaitte Koto wa Benri da ne",
+        "id": "oh-my-goddess-the-adventures-of-mini-goddess-3887",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cc395c51fd010166dd2f6e6bd030638.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 48,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": ".hack//roots",
+        "alternativeTitle": ".hack//Roots",
+        "id": "hackroots-3886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03fa9bc37156a18ec6582e2459b3a075.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Meiji Tokyo Renka",
+        "alternativeTitle": "Meiji Tokyo Renka",
+        "id": "meiji-tokyo-renka-3883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88d72c1bdc6c156aaa9c15c9f47fc941.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lupin III: Hemingway Paper no Nazo",
+        "alternativeTitle": "Lupin III: Hemingway Paper no Nazo",
+        "id": "lupin-iii-hemingway-paper-no-nazo-3881",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41f86186642024662b30e2b57aeddb99.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "92m"
+      },
+      {
+        "title": "Key the Metal Idol",
+        "alternativeTitle": "Key the Metal Idol",
+        "id": "key-the-metal-idol-3879",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/333e6e64f6c23ce78d84106e34bf9349.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 15,
+          "eps": 15
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "Case File nº221: Kabukicho",
+        "alternativeTitle": "Kabukichou Sherlock",
+        "id": "case-file-no221-kabukicho-3878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f95e4eece0f3b0739304af9c0100448d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Animation Runner Kuromi",
+        "alternativeTitle": "Animation Seisaku Shinkou Kuromi-chan",
+        "id": "animation-runner-kuromi-3864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31a440f27c245f8782d67e5d3cc71b83.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "38m"
+      },
+      {
+        "title": "The Empire of Corpses",
+        "alternativeTitle": "Shisha no Teikoku",
+        "id": "the-empire-of-corpses-3854",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b51d9e4fae492dd6d04d061233ef4978.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "Lunar Legend Tsukihime",
+        "alternativeTitle": "Shingetsutan Tsukihime",
+        "id": "lunar-legend-tsukihime-3853",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/126e2bed2a5073c4b87345dddf70098d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lagrange: The Flower of Rin-ne",
+        "alternativeTitle": "Rinne no Lagrange",
+        "id": "lagrange-the-flower-of-rin-ne-3850",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4de11a906b58b127d586718414e900b9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Persona 5 the Animation Specials",
+        "alternativeTitle": "Persona 5 the Animation Specials",
+        "id": "persona-5-the-animation-specials-3847",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe6bf91b9a5d19ab0a453686f4787682.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "20m"
+      },
+      {
+        "title": "Momo, Girl God of Death",
+        "alternativeTitle": "Shinigami no Ballad.",
+        "id": "momo-girl-god-of-death-3842",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f058492384c7d16fd0c4ad264fb93ee.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Pokemon The Movie 04: Celebi: Voice of the Forest",
+        "alternativeTitle": "Pokemon Movie 04: Celebi Toki wo Koeta Deai",
+        "id": "pokemon-the-movie-04-celebi-voice-of-the-forest-3836",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ff28711d37f5870f235bca7dfb80db4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "79m"
+      },
+      {
+        "title": "My-Hime Specials",
+        "alternativeTitle": "Mai-HiME Specials",
+        "id": "my-hime-specials-3833",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e045efb75b3b222d371eac34a29ca5e5.jpg",
+        "episodes": {
+          "sub": 28,
+          "dub": 26,
+          "eps": 27
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "By the Grace of the Gods",
+        "alternativeTitle": "Kami-tachi ni Hirowareta Otoko",
+        "id": "by-the-grace-of-the-gods-3829",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/565a89169a78716ce30362f03be1e372.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "IS: Infinite Stratos: A Sextet Yearns to Be in Love",
+        "alternativeTitle": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+        "id": "is-infinite-stratos-a-sextet-yearns-to-be-in-love-3827",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a471bea5cdbc51383c73425bcd6fa79.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Demon King Daimao",
+        "alternativeTitle": "Ichiban Ushiro no Daimaou",
+        "id": "demon-king-daimao-3825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/632f0f439448857e63e57ee2dd15a0a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Generator Gawl",
+        "alternativeTitle": "Generator Gawl",
+        "id": "generator-gawl-3822",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7adba7795da1f727593fabf1aa9839b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Asterisk War",
+        "alternativeTitle": "Gakusen Toshi Asterisk",
+        "id": "the-asterisk-war-3820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63b32c570eb780e7e441af2980d442a6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Freezing",
+        "alternativeTitle": "Freezing",
+        "id": "freezing-3816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e251074ee9e14864b4986dc0eecbc41a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Comet SPT Layzner",
+        "alternativeTitle": "Aoki Ryuusei SPT Layzner",
+        "id": "blue-comet-spt-layzner-3810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/285293c1597248209b1d1fa1bd5a2d15.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III: Voyage to Danger",
+        "alternativeTitle": "Lupin III: Lupin Ansatsu Shirei",
+        "id": "lupin-iii-voyage-to-danger-3804",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069b73005a38538206ee7cc8c74f5dd9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      }
+    ]
+  }
+}

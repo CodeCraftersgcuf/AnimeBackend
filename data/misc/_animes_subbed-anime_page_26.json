@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 26,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Dog Signal",
+        "alternativeTitle": "Dog Signal",
+        "id": "dog-signal-18615",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90ff5d319769c10c9ef425a64ce9b8c4.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kibou no Chikara: Otona Precure '23",
+        "alternativeTitle": "Kibou no Chikara: Otona Precure '23",
+        "id": "kibou-no-chikara-otona-precure-23-18614",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/451f09be03718f2bb0ce7f730613581c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Bullbuster",
+        "alternativeTitle": "Bullbuster",
+        "id": "bullbuster-18613",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e081c2760ebabbb28299e33bc452fee8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "HYPNOSISMIC -Division Rap Battle- Rhyme Anima PLUS",
+        "alternativeTitle": "Hypnosis Mic: Division Rap Battle - Rhyme Anima +",
+        "id": "hypnosismic-division-rap-battle-rhyme-anima-plus-18612",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0a9d0ea71b460c7c0e141906ca04619.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My New Boss Is Goofy",
+        "alternativeTitle": "Atarashii Joushi wa Do Tennen",
+        "id": "my-new-boss-is-goofy-18611",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d8bca75073c2046ba6d419c7243a378.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 1,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "16bit Sensation: Another Layer",
+        "alternativeTitle": "16bit Sensation: Another Layer",
+        "id": "16bit-sensation-another-layer-18610",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f4127da8674eaebde80e333e060370e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I Shall Survive Using Potions!",
+        "alternativeTitle": "Potion-danomi de Ikinobimasu!",
+        "id": "i-shall-survive-using-potions-18609",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/988a7f29e5feb98769b909654652d70b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Umamusume: Pretty Derby Season 3",
+        "alternativeTitle": "Uma Musume: Pretty Derby Season 3",
+        "id": "umamusume-pretty-derby-season-3-18608",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1eb37bb9b2e2eda785096927311edc1e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Migi & Dali",
+        "alternativeTitle": "Migi to Dali",
+        "id": "migi-and-dali-18607",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18044caa79e4e13292afd6ddbe5d1128.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Yuzuki Family's Four Sons",
+        "alternativeTitle": "Yuzuki-san Chi no Yonkyoudai.",
+        "id": "the-yuzuki-familys-four-sons-18606",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a08755c9e8d98571d79de3a75ca95e0d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Protocol: Rain",
+        "alternativeTitle": "Bokura no Ameiro Protocol",
+        "id": "protocol-rain-18605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62092bdec7530c0df717e0abaa09d74a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Playthrough of a Certain Dude's VRMMO Life",
+        "alternativeTitle": "Toaru Ossan no VRMMO Katsudouki",
+        "id": "a-playthrough-of-a-certain-dudes-vrmmo-life-18604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bb84fd8a5471116057fb9b8335883e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Butareba -The Story of a Man Who Turned into a Pig-",
+        "alternativeTitle": "Buta no Liver wa Kanetsu Shiro",
+        "id": "butareba-the-story-of-a-man-who-turned-into-a-pig-18603",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30f8299ce907173aab15c0eca6344640.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "KamiErabi GOD.app",
+        "alternativeTitle": "Kamierabi",
+        "id": "kamierabi-godapp-18602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aae292d628cd9dbd4cc54df0d7975f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Paradox Live the Animation",
+        "alternativeTitle": "Paradox Live the Animation",
+        "id": "paradox-live-the-animation-18601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c8238686a3ddc8932fcf2c2e00d2363b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Returner's Magic Should Be Special",
+        "alternativeTitle": "Kikansha no Mahou wa Tokubetsu desu",
+        "id": "a-returners-magic-should-be-special-18600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f77c2a8d9163d22b4c8c5376189c56c1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shy",
+        "alternativeTitle": "Shy",
+        "id": "shy-18599",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c1c86e4812d19a10ef8621fa071577b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arknights: Perish in Frost",
+        "alternativeTitle": "Arknights: Fuyukomori Kaerimichi",
+        "id": "arknights-perish-in-frost-18598",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/77a3500e993c85189f493eb2302729a7.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tearmoon Empire",
+        "alternativeTitle": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+        "id": "tearmoon-empire-18597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41c94a371d45d23aada854ba72a71cc9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "MF Ghost",
+        "alternativeTitle": "MF Ghost",
+        "id": "mf-ghost-18596",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4eaa21fe3e5fcdfcca0ecca98c6afe33.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Stardust Telepath",
+        "alternativeTitle": "Hoshikuzu Telepath",
+        "id": "stardust-telepath-18595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b192240b0e531f75d4c1cdd658b44e13.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Under Ninja",
+        "alternativeTitle": "Under Ninja",
+        "id": "under-ninja-18594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/790cb6cb7e183576fbf2fa38ff082e3b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Berserk of Gluttony",
+        "alternativeTitle": "Boushoku no Berserk",
+        "id": "berserk-of-gluttony-18593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2197d5d02bb3b238ed3c7c15664659f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "After-School Hanako-kun",
+        "alternativeTitle": "Houkago Shounen Hanako-kun",
+        "id": "after-school-hanako-kun-18592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c95031220a7a3203dc56d47195b40d09.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
+        "alternativeTitle": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
+        "id": "im-giving-the-disgraced-noble-lady-i-rescued-a-crash-course-in-naughtiness-18591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72c7a1593bb7578563d1f52bcfb70070.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I'm in Love with the Villainess",
+        "alternativeTitle": "Watashi no Oshi wa Akuyaku Reijou.",
+        "id": "im-in-love-with-the-villainess-18590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4376ce8fbfc7debe3f9ce9df04a99dd9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Vexations of a Shut-In Vampire Princess",
+        "alternativeTitle": "Hikikomari Kyuuketsuki no Monmon",
+        "id": "the-vexations-of-a-shut-in-vampire-princess-18589",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8aa6e7e042d898d85ab93d880f99015b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Four Knights of the Apocalypse",
+        "alternativeTitle": "Nanatsu no Taizai: Mokushiroku no Yonkishi",
+        "id": "the-seven-deadly-sins-four-knights-of-the-apocalypse-18588",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abf03e6cea6b5c949d9435e945c0fcd7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Saint's Magic Power is Omnipotent Season 2",
+        "alternativeTitle": "Seijo no Maryoku wa Bannou desu 2nd Season",
+        "id": "the-saints-magic-power-is-omnipotent-season-2-18587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e63f6acb8035c0ecde51f4c57aa1a38c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Kingdoms of Ruin",
+        "alternativeTitle": "Hametsu no Oukoku",
+        "id": "the-kingdoms-of-ruin-18586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8a508c8c04da9376e2fc4b6cc0713a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Ancient Magus' Bride Season 2 Part 2",
+        "alternativeTitle": "Mahoutsukai no Yome Season 2 Part 2",
+        "id": "the-ancient-magus-bride-season-2-part-2-18585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2aefb79296b06730a7aea99929987828.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Demon Sword Master of Excalibur Academy",
+        "alternativeTitle": "Seiken Gakuin no Makentsukai",
+        "id": "the-demon-sword-master-of-excalibur-academy-18584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95bf2ef4435253f8882ee603d66727b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dead Mount Death Play Part 2",
+        "alternativeTitle": "Dead Mount Death Play Part 2",
+        "id": "dead-mount-death-play-part-2-18583",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05074a20bb241319ca03e5405805a51d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Ron Kamonohashi's Forbidden Deductions",
+        "alternativeTitle": "Kamonohashi Ron no Kindan Suiri",
+        "id": "ron-kamonohashis-forbidden-deductions-18582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/114a624ebfada1fd3fe12991668cf810.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

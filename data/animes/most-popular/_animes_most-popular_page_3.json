@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 3,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Classroom of the Elite III",
+        "alternativeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+        "id": "classroom-of-the-elite-iii-18880",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baee528e64275e7da4964d30274d0fe7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Box",
+        "alternativeTitle": "Ao no Hako",
+        "id": "blue-box-19326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8169841c47c010d664f293fcec036fb.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Overflow (Uncensored)",
+        "alternativeTitle": "Overflow (Uncensored)",
+        "id": "overflow-uncensored-17884",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09b6f4a88ba059297c00fb380ca6fb18.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Zom 100: Bucket List of the Dead",
+        "alternativeTitle": "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
+        "id": "zom-100-bucket-list-of-the-dead-18423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6b0c0889e49de49b34b3e72fbecbfdf.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Beginning After the End",
+        "alternativeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+        "id": "the-beginning-after-the-end-19546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bc9db5df112e89f9bb5020db9dbd1f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Punch Man",
+        "alternativeTitle": "One Punch Man",
+        "id": "one-punch-man-63",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5d173f8317f592c6c70d594829b89e4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Rising of the Shield Hero 2nd Season",
+        "alternativeTitle": "Tate no Yuusha no Nariagari Season 2",
+        "id": "the-rising-of-the-shield-hero-2nd-season-15570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fffadff17fe026c2031fb44ff5d70175.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Monster",
+        "alternativeTitle": "Monster",
+        "id": "monster-37",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecd3e711e8b8d78306bdcbb0a595baf1.jpg",
+        "episodes": {
+          "sub": 74,
+          "dub": 74,
+          "eps": 74
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fire Force Season 2",
+        "alternativeTitle": "Enen no Shouboutai: Ni no Shou",
+        "id": "fire-force-season-2-810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/053b812e870f69487e33059ee76ecf31.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far",
+        "alternativeTitle": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+        "id": "the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far-18355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20398dadb590c2c769d1eed77d671677.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "alternativeTitle": "Fullmetal Alchemist: Brotherhood",
+        "id": "fullmetal-alchemist-brotherhood-1",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d2d0a1d4276e7e2595702dc4cebbda9.jpeg",
+        "episodes": {
+          "sub": 64,
+          "dub": 64,
+          "eps": 64
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama",
+        "alternativeTitle": "Gintama",
+        "id": "gintama-13",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/557c4c18257fd706c7ab480ce75fdd6f.jpg",
+        "episodes": {
+          "sub": 201,
+          "dub": 49,
+          "eps": 201
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High School DxD",
+        "alternativeTitle": "High School DxD",
+        "id": "high-school-dxd-1834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4422b23546457c8a427d54d6a1b702e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sword Art Online",
+        "alternativeTitle": "Sword Art Online",
+        "id": "sword-art-online-2274",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90dca175561e61180622bc79218104cb.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Hero Academia",
+        "alternativeTitle": "Boku no Hero Academia",
+        "id": "my-hero-academia-322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1ae1f3d3324e24dfdfa64e4c2e687f8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wistoria: Wand and Sword",
+        "alternativeTitle": "Tsue to Tsurugi no Wistoria",
+        "id": "wistoria-wand-and-sword-19239",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14a6029b0f2759923a4d2fa957765fe4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Case Closed",
+        "alternativeTitle": "Detective Conan",
+        "id": "case-closed-323",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
+        "episodes": {
+          "sub": 1169,
+          "dub": 123,
+          "eps": 1169
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Vermeil in Gold",
+        "alternativeTitle": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu",
+        "id": "vermeil-in-gold-18081",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a41d2b49f816b8e0971957b7779d3e43.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Overlord IV",
+        "alternativeTitle": "Overlord IV",
+        "id": "overlord-iv-18075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef1d1028cf6c177587805651b78282a6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "alternativeTitle": "Tokyo Ghoul",
+        "id": "tokyo-ghoul-790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6ffd8294e7a5d540d7c462e94400189.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Horimiya: The Missing Pieces",
+        "alternativeTitle": "Horimiya: Piece",
+        "id": "horimiya-the-missing-pieces-18421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/041a335c530fda22477df522037c92c5.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ao Ashi",
+        "alternativeTitle": "Ao Ashi",
+        "id": "ao-ashi-17982",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f47599df25cad42ea923e4e29f35c4a2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Rising of the Shield Hero",
+        "alternativeTitle": "Tate no Yuusha no Nariagari",
+        "id": "the-rising-of-the-shield-hero-524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96a77594aa934827b474c4955a8e10e4.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Punch Man 2nd Season",
+        "alternativeTitle": "One Punch Man 2nd Season",
+        "id": "one-punch-man-2nd-season-1861",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c50314f1aa980665c1316d36952d4446.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Loving Yamada at Lv999",
+        "alternativeTitle": "Yamada-kun to Lv999 no Koi wo Suru",
+        "id": "loving-yamada-at-lv999-18341",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e124bfad2fd9c8bae1cb53cd6ecd6de.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "I Parry Everything",
+        "alternativeTitle": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+        "id": "i-parry-everything-19229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/009a25ddb8db9e068e16effd7e93f30e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dr. Stone: New World",
+        "alternativeTitle": "Dr. Stone 3rd Season",
+        "id": "dr-stone-new-world-17725",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cab1ee2bbe1a4def0790121df2c1fc7.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Call of the Night",
+        "alternativeTitle": "Yofukashi no Uta",
+        "id": "call-of-the-night-18041",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed0afd9001c2e535b5bcef879a38e36f.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shikimori's Not Just a Cutie",
+        "alternativeTitle": "Kawaii dake ja Nai Shikimori-san",
+        "id": "shikimoris-not-just-a-cutie-17452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85197c06ebcc962b27fda710016034cd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Demon Slayer Movie: Mugen Train",
+        "alternativeTitle": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "id": "kimetsu-no-yaiba-movie-mugen-ressha-hen-15763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab45afa989aa5a2e06ef973c8482b015.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-v-19323",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7160c39e5ed8edf2a301392f12a66659.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 15,
+          "eps": 15
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Revengers",
+        "alternativeTitle": "Tokyo Revengers",
+        "id": "tokyo-revengers-15585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c04ee7106ea54910abdd39563d239374.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "From Old Country Bumpkin to Master Swordsman",
+        "alternativeTitle": "Katainaka no Ossan, Kensei ni Naru",
+        "id": "from-old-country-bumpkin-to-master-swordsman-19551",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84feed0bc64bfccac0421e57440b08f1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Revengers: Christmas Showdown",
+        "alternativeTitle": "Tokyo Revengers: Seiya Kessen-hen",
+        "id": "tokyo-revengers-christmas-showdown-18244",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb663be9a427cc4c9556a5a124b060e8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Possibly the Greatest Alchemist of All Time",
+        "alternativeTitle": "Izure Saikyou no Renkinjutsushi?",
+        "id": "possibly-the-greatest-alchemist-of-all-time-19451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04e3c56bf2b52e90e0016b803967600e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fire Force Season 3",
+        "alternativeTitle": "Enen no Shouboutai: San no Shou",
+        "id": "fire-force-season-3-19540",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3431eb133353a95a18ea46ac2d8b56c5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells",
+        "alternativeTitle": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made",
+        "id": "failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-19237",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6511271f7f9ca415411b234df57125ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tower of God Season 2",
+        "alternativeTitle": "Kami no Tou: Ouji no Kikan",
+        "id": "tower-of-god-season-2-19255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41adea817f66830f8d965562c2d62e03.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kaguya-sama Love is War: Ultra Romantic",
+        "alternativeTitle": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 3rd Season",
+        "id": "kaguya-sama-love-is-war-ultra-romantic-17224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b0a4b1b70e9e765a03bfa29ccdacb3f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Spy x Family Season 2",
+        "alternativeTitle": "Spy x Family Season 2",
+        "id": "spy-x-family-season-2-18572",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf3ba12c4112c8a922280cca870510ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

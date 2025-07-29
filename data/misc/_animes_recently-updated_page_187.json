@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 187,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Yamishibai: Japanese Ghost Stories",
+        "alternativeTitle": "Yami Shibai",
+        "id": "yamishibai-japanese-ghost-stories-3303",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cedddd8649f12ff09846d8d303985d8c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Doraemon Movie 39: Chronicle of the Moon Exploration",
+        "alternativeTitle": "Doraemon Movie 39: Nobita no Getsumen Tansaki",
+        "id": "doraemon-movie-39-chronicle-of-the-moon-exploration-3815",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/205b49053de1732f86a0612775414127.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "111m"
+      },
+      {
+        "title": "High School DxD Hero: Taiikukan-ura no Holy",
+        "alternativeTitle": "High School DxD Hero: Taiikukan-ura no Holy",
+        "id": "high-school-dxd-hero-taiikukan-ura-no-holy-4071",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3884a14103d45af9e5bef94a3f2da5e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Princess Lover!",
+        "alternativeTitle": "Princess Lover!",
+        "id": "princess-lover-4327",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1090be20495035750b8994f7552ef716.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+        "alternativeTitle": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+        "id": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war-4839",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5fa42ab092fa248d97cf81adeec592c.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "The Silver Guardian 2",
+        "alternativeTitle": "Gin no Guardian II",
+        "id": "the-silver-guardian-2-5095",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98d1a7fba0f55be03bc353fa1b7aa241.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yamibo: Darkness, The Hat and the Travelers of the Books",
+        "alternativeTitle": "Yami to Boushi to Hon no Tabibito",
+        "id": "yamibo-darkness-the-hat-and-the-travelers-of-the-books-5351",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6fe2ee1ba8d519b3b61d9319bfecfc6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Omoi no Kakera",
+        "alternativeTitle": "Omoi no Kakera",
+        "id": "omoi-no-kakera-5607",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a82bfa16a807272498958c563782fa0f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "UFO Robo Grendizer tai Great Mazinger",
+        "alternativeTitle": "UFO Robo Grendizer tai Great Mazinger",
+        "id": "ufo-robo-grendizer-tai-great-mazinger-6119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19b02a06e7d9d7dd0eb465d37e4778f4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "Flint the Time Detective",
+        "alternativeTitle": "Jikuu Tantei Genshi-kun",
+        "id": "flint-the-time-detective-6631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21189e4c4b098a96a4eb5ff6cd5a42a4.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Seven Senses of the Re'Union",
+        "alternativeTitle": "Shichisei no Subaru",
+        "id": "seven-senses-of-the-reunion-7399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23adcc5d7a8fc238e538279082fdf978.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tekkaman Blade: Missing Link",
+        "alternativeTitle": "Uchuu no Kishi Tekkaman Blade OVA: Missing Link",
+        "id": "tekkaman-blade-missing-link-7911",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89b7013ee0d61acf789677ff86377c6c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "5m"
+      },
+      {
+        "title": "Straight Title Robot Anime",
+        "alternativeTitle": "Chokkyuu Hyoudai Robot Anime: Straight Title",
+        "id": "straight-title-robot-anime-8423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f3a5ea682d041c0c792dea6e0c552f2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "SUPER HXEROS",
+        "alternativeTitle": "Dokyuu Hentai HxEros",
+        "id": "super-hxeros-8679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0841db879c9b4407382cd93b72e42a00.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chuck Shimezou",
+        "alternativeTitle": "Chuck Shimezou",
+        "id": "chuck-shimezou-13287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/119bf821a33e901641ec4a9be6b8190f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "23m"
+      },
+      {
+        "title": "Gorillaman",
+        "alternativeTitle": "Gorillaman",
+        "id": "gorillaman-13799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f40d0503c5f3c8131fd2a73f08628341.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Link Click: Troubles of Ordinary People",
+        "alternativeTitle": "Shiguang Dailiren Special: Xiaoyao Sanren de Weituo",
+        "id": "link-click-troubles-of-ordinary-people-17895",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e3438273f5b8db364bb41fea37f8260.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "16m"
+      },
+      {
+        "title": "Mashle: Magic and Muscles (Specials)",
+        "alternativeTitle": "Mashle Specials",
+        "id": "mashle-magic-and-muscles-specials-18407",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b92187bc6390ab5d1e13b5f1c9c60cdc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Given Movie (2024)",
+        "alternativeTitle": "Given Movie (2024)",
+        "id": "given-movie-2024-18919",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c093b8b9234865c378afaf617d0e1d6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "70m"
+      },
+      {
+        "title": "The iDOLM@STER Million Live!: The Backstage",
+        "alternativeTitle": "The iDOLM@STER Million Live!: The Backstage",
+        "id": "the-idolm-at-ster-million-live-the-backstage-19687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e54a270bbf6ecbb8e4e2ae15a8df2d96.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "21m"
+      },
+      {
+        "title": "Toradora!",
+        "alternativeTitle": "Toradora!",
+        "id": "toradora-232",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/29a2eb93554ed3b8ab5d1507ac8f5d77.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4b6651c5acc4188dbd03f6a9911ce15.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "161m"
+      },
+      {
+        "title": "Kokoro Connect",
+        "alternativeTitle": "Kokoro Connect",
+        "id": "kokoro-connect-744",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8362a6d9e25762223b85a9f62cca95f4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aa! Megami-sama!: Tatakau Tsubasa",
+        "alternativeTitle": "Aa! Megami-sama!: Tatakau Tsubasa",
+        "id": "aa-megami-sama-tatakau-tsubasa-1256",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/876f42593f668d1d31a66c6bc17640bd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Ajin: Demi-Human",
+        "alternativeTitle": "Ajin",
+        "id": "ajin-demi-human-1512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83d665fddd648684ded2222240832df5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Misfit of Demon King Academy",
+        "alternativeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
+        "id": "the-misfit-of-demon-king-academy-1768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e187d4c9cd03e83ac35c5b70188e8d7d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Afro Samurai: Resurrection",
+        "alternativeTitle": "Afro Samurai: Resurrection",
+        "id": "afro-samurai-resurrection-2024",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4146cf859589e9891c80ecd089cd735.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Tokyo Ghoul: \"Pinto\"",
+        "alternativeTitle": "Tokyo Ghoul: \"Pinto\"",
+        "id": "tokyo-ghoul-pinto-2280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15fd320fc66dff2571176ee4a0402555.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Haruka Nogizaka's Secret",
+        "alternativeTitle": "Nogizaka Haruka no Himitsu",
+        "id": "haruka-nogizakas-secret-2536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83c0f23f2be8f8f29ac4a3c586f1a470.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Buddy Complex",
+        "alternativeTitle": "Buddy Complex",
+        "id": "buddy-complex-2792",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be9199c27c733ff09db18ec1e0bd1d3a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Alice & Zoroku",
+        "alternativeTitle": "Alice to Zouroku",
+        "id": "alice-zoroku-3048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8635e70d2393a1f7513e110a9d86ba47.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dr. Slump",
+        "alternativeTitle": "Dr. Slump",
+        "id": "dr-slump-3560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ec4a72790fad8a375f2d21aa52fa1c7.jpg",
+        "episodes": {
+          "sub": 74,
+          "dub": 0,
+          "eps": 74
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Freezing",
+        "alternativeTitle": "Freezing",
+        "id": "freezing-3816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e251074ee9e14864b4986dc0eecbc41a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi",
+        "alternativeTitle": "Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi",
+        "id": "hoshizora-e-kakaru-hashi-kakaru-ka-gakuensai-ni-koi-no-hashi-4072",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5a451de08fd3b37401e6f5cc082bfa3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "26m"
+      },
+      {
+        "title": "Teekyu 2",
+        "alternativeTitle": "Teekyuu 2",
+        "id": "teekyu-2-4584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47983879c62caa9741e46e7e1577ea53.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Mobile Suit Gundam Unicorn: Episode EX - 100 Years of Solitude",
+        "alternativeTitle": "Mobile Suit Gundam Unicorn: Episode EX - 100 Years of Solitude",
+        "id": "mobile-suit-gundam-unicorn-episode-ex-100-years-of-solitude-4840",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7666930fed4567f5ef05c0b31d05e059.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Yu-Gi-Oh!: The Movie",
+        "alternativeTitle": "Yu☆Gi☆Oh!: Hikari no Pyramid",
+        "id": "yu-gi-oh-the-movie-5352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7855656dabea5c44cd2bbe1206921c01.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "101m"
+      },
+      {
+        "title": "Mission-E",
+        "alternativeTitle": "Mission-E",
+        "id": "mission-e-5864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2da94e19296db714234327e1cb2768a8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Guardian Brothers",
+        "alternativeTitle": "Xiao Men Shen",
+        "id": "the-guardian-brothers-6120",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b23da9ed255a6108fd372ed1cae30a6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "fake!fake!",
+        "alternativeTitle": "fake!fake!",
+        "id": "fakefake-6888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd865665a921ab46ebbc3f305c85ffa6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Music",
+        "duration": "3m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 192,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Amagi Brilliant Park",
+        "alternativeTitle": "Amagi Brilliant Park",
+        "id": "amagi-brilliant-park-1452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2207409e2c327d626fe4563c92748f1a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sweetness & Lightning",
+        "alternativeTitle": "Amaama to Inazuma",
+        "id": "sweetness-lightning-1451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45dea3225de45e49bcf07bf16f5fba39.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Air Gear",
+        "alternativeTitle": "Air Gear",
+        "id": "air-gear-1449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/590667c5e75bc93230b3429e20a6da02.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah! My Goddess: Flights of Fancy Specials",
+        "alternativeTitle": "Aa! Megami-sama!: Sorezore no Tsubasa Specials",
+        "id": "ah-my-goddess-flights-of-fancy-specials-1447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1968a7f1154dbd1e52faf1fb489a41fd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Aa! Megami-sama! (TV) Specials",
+        "alternativeTitle": "Aa! Megami-sama! (TV) Specials",
+        "id": "aa-megami-sama-tv-specials-1446",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/881141e7df47bc45befc2ad238633896.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "After the Rain",
+        "alternativeTitle": "Koi wa Ameagari no You ni",
+        "id": "after-the-rain-1445",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a922222c3a7778c0038cec52f25b8c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Kishibe Rohan wa Ugokanai",
+        "alternativeTitle": "Kishibe Rohan wa Ugokanai",
+        "id": "kishibe-rohan-wa-ugokanai-1444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3b73730e8ff67c9474d6a9b07a2aade.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "the Garden of sinners Chapter 6: Oblivion Recording",
+        "alternativeTitle": "Kara no Kyoukai 6: Boukyaku Rokuon",
+        "id": "the-garden-of-sinners-chapter-6-oblivion-recording-1443",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b0b902026530c88096d1396c826fcaa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Heaven's Memo Pad",
+        "alternativeTitle": "Kamisama no Memochou",
+        "id": "heavens-memo-pad-1442",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b77b312be57ae18e44aa31bc04114d9c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Hell Teacher Nube",
+        "alternativeTitle": "Jigoku Sensei Nube",
+        "id": "hell-teacher-nube-1441",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cb30afcc53c8de47d8a7a3b56bf305b.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Our love has always been 10 centimeters apart.",
+        "alternativeTitle": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+        "id": "our-love-has-always-been-10-centimeters-apart-1440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c1f6f86a996527385045ae499695e65.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "InuYasha the Movie 4: Fire on the Mystic Island",
+        "alternativeTitle": "InuYasha Movie 4: Guren no Houraijima",
+        "id": "inuyasha-the-movie-4-fire-on-the-mystic-island-1439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cbf2d60ee6ca274335c3cf45c4fc47b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "87m"
+      },
+      {
+        "title": "GUNDAM BUILD DIVERS Re:RISE",
+        "alternativeTitle": "Gundam Build Divers Re:Rise 2nd Season",
+        "id": "gundam-build-divers-rerise-1437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da46fead537e5c6e2ff11c3f3f55eec2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Guilty Crown",
+        "alternativeTitle": "Guilty Crown",
+        "id": "guilty-crown-1436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75a19d5a15602d767a34dc98811be3ba.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Flying Witch",
+        "alternativeTitle": "Flying Witch",
+        "id": "flying-witch-1435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3650577a3931c5812f6b96587d6f4e17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fairy Tail OVA",
+        "alternativeTitle": "Fairy Tail OVA",
+        "id": "fairy-tail-ova-1433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23bff6199081969657cc788f77921631.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Sailor Moon SuperS: The Movie - Black Dream Hole",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki",
+        "id": "sailor-moon-supers-the-movie-black-dream-hole-1430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43ab7457acc9a87d5cff4bb899e4777f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "The Heroic Legend of Arslan: Dust Storm Dance",
+        "alternativeTitle": "Arslan Senki (TV): Fuujin Ranbu",
+        "id": "the-heroic-legend-of-arslan-dust-storm-dance-1429",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1405fb31323f4f2bcaa4b36fc41088b5.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aikatsu Stars!",
+        "alternativeTitle": "Aikatsu Stars!",
+        "id": "aikatsu-stars-1428",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a0b16b31322a7969581df8a96c506ff.jpg",
+        "episodes": {
+          "sub": 100,
+          "dub": 0,
+          "eps": 100
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zombie Land Saga",
+        "alternativeTitle": "Zombieland Saga",
+        "id": "zombie-land-saga-1427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61822f6a6402ea90db7cb87038ee0f62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Familiar of Zero F",
+        "alternativeTitle": "Zero no Tsukaima F",
+        "id": "the-familiar-of-zero-f-1426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/963e0927a42a4e36beac3b70591d1c63.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yuru Camp△ Specials",
+        "alternativeTitle": "Yuru Camp△ Specials",
+        "id": "yuru-camp-specials-1425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10369dbe9429a659e4c26bbdda224263.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "You're Being Summoned, Azazel",
+        "alternativeTitle": "Yondemasu yo, Azazel-san. (TV)",
+        "id": "youre-being-summoned-azazel-1424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fef66749927dc5c7852ae8ac182348c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Encouragement of Climb Season 2",
+        "alternativeTitle": "Yama no Susume: Second Season",
+        "id": "encouragement-of-climb-season-2-1423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45f4ac49025aa9ddb4fc4b027bbb97ad.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Okko's Inn",
+        "alternativeTitle": "Wakaokami wa Shougakusei! Movie",
+        "id": "okkos-inn-1422",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72516293f61536b27d3f31fc1abcbdf3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Tamayura: More Aggressive",
+        "alternativeTitle": "Tamayura: More Aggressive",
+        "id": "tamayura-more-aggressive-1421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0ed8f0bb3189067535379cfb1062695.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tada Never Falls in Love",
+        "alternativeTitle": "Tada-kun wa Koi wo Shinai",
+        "id": "tada-never-falls-in-love-1420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0c05ed14979fe3015e80d58d8603f81.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Her Blue Sky",
+        "alternativeTitle": "Sora no Aosa wo Shiru Hito yo",
+        "id": "her-blue-sky-1418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ede0dfc2bb5a5ce586fd469e5a5ab462.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "106m"
+      },
+      {
+        "title": "Sound of the Sky",
+        "alternativeTitle": "So Ra No Wo To Specials",
+        "id": "sound-of-the-sky-1417",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b746657c3c861f9080f8d8d848fa7e6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Slam Dunk: Zenkoku Seiha Da! - Sakuragi Hanamichi",
+        "alternativeTitle": "Slam Dunk: Zenkoku Seiha Da! - Sakuragi Hanamichi",
+        "id": "slam-dunk-zenkoku-seiha-da-sakuragi-hanamichi-1416",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca79a46197177284724a98b3ad05dd0f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Saekano: How to Raise a Boring Girlfriend",
+        "alternativeTitle": "Saenai Heroine no Sodatekata",
+        "id": "saekano-how-to-raise-a-boring-girlfriend-1415",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3612ccfc7817947476e9d0c3f66b21a0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece: Heart of Gold",
+        "alternativeTitle": "One Piece: Heart of Gold",
+        "id": "one-piece-heart-of-gold-1414",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4c06d31192bcd16b0daae746b120a76.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "104m"
+      },
+      {
+        "title": "Unlimited Psychic Squad",
+        "alternativeTitle": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
+        "id": "unlimited-psychic-squad-1413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fe549dad9b4dc6f21d85884b56b7329.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Encouragement of Climb Season 3",
+        "alternativeTitle": "Yama no Susume: Third Season",
+        "id": "encouragement-of-climb-season-3-1412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9dbbd2013a2e1851e4572c044a754c9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "13m"
+      }
+    ]
+  }
+}

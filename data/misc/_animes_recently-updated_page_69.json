@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 69,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Bottom-Tier Character Tomozaki OVA",
+        "alternativeTitle": "Jaku-Chara Tomozaki-kun OVA",
+        "id": "bottom-tier-character-tomozaki-ova-17455",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f0f6e0a203c82f36fade0b204b947e6.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "10m"
+      },
+      {
+        "title": "Kimetsu Academy: Special Edition",
+        "alternativeTitle": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+        "id": "kimetsu-academy-special-edition-17967",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/181c8367c44c6b8e731ecd608aa70366.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Natsume's Book of Friends Season 4",
+        "alternativeTitle": "Natsume Yuujinchou Shi",
+        "id": "natsumes-book-of-friends-season-4-48",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/857ade1388459c0511cdff4c07146691.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hikaru no Go: Hokuto Hai e no Michi",
+        "alternativeTitle": "Hikaru no Go: Hokuto Hai e no Michi",
+        "id": "hikaru-no-go-hokuto-hai-e-no-michi-560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1058e4e72e23be8f0f35f7b3f1d534c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "77m"
+      },
+      {
+        "title": "Hidamari Sketch x SP",
+        "alternativeTitle": "Hidamari Sketch x SP",
+        "id": "hidamari-sketch-x-sp-816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7bbc3c3be44dfac6d38bdfbcec4bd11.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Code Geass: Lelouch of the Rebellion II - Transgression",
+        "alternativeTitle": "Code Geass: Hangyaku no Lelouch II - Handou",
+        "id": "code-geass-lelouch-of-the-rebellion-ii-transgression-1072",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ff6771f956f01a22dfa405bb23c3f37.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "132m"
+      },
+      {
+        "title": "Ah! My Goddess: The Movie",
+        "alternativeTitle": "Aa! Megami-sama! Movie",
+        "id": "ah-my-goddess-the-movie-1328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a559f0d7cc602b53b8a383a996c352b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "106m"
+      },
+      {
+        "title": "Only Yesterday",
+        "alternativeTitle": "Omoide Poroporo",
+        "id": "only-yesterday-1584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd66800bf69e71b0cf8e474ef54529a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "118m"
+      },
+      {
+        "title": "Naruto x UT",
+        "alternativeTitle": "Naruto x UT",
+        "id": "naruto-x-ut-1840",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be66602efedb73c4688e302303b0a422.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "6m"
+      },
+      {
+        "title": "Forest of Piano",
+        "alternativeTitle": "Piano no Mori (TV)",
+        "id": "forest-of-piano-2096",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48bb29c3f5eea5fb14d74e271741aa7a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Potemayo",
+        "alternativeTitle": "Potemayo",
+        "id": "potemayo-2352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ad16a058b19e7dd25bb133874fecdf8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Please Save My Earth",
+        "alternativeTitle": "Boku no Chikyuu wo Mamotte",
+        "id": "please-save-my-earth-2864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c3776900326256fac8b241674c6abc3.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Red Garden",
+        "alternativeTitle": "Red Garden",
+        "id": "red-garden-3120",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6644bba5e75c3fc7be8b550cb7d9d2d8.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Back Street Girls: Gokudolls",
+        "alternativeTitle": "Back Street Girls: Gokudolls",
+        "id": "back-street-girls-gokudolls-3888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd99fea6373ea7fe67af5718814b4d0e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lovely Muuuuuuuco!",
+        "alternativeTitle": "Itoshi no Muco",
+        "id": "lovely-muuuuuuuco-4400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/800c19cf3e1d82f4fde39286edc52ccc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "R-15: R15 Shounen Hyouryuuki",
+        "alternativeTitle": "R-15: R15 Shounen Hyouryuuki",
+        "id": "r-15-r15-shounen-hyouryuuki-4656",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb041ee86f06a334704308c1f65f92db.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Accel World: Infinite∞Burst",
+        "alternativeTitle": "Accel World: Infinite∞Burst",
+        "id": "accel-world-infiniteburst-4912",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa6fc57be777de20b4d328826c7e5c44.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "∀ Gundam II: Moonlight Butterfly",
+        "alternativeTitle": "Turn A Gundam II Movie: Moonlight Butterfly",
+        "id": "gundam-ii-moonlight-butterfly-5168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba57afc3dbba02fb59d497b395a3ab37.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "128m"
+      },
+      {
+        "title": "Sakura Wars OVA: Ouka Kenran",
+        "alternativeTitle": "Sakura Taisen: Ouka Kenran",
+        "id": "sakura-wars-ova-ouka-kenran-5424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c3e4455a7e7efb452a2abdf2bce7d21.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Dr. Dokkiri",
+        "alternativeTitle": "Dokkiri Doctor",
+        "id": "dr-dokkiri-5680",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39842779db6898d628ab8fe3d1016400.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 0,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Gatchaman",
+        "alternativeTitle": "Gatchaman",
+        "id": "gatchaman-6192",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0d8e3ccb78ac0e88c2995e54a5cd8a8.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "47m"
+      },
+      {
+        "title": "CHOYOYU!: High School Prodigies Have It Easy Even in Another World!",
+        "alternativeTitle": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+        "id": "choyoyu-high-school-prodigies-have-it-easy-even-in-another-world-6448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2a4bf501ac8dae589af311b5f7989db.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Heibai Wushang",
+        "alternativeTitle": "Heibai Wushang",
+        "id": "heibai-wushang-6704",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59326aeaa71776281f0942fa7149633d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Mask of Zeguy",
+        "alternativeTitle": "Unkai no Meikyuu Zeguy",
+        "id": "mask-of-zeguy-8752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03c01a09b59733da65b3c91d5244113a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "36m"
+      },
+      {
+        "title": "Yi Shijie Zhongyao Pu",
+        "alternativeTitle": "Yi Shijie Zhongyao Pu",
+        "id": "yi-shijie-zhongyao-pu-12592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75fe960d86b82e9ce3eedf9828dafba4.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Chang'an Magic Street",
+        "alternativeTitle": "Chang An Huan Jie",
+        "id": "changan-magic-street-17456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce6d67367a9816b2fbd821c973127057.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Howl's Moving Castle",
+        "alternativeTitle": "Howl no Ugoku Shiro",
+        "id": "howls-moving-castle-49",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a95f578cbd5a9893ccb70e709656620.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Teasing Master Takagi-san 2",
+        "alternativeTitle": "Karakai Jouzu no Takagi-san 2",
+        "id": "teasing-master-takagi-san-2-305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe55c80160987eb301dfb3283c9748fa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Seven Deadly Sins",
+        "alternativeTitle": "Nanatsu no Taizai",
+        "id": "the-seven-deadly-sins-561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2d2c39e190b7d01dd8bccd985df742c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "InuYasha the Movie 3: Swords of an Honorable Ruler",
+        "alternativeTitle": "InuYasha Movie 3: Tenka Hadou no Ken",
+        "id": "inuyasha-the-movie-3-swords-of-an-honorable-ruler-817",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb284ad5cff2c7eb33d8e0dba0c69fd4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 09: The Storm Called: The Adult Empire Strikes Back",
+        "alternativeTitle": "Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu",
+        "id": "crayon-shin-chan-movie-09-the-storm-called-the-adult-empire-strikes-back-1073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/774fe303635fedd52960384b2e81ac71.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Akame ga Kill!",
+        "alternativeTitle": "Akame ga Kill!",
+        "id": "akame-ga-kill-1329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfd6b4cb63f4ca2acbee3b55a7c29afb.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
+        "alternativeTitle": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
+        "id": "psycho-pass-sinners-of-the-system-case2-first-guardian-1585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2892d420b206e78cbf2f8be7c35db80b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "Big Windup! 2 Special",
+        "alternativeTitle": "Ookiku Furikabutte: Natsu no Taikai-hen – Mokuhyou",
+        "id": "big-windup-2-special-1841",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5f6d88b01a429b03e19988c231dcd9b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokémon",
+        "alternativeTitle": "Pokemon",
+        "id": "pokemon-2097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cbc594a737dde4cdeba0856bb5a77c2.jpg",
+        "episodes": {
+          "sub": 276,
+          "dub": 276,
+          "eps": 276
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ride Back",
+        "alternativeTitle": "RideBack",
+        "id": "ride-back-2353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/072910b80247ff910a15e01eeda511a9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Neppuu Kairiku Bushi Road",
+        "alternativeTitle": "Neppuu Kairiku Bushi Road",
+        "id": "neppuu-kairiku-bushi-road-2609",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41b54df8610072b3dc0c654d8924428c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "93m"
+      },
+      {
+        "title": "Cat",
+        "alternativeTitle": "Cat's Eye",
+        "id": "cats-eye-2865",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4cf2808c0baab655f4eb9e08392ce65.jpg",
+        "episodes": {
+          "sub": 73,
+          "dub": 0,
+          "eps": 73
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Rurouni Kenshin: New Kyoto Arc",
+        "alternativeTitle": "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen",
+        "id": "rurouni-kenshin-new-kyoto-arc-3121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72bbed8cb88b46ecd04e58594a28754c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Gleipnir",
+        "alternativeTitle": "Gleipnir",
+        "id": "gleipnir-3377",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af53ff68b87e37e2faa4f73043cac3b1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

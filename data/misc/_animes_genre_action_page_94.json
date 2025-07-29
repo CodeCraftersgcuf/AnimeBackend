@@ -1,0 +1,38 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 94,
+      "hasNextPage": false
+    },
+    "response": [
+      {
+        "title": "Sakamoto Days Part 2",
+        "alternativeTitle": "Sakamoto Days Part 2",
+        "id": "sakamoto-days-part-2-19787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16938f0dfd1d36cab6a0c604ab4669d5.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaiju No. 8 Season 2",
+        "alternativeTitle": "Kaijuu 8-gou 2nd Season",
+        "id": "kaiju-no-8-season-2-19792",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a3c3a24bc6aebc4b3c01ca82a5033ed.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

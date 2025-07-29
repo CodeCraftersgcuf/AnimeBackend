@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 74,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Devilman",
+        "alternativeTitle": "Devilman",
+        "id": "devilman-6187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0240cb8a809861304530d0c3eb43166d.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kagejitsu!",
+        "alternativeTitle": "Kagejitsu!",
+        "id": "kagejitsu-18222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b1a6fe3947e517a2eb8e3a0d8de91e8.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 0,
+          "eps": 17
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "KINMOZA!",
+        "alternativeTitle": "Kiniro Mosaic",
+        "id": "kinmoza-2418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca0fa3c8c8b15d0114a0899668e59c75.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Grimm Variations",
+        "alternativeTitle": "Grimm Kumikyoku",
+        "id": "the-grimm-variations-19092",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60e36c5369a3ec502aa5e5baddef822d.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "40m"
+      },
+      {
+        "title": "Let Me Check the Walkthrough First",
+        "alternativeTitle": "Zanting! Rang Wo Cha Gonglüe",
+        "id": "let-me-check-the-walkthrough-first-18066",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd8933d5851ddf42f6fdd30682fd1654.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Knights of Sidonia: Battle for Planet Nine",
+        "alternativeTitle": "Sidonia no Kishi: Daikyuu Wakusei Seneki",
+        "id": "knights-of-sidonia-battle-for-planet-nine-836",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7bb06f597d81afc91b33a93d443ab4e3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Summer",
+        "alternativeTitle": "Geu Yeoreum Movie",
+        "id": "the-summer-18553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48a7a381cfe141c285adc6cab7f64331.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "The Big O",
+        "alternativeTitle": "The Big O",
+        "id": "the-big-o-1487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06c5daf10f82925b4b2f6aecc086d194.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Your Voice -KIMIKOE-",
+        "alternativeTitle": "Kimi no Koe wo Todoketai",
+        "id": "your-voice-kimikoe-3505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/364589e2477f5acc433ac1024073ceba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Cencoroll Connect",
+        "alternativeTitle": "Cencoroll Connect",
+        "id": "cencoroll-connect-2552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24d3ca1dbca794d89da51501febbdbed.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "75m"
+      },
+      {
+        "title": "Slayers",
+        "alternativeTitle": "Slayers",
+        "id": "slayers-879",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/330bee701252621efda77258dca87833.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Outburst Dreamer Boys",
+        "alternativeTitle": "Chuubyou Gekihatsu Boy",
+        "id": "outburst-dreamer-boys-4357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f55c5b1254851780aa9601d8c112755.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aria the Origination",
+        "alternativeTitle": "Aria the Origination",
+        "id": "aria-the-origination-80",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52fbc3ecfdd85e6767977c8ebf0e9e95.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "InuYasha the Movie: Affections Touching Across Time",
+        "alternativeTitle": "InuYasha Movie 1: Toki wo Koeru Omoi",
+        "id": "inuyasha-the-movie-affections-touching-across-time-1339",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11f0c5a51f167d8746afefe8f76d31d7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "World War Blue",
+        "alternativeTitle": "Aoi Sekai no Chuushin de",
+        "id": "world-war-blue-8602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ae888399f1cf09ed5484a830c1a03c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokemon The Movie 11: Giratina and the Sky Warrior",
+        "alternativeTitle": "Pokemon Movie 11: Giratina to Sora no Hanataba Sheimi",
+        "id": "pokemon-the-movie-11-giratina-and-the-sky-warrior-3772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f24a301349d016405c75d438f5668468.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Altair: A Record of Battles",
+        "alternativeTitle": "Shoukoku no Altair",
+        "id": "altair-a-record-of-battles-1475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16baa2046f9c67bd694919ade7a2e50d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam 00: Second Season",
+        "alternativeTitle": "Mobile Suit Gundam 00 Second Season",
+        "id": "mobile-suit-gundam-00-second-season-394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/075e4f5c322be8611590399f66f49db8.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Episode of Sabo - The Three Brothers' Bond",
+        "alternativeTitle": "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+        "id": "one-piece-episode-of-sabo-the-three-brothers-bond-943",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c11aa8226ea5ae258307936838025535.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "106m"
+      },
+      {
+        "title": "Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!",
+        "alternativeTitle": "Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!",
+        "id": "grisaia-no-meikyuu-caprice-no-mayu-0-takizono-basketball-club-no-nama-cream-party-2216",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54f181868600d7acb29b2a5b281159b5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Bluer Than Indigo: Fate",
+        "alternativeTitle": "Ai Yori Aoshi: Enishi",
+        "id": "bluer-than-indigo-fate-2861",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b32a9e5462bb616b1048acd112dd21b3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Narenare -Cheer for You!-",
+        "alternativeTitle": "Na Nare Hana Nare",
+        "id": "narenare-cheer-for-you-19220",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3031aa558a7a2f87753c3ffb1ef1d8f9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Live! Nijigasaki High School Idol Club 2nd Season",
+        "alternativeTitle": "Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season",
+        "id": "love-live-nijigasaki-high-school-idol-club-2nd-season-17984",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5451212510d812fa6c21222d1e6f686f.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Halo Legends",
+        "alternativeTitle": "Halo Legends",
+        "id": "halo-legends-3350",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af76a290c4121f4f7fd371a7a58f22e6.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 9
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "Meiji Gekken: 1874",
+        "alternativeTitle": "Meiji Gekken: 1874",
+        "id": "meiji-gekken-1874-18742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e457a513743a6caf63b2fbff015254d3.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cardfight!! Vanguard: will+Dress Season 2",
+        "alternativeTitle": "Cardfight!! Vanguard: will+Dress Season 2",
+        "id": "cardfight-vanguard-willdress-season-2-18279",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34e9c6d5d2dd6e1b7dacc9df9f7fe491.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Please Take My Brother Away 5",
+        "alternativeTitle": "Ani ni Tsukeru Kusuri wa Nai! 5",
+        "id": "please-take-my-brother-away-5-18147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9255afe688a7b8c1ae451ee1ccdb5be3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+        "alternativeTitle": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+        "id": "akuma-no-riddle-shousha-wa-dare-nukiuchi-test-5557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2988f3548fef2ec5c6a028c6313164cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Uma Musume: Pretty Derby Season 2",
+        "alternativeTitle": "Uma Musume: Pretty Derby (TV) Season 2",
+        "id": "uma-musume-pretty-derby-season-2-15593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/023287977574f60fca09107ee5741503.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Valkyria Chronicles",
+        "alternativeTitle": "Senjou no Valkyria",
+        "id": "valkyria-chronicles-1182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45362ea4b60b381b0ffa7ce832cbf20f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gantz:O",
+        "alternativeTitle": "Gantz:O",
+        "id": "gantzo-1671",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d110e20dc5c03446fd5155d8a65f11f8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Miru Tights: Cosplay Satsuei Tights",
+        "alternativeTitle": "Miru Tights: Cosplay Satsuei Tights",
+        "id": "miru-tights-cosplay-satsuei-tights-5420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4336df847e4a9ab756f571a6a1e0983.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Phi-Brain ~ Puzzle of God",
+        "alternativeTitle": "Phi Brain: Kami no Puzzle",
+        "id": "phi-brain-puzzle-of-god-2691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a3a3fb8a1b13a47bcefed6a85b828e5.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Bakuon!!",
+        "alternativeTitle": "Bakuon!!",
+        "id": "bakuon-5834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf93cf8f9d5ad303934901e3b9f290ae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Comic Girls",
+        "alternativeTitle": "Comic Girls",
+        "id": "comic-girls-1758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fba22ce55ef4dd526fd7581f33a1a101.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nyanko Days",
+        "alternativeTitle": "Nyanko Days",
+        "id": "nyanko-days-5233",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64095610d58935da645046d28fb44703.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Sword Art Online Alternative: Gun Gale Online - Refrain",
+        "alternativeTitle": "Sword Art Online Alternative: Gun Gale Online - Refrain",
+        "id": "sword-art-online-alternative-gun-gale-online-refrain-6021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c257068774ba890650f2d12a30bc387.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "ef - a tale of melodies.",
+        "alternativeTitle": "ef: A Tale of Melodies.",
+        "id": "ef-a-tale-of-melodies-464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a56ba2481ec71311857c46ba40c9d80.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Obey Me! 2nd Season",
+        "alternativeTitle": "Obey Me! Season 2",
+        "id": "obey-me-2nd-season-18130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/513aa564ee1ae053e70c70185bddfac5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Doomsday with My Dog",
+        "alternativeTitle": "Sekai no Owari ni Shiba Inu to",
+        "id": "doomsday-with-my-dog-18137",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9646a4727feab0506e580f54391f01fa.jpg",
+        "episodes": {
+          "sub": 72,
+          "dub": 0,
+          "eps": 72
+        },
+        "type": "ONA",
+        "duration": "2m"
+      }
+    ]
+  }
+}

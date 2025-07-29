@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 91,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Cowboy Bebop: The Movie",
+        "alternativeTitle": "Cowboy Bebop: Tengoku no Tobira",
+        "id": "cowboy-bebop-the-movie-153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8824b24a3a5d3dec75b9948a9bda462.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Great Pretender",
+        "alternativeTitle": "Great Pretender",
+        "id": "great-pretender-152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9ab7b3afdc4ada50338caf28409c8e2.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "ERASED",
+        "alternativeTitle": "Boku dake ga Inai Machi",
+        "id": "erased-151",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bfbeac90c228063d45869dbf9d5d028.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Attack on Titan Season 2",
+        "alternativeTitle": "Shingeki no Kyojin Season 2",
+        "id": "attack-on-titan-season-2-150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d97e8c9a57b03c06dd59650c0a3c693.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "alternativeTitle": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-bunny-girl-senpai-149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11ce0781db5a024b36461797ac4d4db7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+        "alternativeTitle": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+        "id": "violet-evergarden-eternity-and-the-auto-memory-doll-147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4007352297470711682d15329a487eb4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Kingdom: Season 2",
+        "alternativeTitle": "Kingdom 2nd Season",
+        "id": "kingdom-season-2-142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a69ef0602173e8eb51b3eb925fc6a426.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Nausicaä of the Valley of the Wind",
+        "alternativeTitle": "Kaze no Tani no Nausicaä",
+        "id": "nausicaa-of-the-valley-of-the-wind-141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad8b695bb750cff954eb8342a4af6032.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "Parasyte -the maxim-",
+        "alternativeTitle": "Kiseijuu: Sei no Kakuritsu",
+        "id": "parasyte-the-maxim-136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/076dd094add6f1d9c8bfa1a010af8487.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kingdom 3rd Season",
+        "alternativeTitle": "Kingdom 3rd Season",
+        "id": "kingdom-3rd-season-135",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e313870ef254a793d3fbf8572a16d4f2.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Land of the Lustrous",
+        "alternativeTitle": "Houseki no Kuni (TV)",
+        "id": "land-of-the-lustrous-134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b9c96aca4cbfdea63996d73299b3779.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hellsing Ultimate",
+        "alternativeTitle": "Hellsing Ultimate",
+        "id": "hellsing-ultimate-133",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05d81a6f6ea447f6ab6e22a11b9cf679.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "My Hero Academia 2",
+        "alternativeTitle": "Boku no Hero Academia 2nd Season",
+        "id": "my-hero-academia-2-131",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cf943f264358d31e264ff459fcf50f8.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Barakamon",
+        "alternativeTitle": "Barakamon",
+        "id": "barakamon-130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66711f8a306cb28e13be3a595883dfe0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Baccano!",
+        "alternativeTitle": "Baccano!",
+        "id": "baccano-129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/799e20886574444d86896803ee6a23d3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Perfect Blue",
+        "alternativeTitle": "Perfect Blue",
+        "id": "perfect-blue-127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cfd262bb234567057c90a4549931445.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "81m"
+      },
+      {
+        "title": "Puella Magi Madoka Magica the Movie 3: Rebellion",
+        "alternativeTitle": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+        "id": "puella-magi-madoka-magica-the-movie-rebellion-126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/338ba44c0a53e13535a8ee33e5bb1b6c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "116m"
+      },
+      {
+        "title": "Kono Oto Tomare!: Sounds of Life Season 2",
+        "alternativeTitle": "Kono Oto Tomare! 2nd Season",
+        "id": "kono-oto-tomare-sounds-of-life-season-2-125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4b1626d09c7cd0eb4bd5c00145ece25.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kaguya-sama: Love is War",
+        "alternativeTitle": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "id": "kaguya-sama-love-is-war-123",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4f7470c7b0fedc1df5ec703c2d7fbc0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Haikyuu!!: To the Top (Part 1+2)",
+        "alternativeTitle": "Haikyuu!!: To the Top (Part 1+2)",
+        "id": "haikyuu-to-the-top-part-12-122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d06cbf986db351bdba9ccce24ede67ff.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chihayafuru 2",
+        "alternativeTitle": "Chihayafuru 2",
+        "id": "chihayafuru-2-120",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e6fdd7e5556dc65eae6351d8a8ce98d.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "March comes in like a lion",
+        "alternativeTitle": "3-gatsu no Lion",
+        "id": "march-comes-in-like-a-lion-119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e180b296778df8a296b4532d11058183.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Nana (2006)",
+        "alternativeTitle": "Nana",
+        "id": "nana-2006-118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f958494d616f3cbce35de4f926fd3d5.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 47,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex",
+        "id": "ghost-in-the-shell-stand-alone-complex-117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9b5d7aa68642642fc2f1eba2c22a8e9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "anohana: The Flower We Saw That Day",
+        "alternativeTitle": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "id": "anohana-the-flower-we-saw-that-day-115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06cae051e5171874535ce48ed89edf41.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Yu Yu Hakusho: Ghost Files",
+        "alternativeTitle": "Yuu☆Yuu☆Hakusho",
+        "id": "yu-yu-hakusho-ghost-files-114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c40b2b7f5ccc41e1e758bd2d62890e4.jpg",
+        "episodes": {
+          "sub": 112,
+          "dub": 112,
+          "eps": 112
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Attack on Titan",
+        "alternativeTitle": "Shingeki no Kyojin",
+        "id": "attack-on-titan-112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/debf027d032c6d40b91fab16b2ff9bd4.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Weathering With You",
+        "alternativeTitle": "Tenki no Ko",
+        "id": "weathering-with-you-111",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37eb9509a2ae0010f64b0170a03b5a13.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "114m"
+      },
+      {
+        "title": "Maquia: When the Promised Flower Blooms",
+        "alternativeTitle": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "id": "maquia-when-the-promised-flower-blooms-110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9b19137629f50c8bf9cb40353ecd52b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K.",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan",
+        "id": "the-disastrous-life-of-saiki-k-108",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9cd77a79297fd80e4df35b0775fd1e83.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Run with the Wind",
+        "alternativeTitle": "Kaze ga Tsuyoku Fuiteiru",
+        "id": "run-with-the-wind-105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebfddbd35bd01c7d3d3b96b3cc02e2b2.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Berserk (1997)",
+        "alternativeTitle": "Kenpuu Denki Berserk",
+        "id": "berserk-1997-103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3525a9b164c6101f731c5c5c97c06a22.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders 2nd Season (Uncensored)",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season (Uncensored)",
+        "id": "jojos-bizarre-adventure-part-3-stardust-crusaders-2nd-season-uncensored-102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41d051f28d329f1ca9f042e7e0502a00.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mob Psycho 100",
+        "alternativeTitle": "Mob Psycho 100",
+        "id": "mob-psycho-100-101",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f20ed9108a583429fd687f986a617e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 9,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Absolute Duo",
+        "alternativeTitle": "Absolute Duo",
+        "id": "absolute-duo-5554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a681ad2af60271bd3b1ae544b5b14265.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "B: The Beginning",
+        "alternativeTitle": "B: The Beginning",
+        "id": "b-the-beginning-1899",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc37eda7bf5de3ca06f4f0945fa0a2ac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Back Arrow",
+        "alternativeTitle": "Back Arrow",
+        "id": "back-arrow-15650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0798537328d2f4f3a729f1f4b5e85fb.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Baki",
+        "alternativeTitle": "Baki",
+        "id": "baki-2649",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4fe77589bb2ca6f2857ba863c1d78f3e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Bakumatsu",
+        "alternativeTitle": "Bakumatsu",
+        "id": "bakumatsu-8658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fc1bec676aae37fa69f9663891e0e49.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bakumatsu: Crisis",
+        "alternativeTitle": "Bakumatsu: Crisis",
+        "id": "bakumatsu-crisis-8880",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee4f80881560a1e87fff4fa276c08968.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Banana Fish",
+        "alternativeTitle": "Banana Fish",
+        "id": "banana-fish-163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78cd3068b1a2e01370ead2b2ed8f939c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Basilisk: The Ouka Ninja Scrolls",
+        "alternativeTitle": "Basilisk: Ouka Ninpouchou",
+        "id": "basilisk-the-ouka-ninja-scrolls-9501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a366d721faebcf951650780870ee3eaf.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Beatless",
+        "alternativeTitle": "Beatless",
+        "id": "beatless-7180",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44687814cbcde28b84367ef0b4685291.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beatless Final Stage",
+        "alternativeTitle": "Beatless Final Stage",
+        "id": "beatless-final-stage-4296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9753215a9f8b08cb79b9e435cffb2b62.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beelzebub",
+        "alternativeTitle": "Beelzebub",
+        "id": "beelzebub-624",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd0489c24f51d5b2d6632bd4f10f4621.jpg",
+        "episodes": {
+          "sub": 60,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bem",
+        "alternativeTitle": "Bem",
+        "id": "bem-7870",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e476d071982956a339895354ae1589d3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Berserk (2016)",
+        "alternativeTitle": "Berserk",
+        "id": "berserk-2016-5978",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9dbe9a5ae53e4e3ab262ffed4b057670.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Berserk: Season II (2017)",
+        "alternativeTitle": "Berserk 2nd Season",
+        "id": "berserk-season-ii-2017-4546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/010a5c576dc8b54dd729d10e5b780362.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Berserk (1997)",
+        "alternativeTitle": "Kenpuu Denki Berserk",
+        "id": "berserk-1997-103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3525a9b164c6101f731c5c5c97c06a22.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Big Order (TV)",
+        "alternativeTitle": "Big Order (TV)",
+        "id": "big-order-tv-9582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99b19d8e061d07bff765598eca0d5b75.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Bullet",
+        "alternativeTitle": "Black Bullet",
+        "id": "black-bullet-2741",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05731f73a09c90e96e413e227391b89b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Lagoon: Roberta's Blood Trail",
+        "alternativeTitle": "Black Lagoon: Roberta's Blood Trail",
+        "id": "black-lagoon-robertas-blood-trail-457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9001710f3a1009f07b81d494fb90e7a.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Blade & Soul",
+        "alternativeTitle": "Blade & Soul",
+        "id": "blade-soul-7622",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9ffee5b6931a30f307288c2ebf060e2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blade Dance of the Elementalers",
+        "alternativeTitle": "Seireitsukai no Blade Dance",
+        "id": "blade-dance-of-the-elementalers-4104",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97ea6a4e49858a0dba22f5352cdaf031.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blast of Tempest",
+        "alternativeTitle": "Zetsuen no Tempest",
+        "id": "blast-of-tempest-506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ade8f75a140b5309ee0e16be853fed12.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Exorcist",
+        "alternativeTitle": "Ao no Exorcist",
+        "id": "blue-exorcist-1198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce4ef643080aa2d5c66ef10321b14c09.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Exorcist: Kyoto Saga",
+        "alternativeTitle": "Ao no Exorcist: Kyoto Fujouou-hen",
+        "id": "blue-exorcist-kyoto-saga-1628",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c67b220676a2273832fcfe4bbde55c2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Seed",
+        "alternativeTitle": "Blue Seed",
+        "id": "blue-seed-3431",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1c2b20de7b61459e6a62e1b70e026dc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blue Seed Beyond",
+        "alternativeTitle": "Blue Seed 2",
+        "id": "blue-seed-beyond-6048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccf4ba3d5e0d32ec3a0e1e88839a4d91.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+        "alternativeTitle": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "id": "bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-1222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bcc338335018f8bf09813987816a463.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Brave 10",
+        "alternativeTitle": "Brave 10",
+        "id": "brave-10-4297",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b89cdf80b0e23456f3b41d44d467df52.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Brave Witches",
+        "alternativeTitle": "Brave Witches",
+        "id": "brave-witches-4298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c12835fcb81d1e50a30d95051eae87e4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "BTOOOM!",
+        "alternativeTitle": "Btooom!",
+        "id": "btooom-1875",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6892c5e42464d50ea09942a5608cf9b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BBK/BRNK",
+        "alternativeTitle": "Bubuki Buranki",
+        "id": "bbkbrnk-6624",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7813d9400b893a3f1ba03847f0dd7cb5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BBK/BRNK: The Gentle Giants of the Galaxy",
+        "alternativeTitle": "Bubuki Buranki: Hoshi no Kyojin",
+        "id": "bbkbrnk-the-gentle-giants-of-the-galaxy-4139",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e21d732acd8360ee3990b766f3e4e17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bungo Stray Dogs",
+        "alternativeTitle": "Bungou Stray Dogs",
+        "id": "bungo-stray-dogs-858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09a2bf79700f11a39d13b70d321ddb8a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bungo Stray Dogs 2",
+        "alternativeTitle": "Bungou Stray Dogs 2nd Season",
+        "id": "bungo-stray-dogs-2-288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b585220a97d25a8d40ec83c763daf3fe.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bungou Stray Dogs 3rd Season",
+        "alternativeTitle": "Bungou Stray Dogs 3rd Season",
+        "id": "bungou-stray-dogs-3rd-season-339",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed273e90615f1ae97a2f1519639cd7ff.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

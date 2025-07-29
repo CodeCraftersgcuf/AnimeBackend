@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 176,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Uzumaki: Spiral into Horror",
+        "alternativeTitle": "Uzumaki",
+        "id": "uzumaki-spiral-into-horror-15600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31391cad058098cf6a14359829468bea.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "0m"
+      },
+      {
+        "title": "One Piece Fan Letter",
+        "alternativeTitle": "One Piece Fan Letter",
+        "id": "one-piece-fan-letter-19406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08367d0a68b3952cb14a1e72b84aaae3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Lock: Episode Nagi",
+        "alternativeTitle": "Blue Lock: Episode Nagi",
+        "id": "blue-lock-episode-nagi-19085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97a276237c3dce81b62af1565488fd37.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "NieR:Automata Ver1.1a (Cour 2)",
+        "alternativeTitle": "NieR:Automata Ver1.1a Part 2",
+        "id": "nierautomata-ver11a-cour-2-19248",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce34646da62ed8504ae5199cd1e94f25.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam: Requiem for Vengeance",
+        "alternativeTitle": "Kidou Senshi Gundam: Fukushuu no Requiem",
+        "id": "mobile-suit-gundam-requiem-for-vengeance-19386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9c7b065fcab7e02f14e6995b9bd836d.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "30m"
+      },
+      {
+        "title": "Wistoria: Wand and Sword",
+        "alternativeTitle": "Tsue to Tsurugi no Wistoria",
+        "id": "wistoria-wand-and-sword-19239",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14a6029b0f2759923a4d2fa957765fe4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tower of God Season 2",
+        "alternativeTitle": "Kami no Tou: Ouji no Kikan",
+        "id": "tower-of-god-season-2-19255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41adea817f66830f8d965562c2d62e03.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pop Pop City",
+        "alternativeTitle": "Pop Pop City",
+        "id": "pop-pop-city-19403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/675d1f46ca58fa783049fd9d83bb1918.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Makeine: Too Many Losing Heroines!",
+        "alternativeTitle": "Make Heroine ga Oosugiru!",
+        "id": "makeine-too-many-losing-heroines-19235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e816461264123b3ce4352a540518fb8f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lockdown Zone: Lv. X",
+        "alternativeTitle": "Kankin Kuiki Level X",
+        "id": "lockdown-zone-lv-x-19316",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/638e0e70fe237ba0806a2ff2d8128d8b.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime Season 3",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-3-19109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9b501458823539b6a2004f2cdb98a4a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bartender: Glass of God",
+        "alternativeTitle": "Bartender: Kami no Glass",
+        "id": "bartender-glass-of-god-19131",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3575eb0dcb2cddf901d19bc62aef9ac8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Slay The Gods",
+        "alternativeTitle": "Zhan Shen: Fanchen Shenyu",
+        "id": "slay-the-gods-19401",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a8b91eb0df50e67874a3f534bc577b0.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Shy Season 2",
+        "alternativeTitle": "Shy: Tokyo Dakkan-hen",
+        "id": "shy-season-2-19222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8add53b588b185eace22925650eab03f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Spice and Wolf: Merchant Meets the Wise Wolf",
+        "alternativeTitle": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+        "id": "spice-and-wolf-merchant-meets-the-wise-wolf-19143",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a04e0bf651bcb1a0aefaace3d2349fa.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yami Shibai 13",
+        "alternativeTitle": "Yami Shibai 13",
+        "id": "yami-shibai-13-19205",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/171d580eccb01d240eb77f8dad03f3d8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream",
+        "alternativeTitle": "VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta",
+        "id": "vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream-19225",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/868331f7d71fb5857ccee9f37ea4cc68.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Atri -My Dear Moments-",
+        "alternativeTitle": "Atri: My Dear Moments",
+        "id": "atri-my-dear-moments-19243",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28e700e63619b2801d87730751a76362.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Atashin'chi Next",
+        "alternativeTitle": "Atashin'chi Next",
+        "id": "atashinchi-next-19179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0bc4b39a803b4c37db518ed7c04d673.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Hidden Sect Leader",
+        "alternativeTitle": "Yin Shizong Men Zhang Jiao",
+        "id": "hidden-sect-leader-19397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/764203fd2e4b843796737f3fefd4c3a1.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Dead Dead Demons Dededede Destruction",
+        "alternativeTitle": "Dead Dead Demons Dededede Destruction (ONA)",
+        "id": "dead-dead-demons-dededede-destruction-19171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32f52183551e27fbf6ebb243f907a5d6.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 17,
+          "eps": 17
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Alya Sometimes Hides Her Feelings in Russian",
+        "alternativeTitle": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+        "id": "alya-sometimes-hides-her-feelings-in-russian-19254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b210daff9a85c7b6e42d82d578ee90b2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hey! Tonbo",
+        "alternativeTitle": "Ooi! Tonbo",
+        "id": "hey-tonbo-19098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21c48a748f0ca4739b991d4d78976104.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shadowverse Flame: Arc-hen",
+        "alternativeTitle": "Shadowverse Flame: Arc-hen",
+        "id": "shadowverse-flame-arc-hen-19095",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c1fd5d539caea29570cd26a1fa206ef.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Egumi Legacy",
+        "alternativeTitle": "Egumi Legacy",
+        "id": "egumi-legacy-19204",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/031e5ba7b91ef5ff8dccada5777c3273.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Bye Bye, Earth",
+        "alternativeTitle": "Bye Bye, Earth",
+        "id": "bye-bye-earth-19226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60ac5f9f6acd6b0e6ed0dc4c14be737e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yatagarasu: The Raven Does Not Choose Its Master",
+        "alternativeTitle": "Karasu wa Aruji wo Erabanai",
+        "id": "yatagarasu-the-raven-does-not-choose-its-master-19104",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5402d031727e1b320686d26aaf85ca5.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Shoshimin: How to Become Ordinary",
+        "alternativeTitle": "Shoushimin Series",
+        "id": "shoshimin-how-to-become-ordinary-19242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6620301bb1293a25e514876d3ae4aaf6.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Grendizer U",
+        "alternativeTitle": "Grendizer U",
+        "id": "grendizer-u-19212",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d48fc340f5f9b0ae30c144b48159f37f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Quality Assurance in Another World",
+        "alternativeTitle": "Kono Sekai wa Fukanzen Sugiru",
+        "id": "quality-assurance-in-another-world-19221",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38aefd81846638369e16a91700306000.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sakuna: Of Rice and Ruin",
+        "alternativeTitle": "Tensui no Sakuna-hime",
+        "id": "sakuna-of-rice-and-ruin-19215",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34b902942c47a9a4f546498ba760353c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Nobody's Way Up to an Exploration Hero LV",
+        "alternativeTitle": "Mob kara Hajimaru Tansaku Eiyuutan",
+        "id": "a-nobodys-way-up-to-an-exploration-hero-lv-19223",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6b6d4a43555afa74323871b9dcf107e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Suna no Bara: Yuki no Mokushiroku",
+        "alternativeTitle": "Suna no Bara: Yuki no Mokushiroku",
+        "id": "suna-no-bara-yuki-no-mokushiroku-6947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/957c45ff2720e2413a496f4578e487f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Jinwu Guard: The Wind Rises in Jinling",
+        "alternativeTitle": "Jinwu Wei: Feng Qi Jinling",
+        "id": "jinwu-guard-the-wind-rises-in-jinling-19396",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0d89c23673349c8cb873767c0c73c7a.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Senpai is an Otokonoko",
+        "alternativeTitle": "Senpai wa Otokonoko",
+        "id": "senpai-is-an-otokonoko-19241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/546eda3ab537fb2126885c41ca06b0d2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Immortal Legend",
+        "alternativeTitle": "Di Ling Qu",
+        "id": "the-immortal-legend-13411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/497d2f3c1b72543bf9d12024c9fa32b3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Love Is Indivisible by Twins",
+        "alternativeTitle": "Koi wa Futago de Warikirenai",
+        "id": "love-is-indivisible-by-twins-19234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bfca8e6f8477c826ed2ed5f2377aea9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
+        "alternativeTitle": "Katsute Mahou Shoujo to Aku wa Tekitai shiteita.",
+        "id": "the-magical-girl-and-the-evil-lieutenant-used-to-be-archenemies-19236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c530898821d91ef025e3699f00bfc506.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Mom, I'm Sorry",
+        "alternativeTitle": "Xiehou ta de Shaonu Shidai",
+        "id": "mom-im-sorry-19166",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a2d850b6623731483ad46c1d0d1d711.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "TV",
+        "duration": "17m"
+      },
+      {
+        "title": "My Deer Friend Nokotan",
+        "alternativeTitle": "Shikanoko Nokonoko Koshitantan",
+        "id": "my-deer-friend-nokotan-19249",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5439875b4262583ec34720afd5e5f10.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

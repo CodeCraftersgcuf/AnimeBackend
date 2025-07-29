@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 90,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Holo Graffiti",
+        "alternativeTitle": "Holo no Graffiti",
+        "id": "holo-graffiti-17369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/405fc35850233fce26ed9bc6ff7409fe.jpg",
+        "episodes": {
+          "sub": 166,
+          "dub": 0,
+          "eps": 166
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Marmalade Boy",
+        "alternativeTitle": "Marmalade Boy",
+        "id": "marmalade-boy-1583",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/666111369d73033eea013259bb433aa4.jpg",
+        "episodes": {
+          "sub": 76,
+          "dub": 76,
+          "eps": 76
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Jack",
+        "alternativeTitle": "Black Jack",
+        "id": "black-jack-917",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5362a11e0534bcebd25f5ad50db4fdea.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Magical Girl Lyrical Nanoha",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha",
+        "id": "magical-girl-lyrical-nanoha-1818",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac391457326a8709f163bb68903485eb.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "God Troubles Me",
+        "alternativeTitle": "Hanhua Riji 3rd Season",
+        "id": "god-troubles-me-18121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c62206ecb4e6f90fc790b86c3b16da86.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Rocky Joe 2",
+        "alternativeTitle": "Ashita no Joe 2",
+        "id": "rocky-joe-2-52",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8b037fc5d804f69196b054ff0f4f9ca.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 0,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Senran Kagura Specials",
+        "alternativeTitle": "Senran Kagura: Specials",
+        "id": "senran-kagura-specials-6036",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fac3fc34b84ca865f818e046ff38ab0.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Cue!",
+        "alternativeTitle": "Cue!",
+        "id": "cue-17301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3edb8892fdb23bd177e09ccfac7c50cc.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hyakka Ryouran: Samurai Girls Specials",
+        "alternativeTitle": "Hyakka Ryouran: Samurai Girls Specials",
+        "id": "hyakka-ryouran-samurai-girls-specials-5104",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5174793ff8b3d6361293d617f1d6137.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Hyakka Ryouran: Samurai Bride Specials",
+        "alternativeTitle": "Hyakka Ryouran: Samurai Bride Specials",
+        "id": "hyakka-ryouran-samurai-bride-specials-5293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dc0d135bb96362d0af508a658946df2.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "TAMAYOMI: The Baseball Girls",
+        "alternativeTitle": "Tamayomi",
+        "id": "tamayomi-the-baseball-girls-8812",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84d00d7632dc2c3254b00bee2da97cfd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Panty & Stocking in Sanitarybox",
+        "alternativeTitle": "Panty & Stocking in Sanitarybox",
+        "id": "panty-stocking-in-sanitarybox-6105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c29c58c6eab86519715658098274dea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "Gundam Build Fighters Try",
+        "alternativeTitle": "Gundam Build Fighters Try",
+        "id": "gundam-build-fighters-try-2324",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed8cd70bb3a1ae784395b2960490eb5b.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
+        "alternativeTitle": "Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou",
+        "id": "yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou-15621",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93afdd8f585e822d13e0f0976f2f3139.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Boys Be...",
+        "alternativeTitle": "Boys Be...",
+        "id": "boys-be-5980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/523dae63d95cee0ff0d03498c88a623d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Genocyber",
+        "alternativeTitle": "Genocyber",
+        "id": "genocyber-8494",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79878e6e3687d880f6f0c53a04737d63.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Beatless Intermission",
+        "alternativeTitle": "Beatless Intermission",
+        "id": "beatless-intermission-9618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3410954ed2cbd93f66242f393516f87d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Fractale",
+        "alternativeTitle": "Fractale",
+        "id": "fractale-3711",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c3c1d9ddb4bf0c99e86726b757f0315.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bubblegum Crisis",
+        "alternativeTitle": "Bubblegum Crisis",
+        "id": "bubblegum-crisis-2382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d0aefe3a9d9a6136f4103d037928e99.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "Aggretsuko",
+        "alternativeTitle": "Aggressive Retsuko",
+        "id": "aggretsuko-1197",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9002649d0485d2eabefed88f7f69676b.jpg",
+        "episodes": {
+          "sub": 100,
+          "dub": 0,
+          "eps": 100
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Gamera: Rebirth",
+        "alternativeTitle": "Gamera: Rebirth",
+        "id": "gamera-rebirth-18552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f46318bad413f5c982dda9b5fe7c9b13.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "44m"
+      },
+      {
+        "title": "You're Under Arrest (1996)",
+        "alternativeTitle": "Taiho Shichau zo (TV)",
+        "id": "youre-under-arrest-1996-1476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/595740a16fc92fcdd1e3c21807a5b463.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Rolling Girls",
+        "alternativeTitle": "Rolling☆Girls",
+        "id": "the-rolling-girls-5340",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e55f7f423caf3148b81c4f46e73a40d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ms. Koizumi Loves Ramen Noodles",
+        "alternativeTitle": "Ramen Daisuki Koizumi-san",
+        "id": "ms-koizumi-loves-ramen-noodles-5702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58fe78aeec4456cac1e01ada32bc864e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Samurai After Specials",
+        "alternativeTitle": "Hyakka Ryouran: Samurai After Specials",
+        "id": "samurai-after-specials-5752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f29fad46ac61df22dc65cb40995c4997.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Doraemon Movie 41: Nobita's Space War (Little Star Wars)",
+        "alternativeTitle": "Doraemon Movie 41: Nobita no Little Star Wars",
+        "id": "doraemon-movie-41-nobitas-space-war-little-star-wars-17274",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53f77d41fbb5cd1f8d9bdefcf02ef2ed.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "Sailor Moon S: The Movie - Hearts in Ice",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito",
+        "id": "sailor-moon-s-the-movie-hearts-in-ice-1068",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07df1cd747e5fce053a29f05646c56b1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Ron Kamonohashi's Forbidden Deductions Season 2",
+        "alternativeTitle": "Kamonohashi Ron no Kindan Suiri 2nd Season",
+        "id": "ron-kamonohashis-forbidden-deductions-season-2-19330",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b141c5ed4afb116f7edb521732a0e1d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bananya",
+        "alternativeTitle": "Bananya",
+        "id": "bananya-4693",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/511b7c363d375ea895fa5a615f789db1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Nora, Princess, and Stray Cat",
+        "alternativeTitle": "Nora to Oujo to Noraneko Heart",
+        "id": "nora-princess-and-stray-cat-9636",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9daf4aeedad2897811fa5dfafefc3c39.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Girlish Number",
+        "alternativeTitle": "Gi(a)rlish Number",
+        "id": "girlish-number-4053",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d1436f3dcb12b75ee0b8a36c96e1e7f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "It's My Life",
+        "alternativeTitle": "It's My Life",
+        "id": "its-my-life-8667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2059874cc9eed8c9c438f0d71383eed4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "14m"
+      },
+      {
+        "title": "Yu-Gi-Oh! The Movie: Bonds Beyond Time",
+        "alternativeTitle": "Yu☆Gi☆Oh! Movie: Chou Yuugou! Toki wo Koeta Kizuna",
+        "id": "yu-gi-oh-the-movie-bonds-beyond-time-3026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f613eaccf50f7e477cbd02192ecbb730.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "49m"
+      },
+      {
+        "title": "Marvel Future Avengers",
+        "alternativeTitle": "Marvel Future Avengers",
+        "id": "marvel-future-avengers-8891",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/895feef4df55e05e18edc346f0afbbba.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Polar Bear Cafe",
+        "alternativeTitle": "Shirokuma Cafe",
+        "id": "polar-bear-cafe-607",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e41a96e9987a64efbd6f5cf76d15d3d.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yu☆Gi☆Oh! Zexal Second",
+        "alternativeTitle": "Yu☆Gi☆Oh! Zexal Second",
+        "id": "yugioh-zexal-second-4109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/690900bbd5b66043406da09e6998cd57.jpg",
+        "episodes": {
+          "sub": 73,
+          "dub": 73,
+          "eps": 73
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lupin the Third, The Woman Called Fujiko Mine",
+        "alternativeTitle": "Lupin the Third: Mine Fujiko to Iu Onna",
+        "id": "lupin-the-third-the-woman-called-fujiko-mine-869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eacc64c3cc6084fefc3d7d1e34004070.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cutie Honey Universe",
+        "alternativeTitle": "Cutie Honey Universe",
+        "id": "cutie-honey-universe-9546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e66646f547b16ae47907f56a41d3db5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Umamusume: Pretty Derby Season 3",
+        "alternativeTitle": "Uma Musume: Pretty Derby Season 3",
+        "id": "umamusume-pretty-derby-season-3-18608",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1eb37bb9b2e2eda785096927311edc1e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I''s Pure",
+        "alternativeTitle": "I''s Pure",
+        "id": "is-pure-3905",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fdb883d3b5b61b94cfa5a028ba13537.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "27m"
+      }
+    ]
+  }
+}

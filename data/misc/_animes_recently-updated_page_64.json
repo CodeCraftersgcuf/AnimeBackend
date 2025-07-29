@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 64,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Armitage III",
+        "alternativeTitle": "Armitage III",
+        "id": "armitage-iii-3368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f7566b44f15f0e972833530b557834c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "Naruto OVA3: Hidden Leaf Village Grand Sports Festival",
+        "alternativeTitle": "Naruto: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo! - Konoha no Sato no Dai Undoukai",
+        "id": "naruto-ova3-hidden-leaf-village-grand-sports-festival-4136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4bb0d2caaa9591fdb3c442738d7f87a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Grappler Baki",
+        "alternativeTitle": "Grappler Baki",
+        "id": "grappler-baki-4392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ada3f8f08a4df3e9b71c24d5b243f1f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Protect Me, Heavenly Moon Guardian!",
+        "alternativeTitle": "Mamotte Shugogetten!",
+        "id": "protect-me-heavenly-moon-guardian-4904",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2b1e8bea22a1c31670d2482c536a0f5.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "7 Seeds",
+        "alternativeTitle": "7 Seeds",
+        "id": "7-seeds-5672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b9f297975bd1d2295a4d85346904eb3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Bird's Song; Bird's Poem",
+        "alternativeTitle": "Tori no Uta",
+        "id": "birds-song-birds-poem-5928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3eda2742a8588ba6410b80d7e81a25c5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "Wake Up, Girls! ZOO",
+        "alternativeTitle": "Wake Up, Girl Zoo!",
+        "id": "wake-up-girls-zoo-7464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f58c1cdcb95d241c93393546e60380f3.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Shironeko Project ZERO CHRONICLE",
+        "alternativeTitle": "Shironeko Project: Zero Chronicle",
+        "id": "shironeko-project-zero-chronicle-9768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/834a5d5bd5ea4ceaa4dda5ae402d4901.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Siamese: First Mission",
+        "alternativeTitle": "The Siamese: First Mission",
+        "id": "the-siamese-first-mission-12072",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d0004ba4ec5b92b32c32b46c2b8b584.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Mezzo Forte",
+        "alternativeTitle": "Mezzo Forte",
+        "id": "mezzo-forte-16168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2172ce770bf04fb343be33d1073224f7.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Overlord III",
+        "alternativeTitle": "Overlord III",
+        "id": "overlord-iii-553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b92005b8a7704cbf1cc7d1185841ae3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Digimon: Digital Monsters",
+        "alternativeTitle": "Digimon Adventure",
+        "id": "digimon-digital-monsters-809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5257ca7826531ac8a201b75f91f36fc9.jpg",
+        "episodes": {
+          "sub": 54,
+          "dub": 54,
+          "eps": 54
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Police Patlabor: The New Files",
+        "alternativeTitle": "Kidou Keisatsu Patlabor: New OVA",
+        "id": "mobile-police-patlabor-the-new-files-1577",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98018081e5d61f6fcff4a4fb420754e1.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 4,
+          "eps": 16
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Tokyo Majin",
+        "alternativeTitle": "Tokyo Majin Gakuen Kenpucho: Tou",
+        "id": "tokyo-majin-2857",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f0511605896dd65ad00fc7215083b51.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Grimoire of Zero",
+        "alternativeTitle": "Zero kara Hajimeru Mahou no Sho",
+        "id": "grimoire-of-zero-3113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fae4589f5811c9bc44323ee5007de58b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "B'T X",
+        "alternativeTitle": "B'T X",
+        "id": "bt-x-3369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1aeb01554e8cd32f6e67e5eaceab7f53.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Legend of Exorcism 2nd Season",
+        "alternativeTitle": "Tian Bao Fuyao Lu 2nd Season",
+        "id": "legend-of-exorcism-2nd-season-3625",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/611ef2062d4387ff9d1a36605ce2a305.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Lupin III: Hemingway Paper no Nazo",
+        "alternativeTitle": "Lupin III: Hemingway Paper no Nazo",
+        "id": "lupin-iii-hemingway-paper-no-nazo-3881",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41f86186642024662b30e2b57aeddb99.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "92m"
+      },
+      {
+        "title": "Atom: The Beginning",
+        "alternativeTitle": "Atom: The Beginning",
+        "id": "atom-the-beginning-4137",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e4a902e921bc22b382567b160440d59.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Lupin III: Bank of Liberty",
+        "alternativeTitle": "Lupin III: Russia yori Ai wo Komete",
+        "id": "lupin-iii-bank-of-liberty-4649",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74ffaa5cd82c7e8669dbe23f67ece0f6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Megane na Kanojo",
+        "alternativeTitle": "Megane na Kanojo",
+        "id": "megane-na-kanojo-4905",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e30e0c5e4b0faa55a20df822365621cd.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "14m"
+      },
+      {
+        "title": "Princess Jellyfish Specials",
+        "alternativeTitle": "Kuragehime: Eiyuu Retsuden☆",
+        "id": "princess-jellyfish-specials-5417",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14c4d6f44d40b54c73de9f00733f61fc.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Africa Salaryman",
+        "alternativeTitle": "Africa no Salaryman (TV)",
+        "id": "africa-salaryman-5673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/052b8d0d769539e0271152b132c8506b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Live! Kouhaku Special Anime",
+        "alternativeTitle": "Love Live! Kouhaku Special Anime",
+        "id": "love-live-kouhaku-special-anime-6441",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/36294470b4b73d7ba4c75c38e5a20082.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Misaki Chronicle: Divergence Eve",
+        "alternativeTitle": "Divergence Eve 2: Misaki Chronicles",
+        "id": "misaki-chronicle-divergence-eve-6697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04eb87dbac2ca1202b95de5e06a0f25e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "New Dream Hunter Rem: Yume no Kishitachi",
+        "alternativeTitle": "New Dream Hunter Rem: Yume no Kishitachi",
+        "id": "new-dream-hunter-rem-yume-no-kishitachi-7209",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c150042995ba81609b5ceab7563114c5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+        "alternativeTitle": "Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu",
+        "id": "great-mazinger-tai-getter-robo-g-kuuchuu-daigekitotsu-7721",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa190336f95498d01a411539edaf587c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Duel Masters VSR",
+        "alternativeTitle": "[RAW] Duel Masters VSR",
+        "id": "duel-masters-vsr-9257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/766cbf5d87f6baf772e3222850cc0a9c.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Neon The Animation",
+        "alternativeTitle": "Neon The Animation",
+        "id": "neon-the-animation-9513",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1256a70629b598f72c787c4c735977d.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Hakushon Daimaou 2020",
+        "alternativeTitle": "Hakushon Daimaou 2020",
+        "id": "hakushon-daimaou-2020-13865",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f11dfc57371ad5c8330ac72922140bea.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bean Bandit",
+        "alternativeTitle": "Bean Bandit",
+        "id": "bean-bandit-15657",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdcbc8e7659200320523589045c5f7d5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "11m"
+      },
+      {
+        "title": "Meng Qi Shi Shen 2nd Season",
+        "alternativeTitle": "Meng Qi Shi Shen 2nd Season",
+        "id": "meng-qi-shi-shen-2nd-season-17961",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/930a2951cdca1f06b351ae75a79079c5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Super Seminary Sixth Season",
+        "alternativeTitle": "Xiong Bing Lian: Zhu Tian Jianglin",
+        "id": "super-seminary-sixth-season-18985",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1401f0c0702122b26ed13d03e65bb26a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Great Teacher Onizuka",
+        "alternativeTitle": "Great Teacher Onizuka",
+        "id": "great-teacher-onizuka-42",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48e3444bbb6d58d37977b6e2c6a78cb2.jpg",
+        "episodes": {
+          "sub": 43,
+          "dub": 43,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "One Piece: The Movie 10 - Strong World",
+        "alternativeTitle": "One Piece Film: Strong World",
+        "id": "one-piece-the-movie-10-strong-world-298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de58e554fa74d9a5443799ab84cf0c65.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Sekaiichi Hatsukoi OVA",
+        "alternativeTitle": "Sekaiichi Hatsukoi OVA",
+        "id": "sekaiichi-hatsukoi-ova-554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9ef7bdfedf9395d4c80b77b761e50f8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "21m"
+      },
+      {
+        "title": "Fire Force Season 2",
+        "alternativeTitle": "Enen no Shouboutai: Ni no Shou",
+        "id": "fire-force-season-2-810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/053b812e870f69487e33059ee76ecf31.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Naruto: Shippuuden Movie 6: Road to Ninja",
+        "alternativeTitle": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+        "id": "naruto-shippuuden-movie-6-road-to-ninja-1066",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dde4a8a8ddd19648711845448d02d6d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Kemono Friends",
+        "alternativeTitle": "Kemono Friends",
+        "id": "kemono-friends-1322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4274ba43d35d0c630160353d1b36d8ba.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kingsglaive: Final Fantasy XV",
+        "alternativeTitle": "Kingsglaive: Final Fantasy XV",
+        "id": "kingsglaive-final-fantasy-xv-1578",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09f265c6d049f05387bd3e641cee866.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      }
+    ]
+  }
+}

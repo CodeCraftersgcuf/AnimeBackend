@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 5,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "JoJo's Bizarre Adventure: Battle Tendency",
+        "alternativeTitle": "JoJo no Kimyou na Bouken: Battle Tendency",
+        "id": "jojos-bizarre-adventure-battle-tendency-17656",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c36c58895408997c82cb46883bfea0b0.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Fate/stay night: Unlimited Blade Works - Prologue",
+        "alternativeTitle": "Fate/stay night: Unlimited Blade Works Prologue",
+        "id": "fatestay-night-unlimited-blade-works-prologue-389",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f42ac14fc94fdb866fe617749efa5b14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "51m"
+      },
+      {
+        "title": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+        "alternativeTitle": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+        "id": "fatestay-night-unlimited-blade-works-2nd-season-sunny-day-1694",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8624fc7eb9e8409b0591e2e32c3b8e1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Darker than Black: Gaiden",
+        "alternativeTitle": "Darker than Black: Kuro no Keiyakusha Gaiden",
+        "id": "darker-than-black-gaiden-558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3f01b85077a10cba851c22458fc8bdf.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Michiko & Hatchin",
+        "alternativeTitle": "Michiko to Hatchin",
+        "id": "michiko-hatchin-729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94913017a34e6199ac867e2a2be41694.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Full Metal Panic! The Second Raid Episode 00",
+        "alternativeTitle": "Full Metal Panic! The Second Raid Episode 00",
+        "id": "full-metal-panic-the-second-raid-episode-00-1830",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e8bcb6bfd27646f47c0d588e45025b4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Night Raid 1931 Specials",
+        "alternativeTitle": "Senkou no Night Raid Specials",
+        "id": "night-raid-1931-specials-4028",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd0a96576cbd8fce1c8ff157f3d76668.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Night Raid 1931: The Prophecy",
+        "alternativeTitle": "Senkou no Night Raid: Yogen",
+        "id": "night-raid-1931-the-prophecy-6579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53507e862e89e29bc561c042e992d107.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "The Legend of the Legendary Heroes: Iris Report",
+        "alternativeTitle": "Densetsu no Yuusha no Densetsu: Iris Report",
+        "id": "the-legend-of-the-legendary-heroes-iris-report-5483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/418c9c4b42267bab6b90c68e874d1888.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "FLCL",
+        "alternativeTitle": "FLCL",
+        "id": "flcl-485",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a8c52d06daa37855b9e5725a7c48939.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Castlevania",
+        "alternativeTitle": "Castlevania",
+        "id": "castlevania-17870",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ae046ea432eea4bf7bb3bd283f8dae7.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Castlevania 3rd Season",
+        "alternativeTitle": "Castlevania 3rd Season",
+        "id": "castlevania-3rd-season-17872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4a217f1061e7a908007e5b77d95f245.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Castlevania 2nd Season",
+        "alternativeTitle": "Castlevania 2nd Season",
+        "id": "castlevania-2nd-season-17871",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d080ff3e215e9a9c5561056c178df54e.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Castlevania 4th Season",
+        "alternativeTitle": "Castlevania 4th Season",
+        "id": "castlevania-4th-season-17873",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/142c64dbfdf537d59ee02db7b33856ef.jpeg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "IS: Infinite Stratos: A Sextet Yearns to Be in Love",
+        "alternativeTitle": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+        "id": "is-infinite-stratos-a-sextet-yearns-to-be-in-love-3827",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a471bea5cdbc51383c73425bcd6fa79.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "IS: Infinite Stratos 2 - World Purge",
+        "alternativeTitle": "IS: Infinite Stratos 2 - World Purge-hen",
+        "id": "is-infinite-stratos-2-world-purge-3669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1945e6e62caa6e6104f413815e6adaf7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Is This a Zombie? OVA",
+        "alternativeTitle": "Kore wa Zombie Desu ka? OVA",
+        "id": "is-this-a-zombie-ova-1767",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dc779bc7a602c67ea8d16e794886dc9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Is This a Zombie? Of the Dead OVA",
+        "alternativeTitle": "Kore wa Zombie Desu ka? of the Dead: Hai, Minotake ni Attemasu",
+        "id": "is-this-a-zombie-of-the-dead-ova-1580",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2402b623978879d7b8c129ee17aa026.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Magical Warfare",
+        "alternativeTitle": "Mahou Sensou",
+        "id": "magical-warfare-7859",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c21f6b9ca006d172d5590c7864a35c4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Samurai X: Trust and Betrayal",
+        "alternativeTitle": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen",
+        "id": "samurai-x-trust-and-betrayal-39",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f13b6c6809abffb513945247acdc4f3e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Gintama: The Semi-Final",
+        "alternativeTitle": "Gintama: The Semi-Final",
+        "id": "gintama-the-semi-final-17344",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9c8ba4ae53d789f9b8db783c6c08a74.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Rurouni Kenshin: New Kyoto Arc",
+        "alternativeTitle": "Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen",
+        "id": "rurouni-kenshin-new-kyoto-arc-3121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72bbed8cb88b46ecd04e58594a28754c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Blood Lad OVA",
+        "alternativeTitle": "Blood Lad: Wagahai wa Neko de wa Nai",
+        "id": "blood-lad-ova-2791",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1455ac7c791b4fd3f17d9dd4ecf3c7c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Gintama Movie 2: The Final Chapter - Be Forever Yorozuya",
+        "alternativeTitle": "Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare",
+        "id": "gintama-movie-2-the-final-chapter-be-forever-yorozuya-14",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13923da0128300dda128a10132465e4b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Senran Kagura Estival Versus: Mizugi-darake no Zenyasai",
+        "alternativeTitle": "Senran Kagura Estival Versus: Mizugi-darake no Zenyasai",
+        "id": "senran-kagura-estival-versus-mizugi-darake-no-zenyasai-5705",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ec7d76f258939e11a6575e2bdbbccc0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Argento Soma Special",
+        "alternativeTitle": "Argento Soma Special",
+        "id": "argento-soma-special-6260",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/392302a82b6e7c4b0d9d3fb4b26585ac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Master of Mosquiton",
+        "alternativeTitle": "Master Mosquiton",
+        "id": "master-of-mosquiton-4809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2fde8fa7b3f2d3f15433e54482999953.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Speed Grapher",
+        "alternativeTitle": "Speed Grapher",
+        "id": "speed-grapher-2087",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1236eed92437e02dcd3fb4327737068.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "GARO: THE ANIMATION - HOME",
+        "alternativeTitle": "Garo: Honoo no Kokuin - Home",
+        "id": "garo-the-animation-home-4360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dacc612c9aaa8b4a64f670fef372ff56.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "009-1: R&B",
+        "alternativeTitle": "009-1: R&B",
+        "id": "009-1-rb-6590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8cf7735a70766edfbb1c857d49b09a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-1115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f418e820bf9f9c011f0a87cf24315168.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You're Under Arrest: Mini Specials",
+        "alternativeTitle": "Taiho Shichau zo Special",
+        "id": "youre-under-arrest-mini-specials-3397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c533501e803db3bb67ca4a2539a8108.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "You're Under Arrest: Diverting Traffic at the Beach",
+        "alternativeTitle": "Taiho Shichau zo: Nagisa no Koutsuu Yuudou",
+        "id": "youre-under-arrest-diverting-traffic-at-the-beach-3198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb0d5e9392974d4371b041a35a67b3c6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "You're Under Arrest: No Mercy!!",
+        "alternativeTitle": "Taiho Shichau zo in America",
+        "id": "youre-under-arrest-no-mercy-5524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0f6c7048eeff410e16a96596e8b5b26.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      }
+    ]
+  }
+}

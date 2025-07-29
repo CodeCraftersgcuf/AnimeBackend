@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 185,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Legacy of Aru Kararu",
+        "alternativeTitle": "Al Caral no Isan",
+        "id": "legacy-of-aru-kararu-9391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/627e6e104affa3973566386c1a82659a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "75m"
+      },
+      {
+        "title": "Fumoon",
+        "alternativeTitle": "Fumoon",
+        "id": "fumoon-8134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df5a758f93d0aac6d7b5d89c5cf44355.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "86m"
+      },
+      {
+        "title": "Feng Ling Yu Xiu 2nd Season: Tebie Pian",
+        "alternativeTitle": "Feng Ling Yu Xiu 2nd Season: Tebie Pian",
+        "id": "feng-ling-yu-xiu-2nd-season-tebie-pian-19299",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d1dc259e75ae9fa496602bc43a8219d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "39m"
+      },
+      {
+        "title": "Prayers",
+        "alternativeTitle": "Prayers",
+        "id": "prayers-9337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/712f1651b5c455687cc23972fe67796b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Panda no Daibouken",
+        "alternativeTitle": "Panda no Daibouken",
+        "id": "panda-no-daibouken-7299",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7541ffd62747f8d9f2f42093cc4fe12.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "53m"
+      },
+      {
+        "title": "Demon Fighter Kocho",
+        "alternativeTitle": "Yakusai Kochou",
+        "id": "demon-fighter-kocho-9606",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2dc216591af323e0b33ba64b189927e4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Dorami-chan: A Blue Straw Hat",
+        "alternativeTitle": "Dorami-chan: A Blue Straw Hat",
+        "id": "dorami-chan-a-blue-straw-hat-13456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0772e2cb8d118a67bad5ed8c23e3d06.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "15m"
+      },
+      {
+        "title": "Maho Girls PreCure! the Movie: The Miraculous Transformation! Cure Mofurun!",
+        "alternativeTitle": "Mahoutsukai Precure! Movie: Kiseki no Henshin! Cure Mofurun!",
+        "id": "maho-girls-precure-the-movie-the-miraculous-transformation-cure-mofurun-2303",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd07aef10556424dda0d613341e10a46.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "64m"
+      },
+      {
+        "title": "Lostorage Conflated WIXOSS: Missing Link",
+        "alternativeTitle": "Lostorage Conflated WIXOSS: Missing Link",
+        "id": "lostorage-conflated-wixoss-missing-link-5385",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af5bc15ec05e742499158ab2b30cc3d2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Kagaku Bouken-tai Tansar 5",
+        "alternativeTitle": "[RAW] Kagaku Bouken-tai Tansar 5",
+        "id": "kagaku-bouken-tai-tansar-5-14396",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fe3e536fdd76fed411e410f72f2752e.jpg",
+        "episodes": {
+          "sub": 34,
+          "dub": 0,
+          "eps": 34
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Demon Warrior Luna Varga",
+        "alternativeTitle": "Majuu Senshi Luna Varga",
+        "id": "demon-warrior-luna-varga-8379",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdd273006dad4c8e733fa502ee101c70.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "[RAW] Jungle Kurobee",
+        "alternativeTitle": "[RAW] Jungle Kurobee",
+        "id": "jungle-kurobee-14359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd571ed551e741a079789a3134aebb4e.jpg",
+        "episodes": {
+          "sub": 31,
+          "dub": 0,
+          "eps": 31
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ninkuu: Knife no Bohyou",
+        "alternativeTitle": "Ninkuu: Knife no Bohyou",
+        "id": "ninkuu-knife-no-bohyou-8230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5a9f0e7fcf30d389e7e6a036882bfe7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "34m"
+      },
+      {
+        "title": "Kimi no Matsu Mirai (Basho) e",
+        "alternativeTitle": "Kimi no Matsu Mirai (Basho) e",
+        "id": "kimi-no-matsu-mirai-basho-e-8319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6e68e0624884a0272edea47f6d88f7e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Genesis Survivor Gaiarth",
+        "alternativeTitle": "Sousei Kishi Gaiarth",
+        "id": "genesis-survivor-gaiarth-7046",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d4a6718eb70ec23e88f4ee36d974b8d.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Moeyo Ken",
+        "alternativeTitle": "Kidou Shinsengumi Moeyo Ken",
+        "id": "moeyo-ken-8886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09e22303b23fb7a356b7f846ffa2bd53.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Jeremy no Ki",
+        "alternativeTitle": "Jeremy no Ki",
+        "id": "jeremy-no-ki-14301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bc45ae229108dde10dfbaa902c2c3fa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "21m"
+      },
+      {
+        "title": "Dino Girl Gauko Season 2",
+        "alternativeTitle": "Kyouryuu Shoujo Gauko 2nd Season",
+        "id": "dino-girl-gauko-season-2-7021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7fb2b254795c682bbf2e5b1fa2a8ce0.jpg",
+        "episodes": {
+          "sub": 19,
+          "dub": 0,
+          "eps": 19
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Rakushou! Hyper Doll",
+        "alternativeTitle": "Rakushou! Hyper Doll",
+        "id": "rakushou-hyper-doll-8817",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59fdd3d63567ebf4259ca9000eeec02c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Ketsuekigata-kun! Featuring Yuri & Nasuno",
+        "alternativeTitle": "Ketsuekigata-kun! Featuring Yuri & Nasuno",
+        "id": "ketsuekigata-kun-featuring-yuri-nasuno-10404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/213afff0b087433928222d923fbd58de.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "gdgd Fairies Movie: tte Iu Eiga wa Dou kana...?",
+        "alternativeTitle": "gdgd Fairies Movie: tte Iu Eiga wa Dou kana...?",
+        "id": "gdgd-fairies-movie-tte-iu-eiga-wa-dou-kana-6834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead5d90ea4169dcd49cfaf19d9ca211e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Star Dust",
+        "alternativeTitle": "Star Dust",
+        "id": "star-dust-11815",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8e14de1f7739e489b5431491deabbc4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Prism Ark Specials",
+        "alternativeTitle": "Prism Ark Specials",
+        "id": "prism-ark-specials-7469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb192e4673ef88ec2910658ce2a0bf41.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Debutante Detective Corps",
+        "alternativeTitle": "Ojousama Sousamou",
+        "id": "debutante-detective-corps-10316",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/896aea85c07899941b7d7867ffa72d0c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ling Yu 5th Season",
+        "alternativeTitle": "Ling Yu 5th Season",
+        "id": "ling-yu-5th-season-4714",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc57ca66378a675a195d45c7e18d2024.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Ling Yu 6th Season",
+        "alternativeTitle": "Ling Yu 6th Season",
+        "id": "ling-yu-6th-season-7335",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9b2dc54f9e7c3d0e3534c52d2f83416.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Sensei no Ojikan: Doki Doki School Hours OVA",
+        "alternativeTitle": "Sensei no Ojikan: Doki Doki School Hours OVA",
+        "id": "sensei-no-ojikan-doki-doki-school-hours-ova-5355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4062124468d09e397600a7270013d38.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "World Fool News Part II",
+        "alternativeTitle": "World Fool News (TV) Part II",
+        "id": "world-fool-news-part-ii-8703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49bd5d1a2e502fb1d9877ec17c954030.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Pikaia!!",
+        "alternativeTitle": "Pikaia!!",
+        "id": "pikaia-11116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca46ed113f212dbe19998f9a261b9da9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "21-Emon: To Space! The Barefoot Princess",
+        "alternativeTitle": "21 Emon Uchuu ike! Hadashi no Princess",
+        "id": "21-emon-to-space-the-barefoot-princess-7847",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac79bbf02829d2c6442b88f0e044a373.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "Hana no Zundamaru: Junk",
+        "alternativeTitle": "Hana no Zundamaru: Junk",
+        "id": "hana-no-zundamaru-junk-13883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47d3b0f6994501baf77a112cdb1ce41a.png",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Neko Hiki no Oruorane",
+        "alternativeTitle": "Neko Hiki no Oruorane",
+        "id": "neko-hiki-no-oruorane-6750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/247206ce98117568245ee566bc15c70b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Negadon: The Monster from Mars",
+        "alternativeTitle": "Wakusei Daikaiju Negadon",
+        "id": "negadon-the-monster-from-mars-9179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b25118c78b7c47dc99d71e155becaec4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "26m"
+      },
+      {
+        "title": "Okubyou na Venus",
+        "alternativeTitle": "Okubyou na Venus",
+        "id": "okubyou-na-venus-9222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b4f433b083ff82a0ca7d4b22b58a0cc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "Kiss wa Hitomi ni Shite",
+        "alternativeTitle": "Kiss wa Hitomi ni Shite",
+        "id": "kiss-wa-hitomi-ni-shite-8455",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6d37ef53da857ae925e5d27e17ef607.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "31m"
+      },
+      {
+        "title": "Bakusou Kyoudai Let's & Go Special",
+        "alternativeTitle": "Bakusou Kyoudai Let's & Go Special",
+        "id": "bakusou-kyoudai-lets-go-special-6425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c97f331e7707336aab7446240b68b7a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "95m"
+      },
+      {
+        "title": "Tokimeki Memorial: Forever With You",
+        "alternativeTitle": "Tokimeki Memorial: Forever With You",
+        "id": "tokimeki-memorial-forever-with-you-7476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a093620bed2a59b444053a7310f30b8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Jewel BEM Hunter Lime",
+        "alternativeTitle": "Houma Hunter Lime",
+        "id": "jewel-bem-hunter-lime-7777",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c32e7d3f898132adc2b46ad22e75a4ce.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Mahou no Tenshi Creamy Mami no Otogibanashi",
+        "alternativeTitle": "Mahou no Tenshi Creamy Mami no Otogibanashi",
+        "id": "mahou-no-tenshi-creamy-mami-no-otogibanashi-15022",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f055d50764c1b9cd194a3483cc4435a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Kitty's Studio",
+        "alternativeTitle": "Koneko no Studio",
+        "id": "kittys-studio-7857",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f358f59f19931369e8ec2faca5fbd5e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "16m"
+      }
+    ]
+  }
+}

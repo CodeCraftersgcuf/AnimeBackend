@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 49,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Phantom: Requiem for the Phantom",
+        "alternativeTitle": "Phantom: Requiem for the Phantom",
+        "id": "phantom-requiem-for-the-phantom-501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70132a601fabcb54d101e8b93db8c5e9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost Hunt",
+        "alternativeTitle": "Ghost Hunt",
+        "id": "ghost-hunt-782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54e61085269b3560af128e735ec9cfcb.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Cowboy Bebop: The Movie",
+        "alternativeTitle": "Cowboy Bebop: Tengoku no Tobira",
+        "id": "cowboy-bebop-the-movie-153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8824b24a3a5d3dec75b9948a9bda462.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Laughing Under the Clouds",
+        "alternativeTitle": "Donten ni Warau",
+        "id": "laughing-under-the-clouds-1454",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ea4809607f1babc8cb514979ce0ce92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sekai Ichi Hatsukoi - World's Greatest First Love 2",
+        "alternativeTitle": "Sekaiichi Hatsukoi 2",
+        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love-2-502",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f3c21d189e4018df10fef82fe4dc413.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tales of Zestiria the Cross 2nd Season",
+        "alternativeTitle": "Tales of Zestiria the Cross 2nd Season",
+        "id": "tales-of-zestiria-the-cross-2nd-season-2020",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ada27d79368f005ec133f28f2e4783f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Live! School Idol Project",
+        "alternativeTitle": "Love Live! School Idol Project",
+        "id": "love-live-school-idol-project-1706",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4559d51c5ada25b3dbc8a08095ed55ef.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Laid-Back Camp 2nd Season",
+        "alternativeTitle": "Yuru Camp Season 2",
+        "id": "laid-back-camp-2nd-season-15618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc0ee0f66d110c90ac4741d01184f011.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Battle Through the Heavens 3rd Season",
+        "alternativeTitle": "Doupo Cangqiong 3rd Season",
+        "id": "battle-through-the-heavens-3rd-season-1114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60aca850cb8b86275424fb7b2ea13bbc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Food Wars! The Second Plate OVA",
+        "alternativeTitle": "Shokugeki no Souma: Ni no Sara OVA",
+        "id": "food-wars-the-second-plate-ova-1407",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e604f0771821bad9f1dc2c6040497157.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Fairy Tail OVA",
+        "alternativeTitle": "Fairy Tail OVA",
+        "id": "fairy-tail-ova-1433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23bff6199081969657cc788f77921631.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Trinity Seven: Eternity Library & Alchemic Girl",
+        "alternativeTitle": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
+        "id": "trinity-seven-eternity-library-alchemic-girl-2362",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22bffc5733361b02cc30455caf4f949c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "55m"
+      },
+      {
+        "title": "A Place Further Than The Universe",
+        "alternativeTitle": "Sora yori mo Tooi Basho",
+        "id": "a-place-further-than-the-universe-73",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e63e96b0a804ae9663a002662414e383.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Doraemon: Stand by Me 2",
+        "alternativeTitle": "Stand By Me Doraemon 2",
+        "id": "doraemon-stand-by-me-2-15564",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b50299e8e457680b92e1742b9e7748da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Hakkenden -Eight Dogs of the East-",
+        "alternativeTitle": "Hakkenden: Touhou Hakken Ibun",
+        "id": "hakkenden-eight-dogs-of-the-east-1745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab59201ec9f721bad0c76bab7424f5db.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "School Rumble",
+        "alternativeTitle": "School Rumble",
+        "id": "school-rumble-606",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9cd5c1d17b3224fbecb7728c90b2a80.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+        "alternativeTitle": "Fullmetal Alchemist: The Conqueror of Shamballa",
+        "id": "fullmetal-alchemist-the-movie-conqueror-of-shamballa-1316",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4c682cf1010fad892ca2f2706869be2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Magia Record: Puella Magi Madoka Magica Side Story",
+        "alternativeTitle": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
+        "id": "magia-record-puella-magi-madoka-magica-side-story-4716",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4d925c9f3174e219c6db15817b4b21b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Grand Order -First Order-",
+        "alternativeTitle": "Fate/Grand Order: First Order",
+        "id": "fategrand-order-first-order-4384",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2524ebf8c491cc4521356e50178ab86.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "74m"
+      },
+      {
+        "title": "Princess Connect! Re:Dive Season 2",
+        "alternativeTitle": "Princess Connect! Re:Dive Season 2",
+        "id": "princess-connect-redive-season-2-15520",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d777c4b3da26f8c39ae479ca6099060d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gurren Lagann The Movie: The Lights in the Sky are Stars",
+        "alternativeTitle": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen",
+        "id": "gurren-lagann-the-movie-the-lights-in-the-sky-are-stars-74",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64905a4ea4da39b616c8431a08413a81.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "125m"
+      },
+      {
+        "title": "Rakshasa Street 2",
+        "alternativeTitle": "Zhen Hun Jie: Bei Luo Shi Men Pian Part 2",
+        "id": "rakshasa-street-2-15626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e36befd63a3d5f0372117c737a3b891.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Strike the Blood IV",
+        "alternativeTitle": "Strike the Blood IV",
+        "id": "strike-the-blood-iv-3105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c485d637aee9879d48dad9f08a1d663e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Strange Love",
+        "alternativeTitle": "Hen",
+        "id": "strange-love-9889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6f9c3337f8bbd5ead563e1cb25668ad.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!",
+        "alternativeTitle": "Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!",
+        "id": "crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo-4922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b06b58580235bc61f1f37d302b5296ae.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Black Butler: Book of the Atlantic",
+        "alternativeTitle": "Kuroshitsuji Movie: Book of the Atlantic",
+        "id": "black-butler-book-of-the-atlantic-224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0ec348b9dde189a717b69b398c42279.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "In the Heart of Kunoichi Tsubaki",
+        "alternativeTitle": "Kunoichi Tsubaki no Mune no Uchi",
+        "id": "in-the-heart-of-kunoichi-tsubaki-17999",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd63c40b1df13e40afca1eed92a17b8a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Psycho-Pass 3",
+        "alternativeTitle": "Psycho-Pass 3",
+        "id": "psycho-pass-3-1360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f6dbd24f89d9bbea095ee7a0ef8a6be.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "45m"
+      },
+      {
+        "title": "One Piece: Barto's Secret Room",
+        "alternativeTitle": "One Piece: Barto no Himitsu no Heya!",
+        "id": "one-piece-bartos-secret-room-17947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f754bde8fa48765250e63f94b1f89f3b.png",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV: Play Back",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV Episode 0",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iv-play-back-18129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0624387936576c007eff71adb47bcab6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Is this A Zombie? of the Dead",
+        "alternativeTitle": "Kore wa Zombie Desu ka? of the Dead",
+        "id": "is-this-a-zombie-of-the-dead-1323",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7be0276753ee5c5ae1dd6d36a3d308ce.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity",
+        "alternativeTitle": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+        "id": "im-quitting-heroing-remember-the-work-trip-is-first-and-foremost-a-learning-opportunity-18128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28129ae8132420522daf6ab40fdda3e6.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Initial D Legend 1 Awakening",
+        "alternativeTitle": "New Initial D Movie: Legend 1 - Kakusei",
+        "id": "initial-d-legend-1-awakening-832",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b7edb3df4aba85f005c0ca01fef4ee7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "62m"
+      },
+      {
+        "title": "Non Non Biyori",
+        "alternativeTitle": "Non Non Biyori",
+        "id": "non-non-biyori-579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d57f9932470751615d856fed77ac00b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Scumbag System",
+        "alternativeTitle": "Chuan Shu Zijiu Zhinan",
+        "id": "scumbag-system-928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4434b739436ffb51c3fd46896b986c3b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "From Up on Poppy Hill",
+        "alternativeTitle": "Coquelicot-zaka kara",
+        "id": "from-up-on-poppy-hill-691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/936188df44ddefff045cdd6a909166ca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Rakshasa Street 4th Season",
+        "alternativeTitle": "Zhen Hun Jie 4th Season",
+        "id": "rakshasa-street-4th-season-19411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a6b0e741761ae158e6d970f44cbd0fd.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "If Her Flag Breaks",
+        "alternativeTitle": "Kanojo ga Flag wo Oraretara",
+        "id": "if-her-flag-breaks-5965",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/913d2e72a066859676fc292cb620840c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Bridge to the Starry Skies",
+        "alternativeTitle": "Hoshizora e Kakaru Hashi",
+        "id": "a-bridge-to-the-starry-skies-4364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5db92f931c6ea61a1bac81df7f0aed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "One Piece: The Movie 8 - Adventures in Alabasta",
+        "alternativeTitle": "One Piece Movie 8: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+        "id": "one-piece-the-movie-8-adventures-in-alabasta-2076",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a23edd40c184ec10e6acfbf6771231ca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      }
+    ]
+  }
+}

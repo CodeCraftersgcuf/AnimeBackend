@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 4,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Zombie-Loan",
+        "alternativeTitle": "Zombie-Loan Specials",
+        "id": "zombie-loan-3328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2700ca39c9a82d7d398bae70d51a96bd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Blue Submarine No. 6",
+        "alternativeTitle": "Ao no 6-gou",
+        "id": "blue-submarine-no-6-3413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/608e4c26c09cee42d37c3d8844789341.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "91 Days: Shoal of Time/All Our Yesterdays/Tomorrow and Tomorrow",
+        "alternativeTitle": "91 Days: Toki no Asase/Subete no Kinou/Ashita, Mata Ashita",
+        "id": "91-days-shoal-of-timeall-our-yesterdaystomorrow-and-tomorrow-4065",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0944df80544fe7bb3df39c2e770c84ec.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Kikaider 01: The Animation",
+        "alternativeTitle": "Kikaider 01 The Animation",
+        "id": "kikaider-01-the-animation-4476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f8e176a294f1f524f9ed5559d5cde35.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "God Eater Prologue",
+        "alternativeTitle": "God Eater Prologue",
+        "id": "god-eater-prologue-4893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2348cc49f48619dedd40b14c45ffe69.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Fate/Extra: Last Encore - Illustrias Tendousetsu",
+        "alternativeTitle": "Fate/Extra: Last Encore - Illustrias Tendousetsu",
+        "id": "fateextra-last-encore-illustrias-tendousetsu-5405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd09f501e042c3189287467869b52b84.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "32m"
+      },
+      {
+        "title": "Kyousou Giga (TV) Recaps",
+        "alternativeTitle": "Kyousou Giga (TV) Recaps",
+        "id": "kyousou-giga-tv-recaps-5470",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2960379d8d9ff9bf5fdb305567853e21.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "26m"
+      },
+      {
+        "title": "Sorcerer Hunters",
+        "alternativeTitle": "Bakuretsu Hunters OVA",
+        "id": "sorcerer-hunters-5560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b50e8e6fc29874c9170b1e4e1e534d67.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Valkyrie Drive: Mermaid Specials",
+        "alternativeTitle": "Valkyrie Drive: Mermaid Specials",
+        "id": "valkyrie-drive-mermaid-specials-7387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/660a857d7de453e80e1fbbebb2cff1db.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Cop Craft: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!",
+        "alternativeTitle": "Cop Craft: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!",
+        "id": "cop-craft-utsukushiki-onna-kishi-toraware-no-yousei-wo-oe-8766",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b5eb33d0292407797cfe095dd804b0c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Inferno Cop: Fact Files",
+        "alternativeTitle": "Inferno Cop: Fact Files",
+        "id": "inferno-cop-fact-files-9537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c16283478882696aa95b1267eb426b0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Beatless Intermission",
+        "alternativeTitle": "Beatless Intermission",
+        "id": "beatless-intermission-9618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3410954ed2cbd93f66242f393516f87d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Dies irae: The Dawning Days",
+        "alternativeTitle": "Dies Irae: Reimei",
+        "id": "dies-irae-the-dawning-days-9745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35925c72b0756043a6abbc38c4e0dd8a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Durarara!! Specials",
+        "alternativeTitle": "Durarara!! Specials",
+        "id": "durarara-specials-644",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e1b2d149ad801fbc496bb3b542b84cd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Initial D Battle Stage 2",
+        "alternativeTitle": "Initial D Battle Stage 2",
+        "id": "initial-d-battle-stage-2-1155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ac0dafbbc2e66ee33416257f0989680.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "80m"
+      },
+      {
+        "title": "Attack on Titan OVA",
+        "alternativeTitle": "Shingeki no Kyojin OVA",
+        "id": "attack-on-titan-ova-761",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c563690ade996fc0f7788a8e961ae7e6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Attack on Titan: No Regrets",
+        "alternativeTitle": "Shingeki no Kyojin: Kuinaki Sentaku",
+        "id": "attack-on-titan-no-regrets-168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b1d36294038c6094016be2c5176dd79.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Attack on Titan: Lost Girls",
+        "alternativeTitle": "Shingeki no Kyojin: Lost Girls",
+        "id": "attack-on-titan-lost-girls-947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae9effd6c9aba5c4ba6b68f2901c20c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Naruto: Shippuuden Movie 6: Road to Ninja",
+        "alternativeTitle": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+        "id": "naruto-shippuuden-movie-6-road-to-ninja-1066",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dde4a8a8ddd19648711845448d02d6d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime Specia: Digression: Hinata Sakaguchi",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi",
+        "id": "that-time-i-got-reincarnated-as-a-slime-specia-digression-hinata-sakaguchi-17440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f2dbc20c7e0fb09a205baff4cbcf36d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "B: The Beginning 2",
+        "alternativeTitle": "B: The Beginning Succession",
+        "id": "b-the-beginning-2-15649",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76defe4de4bd3e285ad36180d72abb03.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Gunslinger Girl: Il Teatrino OVA",
+        "alternativeTitle": "Gunslinger Girl: Il Teatrino OVA",
+        "id": "gunslinger-girl-il-teatrino-ova-3563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d3500e63be6a4cd952793750313ef34.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Dorohedoro: Ma no Omake",
+        "alternativeTitle": "Dorohedoro: Ma no Omake",
+        "id": "dorohedoro-ma-no-omake-3262",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d3891e3901db87a89be270fae003561.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "30m"
+      },
+      {
+        "title": "Gonna be the Twin-Tail!!",
+        "alternativeTitle": "Ore, Twintail ni Narimasu.",
+        "id": "gonna-be-the-twin-tail-5534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1fe0a4e1e50d3433a5e700020fbac08.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Naruto OVA5: Naruto, The Genie, and The Three Wishes!!",
+        "alternativeTitle": "Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!",
+        "id": "naruto-ova5-naruto-the-genie-and-the-three-wishes-3657",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57935a347fb4328e0132c76afdd85822.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "14m"
+      },
+      {
+        "title": "Naruto OVA9: Sunny Side Battle",
+        "alternativeTitle": "Naruto: Shippuuden - Sunny Side Battle",
+        "id": "naruto-ova9-sunny-side-battle-1916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94c836b7aff106f515b53f8eb440ccdf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Boruto: Naruto the Movie - The Day Naruto Became the Hokage",
+        "alternativeTitle": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi",
+        "id": "boruto-naruto-the-movie-the-day-naruto-became-the-hokage-1805",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b19c06fae70eab67b1f390ed3cd905d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "No. 6",
+        "alternativeTitle": "No.6",
+        "id": "no-6-1293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b90b440892775dc743660936641c9f1e.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Zenonzard The Animation (OVA)",
+        "alternativeTitle": "Zenonzard The Animation (OVA)",
+        "id": "zenonzard-the-animation-ova-4781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97111fed2acee1d3d1d1fff8ce1f3af5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "27m"
+      },
+      {
+        "title": "Berserk: The Golden Age Arc III - The Advent",
+        "alternativeTitle": "Berserk: Ougon Jidai-hen III - Kourin",
+        "id": "berserk-the-golden-age-arc-iii-the-advent-287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/238525889f6baeafa0c382410fc89267.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+        "alternativeTitle": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
+        "id": "berserk-the-golden-age-arc-ii-the-battle-for-doldrey-616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7287d8abe5782382375d45c91aceff7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Berserk: The Golden Age Arc I - The Egg of the King",
+        "alternativeTitle": "Berserk: Ougon Jidai-hen I - Haou no Tamago",
+        "id": "berserk-the-golden-age-arc-i-the-egg-of-the-king-857",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd68ade07b62115d27904b86b9c66f81.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "76m"
+      },
+      {
+        "title": "Re:CREATORS",
+        "alternativeTitle": "Re:Creators",
+        "id": "recreators-1296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2adb0c3af7a233b2d569ce8a85184987.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "InuYasha: The Final Act",
+        "alternativeTitle": "InuYasha: Kanketsu-hen",
+        "id": "inuyasha-the-final-act-277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0f297d44bbf455f222f0169eafeb382.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

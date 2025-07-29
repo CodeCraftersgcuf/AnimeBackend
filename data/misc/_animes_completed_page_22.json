@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 22,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Mobile Suit Gundam AGE",
+        "alternativeTitle": "Mobile Suit Gundam AGE",
+        "id": "mobile-suit-gundam-age-5793",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f20830910ce1733fd087f3970cf2e8f.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arjuna",
+        "alternativeTitle": "Chikyuu Shoujo Arjuna",
+        "id": "arjuna-4217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af14c08c6b4b6cb8746801b11cf961d1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "After War Gundam X",
+        "alternativeTitle": "After War Gundam X",
+        "id": "after-war-gundam-x-2232",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bfd6136931e6c9f667e04211cf133b0b.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Silver Guardian 2",
+        "alternativeTitle": "Gin no Guardian II",
+        "id": "the-silver-guardian-2-5095",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98d1a7fba0f55be03bc353fa1b7aa241.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wolf's Rain OVA",
+        "alternativeTitle": "Wolf's Rain OVA",
+        "id": "wolfs-rain-ova-495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ac580cfefc378c69336c022f6d396be.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Power Stone",
+        "alternativeTitle": "Power Stone",
+        "id": "power-stone-5896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96645fa9f6abe9045027edd1a1b6620d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "God Mazinger",
+        "alternativeTitle": "God Mazinger",
+        "id": "god-mazinger-6369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03d270b73b6672c2f09a3de06cdf40fa.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "29m"
+      },
+      {
+        "title": "Potemayo",
+        "alternativeTitle": "Potemayo",
+        "id": "potemayo-2352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ad16a058b19e7dd25bb133874fecdf8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Potemayo Specials",
+        "alternativeTitle": "Potemayo Specials",
+        "id": "potemayo-specials-2188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d416ade4e87fcd8152fb50a041fd5aef.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Galaxy Angel Rune",
+        "alternativeTitle": "Galaxy Angel Rune",
+        "id": "galaxy-angel-rune-6272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97935f7a461e109d96b72969ae11da8c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam Unicorn RE:0096",
+        "alternativeTitle": "Mobile Suit Gundam Unicorn RE:0096",
+        "id": "mobile-suit-gundam-unicorn-re0096-1389",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f3e2ff04b03e8f27f4155a8959502cc.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "SD Gundam Sangokuden Brave Battle Warriors",
+        "alternativeTitle": "SD Gundam Sangokuden Brave Battle Warriors",
+        "id": "sd-gundam-sangokuden-brave-battle-warriors-6562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c4651667f29ebae1b39ce8fbde56c28.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Wolf's Rain",
+        "alternativeTitle": "Wolf's Rain",
+        "id": "wolfs-rain-763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48f868d581fbdb81655bd2c4abee3f7a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mobile Suit Gundam Unicorn",
+        "alternativeTitle": "Mobile Suit Gundam Unicorn",
+        "id": "mobile-suit-gundam-unicorn-327",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e8d4996b767c52ea708bd0339af0d41.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "62m"
+      },
+      {
+        "title": "∀ Gundam",
+        "alternativeTitle": "Turn A Gundam",
+        "id": "gundam-1039",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/913831d50456f316b3f4865794f60f9b.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gundam Build Fighters Try",
+        "alternativeTitle": "Gundam Build Fighters Try",
+        "id": "gundam-build-fighters-try-2324",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed8cd70bb3a1ae784395b2960490eb5b.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Mobile Suit Gundam",
+        "alternativeTitle": "Mobile Suit Gundam",
+        "id": "mobile-suit-gundam-856",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68fc3295ea7d9bfb7d15d2a44a62bac3.jpg",
+        "episodes": {
+          "sub": 43,
+          "dub": 43,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0080: War in the Pocket",
+        "alternativeTitle": "Mobile Suit Gundam 0080: War in the Pocket",
+        "id": "mobile-suit-gundam-0080-war-in-the-pocket-698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfb31e1369f886c70172a723cb2bcc56.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Mobile Suit Gundam 00 Special Edition",
+        "alternativeTitle": "Mobile Suit Gundam 00 Special Edition",
+        "id": "mobile-suit-gundam-00-special-edition-1228",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a79bdd179623c13641304aea0d55b3b6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "90m"
+      },
+      {
+        "title": "Mobile Suit Gundam ZZ",
+        "alternativeTitle": "Mobile Suit Gundam ZZ",
+        "id": "mobile-suit-gundam-zz-5001",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/985281c4c2b4cace6c1cf09c475a1e94.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 0,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0083: Stardust Memory",
+        "alternativeTitle": "Mobile Suit Gundam 0083: Stardust Memory",
+        "id": "mobile-suit-gundam-0083-stardust-memory-2341",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/874cca9c7f4a57ccbc16abc3607f1d9b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED",
+        "alternativeTitle": "Mobile Suit Gundam SEED",
+        "id": "mobile-suit-gundam-seed-825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c91b039d231792996505ca5c3793631.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 48,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED Destiny",
+        "alternativeTitle": "Mobile Suit Gundam SEED Destiny",
+        "id": "mobile-suit-gundam-seed-destiny-2646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c4eecf19b1e13ab9329e850c91f005d.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Fighter G Gundam",
+        "alternativeTitle": "Mobile Fighter G Gundam",
+        "id": "mobile-fighter-g-gundam-1403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db1975a7472cff78512206dc65fdbf77.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Little Busters!",
+        "alternativeTitle": "Little Busters!",
+        "id": "little-busters-1466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce95ae56189970967888b978846d192c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "SD Gundam Force",
+        "alternativeTitle": "SD Gundam Force",
+        "id": "sd-gundam-force-9697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f7547b68fb26232daed09ad626a502d.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Appleseed XIII",
+        "alternativeTitle": "Appleseed XIII",
+        "id": "appleseed-xiii-6423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f5e824588600b5264e9c77432fe71cf.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Romeo x Juliet",
+        "alternativeTitle": "Romeo x Juliet",
+        "id": "romeo-x-juliet-1090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61ae8064a9d1b65d98a620ea39acb666.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dagashi Kashi",
+        "alternativeTitle": "Dagashi Kashi",
+        "id": "dagashi-kashi-5085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e63984dba54fbaabacb49f0cc7d3dbbe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My-Hime",
+        "alternativeTitle": "Mai-HiME",
+        "id": "my-hime-1681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b527af2addef6a18d6cec47003d169df.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Go! Princess Precure",
+        "alternativeTitle": "Go! Princess Precure",
+        "id": "go-princess-precure-1025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a791d4b4228f5596bf99630ad2397c10.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "F-Zero: GP Legend",
+        "alternativeTitle": "F-Zero: Falcon Densetsu",
+        "id": "f-zero-gp-legend-6148",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/387d9d14026bf9b14c153201440520ab.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Little Busters! ~Refrain~",
+        "alternativeTitle": "Little Busters!: Refrain",
+        "id": "little-busters-refrain-256",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1126e3c76482cf8948b674fb98e50bd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Great Mazinger",
+        "alternativeTitle": "Great Mazinger",
+        "id": "great-mazinger-3380",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/757da9c4aefb6f71b0b40b7bf541fe16.jpg",
+        "episodes": {
+          "sub": 56,
+          "dub": 0,
+          "eps": 56
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Aikatsu Stars!",
+        "alternativeTitle": "Aikatsu Stars!",
+        "id": "aikatsu-stars-1428",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a0b16b31322a7969581df8a96c506ff.jpg",
+        "episodes": {
+          "sub": 100,
+          "dub": 0,
+          "eps": 100
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Steel Angel Kurumi Encore",
+        "alternativeTitle": "Koutetsu Tenshi Kurumi Encore",
+        "id": "steel-angel-kurumi-encore-4832",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/222b1188d36863315fae66b0c52d6e17.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "15m"
+      },
+      {
+        "title": "Steel Angel Kurumi 2",
+        "alternativeTitle": "Koutetsu Tenshi Kurumi 2",
+        "id": "steel-angel-kurumi-2-6710",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3fe87d070f004d2db7cf1470c8bea88.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Gosick",
+        "alternativeTitle": "Gosick",
+        "id": "gosick-397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcdad474a87417d34d51efe3a778f5b8.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My-Hime Specials",
+        "alternativeTitle": "Mai-HiME Specials",
+        "id": "my-hime-specials-3833",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e045efb75b3b222d371eac34a29ca5e5.jpg",
+        "episodes": {
+          "sub": 28,
+          "dub": 26,
+          "eps": 27
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Sherlock Hound",
+        "alternativeTitle": "Meitantei Holmes",
+        "id": "sherlock-hound-2041",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37c912b2e4350d0cce77280a6190bfb8.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

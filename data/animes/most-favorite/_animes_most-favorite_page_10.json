@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 10,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Black Lagoon",
+        "alternativeTitle": "Black Lagoon",
+        "id": "black-lagoon-456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26153ae545ca9c5820ca989a48c364c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Garden of Words",
+        "alternativeTitle": "Kotonoha no Niwa",
+        "id": "the-garden-of-words-414",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd2425b4fb8fe7aec860e4706d981392.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "46m"
+      },
+      {
+        "title": "Tsuredure Children",
+        "alternativeTitle": "Tsurezure Children",
+        "id": "tsuredure-children-1002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d4c825b09dd114fee1cd8b57bbcf040.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Mission: Yozakura Family",
+        "alternativeTitle": "Yozakura-san Chi no Daisakusen",
+        "id": "mission-yozakura-family-19133",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/259ca4ad41fd80081677b04a880c7d4b.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 27,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Angels of Death",
+        "alternativeTitle": "Satsuriku no Tenshi",
+        "id": "angels-of-death-4182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/213ca7cfccc1bed3ce9a97a19ac2131c.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Myriad Colors Phantom World",
+        "alternativeTitle": "Musaigen no Phantom World",
+        "id": "myriad-colors-phantom-world-4003",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb38e2a961046a4e60fec4f6720a255e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "SK8 the Infinity",
+        "alternativeTitle": "SK∞",
+        "id": "sk8-the-infinity-15556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81b54f6b3b5fa0767ae06ad39668eae8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Teen Romantic Comedy SNAFU Climax!",
+        "alternativeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+        "id": "my-teen-romantic-comedy-snafu-climax-84",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04757bcced9e912fbac9e591289f2e42.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sweet Reincarnation",
+        "alternativeTitle": "Okashi na Tensei",
+        "id": "sweet-reincarnation-18469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/404367268426dddcdd7c05a106ff098a.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dark Gathering",
+        "alternativeTitle": "Dark Gathering",
+        "id": "dark-gathering-18482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aeab1a310c9728970572deb6d79ae7b1.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Asterisk War",
+        "alternativeTitle": "Gakusen Toshi Asterisk",
+        "id": "the-asterisk-war-3820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63b32c570eb780e7e441af2980d442a6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Tiny Senpai",
+        "alternativeTitle": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+        "id": "my-tiny-senpai-18486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e700a61aebcfab087f6e9a7543ec8803.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shinobi no Ittoki",
+        "alternativeTitle": "Shinobi no Ittoki",
+        "id": "shinobi-no-ittoki-18163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fdc5b931f798065341953e4265f43c4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rent-a-Girlfriend Season 3",
+        "alternativeTitle": "Kanojo, Okarishimasu 3rd Season",
+        "id": "rentagirlfriend-season-3-18422",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d61408856ce17e02505ada89f842f0b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Reborn as a Vending Machine, Now I Wander the Dungeon",
+        "alternativeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
+        "id": "reborn-as-a-vending-machine-now-i-wander-the-dungeon-18483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c1e950586ecb6ad2e1b28986487f890.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yona of the Dawn",
+        "alternativeTitle": "Akatsuki no Yona",
+        "id": "yona-of-the-dawn-439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f25045ed5c1e81d9644ab11f1ffd485.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Spare Me, Great Lord!",
+        "alternativeTitle": "Da Wang Rao Ming",
+        "id": "spare-me-great-lord-17412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f21a94d3c3256ab8dbf220a5b72ac85.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Haganai: I don't have many friends",
+        "alternativeTitle": "Boku wa Tomodachi ga Sukunai",
+        "id": "haganai-i-dont-have-many-friends-2286",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd99ca099fb2071f954dd7de93a1c160.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside Season 2",
+        "alternativeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd",
+        "id": "banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside-season-2-18856",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53489bf6b2fa4b45f1169024c10a8b32.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bungo Stray Dogs 2",
+        "alternativeTitle": "Bungou Stray Dogs 2nd Season",
+        "id": "bungo-stray-dogs-2-288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b585220a97d25a8d40ec83c763daf3fe.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Clannad",
+        "alternativeTitle": "Clannad",
+        "id": "clannad-418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/033c07868e7fe2c69d216db13dd3a886.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Elfen Lied",
+        "alternativeTitle": "Elfen Lied",
+        "id": "elfen-lied-1313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89f91abd99e05a925a033adeb0b169f4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "My Hero Academia Movie 1: Two Heroes",
+        "alternativeTitle": "Boku no Hero Academia the Movie 1: Futari no Hero",
+        "id": "my-hero-academia-movie-1-two-heroes-841",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e258e5b3460f9a5a9db167a0603965a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Deadman Wonderland",
+        "alternativeTitle": "Deadman Wonderland",
+        "id": "deadman-wonderland-2555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/463cae4894e4da8daad20853db8d8ece.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Revengers: Tenjiku-hen",
+        "alternativeTitle": "Tokyo Revengers: Tenjiku-hen",
+        "id": "tokyo-revengers-tenjiku-hen-18575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/021ca452bd8b38c15f2e3c60e4a8c2ca.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Howl's Moving Castle",
+        "alternativeTitle": "Howl no Ugoku Shiro",
+        "id": "howls-moving-castle-49",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a95f578cbd5a9893ccb70e709656620.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Bungo Stray Dogs 4",
+        "alternativeTitle": "Bungou Stray Dogs 4th Season",
+        "id": "bungo-stray-dogs-4-18240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bbab679c7d4036d15bd0e13a8a94c0e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Immoral Guild (Uncensored)",
+        "alternativeTitle": "Futoku no Guild (Uncensored)",
+        "id": "immoral-guild-uncensored-18216",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f645a28a45c1d7a3ee3112e592c7c93.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nande Koko ni Sensei ga!?",
+        "alternativeTitle": "Nande Koko ni Sensei ga!?",
+        "id": "nande-koko-ni-sensei-ga-5893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e32280f91c5da6549ac576130577646.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "anohana: The Flower We Saw That Day",
+        "alternativeTitle": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "id": "anohana-the-flower-we-saw-that-day-115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06cae051e5171874535ce48ed89edf41.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Pseudo Harem",
+        "alternativeTitle": "Giji Harem",
+        "id": "pseudo-harem-19246",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c419bb45d8063ba9f18915a74fb449ae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Death March to the Parallel World Rhapsody",
+        "alternativeTitle": "Death March kara Hajimaru Isekai Kyousoukyoku",
+        "id": "death-march-to-the-parallel-world-rhapsody-5372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecc8fb7d813a825064687b3611427795.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Dangers in My Heart Season 2",
+        "alternativeTitle": "Boku no Kokoro no Yabai Yatsu Season 2",
+        "id": "the-dangers-in-my-heart-season-2-18868",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e4a334bce531ac33033253bebdf8259.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wonder Egg Priority",
+        "alternativeTitle": "Wonder Egg Priority",
+        "id": "wonder-egg-priority-17272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cbd489c8be1b14cce16b04eea65f664a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Masamune-kun's Revenge R",
+        "alternativeTitle": "Masamune-kun no Revenge R",
+        "id": "masamunekuns-revenge-r-18419",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/174a13011301d3d0a2135f40162b8dee.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Flops (Uncensored)",
+        "alternativeTitle": "Renai Flops (Uncensored)",
+        "id": "love-flops-uncensored-18311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45c0872f49abc05a01b91ad3da3b4c3c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kabaneri of the Iron Fortress",
+        "alternativeTitle": "Koutetsujou no Kabaneri",
+        "id": "kabaneri-of-the-iron-fortress-2523",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1bb67a318b2e7463c50bba74bcb5c7b1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Love after World Domination",
+        "alternativeTitle": "Koi wa Sekai Seifuku no Ato de",
+        "id": "love-after-world-domination-17834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6a511bdd599e6ea05309225328fc9f9.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "K-Project",
+        "alternativeTitle": "K",
+        "id": "k-project-1461",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e3863a725ae73caf51a0a591478f35f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Re:ZERO -Starting Life in Another World- Season 3",
+        "alternativeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+        "id": "rezero-starting-life-in-another-world-season-3-19301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd9a4794949c53baa8ef6ae16f78c7ab.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

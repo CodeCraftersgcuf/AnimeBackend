@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 151,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Cooking with Valkyries Spring Festival Special",
+        "alternativeTitle": "Nu Wushen de Canzhuo Spring Festival Special",
+        "id": "cooking-with-valkyries-spring-festival-special-17488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10b5c150291947eee301401b55b5562c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Chogattai Majutsu Robot Ginguiser Specials",
+        "alternativeTitle": "Chogattai Majutsu Robot Ginguiser Specials",
+        "id": "chogattai-majutsu-robot-ginguiser-specials-13265",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85f60e5c5861489f15fe3941d5d2e307.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Bastions",
+        "alternativeTitle": "Bastions",
+        "id": "bastions-18409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a77fc14112a3c80ffbb04b65ee2a8641.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Edens Zero 2nd Season",
+        "alternativeTitle": "Edens Zero 2nd Season",
+        "id": "edens-zero-2nd-season-18331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fdf6665f533bc7cd366522825d31553.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far",
+        "alternativeTitle": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+        "id": "the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far-18355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20398dadb590c2c769d1eed77d671677.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aiyou's Secret Room",
+        "alternativeTitle": "Aiyou de Mishi",
+        "id": "aiyous-secret-room-18272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28fe7068bf220d2abd0176fcc550011d.png",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "Kuma Kuma Kuma Bear Punch!",
+        "alternativeTitle": "Kuma Kuma Kuma Bear 2nd Season",
+        "id": "kuma-kuma-kuma-bear-punch-17374",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d223280706d8f5d2f556c7951c5bf4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dr. Stone: New World",
+        "alternativeTitle": "Dr. Stone 3rd Season",
+        "id": "dr-stone-new-world-17725",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cab1ee2bbe1a4def0790121df2c1fc7.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Ancient Magus' Bride Season 2",
+        "alternativeTitle": "Mahoutsukai no Yome Season 2",
+        "id": "the-ancient-magus-bride-season-2-18338",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e41a7b0fb1912457ce9f43e037c74eb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Alice Gear Aegis Expansion",
+        "alternativeTitle": "Alice Gear Aegis Expansion",
+        "id": "alice-gear-aegis-expansion-18373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90a1dbcb03b97c209fd2b3e8fdeee1af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Teasing Master Takagi-san: The Movie",
+        "alternativeTitle": "Karakai Jouzu no Takagi-san Movie",
+        "id": "teasing-master-takagisan-the-movie-18253",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67ac19a9ebdd2c928b36dd9ce01367f3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "73m"
+      },
+      {
+        "title": "Mitaiken Horizon",
+        "alternativeTitle": "Mitaiken Horizon",
+        "id": "mitaiken-horizon-2397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec5f0c3f3246feaaa8e70b79762c6b9e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Music",
+        "duration": "8m"
+      },
+      {
+        "title": "Eien no 831",
+        "alternativeTitle": "Eien no 831",
+        "id": "eien-no-831-17954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42677b31ab740b6d438140cc653198dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "105m"
+      },
+      {
+        "title": "Mirage Queen Aime Cirque",
+        "alternativeTitle": "Kaitou Queen wa Circus ga Osuki",
+        "id": "mirage-queen-aime-cirque-18020",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8132ddcf65a09a138897d003eaa27d2d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "60m"
+      },
+      {
+        "title": "The Ravages of Time",
+        "alternativeTitle": "Huo Feng Liao Yuan",
+        "id": "the-ravages-of-time-15735",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/981b2e2d44935f34e7412a396d5c843b.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Aoharu x Kikanjuu: Kemono-tachi no Senjou da na!",
+        "alternativeTitle": "Aoharu x Kikanjuu: Kemono-tachi no Senjou da na!",
+        "id": "aoharu-x-kikanjuu-kemono-tachi-no-senjou-da-na-2623",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5002b3b9b3b95429e89d91f6b8b98c86.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Ayaka: A Story of Bonds and Wounds",
+        "alternativeTitle": "Ayaka",
+        "id": "ayaka-a-story-of-bonds-and-wounds-18467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/180fcc0036a291329bc80878546bd17d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Tiny Senpai",
+        "alternativeTitle": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+        "id": "my-tiny-senpai-18486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e700a61aebcfab087f6e9a7543ec8803.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Reign of the Seven Spellblades",
+        "alternativeTitle": "Nanatsu no Maken ga Shihai suru",
+        "id": "reign-of-the-seven-spellblades-18488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c37a7853fc9c6152ba9a9e3f6264b89.png",
+        "episodes": {
+          "sub": 15,
+          "dub": 15,
+          "eps": 15
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation Specials - Episode 0",
+        "alternativeTitle": "Mushoku Tensei II - Isekai Ittara Honki Dasu Specials - Episode 0",
+        "id": "mushoku-tensei-jobless-reincarnation-specials-episode-0-18495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60a801845f55ad185014e69238ec989f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Horimiya: The Missing Pieces",
+        "alternativeTitle": "Horimiya: Piece",
+        "id": "horimiya-the-missing-pieces-18421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/041a335c530fda22477df522037c92c5.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shirobako Specials",
+        "alternativeTitle": "Shirobako Specials",
+        "id": "shirobako-specials-4030",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/493d401c650238cda7b0a74bd3e0fbee.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Shirobako Movie",
+        "alternativeTitle": "Shirobako Movie",
+        "id": "shirobako-movie-1729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e928d90de8c809206d2ad293b9b84f29.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "Tenchi Muyou!: Galaxy Police Mihoshi Space Adventure",
+        "alternativeTitle": "Tenchi Muyou!: Galaxy Police Mihoshi Space Adventure",
+        "id": "tenchi-muyou-galaxy-police-mihoshi-space-adventure-4335",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8431d7c02bd105b34e03762885a5803d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Detective Conan Movie: The Story of Haibara Ai - Black Iron Mystery Train",
+        "alternativeTitle": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+        "id": "detective-conan-movie-the-story-of-haibara-ai-black-iron-mystery-train-18412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1f3ad29aac1a9f9a56e0a84d61b3197.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "alternativeTitle": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+        "id": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db2f3ce7b9cab7fdc160b005bffb899a.png",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation",
+        "alternativeTitle": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+        "id": "atelier-ryza-ever-darkness-and-the-secret-hideout-the-animation-18476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79ce10ba08e5a3a59072d80c47cc239e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Liar Liar",
+        "alternativeTitle": "Liar Liar",
+        "id": "liar-liar-17799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b88ea4a1d0e34c9ff8b927dd0fcdfe32.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Doraemon Movie 06: Nobita's Little Space War",
+        "alternativeTitle": "Doraemon Movie 06: Nobita no Little Star Wars",
+        "id": "doraemon-movie-06-nobitas-little-space-war-3984",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d79e07029bfe24912df727aab907715.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "KochiKame: Tokyo Beat Cops",
+        "alternativeTitle": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+        "id": "kochikame-tokyo-beat-cops-923",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcd7533699b2e73d94bf3a834c7c3fdb.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 373
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "BanG Dream! It's MyGO!!!!!",
+        "alternativeTitle": "BanG Dream! It's MyGO!!!!!",
+        "id": "bang-dream-its-mygo-18415",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/712e1099cea8162bd1f71c9d9f497f63.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rent-a-Girlfriend Season 3",
+        "alternativeTitle": "Kanojo, Okarishimasu 3rd Season",
+        "id": "rentagirlfriend-season-3-18422",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d61408856ce17e02505ada89f842f0b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Undead Murder Farce",
+        "alternativeTitle": "Undead Girl Murder Farce",
+        "id": "undead-murder-farce-18474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d970fb6085590105fe83c597e274c9f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Dreaming Boy is a Realist",
+        "alternativeTitle": "Yumemiru Danshi wa Genjitsushugisha",
+        "id": "the-dreaming-boy-is-a-realist-18484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d366f7a0c8cb967409ec4ad6452991d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pururun! Shizuku-chan",
+        "alternativeTitle": "Pururun! Shizuku-chan",
+        "id": "pururun-shizuku-chan-11215",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d275d0f8e23b529d765851f596890ad2.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Masamune-kun's Revenge OVA",
+        "alternativeTitle": "Masamune-kun no Revenge OVA",
+        "id": "masamune-kuns-revenge-ova-5500",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a5924d55235d7b9e47fe3c459284aa4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Koisuru Boukun",
+        "alternativeTitle": "Koisuru Boukun",
+        "id": "koisuru-boukun-15895",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e23a4d78e479ad5ddb593bc7aa3066c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Usakame Special",
+        "alternativeTitle": "Usakame Special",
+        "id": "usakame-special-9220",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3a81aa0baf1218c5a099325589d1729.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Tsurune Movie: Hajimari no Issha",
+        "alternativeTitle": "Tsurune Movie: Hajimari no Issha",
+        "id": "tsurune-movie-hajimari-no-issha-18411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f40cf1a43b0d1eb573720c36cb57e3ad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Doraemon Movie 08: Nobita and the Knights on Dinosaurs",
+        "alternativeTitle": "Doraemon Movie 08: Nobita to Ryuu no Kishi",
+        "id": "doraemon-movie-08-nobita-and-the-knights-on-dinosaurs-3585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a334a614c145d937a253eb92165f35fe.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      }
+    ]
+  }
+}

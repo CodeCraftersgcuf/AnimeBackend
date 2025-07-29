@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 149,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "_Summer Specials",
+        "alternativeTitle": "_Summer Specials",
+        "id": "summer-specials-9645",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab74121904489cf2bedb17dd56354f77.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Ippou Nippon Mukashibanashi",
+        "alternativeTitle": "Ippou Nippon Mukashibanashi",
+        "id": "ippou-nippon-mukashibanashi-14253",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/788a85befec60316044975ecc003de3c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "No Money Omake episodes",
+        "alternativeTitle": "Okane ga Nai Specials",
+        "id": "no-money-omake-episodes-16557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08c72fc048225fddf55c868517203d9d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Conspiracy of Love",
+        "alternativeTitle": "Conspiracy of Love",
+        "id": "conspiracy-of-love-19629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d15f0f2f435655a4f5ae4afb1bcb6267.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Bakemonogatari (The Monogatari Series)",
+        "alternativeTitle": "Bakemonogatari",
+        "id": "bakemonogatari-the-monogatari-series-174",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a0ae1b29d8d492637a254480a6b9e69.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Magnitude 8.0",
+        "alternativeTitle": "Tokyo Magnitude 8.0",
+        "id": "tokyo-magnitude-80-430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c4b01bed3640dd46e3cc40c90e3ae79.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Seitokai Yakuindomo Movie",
+        "alternativeTitle": "Seitokai Yakuindomo Movie",
+        "id": "seitokai-yakuindomo-movie-686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d80de695ce66a340715355231e824d29.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Blue Exorcist",
+        "alternativeTitle": "Ao no Exorcist",
+        "id": "blue-exorcist-1198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce4ef643080aa2d5c66ef10321b14c09.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Laughing Under the Clouds",
+        "alternativeTitle": "Donten ni Warau",
+        "id": "laughing-under-the-clouds-1454",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ea4809607f1babc8cb514979ce0ce92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Engaged to the Unidentified",
+        "alternativeTitle": "Mikakunin de Shinkoukei",
+        "id": "engaged-to-the-unidentified-1710",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/396b5f358b7d25ee30998c8fab534c22.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragon Pilot: Hisone and Masotan",
+        "alternativeTitle": "Hisone to Maso-tan",
+        "id": "dragon-pilot-hisone-and-masotan-1966",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f7f5ba3be5bd24802b86bd2d8bb0671.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Masuda Kousuke Gekijou Gag Manga Biyori",
+        "alternativeTitle": "Masuda Kousuke Gekijou Gag Manga Biyori",
+        "id": "masuda-kousuke-gekijou-gag-manga-biyori-2734",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87eed302d7a90813130b9759c99f6dcb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Venus to Mamoru!",
+        "alternativeTitle": "Mamoru-kun ni Megami no Shukufuku wo!",
+        "id": "venus-to-mamoru-3246",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e47a2029ab6f9bac199aa28e940f89f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 2",
+        "alternativeTitle": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 2",
+        "id": "soukyuu-no-fafner-dead-aggressor-the-beyond-part-2-4014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/088b411c5889af6a941c7883ce9be48b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Around the World with Willy Fog",
+        "alternativeTitle": "[RAW] Anime 80-nichikan Sekai Isshuu",
+        "id": "around-the-world-with-willy-fog-4270",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/582585a510096325ff699bb37ffb5bcc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sound! Euphonium Specials",
+        "alternativeTitle": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+        "id": "sound-euphonium-specials-4526",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cc4b7e61396bbcda6fba42eff448934.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Marches Comes in Like a Lion: Special Omnibus Episode",
+        "alternativeTitle": "3-gatsu no Lion Recap",
+        "id": "marches-comes-in-like-a-lion-special-omnibus-episode-4782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b66b7e820ba8672fe1490c5573c74ce4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Nagareboshi Lens",
+        "alternativeTitle": "Nagareboshi Lens",
+        "id": "nagareboshi-lens-5038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/910ad7fc652af5b6e94e9b92c6c3a8f9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "18m"
+      },
+      {
+        "title": "ID-0",
+        "alternativeTitle": "ID-0",
+        "id": "id-0-5294",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/351bfe5a73f2d99a9bcddb467a04fffb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wingman",
+        "alternativeTitle": "Yume Senshi Wingman",
+        "id": "wingman-5550",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b4a37c3984d6b1f947f19c516fb27b8.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Majestic Prince Episode 25 – Wings to the Future",
+        "alternativeTitle": "Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa",
+        "id": "majestic-prince-episode-25-wings-to-the-future-6062",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b01ebfd842da354271873dd65a42dab4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Holy Knight",
+        "alternativeTitle": "Holy Knight",
+        "id": "holy-knight-7854",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a98c65f09da26295d88304f46d4508b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "100% Teacher Pascal",
+        "alternativeTitle": "100% Pascal-sensei (TV)",
+        "id": "100-teacher-pascal-8878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b2b6dbd503817dbc38a20e941f094a5.jpg",
+        "episodes": {
+          "sub": 36,
+          "dub": 0,
+          "eps": 36
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "ARP Backstage Pass",
+        "alternativeTitle": "ARP Backstage Pass",
+        "id": "arp-backstage-pass-9134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b6b4b4c15bb9c2a14094796d6996fe7.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Netsuzou Trap -NTR-",
+        "alternativeTitle": "Netsuzou TRap",
+        "id": "netsuzou-trap-ntr-9646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e43063a92ae1410db491df7cd7f9d9fa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Mahou no Tenshi Creamy Mami no Otogibanashi",
+        "alternativeTitle": "Mahou no Tenshi Creamy Mami no Otogibanashi",
+        "id": "mahou-no-tenshi-creamy-mami-no-otogibanashi-15022",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f055d50764c1b9cd194a3483cc4435a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "The Realm of Demigod",
+        "alternativeTitle": "Ban Shen Zhi Jing",
+        "id": "the-realm-of-demigod-19630",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e8b1f5ce09137a095373696e92512b0.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "GaoGaiGar Final",
+        "alternativeTitle": "Yuusha-Ou GaoGaiGar Final",
+        "id": "gaogaigar-final-431",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfdb960e4e898403fe071259db895bab.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Space Dandy",
+        "alternativeTitle": "Space☆Dandy",
+        "id": "space-dandy-687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c83268a9efdb38c5ab76d3aaaa45c38d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Episode of Sabo - The Three Brothers' Bond",
+        "alternativeTitle": "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+        "id": "one-piece-episode-of-sabo-the-three-brothers-bond-943",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c11aa8226ea5ae258307936838025535.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "106m"
+      },
+      {
+        "title": "Baka & Test - Summon the Beasts",
+        "alternativeTitle": "Baka to Test to Shoukanjuu",
+        "id": "baka-test-summon-the-beasts-1199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e482f96af57358e7c2a1dadab9f79b2f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fairy Tail Movie 2: Dragon Cry",
+        "alternativeTitle": "Fairy Tail Movie 2: Dragon Cry",
+        "id": "fairy-tail-movie-2-dragon-cry-1455",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff86d76c2ce368fd96d2dabc47f9619a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "Pani Poni Dash!",
+        "alternativeTitle": "Paniponi Dash!",
+        "id": "pani-poni-dash-1711",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/668890cb2878b116332493058c1e0248.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Honobono Log",
+        "alternativeTitle": "Honobono Log",
+        "id": "honobono-log-1967",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a328c7d14a1ad985bfafba29d6714ec4.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Kuruneko",
+        "alternativeTitle": "Kuruneko",
+        "id": "kuruneko-2223",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87002bef15ebd308fcdfa26cb3db7cc5.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "The Mystic Archives of Dantalian",
+        "alternativeTitle": "Dantalian no Shoka",
+        "id": "the-mystic-archives-of-dantalian-2479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4c737e41eb540753f11f917359ac046.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "How Not to Summon a Demon Lord",
+        "alternativeTitle": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+        "id": "how-not-to-summon-a-demon-lord-3503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/602788d6d75532e17432d7feb780afa7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rock'n Roll Kids",
+        "alternativeTitle": "Aishite Knight",
+        "id": "rockn-roll-kids-4783",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/377fb34af8eec289541f9d7adc387c68.jpg",
+        "episodes": {
+          "sub": 42,
+          "dub": 0,
+          "eps": 42
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sword of Kamyi",
+        "alternativeTitle": "Kamui no Ken",
+        "id": "sword-of-kamyi-5295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9b16dd883f0183ace7ea46c5122ce11.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "132m"
+      },
+      {
+        "title": "Street Fighter Alpha: Generations",
+        "alternativeTitle": "Street Fighter Alpha: Generations",
+        "id": "street-fighter-alpha-generations-5807",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a2db07444152bc444ddaa305477e03d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "42m"
+      }
+    ]
+  }
+}

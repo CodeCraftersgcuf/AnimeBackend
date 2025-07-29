@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 48,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Chrono Crusade: Azmaria's Lessons",
+        "alternativeTitle": "Chrno Crusade: Az demo Wakaru Chrno Crusade Kouza",
+        "id": "chrono-crusade-azmarias-lessons-5457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/614b4bee026873cf2030437e998b7c7c.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Age 12.",
+        "alternativeTitle": "12-sai.: Chicchana Mune no Tokimeki",
+        "id": "age-12-6074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05468c1c7f54abcdabf08cbd48387bb4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "3x3 Eyes: Legend of the Divine Demon",
+        "alternativeTitle": "3x3 Eyes: Seima Densetsu",
+        "id": "3x3-eyes-legend-of-the-divine-demon-3658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc6df20845a543bcf171fd08de9769d9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "3x3 Eyes",
+        "alternativeTitle": "3x3 Eyes",
+        "id": "3x3-eyes-4431",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1acda400c79e08db0be25e189138d7e2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "100 Sleeping Princes and the Kingdom of Dreams",
+        "alternativeTitle": "Yume Oukoku to Nemureru 100-nin no Ouji-sama",
+        "id": "100-sleeping-princes-and-the-kingdom-of-dreams-8286",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93120427e85914f61e40fa15648b7c48.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "We Were There",
+        "alternativeTitle": "Bokura ga Ita",
+        "id": "we-were-there-2142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc47076055f060e73d22a093dbdd8ac0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Nobody's Boy: Remi",
+        "alternativeTitle": "Ie Naki Ko",
+        "id": "nobodys-boy-remi-850",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed2ad4bdbb117582871303d783980182.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Please Take My Brother Away 3rd Season",
+        "alternativeTitle": "Ani ni Tsukeru Kusuri wa Nai! 3",
+        "id": "please-take-my-brother-away-3rd-season-1148",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a845ed0ed938903ff9b51f70d897f057.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ani ni Tsukeru Kusuri wa Nai! 2",
+        "alternativeTitle": "Ani ni Tsukeru Kusuri wa Nai! 2",
+        "id": "ani-ni-tsukeru-kusuri-wa-nai-2-1008",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/759ace1d3e649747ecc0611bb4605d9f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Please Take My Brother Away",
+        "alternativeTitle": "Ani ni Tsukeru Kusuri wa Nai!",
+        "id": "please-take-my-brother-away-1737",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e297bf2a6c98f88b153723a8616a47f5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Student Council's Discretion (Level 2)",
+        "alternativeTitle": "Seitokai no Ichizon Lv.2",
+        "id": "student-councils-discretion-level-2-1941",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca1f001e9cff370bac44609652d04a5f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Aquarion",
+        "alternativeTitle": "Sousei no Aquarion",
+        "id": "aquarion-3103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3ce89f37d377cc8ab4e03b552322c32.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Argento Soma",
+        "alternativeTitle": "Argento Soma",
+        "id": "argento-soma-4378",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9a4a09c8f94384460aeed50db6d31f2.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "And Yet The Town Moves",
+        "alternativeTitle": "Soredemo Machi wa Mawatteiru",
+        "id": "and-yet-the-town-moves-1731",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2acf8ef2bfbb76314781fa5c5a05ea8d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "And you thought there is never a girl online?",
+        "alternativeTitle": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+        "id": "and-you-thought-there-is-never-a-girl-online-4084",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/215570cb2039dde3b0a21ee8e8dbb622.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ryu the Primitive Boy",
+        "alternativeTitle": "Genshi Shounen Ryuu",
+        "id": "ryu-the-primitive-boy-6699",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/802e023ba1fb9cf8a440715e93e68eb2.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Zatch Bell!",
+        "alternativeTitle": "Konjiki no Gash Bell!!",
+        "id": "zatch-bell-1400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82a118eba4be705f090e34dafc63a108.jpg",
+        "episodes": {
+          "sub": 150,
+          "dub": 100,
+          "eps": 150
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Little Snow Fairy Sugar",
+        "alternativeTitle": "Chicchana Yukitsukai Sugar",
+        "id": "a-little-snow-fairy-sugar-3226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5700665de0b416f48b26704c9d31b3ad.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Angel Links",
+        "alternativeTitle": "Seihou Tenshi Angel Links",
+        "id": "angel-links-8118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03e54fe6ffbbb6300b96c99315048137.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Planetarian",
+        "alternativeTitle": "Planetarian: Chiisana Hoshi no Yume",
+        "id": "planetarian-1359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf4e5b13c43ce05e230fa9e40898a5f5.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "I Don't Like You at All, Big Brother!!",
+        "alternativeTitle": "Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!!",
+        "id": "i-dont-like-you-at-all-big-brother-7309",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fa15c88ef4691dd154f05509b0e5c8a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Boys Be...",
+        "alternativeTitle": "Boys Be...",
+        "id": "boys-be-5980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/523dae63d95cee0ff0d03498c88a623d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Master of Mosquiton '99",
+        "alternativeTitle": "Master Mosquiton '99",
+        "id": "master-of-mosquiton-99-5692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71392d5a60489c1edb86c2d5d80c5324.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Master of Mosquiton",
+        "alternativeTitle": "Master Mosquiton",
+        "id": "master-of-mosquiton-4809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2fde8fa7b3f2d3f15433e54482999953.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Bleach",
+        "alternativeTitle": "Bleach",
+        "id": "bleach-806",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd5ae1d387a59c5abcf5e1a6a616728c.jpg",
+        "episodes": {
+          "sub": 366,
+          "dub": 366,
+          "eps": 366
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magical Girl Lyrical Nanoha A's",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha A's",
+        "id": "magical-girl-lyrical-nanoha-as-536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9dc4dd05882570769a9a8ff59c116207.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Magical Girl Lyrical Nanoha",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha",
+        "id": "magical-girl-lyrical-nanoha-1818",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac391457326a8709f163bb68903485eb.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Puella Magi Madoka Magica",
+        "alternativeTitle": "Mahou Shoujo Madoka★Magica",
+        "id": "puella-magi-madoka-magica-155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b9cbf5d0461f96c7cb1bf011cfac352.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yuki Yuna is a Hero: The Hero Chapter",
+        "alternativeTitle": "Yuuki Yuuna wa Yuusha de Aru: Yuusha no Shou",
+        "id": "yuki-yuna-is-a-hero-the-hero-chapter-1147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdaf0a753546d195e686f944b169e14d.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ruin Explorers Fam & Ihrie",
+        "alternativeTitle": "Hikyou Tanken Fam & Ihrlie",
+        "id": "ruin-explorers-fam-ihrie-5025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30ce297ebb4a78f77884be6ab9158c57.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Rin: Daughters of Mnemosyne",
+        "alternativeTitle": "Mnemosyne: Mnemosyne no Musume-tachi",
+        "id": "rin-daughters-of-mnemosyne-2168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baa4127997480a34e5ac0c5c4c1d8426.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "45m"
+      },
+      {
+        "title": "Yuki Yuna is a Hero: The Washio Sumi Chapter",
+        "alternativeTitle": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou",
+        "id": "yuki-yuna-is-a-hero-the-washio-sumi-chapter-1146",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c664eaf35a5ef779ceff5b71925170f0.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pingu in the City",
+        "alternativeTitle": "Pingu in the City",
+        "id": "pingu-in-the-city-5063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85df2fa9d9c29c48db2d8a43771f7f3e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Mysterious Play",
+        "alternativeTitle": "Fushigi Yuugi",
+        "id": "mysterious-play-1153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97cdd1fd7c96b0b9623f7debc3c63eab.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Charlotte",
+        "alternativeTitle": "Charlotte",
+        "id": "charlotte-842",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7d982f70a0bb9f6bf816f81880c9f88.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Carole & Tuesday",
+        "alternativeTitle": "Carole & Tuesday",
+        "id": "carole-tuesday-528",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ddac3b17fd5d8847edb95a608a0d554.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Date A Live II",
+        "alternativeTitle": "Date A Live II",
+        "id": "date-a-live-ii-2480",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f47332257b858553e77bb342721ec075.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Date A Live III",
+        "alternativeTitle": "Date A Live III",
+        "id": "date-a-live-iii-3053",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e9349ddb0b21d678d5e8a92da201ac8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Date A Live",
+        "alternativeTitle": "Date A Live",
+        "id": "date-a-live-2508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c5abc24a7e45849470e21da3b36f368.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Elfen Lied",
+        "alternativeTitle": "Elfen Lied",
+        "id": "elfen-lied-1313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89f91abd99e05a925a033adeb0b169f4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

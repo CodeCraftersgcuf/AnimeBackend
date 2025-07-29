@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 88,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Aggretsuko (ONA) 5th Season",
+        "alternativeTitle": "Aggressive Retsuko (ONA) 5th Season",
+        "id": "aggretsuko-ona-5th-season-18327",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c3db89d18d7df25e1dbc6fb635ccdce.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Ippatsu Kiki Musume",
+        "alternativeTitle": "Ippatsu Kiki Musume",
+        "id": "ippatsu-kiki-musume-6809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be9c2ccab6c5d6f5b8f1c00a52606b6d.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Aggretsuko (ONA) 4th Season",
+        "alternativeTitle": "Aggressive Retsuko (ONA) 4th Season",
+        "id": "aggretsuko-ona-4th-season-17373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e515fc3607ac8bd885365683372d648.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Irresponsible Captain Tylor OVA",
+        "alternativeTitle": "Musekinin Kanchou Tylor OVA",
+        "id": "irresponsible-captain-tylor-ova-2571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc0c2e23ff7035a9441bb223733273c1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Izumo: Flash of a Brave Sword",
+        "alternativeTitle": "Izumo: Takeki Tsurugi no Senki",
+        "id": "izumo-flash-of-a-brave-sword-6929",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1e75adb689566a96715c5a784dd31ef.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Jewelpet Kira☆Deco!",
+        "alternativeTitle": "Jewelpet Kira☆Deco!",
+        "id": "jewelpet-kiradeco-5129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80e81fcfaafadb0c3599b7df912b60b2.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Jing: King of Bandits",
+        "alternativeTitle": "Ou Dorobou Jing",
+        "id": "jing-king-of-bandits-2597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcaa56a2fedf0af26e1ab21c0738b7ab.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch",
+        "alternativeTitle": "Juubee-chan: Lovely Gantai no Himitsu",
+        "id": "jubei-chan-the-ninja-girl-secret-of-the-lovely-eyepatch-4993",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d19f0b05420141e3bef8ccf33986187.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Jigoku Youchien",
+        "alternativeTitle": "Jigoku Youchien",
+        "id": "jigoku-youchien-10487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7175c447e30bc0728b28fb491f597234.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Rave Master",
+        "alternativeTitle": "Groove Adventure Rave",
+        "id": "rave-master-2387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d8ad5e70698107e34d14b1bc27cf423.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Junjo Romantica 3",
+        "alternativeTitle": "Junjou Romantica 3",
+        "id": "junjo-romantica-3-784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/444133bb9f51d80019b0aec5a8bbc428.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Junjo Romantica 2",
+        "alternativeTitle": "Junjou Romantica 2",
+        "id": "junjo-romantica-2-667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/682b2ca8c7a259e3adcc91c8b05712d4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Junjo Romantica",
+        "alternativeTitle": "Junjou Romantica",
+        "id": "junjo-romantica-1015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8756c5d00708ea8620ed5088603d9a92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Jewelpet Sunshine",
+        "alternativeTitle": "Jewelpet Sunshine",
+        "id": "jewelpet-sunshine-5597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/661abae1f7551515dec6222c524f428e.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Japan Anima(tor)'s Exhibition",
+        "alternativeTitle": "Nihon Animator Mihonichi",
+        "id": "japan-animators-exhibition-1918",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1e5eb825617234a01f4e78c9a2605ab.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Jubei-chan 2: The Counterattack of Siberia Yagyu",
+        "alternativeTitle": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
+        "id": "jubei-chan-2-the-counterattack-of-siberia-yagyu-4073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b114d13494d3418364733559221b728.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "KO Century Beast Warriors",
+        "alternativeTitle": "KO Seiki Beast Sanjuushi",
+        "id": "ko-century-beast-warriors-5666",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ab0feae3184792f296ce70bbfe66f2c.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Jewelpet Happiness",
+        "alternativeTitle": "Jewelpet Happiness",
+        "id": "jewelpet-happiness-4991",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/167f73a23dcf07252cc0ed54ebcd4c4d.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama",
+        "alternativeTitle": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama",
+        "id": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai-picture-drama-1940",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/607c4f65ed766a712b7b8ec2f3e7c1a5.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "Juusenki L-Gaim",
+        "alternativeTitle": "Juusenki L-Gaim",
+        "id": "juusenki-l-gaim-4994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e4a59d855980f225bfcd594f6fc6858.jpg",
+        "episodes": {
+          "sub": 54,
+          "dub": 0,
+          "eps": 54
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gun Samurai",
+        "alternativeTitle": "Gun-dou Musashi",
+        "id": "gun-samurai-8614",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bb3dd842692241899af3d2622a5bf39.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tomo-chan Is a Girl!",
+        "alternativeTitle": "Tomo-chan wa Onnanoko!",
+        "id": "tomochan-is-a-girl-18248",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72b9514fba1c1f336fb744c08db0af4d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Giant Beasts of Ars",
+        "alternativeTitle": "Ars no Kyojuu",
+        "id": "giant-beasts-of-ars-18302",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/681a1e22ff432e7229cedbff0b9b5f65.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "The Haunted House: The Secret of the Ghost Ball",
+        "alternativeTitle": "Sinbi Apateu: Ghost Ball Bimil",
+        "id": "the-haunted-house-the-secret-of-the-ghost-ball-11673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db83b66c5adb250473fb3350288da13c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sugar Bunnies Chocolate!",
+        "alternativeTitle": "Sugar Bunnies Chocolate!",
+        "id": "sugar-bunnies-chocolate-11841",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e659db9c2c75b95abb8355b1cc148778.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "8m"
+      },
+      {
+        "title": "Urusei Yatsura OVA",
+        "alternativeTitle": "Urusei Yatsura OVA",
+        "id": "urusei-yatsura-ova-1871",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f7e9a319909898ebace71ca1e1c4654.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+        "alternativeTitle": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+        "id": "sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-3039",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b650e6cf6d34a59802b9054abf4a913.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Re:ZERO PETIT",
+        "alternativeTitle": "Re:Petit kara Hajimeru Isekai Seikatsu",
+        "id": "rezero-petit-4773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e878b92ca63018a0f42295d7e3fb9fa3.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Robot Girls Z Plus",
+        "alternativeTitle": "Robot Girls Z Plus",
+        "id": "robot-girls-z-plus-6869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6340a5770e13259ce43e0648c7575b48.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Campfire Cooking in Another World with My Absurd Skill",
+        "alternativeTitle": "Tondemo Skill de Isekai Hourou Meshi",
+        "id": "campfire-cooking-in-another-world-with-my-absurd-skill-18293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c51c91ae9cf62c968cf84a67a666cc9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ro-Kyu-Bu ~ Fast Break!",
+        "alternativeTitle": "Ro-Kyu-Bu!",
+        "id": "ro-kyu-bu-fast-break-4165",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e06d7f60f822c2e1770dcccf86e5080.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ronin Warriors Legend of Kikoutei",
+        "alternativeTitle": "Yoroiden Samurai Troopers Kikoutei Densetsu",
+        "id": "ronin-warriors-legend-of-kikoutei-5433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bc583d836ae57b05fc96d50b00db199.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Rocket Girls",
+        "alternativeTitle": "Rocket Girls",
+        "id": "rocket-girls-3922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0959531c91145c99fb299ccc10d8a98.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ronin Warriors Message",
+        "alternativeTitle": "Yoroiden Samurai Troopers Message",
+        "id": "ronin-warriors-message-8057",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c11df089d40eb97668bf594d4681dd3.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Jagainu-kun",
+        "alternativeTitle": "Jagainu-kun",
+        "id": "jagainu-kun-5999",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afbfa126bdba78ef187853299bf3de65.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Girl Meets Girl",
+        "alternativeTitle": "Kashimashi: Girl Meets Girl",
+        "id": "girl-meets-girl-4899",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22a07ae77fb9dd3e917d5d6c646616b2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Giniro no Olynsis: Tokito",
+        "alternativeTitle": "Giniro no Olynsis: Tokito",
+        "id": "giniro-no-olynsis-tokito-6605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe8c89234fe10813d404b0d3663a3ab0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mahoraba: Heartful days",
+        "alternativeTitle": "Mahoraba: Heartful days",
+        "id": "mahoraba-heartful-days-2131",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d1dad0e2ab17f60592483240195c1dc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ryoko's Case File",
+        "alternativeTitle": "Yakushiji Ryouko no Kaiki Jikenbo",
+        "id": "ryokos-case-file-3204",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb726779c2393d19417559e548d437c5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kuroko no Basket 3rd Season NG-shuu",
+        "alternativeTitle": "Kuroko no Basket 3rd Season NG-shuu",
+        "id": "kuroko-no-basket-3rd-season-ng-shuu-1016",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54468da1d22c3eb821c72133f8bc748e.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "Special",
+        "duration": "2m"
+      }
+    ]
+  }
+}

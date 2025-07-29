@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 15,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "The Royal Tutor",
+        "alternativeTitle": "Oushitsu Kyoushi Heine",
+        "id": "the-royal-tutor-1597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6b5d20e7e0c510380332336840eeacb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Oda Cinnamon Nobunaga",
+        "alternativeTitle": "Oda Cinnamon Nobunaga",
+        "id": "oda-cinnamon-nobunaga-5504",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d136eb2228e8b065e7e7bfc4d49c07d7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Astroganger",
+        "alternativeTitle": "Astroganger",
+        "id": "astroganger-6142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e785981ab8cbf740562e6163b9527f0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Himouto! Umaru-chan",
+        "alternativeTitle": "Himouto! Umaru-chan",
+        "id": "himouto-umaru-chan-2748",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c9fb56368f5a850a0ac5602f62741a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Steins;Gate 0",
+        "alternativeTitle": "Steins;Gate 0",
+        "id": "steinsgate-0-92",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72322970318a3c89f4b7d2193c279c6f.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Magical Angel Creamy Mami",
+        "alternativeTitle": "Mahou no Tenshi Creamy Mami",
+        "id": "magical-angel-creamy-mami-3011",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cabb5354f35d32ae8f227e692d67601.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Medabots",
+        "alternativeTitle": "Medarot",
+        "id": "medabots-3360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c1c9ec7e1779b3b5a3647ae199a80a0.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Those Who Hunt Elves",
+        "alternativeTitle": "Elf wo Karu Mono-tachi",
+        "id": "those-who-hunt-elves-3498",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6678bcad96d1689d16a28400d0e5ff3a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Z/X: Ignition",
+        "alternativeTitle": "Z/X: Ignition",
+        "id": "zx-ignition-5552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17585208b6600d00771c389b504351fa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World Trigger",
+        "alternativeTitle": "World Trigger",
+        "id": "world-trigger-1356",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1bd36737214ea433c9c182685062d8dd.jpg",
+        "episodes": {
+          "sub": 73,
+          "dub": 73,
+          "eps": 73
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yatogame-chan Kansatsu Nikki",
+        "alternativeTitle": "Yatogame-chan Kansatsu Nikki",
+        "id": "yatogame-chan-kansatsu-nikki-7117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b231d73951666409f13016dd5f5fe98.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Those Who Hunt Elves II",
+        "alternativeTitle": "Elf wo Karu Mono-tachi II",
+        "id": "those-who-hunt-elves-ii-3419",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91ced8114cc011be9e843f0fff09daa5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magical Idol Pastel Yumi",
+        "alternativeTitle": "Mahou no Idol Pastel Yumi",
+        "id": "magical-idol-pastel-yumi-6901",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8e43639e60c1efaf33e54d344876295.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Star Blazers: Space Battleship Yamato 2202",
+        "alternativeTitle": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi",
+        "id": "star-blazers-space-battleship-yamato-2202-996",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c6756c98f27629e4a2cedebcea89cc7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "The Seven Metamorphoses of Yamato Nadeshiko",
+        "alternativeTitle": "Yamato Nadeshiko Shichihenge♥",
+        "id": "the-seven-metamorphoses-of-yamato-nadeshiko-887",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d967bd61dcdd879646f01b2016a43f4.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "GARO -VANISHING LINE-",
+        "alternativeTitle": "Garo: Vanishing Line",
+        "id": "garo-vanishing-line-2819",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31b10b05410cd0a41bb3676dcbb033d5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Jormungand",
+        "alternativeTitle": "Jormungand",
+        "id": "jormungand-717",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ae50f26ece42678eedc0c537f5e5609.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gamers!",
+        "alternativeTitle": "Gamers!",
+        "id": "gamers-3664",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a7d9fc439ecf12174813ee66606923e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gabriel DropOut",
+        "alternativeTitle": "Gabriel DropOut",
+        "id": "gabriel-dropout-1552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f6082f719cd12aca86cb52a92338241.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Morose Mononokean II",
+        "alternativeTitle": "Fukigen na Mononokean Tsuzuki",
+        "id": "the-morose-mononokean-ii-1375",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ddd9cea3dd8ac0437f997a447af8261.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Morose Mononokean",
+        "alternativeTitle": "Fukigen na Mononokean",
+        "id": "the-morose-mononokean-1829",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7bad147a0b936aabf53a905df03f09e1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Certain Magical Index II",
+        "alternativeTitle": "Toaru Majutsu no Index II",
+        "id": "a-certain-magical-index-ii-1187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b83281717238275d76005c9de2e4ebc.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Certain Magical Index",
+        "alternativeTitle": "Toaru Majutsu no Index",
+        "id": "a-certain-magical-index-1716",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/365354a46619dd7a0492c15294c36d7a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Psychoarmor Govarian",
+        "alternativeTitle": "Psychoarmor Govarian",
+        "id": "psychoarmor-govarian-7395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5e178aa9f280696bdaf1c8b7046426d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Jormungand Season 2: Perfect Order",
+        "alternativeTitle": "Jormungand: Perfect Order",
+        "id": "jormungand-season-2-perfect-order-600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14f8eb1982c5ff3721ef5c57a612e04f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dies irae",
+        "alternativeTitle": "Dies Irae",
+        "id": "dies-irae-9629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1753799dfa133e6d5bcb719236623f85.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dies Irae: To the Ring Reincarnation",
+        "alternativeTitle": "Dies Irae: To the Ring Reincarnation",
+        "id": "dies-irae-to-the-ring-reincarnation-7878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/324b641937b477853fe0c0db7a4b92e6.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "28m"
+      },
+      {
+        "title": "A Certain Magical Index III",
+        "alternativeTitle": "Toaru Majutsu no Index III",
+        "id": "a-certain-magical-index-iii-4605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e2962033a2d9c507f298c96bd3a5a41.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fairy Musketeers",
+        "alternativeTitle": "Otogi Juushi Akazukin",
+        "id": "fairy-musketeers-3750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f0194fd7a496f3bebaeba8c7d0ad725.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "El-Hazard: The Wanderers",
+        "alternativeTitle": "El Hazard: The Wanderers",
+        "id": "el-hazard-the-wanderers-3663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a5e8a27e21d1e8d43689a0db8e689ea.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "DARLING in the FRANXX",
+        "alternativeTitle": "Darling in the FranXX",
+        "id": "darling-in-the-franxx-2055",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e66cc3601ab396c90b1550ef39cfa7f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ranma ½ OVA",
+        "alternativeTitle": "Ranma ½ OVA",
+        "id": "ranma-ova-906",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06c902b091ea5ae2c711b6e00fa3705a.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Shugo Chara!",
+        "alternativeTitle": "Shugo Chara!",
+        "id": "shugo-chara-1780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/275813b28a37c8b1e2b26a432c6d63b6.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dances with the Dragons",
+        "alternativeTitle": "Saredo Tsumibito wa Ryuu to Odoru",
+        "id": "dances-with-the-dragons-8521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44652c9ef4e665170939d40db8497614.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hinomaru Sumo",
+        "alternativeTitle": "Hinomaruzumou",
+        "id": "hinomaru-sumo-1220",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25d690b220aa001768e80f192ba35175.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shugo Chara!! Doki",
+        "alternativeTitle": "Shugo Chara!! Doki",
+        "id": "shugo-chara-doki-1781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfec54edd7be64ce09947a75766993b6.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "All Purpose Cultural Cat Girl Nuku Nuku Dash!",
+        "alternativeTitle": "Bannou Bunka Neko-Musume DASH!",
+        "id": "all-purpose-cultural-cat-girl-nuku-nuku-dash-6357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1d4e68d6f20304dc34eac667d36c06c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Desert Punk",
+        "alternativeTitle": "Sunabouzu",
+        "id": "desert-punk-1782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc5db8c2d0b6c472a306af4d45235a81.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Upotte!!: Miatte Waratte",
+        "alternativeTitle": "Upotte!!: Miatte Waratte",
+        "id": "upotte-miatte-waratte-5642",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45e4931a226d86efc34c8d7d408b8881.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Shugo Chara! Party!",
+        "alternativeTitle": "Shugo Chara! Party!",
+        "id": "shugo-chara-party-5236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef2607b39107929630fd9e3a3a4a2865.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "21m"
+      }
+    ]
+  }
+}

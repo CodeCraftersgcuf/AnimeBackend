@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 135,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Hanaukyou Maid-tai OVA",
+        "alternativeTitle": "Hanaukyou Maid-tai OVA",
+        "id": "hanaukyou-maid-tai-ova-4823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/822442a286d9773d1e2247d2bc3291f7.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "14m"
+      },
+      {
+        "title": "Fantastic Detective Labyrinth",
+        "alternativeTitle": "Suteki Tantei Labyrinth",
+        "id": "fantastic-detective-labyrinth-4602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cb19fa9c21430f61a048038cc573d0d.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fight League: Gear Gadget Generators",
+        "alternativeTitle": "Fight League: Gear Gadget Generators",
+        "id": "fight-league-gear-gadget-generators-7191",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24db0f2be9a1ab8ab2eade79db0ef83a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Hyperventilation Special",
+        "alternativeTitle": "Gwahoheub Special",
+        "id": "hyperventilation-special-19286",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc553029f5a75c84fbb7d9c6cf51c906.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Princess Lover!: Magical Knight Maria-chan",
+        "alternativeTitle": "Princess Lover!: Magical Knight Maria-chan",
+        "id": "princess-lover-magical-knight-maria-chan-8807",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c21db1f1e8bfc2712c03aa5136007d7.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "30m"
+      },
+      {
+        "title": "Horror News",
+        "alternativeTitle": "Kyoufu Shinbun (2014)",
+        "id": "horror-news-8890",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0c1cffa5c52b802dcd1b48f99d85c2b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "30m"
+      },
+      {
+        "title": "Dr. Slump: Arale-chan",
+        "alternativeTitle": "Dr. Slump: Arale-chan",
+        "id": "dr-slump-arale-chan-17973",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7bfa12392a67232a8ee52f2fc7405f67.jpg",
+        "episodes": {
+          "sub": 171,
+          "dub": 0,
+          "eps": 243
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Star Ocean EX",
+        "alternativeTitle": "Star Ocean EX",
+        "id": "star-ocean-ex-5238",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85f9e53d66180d6300386775aaba6b89.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Ippatsu Kiki Musume",
+        "alternativeTitle": "Ippatsu Kiki Musume",
+        "id": "ippatsu-kiki-musume-6809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be9c2ccab6c5d6f5b8f1c00a52606b6d.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "New Cooking Master Boy 2nd Season",
+        "alternativeTitle": "Shin Chuuka Ichiban! 2nd Season",
+        "id": "shin-chuuka-ichiban-2nd-season-15546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0e6c082bdca39a447b1ecb72dcafc4d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King of Braves GaoGaiGar",
+        "alternativeTitle": "Yuusha-Ou GaoGaiGar",
+        "id": "king-of-braves-gaogaigar-756",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b12e6d9082c720f2afa399eb2e41d4f9.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 25,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Slayers: The Motion Picture",
+        "alternativeTitle": "Slayers: The Motion Picture",
+        "id": "slayers-the-motion-picture-2359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19ba9f44c89ad57665bbc8afde685f3b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "66m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3",
+        "alternativeTitle": "Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3",
+        "id": "soukyuu-no-fafner-dead-aggressor-the-beyond-part-3-15561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7bd59d44ce2efdba2643818db9c5a55.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Movie",
+        "duration": "26m"
+      },
+      {
+        "title": "Comic Party Revolution",
+        "alternativeTitle": "Comic Party Revolution",
+        "id": "comic-party-revolution-5587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f8992c26e9915ec3a3d32e119f1c966.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Moyashimon Returns",
+        "alternativeTitle": "Moyashimon Returns",
+        "id": "moyashimon-returns-2669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4d5ae9fbc70815bab5a45f6c623ae41.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Project A-ko: Uncivil Wars",
+        "alternativeTitle": "A-Ko The Versus",
+        "id": "project-a-ko-uncivil-wars-6791",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9010bc42b5d5e729dc030bce3e2a19d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "51m"
+      },
+      {
+        "title": "BanG Dream! Film Live 2nd Stage",
+        "alternativeTitle": "BanG Dream! Film Live 2nd Stage",
+        "id": "bang-dream-film-live-2nd-stage-15651",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/645d2b864415bfab7fb4874b2ec551a1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "Slayers Excellent",
+        "alternativeTitle": "Slayers Excellent",
+        "id": "slayers-excellent-2176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47574ff76a3b2b00b6ce2c3f38cd3073.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Everlasting Immortal Firmament 2nd Season",
+        "alternativeTitle": "Wangu Xian Qiong II",
+        "id": "everlasting-immortal-firmament-2nd-season-4097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bee64ebdc7ab4e786621b25fb07aeb1e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "My Heroic Husband",
+        "alternativeTitle": "Zhui Xu",
+        "id": "my-heroic-husband-18389",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fe10342571e0a343a5902c50d1f26c4.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Lupin III: Dead or Alive",
+        "alternativeTitle": "Lupin III: Dead or Alive",
+        "id": "lupin-iii-dead-or-alive-2891",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8c63b6c1aa60b0034dee0945c7337a8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Dr. Slump",
+        "alternativeTitle": "Dr. Slump",
+        "id": "dr-slump-3560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ec4a72790fad8a375f2d21aa52fa1c7.jpg",
+        "episodes": {
+          "sub": 74,
+          "dub": 0,
+          "eps": 74
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Hand Maid May: Akiramemasen",
+        "alternativeTitle": "Hand Maid May: Akiramemasen",
+        "id": "hand-maid-may-akiramemasen-4622",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b370cfa2bdf9806ee1e778f20e863d4b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "28m"
+      },
+      {
+        "title": "THE IDOLM@STER CINDERELLA GIRLS 2nd SEASON",
+        "alternativeTitle": "The iDOLM@STER Cinderella Girls 2nd Season",
+        "id": "the-idolmster-cinderella-girls-2nd-season-2090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6046825295dd56fd1d5b5f1f4e73027f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Doupo Cangqiong 2nd Season Specials",
+        "alternativeTitle": "Doupo Cangqiong 2nd Season Specials",
+        "id": "doupo-cangqiong-2nd-season-specials-2238",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d938d8fb589cb50f4895d27306197836.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Gokudo",
+        "alternativeTitle": "Gokudou-kun Manyuuki",
+        "id": "gokudo-1616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50e862e48a4d058a308210cc27a775b1.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Requiem of the Rose King Special",
+        "alternativeTitle": "Baraou no Souretsu Special",
+        "id": "requiem-of-the-rose-king-special-18038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bc5aaa16f9523246603e503dd7aec3c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Slayers: The Book of Spells",
+        "alternativeTitle": "Slayers Special",
+        "id": "slayers-the-book-of-spells-2001",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/489d2f8d6aee60b5aeb4ef5d7958622f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "My-Hime Specials",
+        "alternativeTitle": "Mai-HiME Specials",
+        "id": "my-hime-specials-3833",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e045efb75b3b222d371eac34a29ca5e5.jpg",
+        "episodes": {
+          "sub": 28,
+          "dub": 26,
+          "eps": 27
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Dimension Movement of Nazca",
+        "alternativeTitle": "Jikuu Tenshou Nazca",
+        "id": "dimension-movement-of-nazca-9005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47116e1efae2d83fc3b28e8f924f6fee.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Macross Frontier: The False Songstress",
+        "alternativeTitle": "Macross F Movie 1: Itsuwari no Utahime",
+        "id": "macross-frontier-the-false-songstress-775",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a20ed858c413a39247e706941e854808.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Miyori's Forest",
+        "alternativeTitle": "Miyori no Mori",
+        "id": "miyoris-forest-3884",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/852bc54fa9d5c3ed2b60673e716a36f7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "107m"
+      },
+      {
+        "title": "Starmyu 3rd Season",
+        "alternativeTitle": "Starmyu 3rd Season",
+        "id": "starmyu-3rd-season-4170",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b9937e71e6876cf78435569b22171e5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Jinki: Extend",
+        "alternativeTitle": "Jinki:Extend",
+        "id": "jinki-extend-7364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4be0766e07fe9dc45c5e88eaa8ff8d58.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragon Quest: Legend of the Hero Abel",
+        "alternativeTitle": "Dragon Quest: Abel Yuusha Densetsu",
+        "id": "dragon-quest-legend-of-the-hero-abel-4048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a1ec5220b2d8d1f3b81c7e10ca4c851.jpg",
+        "episodes": {
+          "sub": 42,
+          "dub": 0,
+          "eps": 42
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Pumpkin Wine",
+        "alternativeTitle": "The Kabocha Wine",
+        "id": "the-pumpkin-wine-5624",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bcc0ed4488ede157f78d756c48149ba.jpg",
+        "episodes": {
+          "sub": 95,
+          "dub": 0,
+          "eps": 95
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sherlock Hound",
+        "alternativeTitle": "Meitantei Holmes",
+        "id": "sherlock-hound-2041",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37c912b2e4350d0cce77280a6190bfb8.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Lime-iro Ryuukitan X",
+        "alternativeTitle": "Lime-iro Ryuukitan X",
+        "id": "lime-iro-ryuukitan-x-9248",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f040f2d43c785f24a7b2b1c482b3043.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "KADO: The Right Answer - Ninovo",
+        "alternativeTitle": "Seikaisuru Kado: Ninovo",
+        "id": "kado-the-right-answer-ninovo-4759",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4e47c0ead7a87d9bbd8e70fb05fdad9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Beyond the Ocean 2",
+        "alternativeTitle": "Si Hai Jing Qi 2nd Season",
+        "id": "beyond-the-ocean-2-17329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/384f871d302b5e17343d77669e5845d1.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "15m"
+      }
+    ]
+  }
+}

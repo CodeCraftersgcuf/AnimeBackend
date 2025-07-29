@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 124,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Soul Buster",
+        "alternativeTitle": "Soul Buster",
+        "id": "soul-buster-8532",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52cc8f21aecd2e18065154f2083ccc4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Saint Seiya: Soul of Gold",
+        "alternativeTitle": "Saint Seiya: Soul of Gold",
+        "id": "saint-seiya-soul-of-gold-3314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1f483a5aba071a83ce666c2ec2d2624.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+        "alternativeTitle": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+        "id": "bang-dream-movie-episode-of-roselia-ii-song-i-am-15653",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e5a44a6eb6e84254281aa4628a0ba12.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "64m"
+      },
+      {
+        "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+        "alternativeTitle": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+        "id": "shoujokageki-revue-starlight-rondo-rondo-rondo-11633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f28731a16bec2f3de017bea6848101e7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "Embracing Love",
+        "alternativeTitle": "Haru wo Daite Ita",
+        "id": "embracing-love-16073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0162ecc5c3e30ea948a2f989f4d77d3e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Geneshaft",
+        "alternativeTitle": "Geneshaft",
+        "id": "geneshaft-6333",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91bdb140e07590dc6f221f1727bf4258.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Poupelle of Chimney Town",
+        "alternativeTitle": "Entotsu Machi no Poupelle",
+        "id": "poupelle-of-chimney-town-15697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d979c04bf6805eab36a454787d9cd201.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "The Magic Chef of Ice and Fire 2nd Season",
+        "alternativeTitle": "Binghuo Mochu 2",
+        "id": "the-magic-chef-of-ice-and-fire-2nd-season-18546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/344e182791f32788a1c2fe305f7bb9cb.jpg",
+        "episodes": {
+          "sub": 104,
+          "dub": 0,
+          "eps": 104
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Rumbling Hearts OVA",
+        "alternativeTitle": "Kimi ga Nozomu Eien: Next Season",
+        "id": "rumbling-hearts-ova-3739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8f9afdd8dfeeeb11ad36dfe5204765e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Yes! Pretty Cure 5",
+        "alternativeTitle": "Yes! Precure 5",
+        "id": "yes-pretty-cure-5-3025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e61f6712a6f16fdd5c02fd63035786ab.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Galaxy Devastator",
+        "alternativeTitle": "Beng Huai Xinghe",
+        "id": "galaxy-devastator-13034",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18333a941af4c6c65659baee385641ca.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Gunslinger Girl: Il Teatrino OVA",
+        "alternativeTitle": "Gunslinger Girl: Il Teatrino OVA",
+        "id": "gunslinger-girl-il-teatrino-ova-3563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d3500e63be6a4cd952793750313ef34.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Ninja Girl & Samurai Master: Episode 0",
+        "alternativeTitle": "Nobunaga no Shinobi: Nobunaga to Minarai Shinobi",
+        "id": "ninja-girl-samurai-master-episode-0-4767",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/041b3c4220554858d81b8954bcfca420.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Area 88 (TV)",
+        "alternativeTitle": "Area 88 (TV)",
+        "id": "area-88-tv-3489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a2ea6ff861e3e0eacd8ebe06050f785.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Venus to Mamoru!",
+        "alternativeTitle": "Mamoru-kun ni Megami no Shukufuku wo!",
+        "id": "venus-to-mamoru-3246",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e47a2029ab6f9bac199aa28e940f89f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Mobile Police Patlabor 2: The Movie",
+        "alternativeTitle": "Kidou Keisatsu Patlabor 2 the Movie",
+        "id": "mobile-police-patlabor-2-the-movie-696",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43f21e74046c8ed7a7905add52a891c0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special",
+        "alternativeTitle": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special",
+        "id": "touhou-niji-sousaku-doujin-anime-musou-kakyou-special-2943",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/087a9a71a22510a10c3f0cc7f210c55f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "11m"
+      },
+      {
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+        "alternativeTitle": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+        "id": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-motenaishi-nazomeite-miru-3483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68b3126e4bc5be8bacb7c7e396fa7008.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Wu Geng Ji 2nd Season",
+        "alternativeTitle": "Wu Geng Ji 2nd Season",
+        "id": "wu-geng-ji-2nd-season-1195",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f6b8e11ad23c50f4a5413fe3dde80c2.jpg",
+        "episodes": {
+          "sub": 42,
+          "dub": 0,
+          "eps": 42
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "Kingsglaive: Final Fantasy XV",
+        "alternativeTitle": "Kingsglaive: Final Fantasy XV",
+        "id": "kingsglaive-final-fantasy-xv-1578",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09f265c6d049f05387bd3e641cee866.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Project ARMS: The 2nd Chapter",
+        "alternativeTitle": "Project ARMS: The 2nd Chapter",
+        "id": "project-arms-the-2nd-chapter-3311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0edfe9dac62736f10e821ce47e92c7c0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Human Crazy University",
+        "alternativeTitle": "Human Bug Daigaku",
+        "id": "the-human-crazy-university-18201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d24786c1528920750c32fa2e58d23c4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Close Combat Mage",
+        "alternativeTitle": "Jin Zhan Fashi",
+        "id": "close-combat-mage-19057",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8730c78e8b26ae800e2686202454f677.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "The Colors Within",
+        "alternativeTitle": "Kimi no Iro",
+        "id": "the-colors-within-19194",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0770c65dee39a73b86ae3c8fd9300bb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "101m"
+      },
+      {
+        "title": "Gun Girls",
+        "alternativeTitle": "Qiang Niang",
+        "id": "gun-girls-11229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61d46401cdffd8b4dd830653defede25.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix",
+        "alternativeTitle": "Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix",
+        "id": "alice-gear-aegis-doki-actress-darake-no-mermaid-grand-prix-17245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7edf56b8b8835ab23da50b5645e84fe3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "15m"
+      },
+      {
+        "title": "Jewelpet Twinkle☆",
+        "alternativeTitle": "Jewelpet Twinkle☆",
+        "id": "jewelpet-twinkle-1888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d7a972a16701c1a7620075946739864.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Let's Make a Mug Too",
+        "alternativeTitle": "Yakunara Mug Cup mo: Niban Gama",
+        "id": "lets-make-a-mug-too-17901",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49ef3c2fbd1a10bbd29094c6ce97a54b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "14m"
+      },
+      {
+        "title": "Ranma ½ Super",
+        "alternativeTitle": "Ranma ½ Super",
+        "id": "ranma-super-1101",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9aef0c59161c6dba4074e70259911797.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "D4DJ Petit Mix",
+        "alternativeTitle": "D4DJ Petit Mix",
+        "id": "d4dj-petit-mix-17439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d79834e0710cf5b18c15ca261cb8df09.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Sarusuberi: Miss Hokusai",
+        "alternativeTitle": "Sarusuberi: Miss Hokusai",
+        "id": "sarusuberi-miss-hokusai-2767",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c7ff6d282a074ee6016e4db95e71c6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Twilight Of The Dark Master",
+        "alternativeTitle": "Shihaisha no Tasogare",
+        "id": "twilight-of-the-dark-master-8475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8eb41890e1cddc11ed71ad2f194d358.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Ginga Eiyuu Densetsu Gaiden",
+        "alternativeTitle": "Ginga Eiyuu Densetsu Gaiden",
+        "id": "ginga-eiyuu-densetsu-gaiden-366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d7a257f2f7f1b66293de03317ec3987.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "BanG Dream! Garupa☆Pico",
+        "alternativeTitle": "BanG Dream! Garupa☆Pico",
+        "id": "bang-dream-garupapico-805",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b129cd60c318b96e9a6e089a24c25296.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Innocent Venus",
+        "alternativeTitle": "Innocent Venus",
+        "id": "innocent-venus-4203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dce0368ab7881be26a712de178eda0c8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ten Thousand Worlds",
+        "alternativeTitle": "Wan Jie Du Zun",
+        "id": "ten-thousand-worlds-17847",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5cb0a556209553abb53b9c64183bd513.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Ling Long: Incarnation Part 2",
+        "alternativeTitle": "Ling Long: Incarnation Part 2",
+        "id": "ling-long-incarnation-part-2-14953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/021b84fdccf1be24d4b28859b4563a43.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "30m"
+      },
+      {
+        "title": "RIN-NE 3rd Season",
+        "alternativeTitle": "Kyoukai no Rinne (TV) 3rd Season",
+        "id": "rin-ne-3rd-season-3276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61ac3bf9de103564780ae92b13458a2a.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Burn Up! W",
+        "alternativeTitle": "Burn Up! W",
+        "id": "burn-up-w-6359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70c359ad27ae56c3b53aff855baa779a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Psychic Academy",
+        "alternativeTitle": "Psychic Academy",
+        "id": "psychic-academy-6964",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f7cf601ed2defb6fcf994341507213d.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "35m"
+      }
+    ]
+  }
+}

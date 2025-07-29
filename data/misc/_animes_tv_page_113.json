@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 121,
+      "currentPage": 113,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "xxxHOLiC",
+        "alternativeTitle": "xxxHOLiC",
+        "id": "xxxholic-504",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94c8aa2a2ee09b5025c1a2971cb113a7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Serial Experiments Lain",
+        "alternativeTitle": "Serial Experiments Lain",
+        "id": "serial-experiments-lain-503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6369d73882594ca5f30861f74a2b8e9b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sekai Ichi Hatsukoi - World's Greatest First Love 2",
+        "alternativeTitle": "Sekaiichi Hatsukoi 2",
+        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love-2-502",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f3c21d189e4018df10fef82fe4dc413.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Phantom: Requiem for the Phantom",
+        "alternativeTitle": "Phantom: Requiem for the Phantom",
+        "id": "phantom-requiem-for-the-phantom-501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70132a601fabcb54d101e8b93db8c5e9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nura: Rise of the Yokai Clan: Demon Capital",
+        "alternativeTitle": "Nurarihyon no Mago: Sennen Makyou",
+        "id": "nura-rise-of-the-yokai-clan-demon-capital-497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b5308b83095f43ba4817316c00c0dec.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Saga of Tanya the Evil",
+        "alternativeTitle": "Youjo Senki",
+        "id": "the-saga-of-tanya-the-evil-496",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f2ad1f2fe448b5b5f9cdc4ed4085c4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mr. Osomatsu",
+        "alternativeTitle": "Osomatsu-san",
+        "id": "mr-osomatsu-492",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/186a5ac3d692dbdc46905a960e38210b.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Noragami",
+        "alternativeTitle": "Noragami",
+        "id": "noragami-491",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bb5b41ee2b22c2c681be9bb35f84b6d.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 12,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kimi ni Todoke: From Me To You 2",
+        "alternativeTitle": "Kimi ni Todoke 2nd Season",
+        "id": "kimi-ni-todoke-from-me-to-you-2-486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/596302f03f4a001bdfde68c592bf9604.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Durarara!! x2 Ten",
+        "alternativeTitle": "Durarara!!x2 Ten",
+        "id": "durarara-x2-ten-484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ca63c473c8b7715d5fb2a754ed61a18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kimi ni Todoke: From Me to You",
+        "alternativeTitle": "Kimi ni Todoke",
+        "id": "kimi-ni-todoke-from-me-to-you-482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1a1df9baf756b8926a64430ed2ff0ca.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Kamisama Kiss",
+        "alternativeTitle": "Kamisama Hajimemashita",
+        "id": "kamisama-kiss-480",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38aebe25cb52bffab9682a7d5ecea1b8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kakushigoto",
+        "alternativeTitle": "Kakushigoto (TV)",
+        "id": "kakushigoto-479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/27b78585b429b41e416c8230d59872ab.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Durarara!! x2 Shou",
+        "alternativeTitle": "Durarara!!x2 Shou",
+        "id": "durarara-x2-shou-478",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b55f592809c37d3231d972ae232ab9df.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "School Rumble 2nd Semester",
+        "alternativeTitle": "School Rumble Ni Gakki",
+        "id": "school-rumble-2nd-semester-475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6020e0dc86f4b0dfe8cb380b3f86efe3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wagnaria!!3",
+        "alternativeTitle": "Working!!!",
+        "id": "wagnaria3-474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac8ee1f46d281ee692fb4a65eb00f5d9.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Slayers Next",
+        "alternativeTitle": "Slayers Next",
+        "id": "slayers-next-472",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c96f4ebb067131e893d0b1ddfcda58b.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "ReLIFE",
+        "alternativeTitle": "ReLIFE",
+        "id": "relife-471",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74bef7f824fb05ac7b6cbc4c166b621c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Big Windup! 2",
+        "alternativeTitle": "Ookiku Furikabutte: Natsu no Taikai-hen",
+        "id": "big-windup-2-470",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ed96274bef0082de45037f9fdf5a799.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kodocha",
+        "alternativeTitle": "Kodomo no Omocha (TV)",
+        "id": "kodocha-469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/037d8067aeaa78e16459dda8cf59a32b.jpg",
+        "episodes": {
+          "sub": 102,
+          "dub": 51,
+          "eps": 102
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Miss Kobayashi's Dragon Maid",
+        "alternativeTitle": "Kobayashi-san Chi no Maid Dragon",
+        "id": "miss-kobayashis-dragon-maid-468",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6bb5e72c26c2628c2a968980960ff5f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ascendance of a Bookworm",
+        "alternativeTitle": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+        "id": "ascendance-of-a-bookworm-467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47710192a898543bfd1ef6f9ea79ad99.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Silver Fang: The Shooting Star Gin",
+        "alternativeTitle": "Ginga Nagareboshi Gin",
+        "id": "ginga-nagareboshi-gin-466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2cfcdd9f329d786c99d3f895730ec97.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 0,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "ef - a tale of melodies.",
+        "alternativeTitle": "ef: A Tale of Melodies.",
+        "id": "ef-a-tale-of-melodies-464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a56ba2481ec71311857c46ba40c9d80.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "City Hunter 2",
+        "alternativeTitle": "City Hunter 2",
+        "id": "city-hunter-2-458",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5419e8f494788081200a2e2fdb623506.jpg",
+        "episodes": {
+          "sub": 63,
+          "dub": 0,
+          "eps": 63
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Black Lagoon",
+        "alternativeTitle": "Black Lagoon",
+        "id": "black-lagoon-456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26153ae545ca9c5820ca989a48c364c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Teen Romantic Comedy SNAFU",
+        "alternativeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+        "id": "my-teen-romantic-comedy-snafu-454",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b231331d677a47b4f12b9dafd2e66568.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Certain Scientific Railgun S",
+        "alternativeTitle": "Toaru Kagaku no Railgun S",
+        "id": "a-certain-scientific-railgun-s-453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f678ec59bf69fef2b8d0d1dd917967d2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+        "alternativeTitle": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+        "id": "mobile-suit-gundam-the-origin-advent-of-the-red-comet-451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89f8a773979f28fb0d06b34f2ebe974d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Lovely Complex",
+        "alternativeTitle": "Lovely★Complex",
+        "id": "lovely-complex-450",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1dd2cd8e01c4c1a1c92b6dffb5fd5a5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kingdom",
+        "alternativeTitle": "Kingdom",
+        "id": "kingdom-448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/030b0f71f1ca47b99aa4bc1fcf119a24.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 38,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Twelve Kingdoms",
+        "alternativeTitle": "Juuni Kokuki",
+        "id": "the-twelve-kingdoms-447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b15527b9f7a3729b2aace38aa3faccb.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 45,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Honey and Clover",
+        "alternativeTitle": "Hachimitsu to Clover",
+        "id": "honey-and-clover-446",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb5f4adc7d7d7530b6d0bc921dec5dd2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Golden Kamuy Season 3",
+        "alternativeTitle": "Golden Kamuy 3rd Season",
+        "id": "golden-kamuy-season-3-445",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05af4af9518a27c70d892dacd36350c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

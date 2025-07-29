@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 173,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Ascendance of a Bookworm",
+        "alternativeTitle": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+        "id": "ascendance-of-a-bookworm-467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47710192a898543bfd1ef6f9ea79ad99.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Giant Robo the Animation: The Day the Earth Stood Still",
+        "alternativeTitle": "Giant Robo the Animation: Chikyuu ga Seishi Suru Hi",
+        "id": "giant-robo-the-animation-the-day-the-earth-stood-still-723",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6789b014264c8f3db056646bf3b45c52.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "49m"
+      },
+      {
+        "title": "Fire Force",
+        "alternativeTitle": "Enen no Shouboutai",
+        "id": "fire-force-979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6d9cbc5cc655c5600f296acb1138975.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Strike Witches: The Movie",
+        "alternativeTitle": "Strike Witches Movie",
+        "id": "strike-witches-the-movie-1235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73482d598bc2b32ab912b8441d635cea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Area 88",
+        "alternativeTitle": "Area 88",
+        "id": "area-88-1491",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f6ec7b4e1bffbe986372ae7b4068751.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "65m"
+      },
+      {
+        "title": "Hitorijime My Hero",
+        "alternativeTitle": "Hitorijime My Hero",
+        "id": "hitorijime-my-hero-1747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8bf10f8aa32b4e864116f18470890c5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You're Under Arrest The Movie",
+        "alternativeTitle": "Taiho Shichau zo The Movie",
+        "id": "youre-under-arrest-the-movie-2003",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2af493715f0ecd51104db760d593886a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Senjou no Valkyria 3: Tagatame no Juusou",
+        "alternativeTitle": "Senjou no Valkyria 3: Tagatame no Juusou",
+        "id": "senjou-no-valkyria-3-tagatame-no-juusou-2259",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b04cc5d9a9a7b628c51f8fc51ccae60b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Hyakko",
+        "alternativeTitle": "Hyakko",
+        "id": "hyakko-2515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/807f3fee165794199622beb88ffe2c31.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Flavors of Youth",
+        "alternativeTitle": "Shikioriori",
+        "id": "flavors-of-youth-2771",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44138626852cd1df4a40d6f148951ada.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "74m"
+      },
+      {
+        "title": "Ninja Girl & Samurai Master 2nd",
+        "alternativeTitle": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
+        "id": "ninja-girl-samurai-master-2nd-3027",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/694260dd6286059d80609f3c6eaefc9a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "The Girl Who Leapt Through Space",
+        "alternativeTitle": "Sora wo Kakeru Shoujo",
+        "id": "the-girl-who-leapt-through-space-3539",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2fda9e2c91f6e66e9428c951dee54408.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aesthetica of a Rogue Hero",
+        "alternativeTitle": "Hagure Yuusha no Aesthetica",
+        "id": "aesthetica-of-a-rogue-hero-3795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e46274087ed105037ffe754fb42daa7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/Kaleid Liner Prisma Illya 2Wei! Shorts",
+        "alternativeTitle": "Fate/kaleid liner Prisma☆Illya 2wei! Specials",
+        "id": "fatekaleid-liner-prisma-illya-2wei-shorts-4051",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3b826ae772342410125c597d84221df.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Hanaukyo Maid Team: La Verite",
+        "alternativeTitle": "Hanaukyou Maid-tai: La Verite",
+        "id": "hanaukyo-maid-team-la-verite-4307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/650918d334d18a241a35b96261cd49a8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?",
+        "alternativeTitle": "Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?",
+        "id": "kanojo-ga-flag-wo-oraretara-christmas-sonna-mono-ga-boku-ni-tsuuyou-suru-to-omou-no-ka-4563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62e5f81a77d9d2c4bae784b95203428.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Chain Chronicle: The Light of Haecceitas",
+        "alternativeTitle": "Chain Chronicle: Haecceitas no Hikari",
+        "id": "chain-chronicle-the-light-of-haecceitas-4819",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2462ed721d3d04624af4667face4bffb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mazinger Z tai Ankoku Daishougun",
+        "alternativeTitle": "Mazinger Z tai Ankoku Daishougun",
+        "id": "mazinger-z-tai-ankoku-daishougun-5331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d161e2a4d8461d753518745883b4b187.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "43m"
+      },
+      {
+        "title": "Comic Party Revolution",
+        "alternativeTitle": "Comic Party Revolution",
+        "id": "comic-party-revolution-5587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f8992c26e9915ec3a3d32e119f1c966.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High School! Kimengumi (Movie)",
+        "alternativeTitle": "High School! Kimengumi (Movie)",
+        "id": "high-school-kimengumi-movie-7635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c143b2a61b09632f0d117eaa3a66903d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu",
+        "alternativeTitle": "Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu",
+        "id": "kosuke-sama-rikimaru-sama-konpeitou-no-ryuu-7891",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20f14e84b5ca3260ce34d155501df31b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "47m"
+      },
+      {
+        "title": "[RAW] Duel Masters VS",
+        "alternativeTitle": "[RAW] Duel Masters VS",
+        "id": "duel-masters-vs-8147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4dfcb75bb707d2bd91fdfdfffdcf533.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hurricane Polymar: Holy Blood",
+        "alternativeTitle": "Shin Hurricane Polymar",
+        "id": "hurricane-polymar-holy-blood-8403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c84cf92b513a1b1a3f6252b4c03dbd47.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Sonic Soldier Borgman 2: New Century 2058",
+        "alternativeTitle": "Chouon Senshi Borgman 2: Shin Seiki 2058",
+        "id": "sonic-soldier-borgman-2-new-century-2058-8659",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3de1452d09025ecff9e823c8c2b15b4b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Highschool Aurabuster: Birth of the Light",
+        "alternativeTitle": "Highschool Aurabuster: Hikari no Mezame",
+        "id": "highschool-aurabuster-birth-of-the-light-14035",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/36656a906e084a10d4082b46d98fa6c1.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Saga of Tanya the Evil: Operation Desert Pasta",
+        "alternativeTitle": "Youjo Senki: Sabaku no Pasta Dai Sakusen",
+        "id": "saga-of-tanya-the-evil-operation-desert-pasta-17875",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03dd9672d37876195df4f9657f72768e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "A Sheep In Wolf's Clothing",
+        "alternativeTitle": "Pi Zhe Lang Pi De Yang",
+        "id": "a-sheep-in-wolfs-clothing-18387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/615f6fa4b50f0f8245e3601e3038d961.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "The iDOLM@STER Shiny Colors 2nd Season: SHHis",
+        "alternativeTitle": "The iDOLM@STER Shiny Colors 2nd Season: SHHis",
+        "id": "the-idolm-at-ster-shiny-colors-2nd-season-shhis-19667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f34a23c1531b9bb2d69d6e7e5a30735e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "Re:ZERO -Starting Life in Another World-",
+        "alternativeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "id": "rezero-starting-life-in-another-world-212",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/825040c17445dd322656870e36cd92a7.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Miss Kobayashi's Dragon Maid",
+        "alternativeTitle": "Kobayashi-san Chi no Maid Dragon",
+        "id": "miss-kobayashis-dragon-maid-468",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6bb5e72c26c2628c2a968980960ff5f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Devil is a Part-Timer!",
+        "alternativeTitle": "Hataraku Maou-sama!",
+        "id": "the-devil-is-a-part-timer-724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd20fb570c5eee303116b8a5da84ae0d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Giovanni's Island",
+        "alternativeTitle": "Giovanni no Shima",
+        "id": "giovannis-island-980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55e2e286977a1219736c88d6ade638ca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "To LOVE-Ru Darkness OVA",
+        "alternativeTitle": "To LOVE-Ru Darkness OVA",
+        "id": "to-love-ru-darkness-ova-1236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd069c0b1a47b7626f75eb49dd743fcb.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Bleach the Movie: Fade to Black",
+        "alternativeTitle": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+        "id": "bleach-the-movie-fade-to-black-1492",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3d5c027c921932c5a561d2bb8d3fcc3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "K: SEVEN STORIES \"Lost Small World - Outside the Cage - \"",
+        "alternativeTitle": "K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni",
+        "id": "k-seven-stories-lost-small-world-outside-the-cage-1748",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f0e49e4e12165dd13144a521c77542c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "66m"
+      },
+      {
+        "title": "Tamako Market",
+        "alternativeTitle": "Tamako Market",
+        "id": "tamako-market-2004",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/097279ab80260da003feaf16040768c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gargantia on the Verdurous Planet: Specials",
+        "alternativeTitle": "Suisei no Gargantia Specials",
+        "id": "gargantia-on-the-verdurous-planet-specials-2772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95342a7bae1ec73869bd204a675deb15.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Please tell me! Galko-chan",
+        "alternativeTitle": "Oshiete! Galko-chan",
+        "id": "please-tell-me-galko-chan-3028",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0556c7f12893fb6c11403b42f6f8462.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Strike Witches",
+        "alternativeTitle": "Strike Witches",
+        "id": "strike-witches-3540",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a70881e64c876c9115b7110df20a272.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hyper Police",
+        "alternativeTitle": "Hyper Police",
+        "id": "hyper-police-3796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4dfdd0d2394a3f2e2cf884555d13a8e0.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

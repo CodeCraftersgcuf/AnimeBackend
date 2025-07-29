@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 184,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Luoyang Movie",
+        "alternativeTitle": "Feng Qi Luoyang: Shuangzi Zhui Xiong",
+        "id": "luoyang-movie-18658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc895668090d3d60ce7f9ce534efbd4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "66m"
+      },
+      {
+        "title": "One Piece: Recapping Fierce Fights! Zoro vs. a Lead Performer!",
+        "alternativeTitle": "One Piece: Dai Gekisen Tokushuu! Zoro vs. Ookanban!",
+        "id": "one-piece-recapping-fierce-fights-zoro-vs-a-lead-performer-19682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c508d9a80fc99a46264ae1cb37f9ce4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Spice and Wolf",
+        "alternativeTitle": "Ookami to Koushinryou",
+        "id": "spice-and-wolf-227",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bab18908a74175bf72975ea89aec0e81.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aria the OVA: Arietta",
+        "alternativeTitle": "Aria the OVA: Arietta",
+        "id": "aria-the-ova-arietta-483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41f0760002b748337ba33f6fda9d7ad3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "InuYasha",
+        "alternativeTitle": "InuYasha",
+        "id": "inuyasha-739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cacb9f9e6993b1016a87f77f171b591c.jpg",
+        "episodes": {
+          "sub": 167,
+          "dub": 167,
+          "eps": 167
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Space Adventure Cobra",
+        "alternativeTitle": "Space Cobra",
+        "id": "space-adventure-cobra-995",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/260c7a38b8a2eebf76194c4806ee3390.jpg",
+        "episodes": {
+          "sub": 31,
+          "dub": 0,
+          "eps": 31
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "UN-GO: Chapter of Inga",
+        "alternativeTitle": "Un-Go: Inga-ron",
+        "id": "un-go-chapter-of-inga-1251",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b0e8c346883d0daceb20736304daadb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Kiniro Mosaic: Pretty Days",
+        "alternativeTitle": "Kiniro Mosaic: Pretty Days",
+        "id": "kiniro-mosaic-pretty-days-1507",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd300cd197cd7ca88294308e5cb76d22.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "Hetalia Axis Powers",
+        "alternativeTitle": "Hetalia Axis Powers",
+        "id": "hetalia-axis-powers-1763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d87af929791201e896515d92e2cb3c1d.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Slam Dunk (Movie)",
+        "alternativeTitle": "Slam Dunk (Movie)",
+        "id": "slam-dunk-movie-2019",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e00cacca991db2b535b54d73c4d41.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "Taiyou no Kiba Dagram",
+        "alternativeTitle": "Taiyou no Kiba Dagram",
+        "id": "taiyou-no-kiba-dagram-2275",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/174f251c4d43b39b05166e0dd5bb1cdc.jpg",
+        "episodes": {
+          "sub": 75,
+          "dub": 0,
+          "eps": 75
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Planet With",
+        "alternativeTitle": "Planet With",
+        "id": "planet-with-2531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2b2304158b1d9cab77f49d8f997eaed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Daimos",
+        "alternativeTitle": "Toushou Daimos",
+        "id": "daimos-2787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68fc2a1385bd5d30910abf1e84aabf98.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Uta no Prince Sama",
+        "alternativeTitle": "Uta no☆Prince-sama♪: Maji Love 1000%",
+        "id": "uta-no-prince-sama-3043",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ed127b17c8962377dd3341345d6e41f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Princess Arete",
+        "alternativeTitle": "Arete Hime",
+        "id": "princess-arete-3811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c78c14822b42935c3d41dbead806100b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Ao no Exorcist Movie Special",
+        "alternativeTitle": "Ao no Exorcist Movie Special",
+        "id": "ao-no-exorcist-movie-special-4067",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2a99822ffb9d71f6d567bc83aaf92fa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "88m"
+      },
+      {
+        "title": "Penguin Musume Heart",
+        "alternativeTitle": "Penguin Musume Heart",
+        "id": "penguin-musumeheart-4579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6e64c29e38cc6e7621c3838a2f26845.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Mahou no Star Magical Emi",
+        "alternativeTitle": "Mahou no Star Magical Emi",
+        "id": "mahou-no-star-magical-emi-4835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51738e3a06acd0ba8eaf5681b046f83a.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Here Comes the Black Witch!!",
+        "alternativeTitle": "Kuromajo-san ga Tooru!!",
+        "id": "here-comes-the-black-witch-5859",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/792019cffbafe9f7c6a2531225705028.jpg",
+        "episodes": {
+          "sub": 60,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Twilight",
+        "alternativeTitle": "Hakubo",
+        "id": "twilight-6371",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17b4682da3b82c1f4ed662201188b161.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "52m"
+      },
+      {
+        "title": "Fate/Extra: Last Encore",
+        "alternativeTitle": "Fate/Extra: Last Encore",
+        "id": "fateextra-last-encore-6627",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ea13d723041a8e44eda3605d4441f6f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Psychoarmor Govarian",
+        "alternativeTitle": "Psychoarmor Govarian",
+        "id": "psychoarmor-govarian-7395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5e178aa9f280696bdaf1c8b7046426d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Marginal Prince: Gekkeiju no Ouji-tachi - Tokyo Merry-Go-Round",
+        "alternativeTitle": "Marginal Prince: Gekkeiju no Ouji-tachi - Tokyo Merry-Go-Round",
+        "id": "marginal-prince-gekkeiju-no-ouji-tachi-tokyo-merry-go-round-7651",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9f21d256f267bae0a5f327b7e7183a7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Legend of Deification",
+        "alternativeTitle": "Jiang Ziya",
+        "id": "legend-of-deification-14307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96c301e0a26f37a725ffb5098ef99325.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Toutotsu ni Egypt Kami",
+        "alternativeTitle": "Toutotsu ni Egypt Shin",
+        "id": "toutotsu-ni-egypt-kami-15587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a66d8da4c0a7c0429a1572387d09334.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Isekai Cheat Magician: Special",
+        "alternativeTitle": "Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi",
+        "id": "isekai-cheat-magician-special-17891",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cdaff3a746f07574d5678b3678baea4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Lee's Detective Agency: Once Upon a Time in Lungmen",
+        "alternativeTitle": "Li Shi Zhentan Shiwusuo: A Day in Lungmen - Once Upon a Time in Lungmen",
+        "id": "lees-detective-agency-once-upon-a-time-in-lungmen-18403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fd6724533fe63a1ebd4bb8782b0e877.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "SSSS.Dynazenon Movie",
+        "alternativeTitle": "SSSS.Dynazenon Movie",
+        "id": "ssssdynazenon-movie-19427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/049f94ac8dda02ae66f84ae917053d01.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "One Piece: Recapping Fierce Fights! The Countercharge Alliance vs. Big Mom",
+        "alternativeTitle": "One Piece: Dai Gekisen Tokushuu! Hangeki Doumei vs. Big Mom",
+        "id": "one-piece-recapping-fierce-fights-the-countercharge-alliance-vs-big-mom-19683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a30a09db1d100f1dd710c3e5fac4e93.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Godfathers",
+        "alternativeTitle": "Tokyo Godfathers",
+        "id": "tokyo-godfathers-228",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d4bcf1d16b127ed0ead796b29938031.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Durarara!! x2 Ten",
+        "alternativeTitle": "Durarara!!x2 Ten",
+        "id": "durarara-x2-ten-484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ca63c473c8b7715d5fb2a754ed61a18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Star Blazers: Space Battleship Yamato 2202",
+        "alternativeTitle": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi",
+        "id": "star-blazers-space-battleship-yamato-2202-996",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c6756c98f27629e4a2cedebcea89cc7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Ushio and Tora",
+        "alternativeTitle": "Ushio to Tora (TV)",
+        "id": "ushio-and-tora-1252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da2bc3526c8c60b7bbd9d0a671fecdde.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Arise - Border 2: Ghost Whispers",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers",
+        "id": "ghost-in-the-shell-arise-border-2-ghost-whispers-1508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae91c36186646695fab0133774cc662a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "56m"
+      },
+      {
+        "title": "Croisée in a Foreign Labyrinth The Animation",
+        "alternativeTitle": "Ikoku Meiro no Croisée The Animation",
+        "id": "croisee-in-a-foreign-labyrinth-the-animation-1764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3191fb94ca7192ffa075433105ea7b4f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tales of Zestiria the Cross 2nd Season",
+        "alternativeTitle": "Tales of Zestiria the Cross 2nd Season",
+        "id": "tales-of-zestiria-the-cross-2nd-season-2020",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ada27d79368f005ec133f28f2e4783f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tamayura: Hitotose",
+        "alternativeTitle": "Tamayura: Hitotose",
+        "id": "tamayura-hitotose-2276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78df915c75496f173f943e04ed0ce865.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ultramaniac - Magical Girl",
+        "alternativeTitle": "Ultra Maniac",
+        "id": "ultramaniac-magical-girl-2788",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83fadb7df4e6326f9ce13c9f9d005f41.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aldnoah.Zero 2nd Season",
+        "alternativeTitle": "Aldnoah.Zero 2nd Season",
+        "id": "aldnoahzero-2nd-season-3556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3169eb4934a495f795694172dbe035b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Armitage III: Dual-Matrix",
+        "alternativeTitle": "Armitage III: Dual-Matrix",
+        "id": "armitage-iii-dual-matrix-4068",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c84bb6f691b641b0fc71db5631d6dc9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      }
+    ]
+  }
+}

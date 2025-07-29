@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 62,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "ViVid Strike!",
+        "alternativeTitle": "ViVid Strike!",
+        "id": "vivid-strike-3109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a89e13b15a859e1a96f6c412e76645a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A3! Season Spring & Summer",
+        "alternativeTitle": "A3! Season Spring & Summer",
+        "id": "a3-season-spring-summer-3365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fd41f16c5848552b9a662793176d15f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aura Battler Dunbine",
+        "alternativeTitle": "Seisenshi Dunbine",
+        "id": "aura-battler-dunbine-3621",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1d62dc4446e0cb806b1e64a1ca1ff36.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Super Star",
+        "alternativeTitle": "Jintian Kaishi Zuo Mingxing",
+        "id": "super-star-3877",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bbd33119d78aa830aab245e1fdd7044.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Masamune-kun's Revenge",
+        "alternativeTitle": "Masamune-kun no Revenge",
+        "id": "masamune-kuns-revenge-4133",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6226f8bd9467df402717496b7b8d08b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gekitou! Crush Gear Turbo",
+        "alternativeTitle": "Gekitou! Crush Gear Turbo",
+        "id": "gekitou-crush-gear-turbo-4389",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/77e3b207222f8ea5644fc9c3346bae08.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 0,
+          "eps": 68
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ling Yu 3rd Season",
+        "alternativeTitle": "Ling Yu 3rd Season",
+        "id": "ling-yu-3rd-season-4901",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c86b61c77ab2f55ef94cfe236fcf11f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Inugami-san to Nekoyama-san",
+        "alternativeTitle": "Inugami-san to Nekoyama-san",
+        "id": "inugami-san-to-nekoyama-san-5413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2886dd61c2c6598575652f687b2efaa7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Kuma Miko Specials",
+        "alternativeTitle": "Kuma Miko Specials",
+        "id": "kuma-miko-specials-5669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/496fd4dd0049875c56376e08a66a4089.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "16m"
+      },
+      {
+        "title": "Dragon's Heaven",
+        "alternativeTitle": "Dragon's Heaven",
+        "id": "dragons-heaven-7717",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a969b0e23f6599dae761594c916a187.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "42m"
+      },
+      {
+        "title": "Meisou-Ou Border",
+        "alternativeTitle": "Meisou-Ou Border",
+        "id": "meisou-ou-border-8997",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e9b8ae15e480baa289b23c84bf9b4f3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Majo demo Steady",
+        "alternativeTitle": "Majo demo Steady",
+        "id": "majo-demo-steady-10021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3752862a8156c84fd8270af85671f61.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "Shiro, the Giant, and the Castle of Ice",
+        "alternativeTitle": "Kyoshin to Hyouka no Shiro",
+        "id": "shiro-the-giant-and-the-castle-of-ice-14885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6dff6d4068db6f44a4e6d3395380d940.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+        "alternativeTitle": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+        "id": "bang-dream-movie-episode-of-roselia-ii-song-i-am-15653",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e5a44a6eb6e84254281aa4628a0ba12.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "64m"
+      },
+      {
+        "title": "Belladonna of Sadness",
+        "alternativeTitle": "Kanashimi no Belladonna",
+        "id": "belladonna-of-sadness-15909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67e2c92a99937aa8b233a7128609e65a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "87m"
+      },
+      {
+        "title": "Marudase Kintarou",
+        "alternativeTitle": "Marudase Kintarou",
+        "id": "marudase-kintarou-17189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e8ccd9aec6376634b67f0c594a68125.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "9m"
+      },
+      {
+        "title": "Gold Kingdom and Water Kingdom",
+        "alternativeTitle": "Kin no Kuni Mizu no Kuni",
+        "id": "gold-kingdom-and-water-kingdom-18213",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f745769f297aa302b6e15f80f572a2f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "Delico's Nursery Recap",
+        "alternativeTitle": "Delico's Nursery: Ikuji Nisshi",
+        "id": "delicos-nursery-recap-19493",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/422695be5384ccf43ec934d8f8a685c2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Mushishi: The Next Chapter",
+        "alternativeTitle": "Mushishi Zoku Shou",
+        "id": "mushishi-the-next-chapter-38",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37a39e7eef7ce37b926ff6c6ccf9d3c4.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 9,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ouran High School Host Club",
+        "alternativeTitle": "Ouran Koukou Host Club",
+        "id": "ouran-high-school-host-club-294",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/943c4e8e043203794350523120ed8273.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece: The Movie 13 - Film: Gold",
+        "alternativeTitle": "One Piece Film: Gold",
+        "id": "one-piece-the-movie-13-film-gold-550",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7156c377053c230cc42b66bbf7260325.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Bleach",
+        "alternativeTitle": "Bleach",
+        "id": "bleach-806",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd5ae1d387a59c5abcf5e1a6a616728c.jpg",
+        "episodes": {
+          "sub": 366,
+          "dub": 366,
+          "eps": 366
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "GUGURE! KOKKURI-SAN",
+        "alternativeTitle": "Gugure! Kokkuri-san",
+        "id": "gugure-kokkuri-san-1318",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02ac65e62882525648b87ed426914421.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Full Metal Panic! The Second Raid Episode 00",
+        "alternativeTitle": "Full Metal Panic! The Second Raid Episode 00",
+        "id": "full-metal-panic-the-second-raid-episode-00-1830",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e8bcb6bfd27646f47c0d588e45025b4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Saint Seiya: The Heaven Chapter - Overture",
+        "alternativeTitle": "Saint Seiya: Tenkai-hen Josou - Overture",
+        "id": "saint-seiya-the-heaven-chapter-overture-2598",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52e2157c332e52c725035e4153c33823.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Wan Jie Xian Zong 3rd Season",
+        "alternativeTitle": "Wan Jie Xian Zong 3rd Season",
+        "id": "wan-jie-xian-zong-3rd-season-3110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78c503825c45004eeadce4510a1b83b3.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Stop!! Hibari-kun!",
+        "alternativeTitle": "Stop!! Hibari-kun!",
+        "id": "stop-hibari-kun-3622",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae8550fe92bdab142fcaeb9694ae4df9.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Case File nº221: Kabukicho",
+        "alternativeTitle": "Kabukichou Sherlock",
+        "id": "case-file-no221-kabukicho-3878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f95e4eece0f3b0739304af9c0100448d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Getter Robo",
+        "alternativeTitle": "Getter Robo",
+        "id": "getter-robo-4390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23956a8a821b0a89e312c83f5ab810bb.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "A Certain Magical Index III: Specials",
+        "alternativeTitle": "Toaru Majutsu no Index-tan III",
+        "id": "a-certain-magical-index-iii-specials-5926",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9145ab96c49a9a4aff353e3ca52c29fc.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "ChäoS;Child",
+        "alternativeTitle": "ChäoS;Child",
+        "id": "chaoschild-6182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ec927d739f5f5df66a27cca70a7d5e1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hades Project Zeorymer",
+        "alternativeTitle": "Meiou Project Zeorymer",
+        "id": "hades-project-zeorymer-7206",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/536a3990f3b855041aa20d1db9a560d3.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "DRAMAtical Murder: Data_xx_Transitory",
+        "alternativeTitle": "DRAMAtical Murder: Data_xx_Transitory",
+        "id": "dramatical-murder-dataxxtransitory-7718",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c32329f6050f1cdcab69eeccca18a625.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Saint Beast: Seijuu Kourin-hen",
+        "alternativeTitle": "Saint Beast: Seijuu Kourin-hen",
+        "id": "saint-beast-seijuu-kourin-hen-7974",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fc9f18b1ae7a0ee8f0de2d7640f8745.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ninkuu: Knife no Bohyou",
+        "alternativeTitle": "Ninkuu: Knife no Bohyou",
+        "id": "ninkuu-knife-no-bohyou-8230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5a9f0e7fcf30d389e7e6a036882bfe7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "34m"
+      },
+      {
+        "title": "Ai-Mai-Mi",
+        "alternativeTitle": "Choboraunyopomi Gekijou Ai Mai Mii",
+        "id": "ai-mai-mi-8486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/779638d283a02ed5c788c60bcee73ab4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ninja Cadets",
+        "alternativeTitle": "Ninja Mono",
+        "id": "ninja-cadets-8742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51455aec3cb4623ece66c5150175cfa1.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Hyper Speed GranDoll",
+        "alternativeTitle": "Chou Kousoku Gran Doll",
+        "id": "hyper-speed-grandoll-9254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37ff6ce89207df7f274e140a87346f6b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Pankunchi",
+        "alternativeTitle": "Pankunchi",
+        "id": "pankunchi-11046",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92141a5f7073876ca715240cc698bfc2.png",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "BanG Dream! Movie: Poppin' Dream!",
+        "alternativeTitle": "BanG Dream! Movie: Poppin' Dream!",
+        "id": "bang-dream-movie-poppin-dream-15654",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d593ec7143e89800dab9f029ad350dd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "71m"
+      }
+    ]
+  }
+}

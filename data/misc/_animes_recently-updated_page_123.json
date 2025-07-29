@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 123,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Dragon Ball Z: Dead Zone",
+        "alternativeTitle": "Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!",
+        "id": "dragon-ball-z-dead-zone-4739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c8e99d3890528e9c7e81589db71fa8cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "41m"
+      },
+      {
+        "title": "Glassy Ocean",
+        "alternativeTitle": "Kujira no Chouyaku",
+        "id": "glassy-ocean-4995",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d3a55bace6a3532a50180d3681c8f52.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "22m"
+      },
+      {
+        "title": "Ojisan and Marshmallow",
+        "alternativeTitle": "Ojisan to Marshmallow",
+        "id": "ojisan-and-marshmallow-5251",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ac729aae6e1d20e07fde44de718fbed.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "[RAW] Mahou Shoujo Lalabel",
+        "alternativeTitle": "[RAW] Mahou Shoujo Lalabel",
+        "id": "mahou-shoujo-lalabel-6531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f377120e857e371312a80f44f7e40b32.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yamishibai: Japanese Ghost Stories 5",
+        "alternativeTitle": "Yami Shibai 5",
+        "id": "yamishibai-japanese-ghost-stories-5-6787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d442f8be9c9164b7dbdabb80ebdf60cb.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "[RAW] Rerere no Tensai Bakabon",
+        "alternativeTitle": "[RAW] Rerere no Tensai Bakabon",
+        "id": "rerere-no-tensai-bakabon-7043",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b090fb9573175dc5fb8f5e72d0676987.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Panda no Daibouken",
+        "alternativeTitle": "Panda no Daibouken",
+        "id": "panda-no-daibouken-7299",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7541ffd62747f8d9f2f42093cc4fe12.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "53m"
+      },
+      {
+        "title": "Shounen Ashibe: Go! Go! Goma-chan",
+        "alternativeTitle": "Shounen Ashibe: Go! Go! Goma-chan",
+        "id": "shounen-ashibe-go-go-goma-chan-7555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff793a78a22ca90aa9c879015c1e6bd0.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Kaze wo Nuke!",
+        "alternativeTitle": "Kaze wo Nuke!",
+        "id": "kaze-wo-nuke-7811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a4a42cc9cdb17511eaae19e4706570f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "Assassins Pride",
+        "alternativeTitle": "Assassins Pride",
+        "id": "assassins-pride-8067",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49d3f80e73bc99d36ef290f4964647c9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Licca: Mysterious Magical Ring",
+        "alternativeTitle": "Licca-chan Fushigi na Mahou no Ring",
+        "id": "licca-mysterious-magical-ring-8323",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9996a14ba7a2c7df4e111a08afb797f4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Sakura Wars the Animation",
+        "alternativeTitle": "Shin Sakura Taisen the Animation",
+        "id": "sakura-wars-the-animation-8579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/830ed2b6a6e14acba2f2d8864b175a6d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bavi Stock",
+        "alternativeTitle": "Bavi Stock",
+        "id": "bavi-stock-10115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8de1a87f79baa546fe026a378b38fb81.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Great Conquest: Romance of Three Kingdoms",
+        "alternativeTitle": "Sangokushi: Dai Ni Bu - Choukou Moyu!",
+        "id": "great-conquest-romance-of-three-kingdoms-11395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d720bc5b8439a9f21f5d168bc531cbd5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "148m"
+      },
+      {
+        "title": "When I Woke Up I Became a Bagel Girl",
+        "alternativeTitle": "Eoneu Nal Jameseo Kkaeeoboni Bagelyeoga Doeeo Isseotda",
+        "id": "when-i-woke-up-i-became-a-bagel-girl-17283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f5fa2f7dfbe5430195335942453d3dd.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Soul Land: 6th Season",
+        "alternativeTitle": "Douluo Dalu: Xingdou Xian Ji Pian",
+        "id": "soul-land-6th-season-17795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35ebfa97bcecfbdd3048d846a011c92f.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "From Common Job Class to the Strongest in the World 2nd Season  Special",
+        "alternativeTitle": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special",
+        "id": "from-common-job-class-to-the-strongest-in-the-world-2nd-season-special-18051",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26b2531b3a8ffaee050e017f6d420a8a.png",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Komada: A Whisky Family",
+        "alternativeTitle": "Komada Jouryuusho e Youkoso",
+        "id": "komada-a-whisky-family-18563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/141c19fcb134c4e39754683e6f424978.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Kuramerukagari",
+        "alternativeTitle": "Kuramerukagari",
+        "id": "kuramerukagari-19075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83b43d4a96a0ed8ca1fe36073ed058a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "62m"
+      },
+      {
+        "title": "My Demon Tyrant and Sweet Baby Season 4",
+        "alternativeTitle": "My Demon Tyrant and Sweet Baby Season 4",
+        "id": "my-demon-tyrant-and-sweet-baby-season-4-19587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91e9057b993be3f0455f97b1f90df518.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Gintama: Love Incense Arc",
+        "alternativeTitle": "Gintama°: Aizome Kaori-hen",
+        "id": "gintama-love-incense-arc-132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c84907560c881a38ab46f775e19670f0.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Durarara!! x2 Ketsu",
+        "alternativeTitle": "Durarara!!x2 Ketsu",
+        "id": "durarara-x2-ketsu-388",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08fcdab3d6b421db6756d69e17c2fffd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Durarara!! Specials",
+        "alternativeTitle": "Durarara!! Specials",
+        "id": "durarara-specials-644",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e1b2d149ad801fbc496bb3b542b84cd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "The World God Only Knows",
+        "alternativeTitle": "Kami nomi zo Shiru Sekai",
+        "id": "the-world-god-only-knows-900",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa00c5b5c2a48c45121c5d7ec400ab36.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "K: Return of Kings",
+        "alternativeTitle": "K: Return of Kings",
+        "id": "k-return-of-kings-1156",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/167acc847d864d6df49e340b9f05772b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Encouragement of Climb Season 3",
+        "alternativeTitle": "Yama no Susume: Third Season",
+        "id": "encouragement-of-climb-season-3-1412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9dbbd2013a2e1851e4572c044a754c9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "King of Braves GaoGaiGar Final Grand Glorious Gathering",
+        "alternativeTitle": "Yuusha-Ou GaoGaiGar Final Grand Glorious Gathering",
+        "id": "king-of-braves-gaogaigar-final-grand-glorious-gathering-1668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ae63c827355b74db45797b9a79a7d9c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Heaven's Lost Property",
+        "alternativeTitle": "Sora no Otoshimono",
+        "id": "heavens-lost-property-1924",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78b67eddf1c29cdbc28d2d5a23918e44.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tari Tari",
+        "alternativeTitle": "Tari Tari",
+        "id": "tari-tari-2180",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11303a555e1b168d5d4746d2eba4a50d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon Diamond & Pearl",
+        "alternativeTitle": "Pokemon Diamond & Pearl",
+        "id": "pokemon-diamond-pearl-2692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d91cd4b1354459548504109c078d1a8.jpg",
+        "episodes": {
+          "sub": 191,
+          "dub": 191,
+          "eps": 191
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Otaku no Video",
+        "alternativeTitle": "Otaku no Video",
+        "id": "otaku-no-video-2948",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc21c45619586a6fe3ad15ee3a13fc3d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "Ryoko's Case File",
+        "alternativeTitle": "Yakushiji Ryouko no Kaiki Jikenbo",
+        "id": "ryokos-case-file-3204",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb726779c2393d19417559e548d437c5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Phoenix -Space-",
+        "alternativeTitle": "Hi no Tori: Uchuu-hen",
+        "id": "the-phoenix-space-3716",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6caf0ee6b952ff9e74a04458e6d39e3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "Koi to Senkyo to Chocolate: Koi Imouto!",
+        "alternativeTitle": "Koi to Senkyo to Chocolate: Koi Imouto!",
+        "id": "koi-to-senkyo-to-chocolate-koi-imouto-3972",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ffbb12875cd9ed12a7d5c98ff47719d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Kure-nai OVA",
+        "alternativeTitle": "Kure-nai OVA",
+        "id": "kure-nai-ova-4228",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55703ebcacde8fe43c95a1980acae598.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Pigtails",
+        "alternativeTitle": "Mitsuami no Kamisama",
+        "id": "pigtails-4484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6f35fe102ac8d23889b720a2a10ec90.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "28m"
+      },
+      {
+        "title": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+        "alternativeTitle": "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+        "id": "dragon-ball-super-saiya-jin-zetsumetsu-keikaku-4740",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07f5f8dadfbee19e3bf964bed4884a77.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Kurogane Communication",
+        "alternativeTitle": "Kurogane Communication",
+        "id": "kurogane-communication-4996",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad1a72b22ccb06546940df19ada36455.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Cute High Earth Defense Club HAPPY KISS!",
+        "alternativeTitle": "Binan Koukou Chikyuu Bouei-bu Happy Kiss!",
+        "id": "cute-high-earth-defense-club-happy-kiss-5764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fc0634b47e945f6942cf274cb1ef348.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sonic X",
+        "alternativeTitle": "Sonic X",
+        "id": "sonic-x-6020",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c8a52c9ff9a1a122f9049d1798a497f.jpg",
+        "episodes": {
+          "sub": 78,
+          "dub": 78,
+          "eps": 78
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 36,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Tawawa on Monday Two",
+        "alternativeTitle": "Getsuyoubi no Tawawa 2",
+        "id": "tawawa-on-monday-two-17898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/302881d714fecc08e6002f665dfed84a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Overtake!",
+        "alternativeTitle": "Overtake!",
+        "id": "overtake-18568",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8fd8493e1ba89683bf7e05c1a027f18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Irregular at Magic High School The Movie - The Girl Who Summons The Stars",
+        "alternativeTitle": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
+        "id": "the-irregular-at-magic-high-school-the-movie-the-girl-who-summons-the-stars-1560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b966ed5da64220c62424e2b523bc767e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Rascal Does Not Dream of a Sister Venturing Out",
+        "alternativeTitle": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-a-sister-venturing-out-18934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c563da71f1ff4427ee75cc413e75e14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "73m"
+      },
+      {
+        "title": "Date A Live II: Kurumi Star Festival",
+        "alternativeTitle": "Date A Live II: Kurumi Star Festival",
+        "id": "date-a-live-ii-kurumi-star-festival-625",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5782daafd189cda8d9de763fc98c1001.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Inazuma Eleven",
+        "alternativeTitle": "Inazuma Eleven",
+        "id": "inazuma-eleven-1338",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3fbb974525c90745f629eda64d00353.jpg",
+        "episodes": {
+          "sub": 127,
+          "dub": 0,
+          "eps": 127
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ground Control to Psychoelectric Girl",
+        "alternativeTitle": "Denpa Onna to Seishun Otoko",
+        "id": "ground-control-to-psychoelectric-girl-2795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1a37ad123b91935191cf385e52f9763.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Horizon in the Middle of Nowhere",
+        "alternativeTitle": "Kyoukaisenjou no Horizon",
+        "id": "horizon-in-the-middle-of-nowhere-3085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/065f6ee2502a879d762727014f03ffe0.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "How I Attended an All-Guy's Mixer",
+        "alternativeTitle": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+        "id": "how-i-attended-an-all-guys-mixer-19355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf95b579543e4cd051d68b5ba5019626.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Hero Academia: UA Heroes Battle",
+        "alternativeTitle": "Boku no Hero Academia: UA Heroes Battle",
+        "id": "my-hero-academia-ua-heroes-battle-18629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37f9348bd0d3dfc158225e4176d3587b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "23m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 5: Golden Wind",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
+        "id": "jojos-bizarre-adventure-part-5-golden-wind-17868",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b84a1689a10a4f00b0c99507c45e857f.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Jellyfish Can't Swim in the Night",
+        "alternativeTitle": "Yoru no Kurage wa Oyogenai",
+        "id": "jellyfish-cant-swim-in-the-night-19124",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c068a9c8c27a61e66171aecf814868b4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Aishen Qiaokeli-ing...II",
+        "alternativeTitle": "Aishen Qiaokeli-ing...II",
+        "id": "aishen-qiaokeli-ingii-2470",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75fd257e22938239cc8ec8f83888944b.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Paradox Live the Animation",
+        "alternativeTitle": "Paradox Live the Animation",
+        "id": "paradox-live-the-animation-18601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c8238686a3ddc8932fcf2c2e00d2363b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sugar Apple Fairy Tale, Part 2",
+        "alternativeTitle": "Sugar Apple Fairy Tale Part 2",
+        "id": "sugar-apple-fairy-tale-part-2-18477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94ed952aaec33dfac601d8c12832ca5e.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Build Divide: Code Black",
+        "alternativeTitle": "Build Divide: Code Black",
+        "id": "build-divide-code-black-17912",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12e788c92bff8b30532b7463bf748027.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Monogatari Series: Second Season",
+        "alternativeTitle": "Monogatari Series: Second Season",
+        "id": "monogatari-series-second-season-30",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5cc1697af64c1f7dc2d6ac6110afa41d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Special A (S.A)",
+        "alternativeTitle": "Special A",
+        "id": "special-a-sa-1353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de14f6cd0de5800076dd329c89590800.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Princess Connect! Re:Dive Season 2",
+        "alternativeTitle": "Princess Connect! Re:Dive Season 2",
+        "id": "princess-connect-redive-season-2-15520",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d777c4b3da26f8c39ae479ca6099060d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokémon the Series: XYZ",
+        "alternativeTitle": "Pokemon XY&Z",
+        "id": "pokemon-the-series-xyz-1141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bf7d8ce4d7f5449d3e848531f279929.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 48,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+        "alternativeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+        "id": "rezero-kara-hajimeru-isekai-seikatsu-memory-snow-1473",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca6faf0784e4233fc3fdfbae441eb789.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Lunar Legend Tsukihime",
+        "alternativeTitle": "Shingetsutan Tsukihime",
+        "id": "lunar-legend-tsukihime-3853",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/126e2bed2a5073c4b87345dddf70098d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 2: Stardust Crusaders",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 2: Stardust Crusaders",
+        "id": "jojos-bizarre-adventure-part-2-stardust-crusaders-17865",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec4f1336bb37e81b4ac5470bf738d259.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Obey Me!",
+        "alternativeTitle": "Obey Me!",
+        "id": "obey-me-17835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/212caf6c733229b1b8fd5de6a545fe2e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "6m"
+      },
+      {
+        "title": "Little Busters!",
+        "alternativeTitle": "Little Busters!",
+        "id": "little-busters-1466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce95ae56189970967888b978846d192c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "March Comes In Like A Lion 2nd Season",
+        "alternativeTitle": "3-gatsu no Lion 2nd Season",
+        "id": "march-comes-in-like-a-lion-2nd-season-9",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a7f6d658709105486e07b3ebdd5b273.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "True Beauty",
+        "alternativeTitle": "Yeosin Gangnim",
+        "id": "true-beauty-19274",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71da0959ef9afc3320684a7348131220.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 12,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "A Bridge to the Starry Skies",
+        "alternativeTitle": "Hoshizora e Kakaru Hashi",
+        "id": "a-bridge-to-the-starry-skies-4364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5db92f931c6ea61a1bac81df7f0aed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime Specia: Digression: Hinata Sakaguchi",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi",
+        "id": "that-time-i-got-reincarnated-as-a-slime-specia-digression-hinata-sakaguchi-17440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f2dbc20c7e0fb09a205baff4cbcf36d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Hell Girl",
+        "alternativeTitle": "Jigoku Shoujo",
+        "id": "hell-girl-1132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/479ad7f7a3605fbedc2c389f4423bec0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Girls' Last Tour",
+        "alternativeTitle": "Shoujo Shuumatsu Ryokou",
+        "id": "girls-last-tour-318",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d570f46fb3919f48b4761f1a256189d8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blue Box",
+        "alternativeTitle": "Ao no Hako",
+        "id": "blue-box-19326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8169841c47c010d664f293fcec036fb.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Kaleid Liner Prisma Illya",
+        "alternativeTitle": "Fate/kaleid liner Prisma☆Illya",
+        "id": "fatekaleid-liner-prisma-illya-3058",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51abc1e6ccab53a9bcb020bf03f7c57b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Morose Mononokean",
+        "alternativeTitle": "Fukigen na Mononokean",
+        "id": "the-morose-mononokean-1829",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7bad147a0b936aabf53a905df03f09e1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BASTARD!! Heavy Metal, Dark Fantasy Part 2",
+        "alternativeTitle": "Bastard!! Ankoku no Hakaishin (ONA) Part 2",
+        "id": "bastard-heavy-metal-dark-fantasy-part-2-18149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4578bdceff57e5691e46cecd6fd32f64.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Sword Gai The Animation",
+        "alternativeTitle": "Sword Gai The Animation",
+        "id": "sword-gai-the-animation-8336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f71f1d50a2cab5c00c036bd88205837.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "The Ryuo's Work is Never Done!",
+        "alternativeTitle": "Ryuuou no Oshigoto!",
+        "id": "the-ryuos-work-is-never-done-3839",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b7d68d2394f9bd5146363df00348d4e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Extra: Last Encore",
+        "alternativeTitle": "Fate/Extra: Last Encore",
+        "id": "fateextra-last-encore-6627",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ea13d723041a8e44eda3605d4441f6f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cerberus",
+        "alternativeTitle": "Seisen Cerberus: Ryuukoku no Fatalités",
+        "id": "cerberus-9013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aae02d304caf98ad584dc3a67d3b0c81.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Punch Line",
+        "alternativeTitle": "Punch Line",
+        "id": "punch-line-3536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06a1d34e063f0f1299c44bffd7cd6f4e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 7,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Dragon Ball Z",
+        "alternativeTitle": "Dragon Ball Z",
+        "id": "dragon-ball-z-325",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ac32c050b4dff7747fcc7f64c01edbd.jpg",
+        "episodes": {
+          "sub": 291,
+          "dub": 291,
+          "eps": 291
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyond the Boundary",
+        "alternativeTitle": "Kyoukai no Kanata",
+        "id": "beyond-the-boundary-855",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2458f1490e5d3d7cd8a071a8fa0e561b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Demon Sword Master of Excalibur Academy",
+        "alternativeTitle": "Seiken Gakuin no Makentsukai",
+        "id": "the-demon-sword-master-of-excalibur-academy-18584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95bf2ef4435253f8882ee603d66727b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaguya-sama: Love is War Season 2",
+        "alternativeTitle": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
+        "id": "kaguya-sama-love-is-war-season-2-23",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d60c49622dfd7731dd6f664289d2e76f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lycoris Recoil",
+        "alternativeTitle": "Lycoris Recoil",
+        "id": "lycoris-recoil-18091",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a31556ec0447ef5b3acfba75f2030b4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mieruko-chan",
+        "alternativeTitle": "Mieruko-chan",
+        "id": "mieruko-chan-17698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a00771357e6c4596d8d7feab94a9b716.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Handyman Saitou in Another World",
+        "alternativeTitle": "Benriya Saitou-san, Isekai ni Iku",
+        "id": "handyman-saitou-in-another-world-18289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d0d91bb124a0d7006d279eab63eaaa9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Ice Guy and His Cool Female Colleague",
+        "alternativeTitle": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+        "id": "the-ice-guy-and-his-cool-female-colleague-18255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f06e623306e909db3c859ad5a26042f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+        "alternativeTitle": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+        "id": "higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-15729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6cd00b0e2c7d344890695bd0960ee2b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Devil is a Part-Timer!!",
+        "alternativeTitle": "Hataraku Maou-sama!!",
+        "id": "the-devil-is-a-part-timer-17678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5356767c62129a5ef0fdc0614071637f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+        "alternativeTitle": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+        "id": "arifureta-shokugyou-de-sekai-saikyou-2nd-season-15646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/198b9eee37dbce85c8abd1b9647f6fb4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Strongest Magician in the Demon Lord's Army Was a Human",
+        "alternativeTitle": "Maougun Saikyou no Majutsushi wa Ningen datta",
+        "id": "the-strongest-magician-in-the-demon-lords-army-was-a-human-19238",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/077bf2dc18980271dbff7ead6694ecbc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kimi ni Todoke: From Me to You",
+        "alternativeTitle": "Kimi ni Todoke",
+        "id": "kimi-ni-todoke-from-me-to-you-482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1a1df9baf756b8926a64430ed2ff0ca.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure (Uncensored)",
+        "alternativeTitle": "JoJo no Kimyou na Bouken (Uncensored)",
+        "id": "jojos-bizarre-adventure-uncensored-368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/379fe285468f6b5f621f534d2d4850d9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Haikyuu!!: To the Top (Part 1+2)",
+        "alternativeTitle": "Haikyuu!!: To the Top (Part 1+2)",
+        "id": "haikyuu-to-the-top-part-12-122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d06cbf986db351bdba9ccce24ede67ff.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Butler",
+        "alternativeTitle": "Kuroshitsuji",
+        "id": "black-butler-854",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7adfc4522e111c0b48c70eeb435c912f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
+        "alternativeTitle": "Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.",
+        "id": "ive-somehow-gotten-stronger-when-i-improved-my-farm-related-skills-18156",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac61aacb4ae80b8c8af16870b1f8426f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "How a Realist Hero Rebuilt the Kingdom",
+        "alternativeTitle": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
+        "id": "how-a-realist-hero-rebuilt-the-kingdom-15711",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2eee0c63a0bad64a2a58aeeed469bf39.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Goblin Slayer 2nd Season",
+        "alternativeTitle": "Goblin Slayer II",
+        "id": "goblin-slayer-2nd-season-17505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcab763a96e424734062cb120a0864d4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magi: The Labyrinth of Magic",
+        "alternativeTitle": "Magi: The Labyrinth of Magic",
+        "id": "magi-the-labyrinth-of-magic-425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/119db3171acab63d95dc40a3cb8aeee9.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Ghoul:re",
+        "alternativeTitle": "Tokyo Ghoul:re",
+        "id": "tokyo-ghoulre-5167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a063d18ffaef8d2d72fcb845211075a1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Delicious in Dungeon",
+        "alternativeTitle": "Dungeon Meshi",
+        "id": "delicious-in-dungeon-18506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45f648679dc0bc867c3229ece67d5e4a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Rent-A-Girlfriend 2nd Season",
+        "alternativeTitle": "Kanojo, Okarishimasu 2nd Season",
+        "id": "rent-a-girlfriend-2nd-season-15758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc74be406954570894c7112980af10ff.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Star: Season 2",
+        "alternativeTitle": "Oshi no Ko 2nd Season",
+        "id": "my-star-season-2-19256",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d1cb3f0d6a5eea02851ea80f515b984.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
+        "alternativeTitle": "Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai",
+        "id": "shimoneta-a-boring-world-where-the-concept-of-dirty-jokes-doesnt-exist-2083",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ddea188767aa58614d0ec70ee5bf823.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Tunnel to Summer, the Exit of Goodbye",
+        "alternativeTitle": "Natsu e no Tunnel, Sayonara no Deguchi",
+        "id": "the-tunnel-to-summer-the-exit-of-goodbye-18393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ffea3f5837c00ca78848fde8e7c8277.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "83m"
+      },
+      {
+        "title": "Sword Art Online II",
+        "alternativeTitle": "Sword Art Online II",
+        "id": "sword-art-online-ii-4172",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c21f94e50cc309e88172e54328492056.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Unique Skill Makes Me OP Even at Level 1",
+        "alternativeTitle": "Level 1 dakedo Unique Skill de Saikyou desu",
+        "id": "my-unique-skill-makes-me-op-even-at-level-1-18479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23701fff6319fb26dbb50f08025c4448.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Re:ZERO -Starting Life in Another World- Season 2",
+        "alternativeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+        "id": "rezero-starting-life-in-another-world-season-2-54",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04c2420fa1e0c987f04ae6d20d40065f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "27m"
+      },
+      {
+        "title": "Angel Beats!",
+        "alternativeTitle": "Angel Beats!",
+        "id": "angel-beats-321",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9432a1c947b1fe6da1d7c9a3c324527.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tower of God Season 2",
+        "alternativeTitle": "Kami no Tou: Ouji no Kikan",
+        "id": "tower-of-god-season-2-19255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41adea817f66830f8d965562c2d62e03.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Miss Kobayashi's Dragon Maid",
+        "alternativeTitle": "Kobayashi-san Chi no Maid Dragon",
+        "id": "miss-kobayashis-dragon-maid-468",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6bb5e72c26c2628c2a968980960ff5f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blood Blockade Battlefront",
+        "alternativeTitle": "Kekkai Sensen",
+        "id": "blood-blockade-battlefront-1134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/878d191ce0618dc5a1a6069b222271a4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Engage Kiss",
+        "alternativeTitle": "Engage Kiss",
+        "id": "engage-kiss-18082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b59f3e446abfd50808b5abe0f676b57.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Overlord II",
+        "alternativeTitle": "Overlord II",
+        "id": "overlord-ii-795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/27a305dc6796fc8a4a9b3ed65129ec92.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Our Dating Story: The Experienced You and The Inexperienced Me, Kimizero",
+        "alternativeTitle": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+        "id": "our-dating-story-the-experienced-you-and-the-inexperienced-me-kimizero-18577",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9767fd8bcbc200229df7454661af72cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Testament of Sister New Devil",
+        "alternativeTitle": "Shinmai Maou no Testament",
+        "id": "the-testament-of-sister-new-devil-4184",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2882a77b207368d2b344385e2e541083.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The New Gate",
+        "alternativeTitle": "The New Gate",
+        "id": "the-new-gate-19122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e12209bde810deb434f0325b945a886f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "My Little Monster",
+        "alternativeTitle": "Tonari no Kaibutsu-kun",
+        "id": "my-little-monster-1354",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d10e102789431df0d4b3af5baeed6017.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Spirited Away",
+        "alternativeTitle": "Sen to Chihiro no Kamikakushi",
+        "id": "spirited-away-20",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d226c74f7248dda6aac32d8f915b8f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "124m"
+      }
+    ]
+  }
+}

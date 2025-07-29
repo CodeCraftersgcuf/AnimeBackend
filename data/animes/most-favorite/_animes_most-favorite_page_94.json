@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 94,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Magic Knight Rayearth",
+        "alternativeTitle": "Magic Knight Rayearth",
+        "id": "magic-knight-rayearth-1680",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/742e7f9ba21188b5282e76029167c1d5.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 20,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Higurashi no Naku Koro ni Kira",
+        "alternativeTitle": "Higurashi no Naku Koro ni Kira",
+        "id": "higurashi-no-naku-koro-ni-kira-5595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28628e2a9407fa2b5e84b94ae8a331ef.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Sengoku Basara: Samurai Kings 2",
+        "alternativeTitle": "Sengoku Basara Ni",
+        "id": "sengoku-basara-samurai-kings-2-1348",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f625290b36e272ca54bea5b401a85a67.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yuki Yuna Is a Hero",
+        "alternativeTitle": "Yuuki Yuuna wa Yuusha de Aru Churutto!",
+        "id": "yuuki-yuuna-wa-yuusha-de-aru-churutto-15620",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7be9096014300d6e8f594e5bb93fe2f0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Musaigen no Phantom World: Limitless Phantom World",
+        "alternativeTitle": "Musaigen no Phantom World: Limitless Phantom World",
+        "id": "musaigen-no-phantom-world-limitless-phantom-world-6352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2fa6b1d13835980cb9b259cafd00eea.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "009-1: R&B",
+        "alternativeTitle": "009-1: R&B",
+        "id": "009-1-rb-6590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8cf7735a70766edfbb1c857d49b09a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Kyou no 5 no 2 (TV)",
+        "alternativeTitle": "Kyou no 5 no 2 (TV)",
+        "id": "kyou-no-5-no-2-tv-2589",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49ddb4439db1840aff331e907b887f56.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Birthday Wonderland",
+        "alternativeTitle": "Birthday Wonderland",
+        "id": "birthday-wonderland-5645",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba8b5e75c41b31eefd5d1f6ca7b2558f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Kaleido Star",
+        "alternativeTitle": "Kaleido Star",
+        "id": "kaleido-star-593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c35e853bffd88923e91f3bb4d995844.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Black Lagoon Omake",
+        "alternativeTitle": "Black Lagoon Omake",
+        "id": "black-lagoon-omake-4214",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cbbb5a7a6b1c815d03179827ffed500f.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "We Rent Tsukumogami",
+        "alternativeTitle": "Tsukumogami Kashimasu",
+        "id": "we-rent-tsukumogami-4764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62384439efeeb178772af968d6fef8de.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Towanoquon: The Complicity of Dreams",
+        "alternativeTitle": "Towa no Quon 3: Mugen no Renza",
+        "id": "towanoquon-the-complicity-of-dreams-1542",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/873e1eabb2df2284c033a34ad03c2e1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Tales of Luminaria the Fateful Crossroad",
+        "alternativeTitle": "Tales of Luminaria: The Fateful Crossroad",
+        "id": "tales-of-luminaria-the-fateful-crossroad-17962",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d7570d7b91240a19b650aefb9835b7c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "27m"
+      },
+      {
+        "title": "KochiKame: Tokyo Beat Cops",
+        "alternativeTitle": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo",
+        "id": "kochikame-tokyo-beat-cops-923",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcd7533699b2e73d94bf3a834c7c3fdb.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 373
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ghost Slayers Ayashi",
+        "alternativeTitle": "Tenpou Ibun: Ayakashi Ayashi",
+        "id": "ghost-slayers-ayashi-3931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e4d22880f9ba024a67b6c44aa13ae45.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 25,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Crossing Time",
+        "alternativeTitle": "Fumikiri Jikan",
+        "id": "crossing-time-6270",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51294d1f8cd3dc5365b597de2624b29f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Koi Koi Seven",
+        "alternativeTitle": "Koi Koi 7",
+        "id": "koi-koi-seven-8553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53f24539ac506c3ed1cff122a9d51f29.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Maerchen Maedchen",
+        "alternativeTitle": "Märchen Mädchen",
+        "id": "maerchen-maedchen-9669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45b036da58d58c1271a909dfa686b2a0.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gokujo.: Gokurakuin Joshikou Ryou Monogatari",
+        "alternativeTitle": "Gokujo.: Gokurakuin Joshikou Ryou Monogatari",
+        "id": "gokujo-gokurakuin-joshikou-ryou-monogatari-7157",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb163c64db0c5fea787287986b742dfd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "6m"
+      },
+      {
+        "title": "Re:ZERO PETIT",
+        "alternativeTitle": "Re:Petit kara Hajimeru Isekai Seikatsu",
+        "id": "rezero-petit-4773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e878b92ca63018a0f42295d7e3fb9fa3.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Digimon Fusion",
+        "alternativeTitle": "Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi",
+        "id": "digimon-fusion-5986",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88d918b15f770e5b6c3e85fd17e9ae79.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Urahara",
+        "alternativeTitle": "Urahara",
+        "id": "urahara-8650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/795d865a939b54cd2bf7899a505325e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Code Geass: Nunnally in Wonderland",
+        "alternativeTitle": "Code Geass: Hangyaku no Lelouch - Nunnally in Wonderland",
+        "id": "code-geass-nunnally-in-wonderland-5985",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78075cb45fff7d50b7b3b7b9e5172e2f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Armitage III",
+        "alternativeTitle": "Armitage III",
+        "id": "armitage-iii-3368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f7566b44f15f0e972833530b557834c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "Legends of the Dark King: A Fist of the North Star Story",
+        "alternativeTitle": "Hokuto no Ken: Raoh Gaiden Ten no Haoh",
+        "id": "legends-of-the-dark-king-a-fist-of-the-north-star-story-2979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/769b415bbf9c89d6d7a11895b0b88b2e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Patlabor: The Mobile Police - The TV Series",
+        "alternativeTitle": "Kidou Keisatsu Patlabor: On Television",
+        "id": "patlabor-the-mobile-police-the-tv-series-1125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de539b2d55cfb7b7c6c0b575de178065.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 47,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "King of Prism: Shiny Seven Stars",
+        "alternativeTitle": "King of Prism: Shiny Seven Stars",
+        "id": "king-of-prism-shiny-seven-stars-6250",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d4710d7374f010ec56fe2ca39756fb9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Digimon: The Movie",
+        "alternativeTitle": "Digimon Adventure: Bokura no War Game!",
+        "id": "digimon-the-movie-890",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ade1332832cc7d2423e07e6b2d999f6b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "41m"
+      },
+      {
+        "title": "Japan Anima(tor)'s Exhibition",
+        "alternativeTitle": "Nihon Animator Mihonichi",
+        "id": "japan-animators-exhibition-1918",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1e5eb825617234a01f4e78c9a2605ab.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Girl Meets Girl",
+        "alternativeTitle": "Kashimashi: Girl Meets Girl",
+        "id": "girl-meets-girl-4899",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22a07ae77fb9dd3e917d5d6c646616b2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chronicles of the Going Home Club",
+        "alternativeTitle": "Kitakubu Katsudou Kiroku",
+        "id": "chronicles-of-the-going-home-club-4451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84b55bd2e7afa9cd436b64a549ac67e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Twin Love",
+        "alternativeTitle": "Futakoi",
+        "id": "twin-love-5746",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30abcdcc4a9300a3fe102a90195e3f1d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Higurashi no Naku Koro ni Kaku: Outbreak",
+        "alternativeTitle": "Higurashi no Naku Koro ni Kaku: Outbreak",
+        "id": "higurashi-no-naku-koro-ni-kaku-outbreak-2513",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aeea9a097a2d1264ad5c2218bc16d42c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "DNA²",
+        "alternativeTitle": "DNA²",
+        "id": "dna2-4821",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83fea3facc4d59e4a2155d661921920f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sound! Euphonium Specials",
+        "alternativeTitle": "Hibike! Euphonium: Suisougaku-bu no Nichijou",
+        "id": "sound-euphonium-specials-4526",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cc4b7e61396bbcda6fba42eff448934.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Rozen Maiden: Träumend",
+        "alternativeTitle": "Rozen Maiden: Träumend",
+        "id": "rozen-maiden-traumend-1139",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da773a452399188a83c2d92b6589e1b9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Air: The Movie",
+        "alternativeTitle": "Air Movie",
+        "id": "air-the-movie-2469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/757677ff34d2008354ab465b82de2025.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Princess Principal: Crown Handler Movie 2",
+        "alternativeTitle": "Princess Principal: Crown Handler 2",
+        "id": "princess-principal-crown-handler-movie-2-17644",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/643b28b490ca78e91b2a9ec0c2741d96.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "55m"
+      },
+      {
+        "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+        "alternativeTitle": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+        "id": "kono-aozora-ni-yakusoku-wo-youkoso-tsugumi-ryou-e-7073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf2b87fd837bdf4e7d3e33ef1aa6d019.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Gokusen",
+        "alternativeTitle": "Gokusen",
+        "id": "the-gokusen-1832",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e682d439b05334e7184f3bb230a5ce63.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

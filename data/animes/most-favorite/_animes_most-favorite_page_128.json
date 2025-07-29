@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 128,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "New Atashin'chi",
+        "alternativeTitle": "Shin Atashin'chi",
+        "id": "new-atashinchi-3036",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31fe232b380a1e1dc719bc483f437515.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shiro, the Giant, and the Castle of Ice",
+        "alternativeTitle": "Kyoshin to Hyouka no Shiro",
+        "id": "shiro-the-giant-and-the-castle-of-ice-14885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6dff6d4068db6f44a4e6d3395380d940.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Koukaku Kidoutai: SAC_2045 2nd Season",
+        "alternativeTitle": "Koukaku Kidoutai: SAC_2045 2nd Season",
+        "id": "koukaku-kidoutai-sac-2045-2nd-season-17556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4249a77601eee2efa75766cbc6259323.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Ashita no Joe (Movie)",
+        "alternativeTitle": "Ashita no Joe (Movie)",
+        "id": "ashita-no-joe-movie-3075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd09d9852dee999afef716b0a7ae475e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "153m"
+      },
+      {
+        "title": "Shinryaku!! Ika Musume",
+        "alternativeTitle": "Shinryaku!! Ika Musume",
+        "id": "shinryaku-ika-musume-1588",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d13125df345ff648ccd9feedef4293e2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Mahoraba: Heartful days",
+        "alternativeTitle": "Mahoraba: Heartful days",
+        "id": "mahoraba-heartful-days-2131",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d1dad0e2ab17f60592483240195c1dc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kagewani -II-",
+        "alternativeTitle": "Kagewani: Shou",
+        "id": "kagewani-ii-6000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1373a40d72b9014b48d5aeb2ab3e83b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Garakowa -Restore the World-",
+        "alternativeTitle": "Glass no Hana to Kowasu Sekai",
+        "id": "garakowa-restore-the-world-4618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73480032f7e7c5d085c6f157a206e132.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "67m"
+      },
+      {
+        "title": "The Guyver: Bio-Booster Armor",
+        "alternativeTitle": "Kyoushoku Soukou Guyver (1989)",
+        "id": "the-guyver-bio-booster-armor-3086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f60cd57ba00d398fe2b9db8957d389f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Irodorimidori",
+        "alternativeTitle": "Irodorimidori",
+        "id": "irodorimidori-18021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a7379df0bea02c3af718bfc3c7fd860.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "TWOCAR",
+        "alternativeTitle": "Two Car",
+        "id": "twocar-9067",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dd28388afaa3553ff1d28e1285604b7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "I'm glad I could keep running.",
+        "alternativeTitle": "Hashiri Tsuzukete Yokattatte.",
+        "id": "im-glad-i-could-keep-running-6091",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb68fa67575d6b83d7a01353ae70eda6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Kuramerukagari",
+        "alternativeTitle": "Kuramerukagari",
+        "id": "kuramerukagari-19075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83b43d4a96a0ed8ca1fe36073ed058a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "62m"
+      },
+      {
+        "title": "Goddamn",
+        "alternativeTitle": "Goddamn",
+        "id": "goddamn-8613",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1225c47f929cece272152ecef0f8f2b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Pretty Rhythm: Rainbow Live",
+        "alternativeTitle": "Pretty Rhythm: Rainbow Live",
+        "id": "pretty-rhythm-rainbow-live-1471",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c075b1d462bd4c277390a6175a76f341.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "Sentou Yousei Shoujo Tasukete! Mave-chan",
+        "alternativeTitle": "Sentou Yousei Shoujo Tasukete! Mave-chan",
+        "id": "sentou-yousei-shoujo-tasukete-mave-chan-9686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4200499ecb4ddd6ac2ca418792bc3ac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Gun x Sword-san",
+        "alternativeTitle": "Gun x Sword-san",
+        "id": "gun-x-sword-san-8681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f73f3aa3687565c311ba2102b50056d7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Gauche the Cellist",
+        "alternativeTitle": "Cello Hiki no Gauche (1982)",
+        "id": "gauche-the-cellist-3890",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5103eeed1aca09bf667c0b2e42cc5759.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Katekyo Hitman Reborn! x ēlDLIVE Special",
+        "alternativeTitle": "Katekyo Hitman Reborn! x ēlDLIVE Special",
+        "id": "katekyo-hitman-reborn-x-eldlive-special-4529",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6ed3dee6d62ec686e041dd5218f6953.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "I''s",
+        "alternativeTitle": "I''s",
+        "id": "is-7961",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/066e8a19b1d3cb9598ea941b0ff7eaa4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Ajimu: Kaigan Monogatari",
+        "alternativeTitle": "Ajimu: Kaigan Monogatari",
+        "id": "ajimu-kaigan-monogatari-6354",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4950b1effe69b919eb03b47a136b3f2b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "28m"
+      },
+      {
+        "title": "The Laughing Salesman",
+        "alternativeTitle": "Warau Salesman New",
+        "id": "the-laughing-salesman-6877",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce8520a502b8d56cd534e602ae2cd477.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dimension High School",
+        "alternativeTitle": "Choujigen Kakumei Anime: Dimension High School",
+        "id": "dimension-high-school-9958",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9752e06471dab6bcbcc2c5330310466a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Mobile Suit Gundam: Cucuruz Doan's Island",
+        "alternativeTitle": "Kidou Senshi Gundam: Cucuruz Doan no Shima",
+        "id": "mobile-suit-gundam-cucuruz-doans-island-18400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d43b7440ffee15b5f94d4004210bc39.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "HeatGuy J",
+        "alternativeTitle": "HeatGuy J",
+        "id": "heatguy-j-2825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e42762ceba342f3f03591c18eb9b076.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rain Town",
+        "alternativeTitle": "Rain Town",
+        "id": "rain-town-2693",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/099e39fc6ef9bc14bb9c0681b0c5f587.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "UFO Ultramaiden Valkyrie 2: December Nocturne",
+        "alternativeTitle": "UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku",
+        "id": "ufo-ultramaiden-valkyrie-2-december-nocturne-3629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/415f2ed3c134072ffa17daf9d77efe1f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Squid Girl Specials",
+        "alternativeTitle": "Shinryaku! Ika Musume Specials",
+        "id": "squid-girl-specials-2272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d988a51c0c6a516910e7205aae5d8f53.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Music Up: Reborn",
+        "alternativeTitle": "Wo Wei Ge Kuang: Xuanlu Chongqi",
+        "id": "music-up-reborn-17221",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61d6d74795ce73b227a938993fe9c4ea.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Word of Honor",
+        "alternativeTitle": "Jun You Yun",
+        "id": "word-of-honor-18045",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9f35b5996a08d7055a9c7454df4a5ab.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "City Hunter: Million Dollar Conspiracy",
+        "alternativeTitle": "City Hunter: Hyakuman Dollar no Inbou",
+        "id": "city-hunter-million-dollar-conspiracy-1979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80fa65bd453bac285f41ecaf20c60aab.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Burn Up Excess",
+        "alternativeTitle": "Burn Up Excess",
+        "id": "burn-up-excess-5475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78977532fa2e2935afbdcba09bb682a9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland",
+        "alternativeTitle": "Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland",
+        "id": "frame-arms-girl-movie-kyakkya-ufufu-na-wonderland-7880",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/263f59f9405f4e683e16a51964a2fb08.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Hyouge Mono",
+        "alternativeTitle": "Hyouge Mono",
+        "id": "hyouge-mono-533",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/36901638c3df3168add21be044bb41a2.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Aim for the Ace!",
+        "alternativeTitle": "Ace wo Nerae!",
+        "id": "aim-for-the-ace-3575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a23449a9e8edec33ea61d1117f5b4ff9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dropkick on My Devil!!: End of Century Edition",
+        "alternativeTitle": "Jashin-chan Dropkick \"Seikimatsu-hen\"",
+        "id": "dropkick-on-my-devil-end-of-century-edition-18691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ff4b322b5ea953f7994218af5f1a541.png",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Di Gi Charat",
+        "alternativeTitle": "Di Gi Charat",
+        "id": "di-gi-charat-4630",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41c03bf85a8e341179c4b1fee668cf43.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Dog Days'': Limone Resort Tenbou Onsen!",
+        "alternativeTitle": "Dog Days'': Limone Resort Tenbou Onsen!",
+        "id": "dog-days-limone-resort-tenbou-onsen-5403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39145d75e0455db7c207095807388538.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Mahou Shoujo Nante Mouiidesukara",
+        "alternativeTitle": "Mahou Shoujo Nante Mou Ii Desukara.",
+        "id": "mahou-shoujo-nante-mouiidesukara-8198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7093697f0e5e5f47e536ce8e38fff606.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Assault Lily: Fruits",
+        "alternativeTitle": "Assault Lily: Fruits",
+        "id": "assault-lily-fruits-17437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76d6fb5037397ab81de2145bf9d3b6bb.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "3m"
+      }
+    ]
+  }
+}

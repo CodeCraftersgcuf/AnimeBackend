@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 143,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Battle Arena Toshinden",
+        "alternativeTitle": "Toushinden",
+        "id": "battle-arena-toshinden-9779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25e228b3456c166c19243551a2503d23.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Hidamari Sketch x Honeycomb",
+        "alternativeTitle": "Hidamari Sketch x Honeycomb",
+        "id": "hidamari-sketch-x-honeycomb-622",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b14c84248b4dce077e1a42f5fb126284.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to",
+        "alternativeTitle": "Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to",
+        "id": "mayonaka-no-occult-koumuin-fukurokouji-to-ano-ko-to-ore-to-4482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fa0a1f9c40c5faf29f82ad7df75fee1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Osomatsu-kun (1988)",
+        "alternativeTitle": "Osomatsu-kun (1988)",
+        "id": "osomatsu-kun-1988-4769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/002294ed2415d60460347738a62e16c3.jpg",
+        "episodes": {
+          "sub": 86,
+          "dub": 0,
+          "eps": 86
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III: Twilight Gemini no Himitsu",
+        "alternativeTitle": "Lupin III: Twilight Gemini no Himitsu",
+        "id": "lupin-iii-twilight-gemini-no-himitsu-3570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d00a810731d51e2e0f658ddb1d538cdf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Legend of Sho",
+        "alternativeTitle": "Shu Shan Qi Xian Lu",
+        "id": "legend-of-sho-17511",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8be0a4847514d1fd078ca17d339d4716.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Fireball",
+        "alternativeTitle": "Fireball",
+        "id": "fireball-4795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2b56bb3d58d6d35277d53738962d512.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Tesagure! Bukatsumono",
+        "alternativeTitle": "Tesagure! Bukatsumono",
+        "id": "tesagure-bukatsumono-4585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7249d8566637edbe5b46951775879d0d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Itsuka Aeru Kimi ni",
+        "alternativeTitle": "Itsuka Aeru Kimi ni",
+        "id": "itsuka-aeru-kimi-ni-8951",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/651a7441513d376f1dbe0892fe9732df.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Onegai My Melody: Kuru Kuru Shuffle!",
+        "alternativeTitle": "Onegai My Melody: Kuru Kuru Shuffle!",
+        "id": "onegai-my-melody-kuru-kuru-shuffle-2762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/110fc7d188686879eff0c6581d57cbb3.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Lupin III: Goodbye Lady Liberty",
+        "alternativeTitle": "Lupin III: Bye Bye Liberty - Kiki Ippatsu!",
+        "id": "lupin-iii-goodbye-lady-liberty-4154",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37ec8cf6b6cbdfbd08c8fa580b818d77.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "97m"
+      },
+      {
+        "title": "Magical Princess Minky Momo",
+        "alternativeTitle": "Mahou no Princess Minky Momo",
+        "id": "magical-princess-minky-momo-4566",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3388797fcea71372f852bb827ea1cbdd.jpg",
+        "episodes": {
+          "sub": 63,
+          "dub": 0,
+          "eps": 63
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Maze: The Mega-Burst Space",
+        "alternativeTitle": "Maze☆Bakunetsu Jikuu (TV)",
+        "id": "maze-the-mega-burst-space-5031",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dde06eb292801f31b617f19b3a7bbb60.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sunny Ryoko",
+        "alternativeTitle": "Hiatari Ryoukou!",
+        "id": "sunny-ryoko-3271",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/465f24667269f8cc9f674dbae0b66fab.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "THE IDOLM@STER CINDERELLA GIRLS: Anytime, Anywhere with Cinderella.",
+        "alternativeTitle": "The iDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",
+        "id": "the-idolmster-cinderella-girls-anytime-anywhere-with-cinderella-2265",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1794082df3ddf3a54e919e0e8ac766f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "Aikatsu Stars! Movie",
+        "alternativeTitle": "Aikatsu Stars! Movie",
+        "id": "aikatsu-stars-movie-2205",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e65c8f7f6ceb25ab80eb5a0bfc5eadb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Choujin Densetsu Urotsukidouji Movie",
+        "alternativeTitle": "Choujin Densetsu Urotsukidouji Movie",
+        "id": "choujin-densetsu-urotsukidouji-movie-16529",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2d335f58ba56287dbc645bde471aa8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "106m"
+      },
+      {
+        "title": "Professor Layton and the Eternal Diva",
+        "alternativeTitle": "Layton Kyouju to Eien no Utahime",
+        "id": "professor-layton-and-the-eternal-diva-1209",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb3a9a8639a1b75e933cb59652b48113.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "Teekyu 2",
+        "alternativeTitle": "Teekyuu 2",
+        "id": "teekyu-2-4584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47983879c62caa9741e46e7e1577ea53.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "DRAMAtical Murder: Data_xx_Transitory",
+        "alternativeTitle": "DRAMAtical Murder: Data_xx_Transitory",
+        "id": "dramatical-murder-dataxxtransitory-7718",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c32329f6050f1cdcab69eeccca18a625.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Original Dirty Pair: Flight 005 Conspiracy",
+        "alternativeTitle": "Dirty Pair: Bouryaku no 005-bin",
+        "id": "original-dirty-pair-flight-005-conspiracy-4441",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb5c14751c962efd06b24db5016cfd5d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "59m"
+      },
+      {
+        "title": "Teekyu 9",
+        "alternativeTitle": "Teekyuu 9",
+        "id": "teekyu-9-5240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99102670ee39cb93278dfeeb9154550f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Carole & Tuesday Specials",
+        "alternativeTitle": "Carole & Tuesday Specials",
+        "id": "carole-tuesday-specials-8707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2292af76ce4f307682659d1c378843eb.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Robotech: The Masters Saga",
+        "alternativeTitle": "Choujikuu Kidan Southern Cross",
+        "id": "robotech-the-masters-saga-5398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/644edeeefbc8ef502407b884839304a2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Oh! My Goddess: The Adventures of Mini-Goddess",
+        "alternativeTitle": "Aa! Megami-sama!: Chichaitte Koto wa Benri da ne",
+        "id": "oh-my-goddess-the-adventures-of-mini-goddess-3887",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cc395c51fd010166dd2f6e6bd030638.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 48,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Thermae Romae",
+        "alternativeTitle": "Thermae Romae Specials",
+        "id": "thermae-romae-3933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aeaead56e842a022db7374bb37412b2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Madam is a Magical Girl",
+        "alternativeTitle": "Okusama wa Mahou Shoujo",
+        "id": "madam-is-a-magical-girl-6491",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4d5f7e91dabe8263cc302dc963dc1be.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Youths and Golden Coffin 2",
+        "alternativeTitle": "Shaonian Ge Xing: Feng Hua Xue Yue Pian Part 1",
+        "id": "youths-and-golden-coffin-2-15542",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1028b04a2a6f18985bb0a1217cbdac4a.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Tsukiuta. The Animation 2",
+        "alternativeTitle": "Tsukiuta. The Animation 2",
+        "id": "tsukiuta-the-animation-2-12218",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f07ffb5154a924ae0451c337a9b61e20.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Darkness of the Sea, Shadow of the Moon",
+        "alternativeTitle": "Umi no Yami, Tsuki no Kage",
+        "id": "darkness-of-the-sea-shadow-of-the-moon-7681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16dbd9a8286a12f2cd7eb3406abb850b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Genji Tsuushin Agedama",
+        "alternativeTitle": "Genji Tsuushin Agedama",
+        "id": "genji-tsuushin-agedama-6604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa341275f6d08817d701de7d8889242b.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Cardfight!! Vanguard Gaiden: If",
+        "alternativeTitle": "Cardfight!! Vanguard Gaiden: If",
+        "id": "cardfight-vanguard-gaiden-if-7951",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca8fa6d51358b0975a75c75bd6c74907.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Uma Musume: Pretty Derby - Beginning of a New Era",
+        "alternativeTitle": "Uma Musume: Pretty Derby - Shin Jidai no Tobira",
+        "id": "uma-musume-pretty-derby-beginning-of-a-new-era-19081",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14459f09b6c2fbfdb05ee67fbbc01ed5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "Vexille",
+        "alternativeTitle": "Vexille: 2077 Nihon Sakoku",
+        "id": "vexille-3781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfb4ac1d17b08f0233db95a58401c6a2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Hana Yori Dango The Movie",
+        "alternativeTitle": "Hana yori Dango (Movie)",
+        "id": "hana-yori-dango-the-movie-6372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cae30ec47cfb41c728a885899811099.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "Yume Tsukai",
+        "alternativeTitle": "Yume Tsukai",
+        "id": "yume-tsukai-6138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b3f499628c0a57830dde0188a38442b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?",
+        "alternativeTitle": "Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?",
+        "id": "fresh-precure-movie-omocha-no-kuni-wa-himitsu-ga-ippai-5093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b46697751ac33ce4c261edf955ec8c2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "70m"
+      },
+      {
+        "title": "Lupin III: Green vs. Red",
+        "alternativeTitle": "Lupin III: Green vs. Red",
+        "id": "lupin-iii-green-vs-red-5193",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67e025e41c1560a58be57d9298d9c0bb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "79m"
+      },
+      {
+        "title": "Night Head Genesis",
+        "alternativeTitle": "Night Head Genesis",
+        "id": "night-head-genesis-4488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/739beb397f1da392ee0c222448f62347.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saibi",
+        "alternativeTitle": "Saibi",
+        "id": "saibi-4580",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/986f6724e599bde3ae307fea2ee22035.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      }
+    ]
+  }
+}

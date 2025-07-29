@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 111,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Lamune",
+        "alternativeTitle": "Lamune",
+        "id": "lamune-4209",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90d17a4174959781d88e56fde397b818.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Miyuki",
+        "alternativeTitle": "Miyuki",
+        "id": "miyuki-4721",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83e90f0b8c5054ce9a5db3bcd201f95a.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 37
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Nyanko Days",
+        "alternativeTitle": "Nyanko Days",
+        "id": "nyanko-days-5233",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64095610d58935da645046d28fb44703.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Gakuen Handsome",
+        "alternativeTitle": "Gakuen Handsome",
+        "id": "gakuen-handsome-5489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90185888906543be6984c2a6d8a4206d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Monster Strike 3: The Fading Cosmos",
+        "alternativeTitle": "Monster Strike Anime: Kieyuku Uchuu-hen",
+        "id": "monster-strike-the-fading-cosmos-6257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ddef865a469c0f0a92d445dac9e9725.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Yatogame-chan Kansatsu Nikki 2",
+        "alternativeTitle": "Yatogame-chan Kansatsu Nikki Nisatsume",
+        "id": "yatogame-chan-kansatsu-nikki-2-6769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afb22692da24492b4e98ce36d297dbf1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Rakushou! Hyper Doll",
+        "alternativeTitle": "Rakushou! Hyper Doll",
+        "id": "rakushou-hyper-doll-8817",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59fdd3d63567ebf4259ca9000eeec02c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Clione no Akari",
+        "alternativeTitle": "Clione no Akari",
+        "id": "clione-no-akari-9585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4dc915c437dc4ed3a17a692ad6b3fe1f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+        "alternativeTitle": "Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+        "id": "shoujokageki-revue-starlight-rondo-rondo-rondo-11633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f28731a16bec2f3de017bea6848101e7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "The Magic Chef of Ice and Fire",
+        "alternativeTitle": "Binghuo Mochu",
+        "id": "the-magic-chef-of-ice-and-fire-18545",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eeb7a1a765954ba035a6e25e5adfb498.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Close Combat Mage",
+        "alternativeTitle": "Jin Zhan Fashi",
+        "id": "close-combat-mage-19057",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8730c78e8b26ae800e2686202454f677.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "Yu Yu Hakusho: Ghost Files",
+        "alternativeTitle": "Yuu☆Yuu☆Hakusho",
+        "id": "yu-yu-hakusho-ghost-files-114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c40b2b7f5ccc41e1e758bd2d62890e4.jpg",
+        "episodes": {
+          "sub": 112,
+          "dub": 112,
+          "eps": 112
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society",
+        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society-370",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fef67e354e6b1825930541f7d1682b4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "108m"
+      },
+      {
+        "title": "Ergo Proxy",
+        "alternativeTitle": "Ergo Proxy",
+        "id": "ergo-proxy-626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0f4a394b5a28a57816676b9474970d5.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Last: Naruto the Movie",
+        "alternativeTitle": "The Last: Naruto the Movie",
+        "id": "the-last-naruto-the-movie-882",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d42031c8f566e744d84de02d42466bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      },
+      {
+        "title": "Seraph of the End: Battle in Nagoya",
+        "alternativeTitle": "Owari no Seraph: Nagoya Kessen-hen",
+        "id": "seraph-of-the-end-battle-in-nagoya-1138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bb4890a5c73e15d50dd4e4a4e004780.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Free! Movie 3: Road to the World - Yume",
+        "alternativeTitle": "Free! Movie 3: Road to the World - Yume",
+        "id": "free-movie-3-road-to-the-world-yume-1394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fb7d9bc5c7e33436db88c469fcfd0cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime OAD",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken OVA",
+        "id": "that-time-i-got-reincarnated-as-a-slime-oad-1650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7497d0d333e297d83555b94233812e7.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "KINMOZA!",
+        "alternativeTitle": "Kiniro Mosaic",
+        "id": "kinmoza-2418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca0fa3c8c8b15d0114a0899668e59c75.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Akashic Records of Bastard Magic Instructor",
+        "alternativeTitle": "Rokudenashi Majutsu Koushi to Akashic Records",
+        "id": "akashic-records-of-bastard-magic-instructor-2674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e3a434d11fcb53cc8fa5119ec8812b0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gravitation",
+        "alternativeTitle": "Gravitation",
+        "id": "gravitation-3442",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12b0f89b0f48caff33fed5c7ca80444c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "A-Channel",
+        "alternativeTitle": "A-Channel",
+        "id": "a-channel-3698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/754639c7d7a6bee0aaa53266e4e0b209.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Battle Athletes Victory",
+        "alternativeTitle": "Battle Athletess Daiundoukai (TV)",
+        "id": "battle-athletes-victory-3954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57c0506ec81101e02bcd03a2419a8396.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Ling Yu 2nd Season",
+        "alternativeTitle": "Ling Yu 2nd Season",
+        "id": "ling-yu-2nd-season-4210",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e2d1a5c59b8fe3926692bde8a7c1d4b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "The Galaxy Railways: A Letter from the Abandoned Planet",
+        "alternativeTitle": "Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei",
+        "id": "the-galaxy-railways-a-letter-from-the-abandoned-planet-4466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f14d8786579d34ec7159c5eae34de36.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Muhyo & Roji's Bureau of Supernatural Investigation 2nd Season",
+        "alternativeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+        "id": "muhyo-rojis-bureau-of-supernatural-investigation-2nd-season-4722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d2fc50f45c99db31fe12b5860b3328e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Astarotte's Toy EX",
+        "alternativeTitle": "Astarotte no Omocha! EX",
+        "id": "astarottes-toy-ex-4978",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ece3f90c4b60f29e1902cb0d0d334d0c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "21m"
+      },
+      {
+        "title": "Rampo Kitan: Game of Laplace",
+        "alternativeTitle": "Ranpo Kitan: Game of Laplace",
+        "id": "rampo-kitan-game-of-laplace-5234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d0b0d762628840e5c9fdea05eedd1e8.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Godzilla: Planet of the Monsters",
+        "alternativeTitle": "Godzilla 1: Kaijuu Wakusei",
+        "id": "godzilla-planet-of-the-monsters-5490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f885becac325ce98fc0751c269a3d151.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Twin Love",
+        "alternativeTitle": "Futakoi",
+        "id": "twin-love-5746",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30abcdcc4a9300a3fe102a90195e3f1d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Voice of Fox",
+        "alternativeTitle": "Kitsune no Koe",
+        "id": "voice-of-fox-6002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b2af48acc87a77499fac7ad40f7d3e5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Active Raid Second",
+        "alternativeTitle": "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd",
+        "id": "active-raid-second-6258",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c36b579011b88c09447b8bdc74f348c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yurumates 3D",
+        "alternativeTitle": "Yurumates 3D",
+        "id": "yurumates-3d-6770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25d0107d6aeb71d44fc2c4f2bc352d29.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "[RAW] Oraa Guzura Dado (1987)",
+        "alternativeTitle": "[RAW] Oraa Guzura Dado (1987)",
+        "id": "oraa-guzura-dado-1987-7026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa9df3442b17cc21230ea425876dcf8b.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Galaxy Fraulein Yuna Returns",
+        "alternativeTitle": "Ginga Ojousama Densetsu Yuna: Shin'en no Fairy",
+        "id": "galaxy-fraulein-yuna-returns-7282",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4160aea0ab4ab8eb3e1ce7e6eb4e3f5e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "31m"
+      },
+      {
+        "title": "Mazinger Z vs. Devilman",
+        "alternativeTitle": "Mazinger Z tai Devilman",
+        "id": "mazinger-z-vs-devilman-7538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78824aee68d413030e1b77d27bf454b6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "43m"
+      },
+      {
+        "title": "Regalia: The Three Sacred Stars",
+        "alternativeTitle": "Regalia: The Three Sacred Stars",
+        "id": "regalia-the-three-sacred-stars-8050",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e278cae419c1d6b15378cbae04d44ea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "DD Fist of the North Star 2: Strawberry Flavor Plus",
+        "alternativeTitle": "DD Hokuto no Ken 2 Ichigo Aji+",
+        "id": "dd-fist-of-the-north-star-2-strawberry-flavor-plus-8306",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0037b72fecdba475d89a86d6b1ae33a1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Akiba-chan",
+        "alternativeTitle": "Akiba-chan",
+        "id": "akiba-chan-9842",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/764b0c99e4badc4a7c6efb6c14f75962.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Pastel Memories",
+        "alternativeTitle": "Pastel Memories",
+        "id": "pastel-memories-10098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8aff8fa38f0d2aa7d299619f052c1c3a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

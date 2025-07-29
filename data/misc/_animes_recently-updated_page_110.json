@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 110,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Attack on Titan",
+        "alternativeTitle": "Shingeki no Kyojin",
+        "id": "attack-on-titan-112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/debf027d032c6d40b91fab16b2ff9bd4.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure (Uncensored)",
+        "alternativeTitle": "JoJo no Kimyou na Bouken (Uncensored)",
+        "id": "jojos-bizarre-adventure-uncensored-368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/379fe285468f6b5f621f534d2d4850d9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beelzebub",
+        "alternativeTitle": "Beelzebub",
+        "id": "beelzebub-624",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd0489c24f51d5b2d6632bd4f10f4621.jpg",
+        "episodes": {
+          "sub": 60,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tamayura: Sotsugyou Shashin Part 2 - Hibiki",
+        "alternativeTitle": "Tamayura: Sotsugyou Shashin Part 2 - Hibiki",
+        "id": "tamayura-sotsugyou-shashin-part-2-hibiki-880",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6096175378404b647d1f3737bc556eb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "52m"
+      },
+      {
+        "title": "Magical Girl Lyrical Nanoha StrikerS",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha StrikerS",
+        "id": "magical-girl-lyrical-nanoha-strikers-1136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55f74c72f09a39a51891048ce90cc3d0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Love, Chunibyo & Other Delusions! 2nd Season: Heart Throb",
+        "alternativeTitle": "Chuunibyou demo Koi ga Shitai! Ren",
+        "id": "love-chunibyo-other-delusions-2nd-season-heart-throb-1392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/779d4fb2001a7af6abba89716387651f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Letter Bee: Light and Blue Night Fantasy",
+        "alternativeTitle": "Tegamibachi: Hikari to Ao no Gensou Yawa",
+        "id": "letter-bee-light-and-blue-night-fantasy-1648",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc25cd1a585459bb5a989e3107c37092.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "Initial D Extra Stage",
+        "alternativeTitle": "Initial D Extra Stage",
+        "id": "initial-d-extra-stage-2160",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cecb4f0ab6435f6916e64eeff5c9f55.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "[RAW] Funny Faces in High School",
+        "alternativeTitle": "[RAW] High School! Kimengumi",
+        "id": "funny-faces-in-high-school-2416",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70b2be440688859d3c22811df098b7eb.jpg",
+        "episodes": {
+          "sub": 86,
+          "dub": 0,
+          "eps": 86
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Puchimas!!: Petit Petit iDOLM@STER 2nd Season",
+        "alternativeTitle": "Puchimas!!: Petit Petit iDOLM@STER",
+        "id": "puchimas-petit-petit-idolm-at-ster-2nd-season-2672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41d21dde9c7bc4083e1d52843c319d3c.jpg",
+        "episodes": {
+          "sub": 74,
+          "dub": 0,
+          "eps": 74
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Naruto OVA7: Chunin Exam on Fire! and Naruto vs. Konohamaru!",
+        "alternativeTitle": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!",
+        "id": "naruto-ova7-chunin-exam-on-fire-and-naruto-vs-konohamaru-2928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44246cdf24c85468599ff2b9496c27cb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "14m"
+      },
+      {
+        "title": "Lupin III: Alcatraz Connection",
+        "alternativeTitle": "Lupin III: Alcatraz Connection",
+        "id": "lupin-iii-alcatraz-connection-3184",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad263f9db37bc6102d45ca54ee53f611.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "91m"
+      },
+      {
+        "title": "Galaxy Angel",
+        "alternativeTitle": "Galaxy Angel",
+        "id": "galaxy-angel-3440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0dab76155fe9534caf07ebce1e593d6c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Zombie-Loan",
+        "alternativeTitle": "Zombie-Loan",
+        "id": "zombie-loan-3952",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/748e105511a8c2e311231c8db164b7e1.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Midnight occult civil servants",
+        "alternativeTitle": "Mayonaka no Occult Koumuin",
+        "id": "midnight-occult-civil-servants-4720",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc96cd0ace1be7a45039bbd49e038604.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yu-Gi-Oh! VRAINS",
+        "alternativeTitle": "Yu☆Gi☆Oh! VRAINS",
+        "id": "yu-gi-oh-vrains-4976",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9556b516bc04ec5f6c8c244296406b5c.jpg",
+        "episodes": {
+          "sub": 120,
+          "dub": 120,
+          "eps": 120
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fuuka",
+        "alternativeTitle": "Fuuka",
+        "id": "fuuka-5488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c5f8cd67a04b94152ea63ca9e302a29.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kagewani -II-",
+        "alternativeTitle": "Kagewani: Shou",
+        "id": "kagewani-ii-6000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1373a40d72b9014b48d5aeb2ab3e83b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Miss Monochrome The Animation",
+        "alternativeTitle": "Miss Monochrome The Animation",
+        "id": "miss-monochrome-the-animation-6256",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72e34c5da0a09b65ac97c2789d5f3463.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Geobreeders: Breakthrough",
+        "alternativeTitle": "Geobreeders 2: Mouryou Yuugekitai File-XX Ransen Toppa",
+        "id": "geobreeders-breakthrough-6512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33bcc09d0455deda4e2b4a896a360d5d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Yamishibai: Japanese Ghost Stories 3",
+        "alternativeTitle": "Yami Shibai 3",
+        "id": "yamishibai-japanese-ghost-stories-3-6768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34f8e71eb5b247063b7df5d7d41d0d40.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Cybuster",
+        "alternativeTitle": "Masou Kishin Cybuster",
+        "id": "cybuster-7536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/006a3e17fef70bca1e5486ecde338921.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Relic Armor Legaciam",
+        "alternativeTitle": "Relic Armor Legaciam",
+        "id": "relic-armor-legaciam-9072",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c0c2a7f9e392f9df9217cb46817b667.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "49m"
+      },
+      {
+        "title": "Choushin Hime Dangaizer 3",
+        "alternativeTitle": "Choushin Hime Dangaizer 3",
+        "id": "choushin-hime-dangaizer-3-9584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/367b656aca089dcdde4d739120dd3a65.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Little Polar Bear: Shirokuma-kun, Doko e?",
+        "alternativeTitle": "Little Polar Bear: Shirokuma-kun, Doko e?",
+        "id": "little-polar-bear-shirokuma-kun-doko-e-14960",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06ee85e4f88c5c989c34d5028608f77d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "Bear Bear Bear Kuma!",
+        "alternativeTitle": "Bear Bear Bear Kuma!",
+        "id": "bear-bear-bear-kuma-17264",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7aa90176722d5ef32084f29998589c1a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "SANTA COMPANY ~Midsummer Merry Christmas~",
+        "alternativeTitle": "Santa Company: Manatsu no Merry Christmas",
+        "id": "santa-company-midsummer-merry-christmas-17520",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/253fed8c3168f1ce60ccd797784e8bec.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "26m"
+      },
+      {
+        "title": "The Westward 3rd season",
+        "alternativeTitle": "Xi Xing Ji: Suming Pian",
+        "id": "the-westward-3rd-season-18032",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4594cc76b912bac374dfe7298a941f3c.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Bunny Drop",
+        "alternativeTitle": "Usagi Drop",
+        "id": "bunny-drop-113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/036b4c7ecc84c896e1bbeadbd44088de.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "The Wind Rises",
+        "alternativeTitle": "Kaze Tachinu",
+        "id": "the-wind-rises-369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d6ab61489ebd528f6471174040dbb48.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "126m"
+      },
+      {
+        "title": "Date A Live II: Kurumi Star Festival",
+        "alternativeTitle": "Date A Live II: Kurumi Star Festival",
+        "id": "date-a-live-ii-kurumi-star-festival-625",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5782daafd189cda8d9de763fc98c1001.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Detective School Q",
+        "alternativeTitle": "Tantei Gakuen Q",
+        "id": "detective-school-q-881",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/738253ff6e9d6ed460c6d929039e10e8.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 0,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+        "alternativeTitle": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+        "id": "natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai-1137",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11b8c38f55113eb0ae636f61eb672aee.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Fantastic Children",
+        "alternativeTitle": "Fantastic Children",
+        "id": "fantastic-children-1393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40133ad213f4f590fc63e4e5c7d92075.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure",
+        "alternativeTitle": "JoJo no Kimyou na Bouken",
+        "id": "jojos-bizarre-adventure-2161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e3c8512d5c909045c7d4df5cb3312f6.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "35m"
+      },
+      {
+        "title": "Patlabor: The Mobile Police",
+        "alternativeTitle": "Kidou Keisatsu Patlabor",
+        "id": "patlabor-the-mobile-police-2417",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19f98ef5dfa209bec6570e0abdfcc77d.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Rockman.EXE Movie: Hikari to Yami no Program",
+        "alternativeTitle": "Rockman.EXE Movie: Hikari to Yami no Program",
+        "id": "rockmanexe-movie-hikari-to-yami-no-program-2673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b2a6fd7cd8c4585043c976d82ae5e65.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "MEKAKUCITY ACTORS",
+        "alternativeTitle": "Mekakucity Actors",
+        "id": "mekakucity-actors-3185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da08fbd818fd1e7e65222c66cd0ba427.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dream Eater Merry",
+        "alternativeTitle": "Yumekui Merry",
+        "id": "dream-eater-merry-3697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf887d7b935f6039eaaf71ed33fd9af9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aikatsu Friends!: Kagayaki no Jewel",
+        "alternativeTitle": "Aikatsu Friends!: Kagayaki no Jewel",
+        "id": "aikatsu-friends-kagayaki-no-jewel-3953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b94dbdd4a07ba65d2221ae024b3419a5.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

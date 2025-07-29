@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 30,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "The Asterisk War",
+        "alternativeTitle": "Gakusen Toshi Asterisk",
+        "id": "the-asterisk-war-3820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63b32c570eb780e7e441af2980d442a6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Devil Lady",
+        "alternativeTitle": "Devilman Lady",
+        "id": "the-devil-lady-4981",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afce8a88602d0e8c4125dc81ac9524f0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The God of High School",
+        "alternativeTitle": "The God of High School",
+        "id": "the-god-of-high-school-2464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acd2c05725993caa21dcfe604dff077b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Hidden Dungeon Only I Can Enter",
+        "alternativeTitle": "Ore dake Haireru Kakushi Dungeon",
+        "id": "the-hidden-dungeon-only-i-can-enter-15507",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b64ef1a0ef9acf430887337dd0d7392.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Irregular at Magic High School: Visitor Arc",
+        "alternativeTitle": "Mahouka Koukou no Rettousei: Raihousha-hen",
+        "id": "the-irregular-at-magic-high-school-visitor-arc-631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b72b138f65d03a6088ca4ac5ef1f0881.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Magnificent Kotobuki",
+        "alternativeTitle": "Kouya no Kotobuki Hikoutai",
+        "id": "the-magnificent-kotobuki-4130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f2345cb95a2188a5cbb741e4c2f7838.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Misfit of Demon King Academy",
+        "alternativeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
+        "id": "the-misfit-of-demon-king-academy-1768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e187d4c9cd03e83ac35c5b70188e8d7d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Reflection",
+        "alternativeTitle": "The Reflection",
+        "id": "the-reflection-10102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90606a6a7871972d38fd09c580c47cf2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Rising of the Shield Hero",
+        "alternativeTitle": "Tate no Yuusha no Nariagari",
+        "id": "the-rising-of-the-shield-hero-524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96a77594aa934827b474c4955a8e10e4.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Seven Deadly Sins",
+        "alternativeTitle": "Nanatsu no Taizai",
+        "id": "the-seven-deadly-sins-561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2d2c39e190b7d01dd8bccd985df742c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Revival of the Commandments",
+        "alternativeTitle": "Nanatsu no Taizai: Imashime no Fukkatsu",
+        "id": "the-seven-deadly-sins-revival-of-the-commandments-604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f20aab9d22941ff2b43411db338bb411.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Signs of Holy War",
+        "alternativeTitle": "Nanatsu no Taizai: Seisen no Shirushi",
+        "id": "the-seven-deadly-sins-signs-of-holy-war-2810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2f22e7c948e3f6c029c0acc31a5e990.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Wrath of the Gods",
+        "alternativeTitle": "Nanatsu no Taizai: Kamigami no Gekirin",
+        "id": "the-seven-deadly-sins-wrath-of-the-gods-6469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a92f10726aa6fe6ba369bacefb61b8a0.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Judgement of Fury",
+        "alternativeTitle": "Nanatsu no Taizai: Fundo no Shinpan",
+        "id": "nanatsu-no-taizai-fundo-no-shinpan-15823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7513cf8e467b29f49967ac2110d5970d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Twelve Kingdoms",
+        "alternativeTitle": "Juuni Kokuki",
+        "id": "the-twelve-kingdoms-447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b15527b9f7a3729b2aace38aa3faccb.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 45,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Unlimited Psychic Squad",
+        "alternativeTitle": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
+        "id": "unlimited-psychic-squad-1413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fe549dad9b4dc6f21d85884b56b7329.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tiger & Bunny",
+        "alternativeTitle": "Tiger & Bunny",
+        "id": "tiger-bunny-585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23eb2d81e83d29323e4f2b909afd2677.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tiger Mask W",
+        "alternativeTitle": "Tiger Mask W",
+        "id": "tiger-mask-w-3626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92de4ddb9358a72eae12d1d224770430.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bloodivores",
+        "alternativeTitle": "Bloodivores",
+        "id": "bloodivores-9308",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53077000a93ea3e58e1cec79958db684.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To the Abandoned Sacred Beasts",
+        "alternativeTitle": "Katsute Kami Datta Kemono-tachi e",
+        "id": "to-the-abandoned-sacred-beasts-6163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/201eadf2331f22da6d386744129f333b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokyo Ghoul:re",
+        "alternativeTitle": "Tokyo Ghoul:re",
+        "id": "tokyo-ghoulre-5167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a063d18ffaef8d2d72fcb845211075a1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Ghoul:re 2nd Season",
+        "alternativeTitle": "Tokyo Ghoul:re 2nd Season",
+        "id": "tokyo-ghoulre-2nd-season-6585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1018175f05592c650c69c9c6e06b455b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Ravens",
+        "alternativeTitle": "Tokyo Ravens",
+        "id": "tokyo-ravens-1366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d3793dc05cf5cce66b3a5ac1d83a2aa.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Muv-Luv Alternative: Total Eclipse",
+        "alternativeTitle": "Muv-Luv Alternative: Total Eclipse",
+        "id": "muv-luv-alternative-total-eclipse-3094",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5b42c626ef877ff47a396b284d104dc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 24,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Touken Ranbu - Hanamaru",
+        "alternativeTitle": "Touken Ranbu: Hanamaru",
+        "id": "touken-ranbu-hanamaru-4259",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49c1df173c481d6b59b02e2dfa0fe6b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tower of God",
+        "alternativeTitle": "Kami no Tou",
+        "id": "tower-of-god-866",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baadf81b77dc17f41ff30610b7efbfc6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Trinity Seven",
+        "alternativeTitle": "Trinity Seven",
+        "id": "trinity-seven-2707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b83e86034efb224f601b85f105d6ab4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "∀ Gundam",
+        "alternativeTitle": "Turn A Gundam",
+        "id": "gundam-1039",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/913831d50456f316b3f4865794f60f9b.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Twin Star Exorcists",
+        "alternativeTitle": "Sousei no Onmyouji",
+        "id": "twin-star-exorcists-2178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0c2f71ae35c9d02dce5d847fe34e7e7.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tsubasa RESERVoir CHRoNiCLE Season Two",
+        "alternativeTitle": "Tsubasa Chronicle 2nd Season",
+        "id": "tsubasa-reservoir-chronicle-season-two-1249",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cde48c5968efac5529474a7b820266da.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tokyo Ghoul",
+        "alternativeTitle": "Tokyo Ghoul",
+        "id": "tokyo-ghoul-790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6ffd8294e7a5d540d7c462e94400189.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Ghoul √A",
+        "alternativeTitle": "Tokyo Ghoul √A",
+        "id": "tokyo-ghoul-a-3130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8798db1ca7bd21638202c622c770b313.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tenchi Muyou! GXP",
+        "alternativeTitle": "Tenchi Muyou! GXP",
+        "id": "tenchi-muyou-gxp-2785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fdd3962c805e98d0c86aebfe3e1a29a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Brave Fighter Exkizer",
+        "alternativeTitle": "Yuusha Exkaiser",
+        "id": "the-brave-fighter-exkizer-5811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc65ae276e0981b96cbe1ab4ad1bba0b.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

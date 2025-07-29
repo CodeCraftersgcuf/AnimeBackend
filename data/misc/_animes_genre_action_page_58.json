@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 58,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Fight!! Iczer-1",
+        "alternativeTitle": "Tatakae!! Iczer-1",
+        "id": "fight-iczer-1-7747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cba253596adcfd4187598ccc26909051.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Kite",
+        "alternativeTitle": "A Kite",
+        "id": "kite-16204",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/746d993e054e200c4e3148dd90df225c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Hokuto no Ken: Legend of Heroes",
+        "alternativeTitle": "Hokuto no Ken: Legend of Heroes",
+        "id": "hokuto-no-ken-legend-of-heroes-7726",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98bdbf6e4e80937d98ca5c15201a17a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "Gall Force: Earth Chapter",
+        "alternativeTitle": "Gall Force: Chikyuu Shou",
+        "id": "gall-force-earth-chapter-7012",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84477b0f537ab1afd8d86e844852473e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Generation of Chaos III: Time of the Seal",
+        "alternativeTitle": "Generation of Chaos III: Toki no Fuuin",
+        "id": "generation-of-chaos-iii-time-of-the-seal-10550",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e89f5d962ba11826be476f1e7b3145a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Gall Force: New Era",
+        "alternativeTitle": "Gall Force: New Era",
+        "id": "gall-force-new-era-8664",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1438116d3122cae512cedc195f5f781e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Usuzumizakura: Garo",
+        "alternativeTitle": "Usuzumizakura: Garo",
+        "id": "usuzumizakura-garo-7386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21bc59f0fed5aee010ef4cce6e2640b3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Kagaku Ninja-tai Gatchaman (Movie)",
+        "alternativeTitle": "Kagaku Ninja-tai Gatchaman (Movie)",
+        "id": "kagaku-ninja-tai-gatchaman-movie-7507",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/624c685db479cd055d52c6d42d5bf671.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "111m"
+      },
+      {
+        "title": "Generation of Chaos Next: Chikai no Pendant",
+        "alternativeTitle": "Generation of Chaos Next: Chikai no Pendant",
+        "id": "generation-of-chaos-next-chikai-no-pendant-10591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51bd0c606a71c8a46cd172c405e09d7b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Generation of Chaos",
+        "alternativeTitle": "Generation of Chaos",
+        "id": "generation-of-chaos-10663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70bfe1f090099d7f920e1ccc59d2cd1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Vanquished Queens",
+        "alternativeTitle": "Vanquished Queens",
+        "id": "vanquished-queens-7683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef415fafc14642b5dcc0319c85d6fcb6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "eX-Driver the Movie",
+        "alternativeTitle": "eX-Driver the Movie",
+        "id": "ex-driver-the-movie-5019",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3bbcec2f7ae22e00eec5b45d6081fde.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "62m"
+      },
+      {
+        "title": "Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland",
+        "alternativeTitle": "Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland",
+        "id": "frame-arms-girl-movie-kyakkya-ufufu-na-wonderland-7880",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/263f59f9405f4e683e16a51964a2fb08.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Fusé: Memoirs of a Huntress",
+        "alternativeTitle": "Fuse: Teppou Musume no Torimonochou",
+        "id": "fuse-memoirs-of-a-huntress-2032",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55fc96d8bdb248221e9f27f9d01a668a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+        "alternativeTitle": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+        "id": "eureka-seven-ao-jungfrau-no-hanabana-tachi-6731",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54fc6deda8aaa1edb202bae6f4090458.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "31m"
+      },
+      {
+        "title": "Hellsing: Digest for Freaks",
+        "alternativeTitle": "Hellsing: Digest for Freaks",
+        "id": "hellsing-digest-for-freaks-1063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccae821a719bf16e3e616da7ff17c245.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Gall Force: The Revolution",
+        "alternativeTitle": "Gall Force: The Revolution",
+        "id": "gall-force-the-revolution-8011",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51744250810db9cf7034db3b158cf758.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Full Metal Panic! Movie 1: Boy Meets Girl",
+        "alternativeTitle": "Full Metal Panic! Movie 1: Boy Meets Girl",
+        "id": "full-metal-panic-movie-1-boy-meets-girl-4149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c75e8af990edd9aa3bc0180e8a2240d7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "DNA Sights 999.9",
+        "alternativeTitle": "DNA Sights 999.9",
+        "id": "dna-sights-9999-7715",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a47698abeb0c27f568627d88e6b85f35.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "Gargantia on the Verdurous Planet: Specials",
+        "alternativeTitle": "Suisei no Gargantia Specials",
+        "id": "gargantia-on-the-verdurous-planet-specials-2772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95342a7bae1ec73869bd204a675deb15.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Gargantia on the Verdurous Planet: Far Beyond the Voyage",
+        "alternativeTitle": "Suisei no Gargantia: Meguru Kouro, Haruka",
+        "id": "gargantia-on-the-verdurous-planet-far-beyond-the-voyage-2002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86522bcd007facfd940738cc2f809543.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "53m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean Part 2",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
+        "id": "jojos-bizarre-adventure-part-6-stone-ocean-part-2-17819",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40658eaf20b54d13f296f40724d23839.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure: Stone Ocean Part 3",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+        "id": "jojos-bizarre-adventure-stone-ocean-part-3-18230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b59e46f13d954d950eeae33bed2b5df8.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Gaist Crusher",
+        "alternativeTitle": "Gaist Crusher",
+        "id": "gaist-crusher-8189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abe17f57363f4ded24d81abe679f774c.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Galaxy Express 999: Eternal Fantasy",
+        "alternativeTitle": "Ginga Tetsudou 999: Eternal Fantasy",
+        "id": "galaxy-express-999-eternal-fantasy-5097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfff6e92ae899ee4d3642d21feaab190.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "54m"
+      },
+      {
+        "title": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+        "alternativeTitle": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+        "id": "gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi-434",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e314b4c312604128ab6ceecac3546a1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "32m"
+      },
+      {
+        "title": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+        "alternativeTitle": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+        "id": "gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru-410",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/891956f052138172099679e5065f906a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+        "alternativeTitle": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+        "id": "gintama0-umai-mono-wa-atomawashi-ni-suru-to-yokodorisareru-kara-yappari-saki-ni-kue-420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/379b4bb142a787919cca1a17618f9256.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Gintama: Shiroyasha Koutan",
+        "alternativeTitle": "Gintama: Shiroyasha Koutan",
+        "id": "gintama-shiroyasha-koutan-192",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/849ad157d5bf0caff8db6fae38332b83.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Golgo 13: Queen Bee",
+        "alternativeTitle": "Golgo 13: Queen Bee",
+        "id": "golgo-13-queen-bee-5319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6a7858513b0e29ca03c0a18b9e172bf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "56m"
+      },
+      {
+        "title": "Getter Robo: Armageddon",
+        "alternativeTitle": "Change!! Getter Robo: Sekai Saigo no Hi",
+        "id": "getter-robo-armageddon-1071",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/199101626a37735a209475c31d582cf7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Black Rock Shooter:  Dawn Fall",
+        "alternativeTitle": "Black Rock Shooter:  Dawn Fall",
+        "id": "black-rock-shooter-dawn-fall-17981",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/497d6c88392709c7b084a4e410993a73.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gundam Build Divers Battlogue",
+        "alternativeTitle": "Gundam Build Divers Battlogue",
+        "id": "gundam-build-divers-battlogue-17365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b772ba7244ec6c38bd6d56cde51cbb8f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": ".hack//G.U. Trilogy",
+        "alternativeTitle": ".hack//G.U. Trilogy",
+        "id": "hackgu-trilogy-2965",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd15dacc445300ff76be2f5da94228ad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      }
+    ]
+  }
+}

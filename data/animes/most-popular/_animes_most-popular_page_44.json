@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 44,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Hanamaru Kindergarten",
+        "alternativeTitle": "Hanamaru Youchien",
+        "id": "hanamaru-kindergarten-2244",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e37df4d257dcb43c650d1559ce6c108.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ben-To",
+        "alternativeTitle": "Ben-To",
+        "id": "ben-to-2311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22bf01b5e667839003adafe1d63cdf8d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Teen Romantic Comedy SNAFU Climax! OVA",
+        "alternativeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA",
+        "id": "my-teen-romantic-comedy-snafu-climax-ova-17423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d91f1e40166ccaf5a163843c1ac7ee5f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Ah My Buddha",
+        "alternativeTitle": "Amaenaide yo!!",
+        "id": "ah-my-buddha-5740",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0387362068e623599fdaa392dd58b26b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tong Ling Fei",
+        "alternativeTitle": "Tong Ling Fei",
+        "id": "tong-ling-fei-829",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df407bff7cec7cc2a1ca97088d6b5b54.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Fighting Spirit: Champion Road",
+        "alternativeTitle": "Hajime no Ippo: Champion Road",
+        "id": "fighting-spirit-champion-road-217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4c8d1bfd3c4a2dbf84c23ced8c284eb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "My Matchmaking Partner Is My Student, An Aggressive Troublemaker",
+        "alternativeTitle": "Omiai Aite wa Oshiego, Tsuyoki na, Mondaiji.",
+        "id": "my-matchmaking-partner-is-my-student-an-aggressive-troublemaker-9182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28e2c10a51150721a2906ce99d57b018.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "InuYasha: The Final Act",
+        "alternativeTitle": "InuYasha: Kanketsu-hen",
+        "id": "inuyasha-the-final-act-277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0f297d44bbf455f222f0169eafeb382.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Unlimited Psychic Squad",
+        "alternativeTitle": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
+        "id": "unlimited-psychic-squad-1413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fe549dad9b4dc6f21d85884b56b7329.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED Destiny",
+        "alternativeTitle": "Mobile Suit Gundam SEED Destiny",
+        "id": "mobile-suit-gundam-seed-destiny-2646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c4eecf19b1e13ab9329e850c91f005d.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tsugu Tsugumomo",
+        "alternativeTitle": "Tsugu Tsugumomo",
+        "id": "tsugu-tsugumomo-1489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c0686923a6225c5e8f6a66cbab6b5e5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sound! Euphonium",
+        "alternativeTitle": "Hibike! Euphonium",
+        "id": "sound-euphonium-518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5eee6991a03ed8f402f7ae806099d220.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cerberus",
+        "alternativeTitle": "Seisen Cerberus: Ryuukoku no Fatalités",
+        "id": "cerberus-9013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aae02d304caf98ad584dc3a67d3b0c81.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tribe Nine",
+        "alternativeTitle": "Tribe Nine",
+        "id": "tribe-nine-17937",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12134eae0520bf4402d69ea83bf3bd74.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yashahime: Princess Half-Demon: The Second Act",
+        "alternativeTitle": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
+        "id": "yashahime-princess-half-demon-the-second-act-17711",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51d3f0fe20d20d7ba2644f56fa20adf5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Cultivator Girlfriend",
+        "alternativeTitle": "Wo de Tian Jie Nu You",
+        "id": "my-cultivator-girlfriend-5362",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b560e6b1d5fe8c43c644752615059033.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Bikini Warriors Special",
+        "alternativeTitle": "Bikini Warriors Special",
+        "id": "bikini-warriors-special-9619",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1639c5cc8a23ec3b2b7a7152641d71f3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Doupo Cangqiong 4th Season",
+        "alternativeTitle": "Doupo Cangqiong 4th Season",
+        "id": "doupo-cangqiong-4th-season-17407",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59b9df4aa77403dcfdfecf2a24cc8bb7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Asa made Jugyou Chu!",
+        "alternativeTitle": "Asa made Jugyou Chu!",
+        "id": "asa-made-jugyou-chu-7406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d9ddab481f546eb22209115e94356c0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Words Bubble Up Like Soda Pop",
+        "alternativeTitle": "Cider no You ni Kotoba ga Wakiagaru",
+        "id": "words-bubble-up-like-soda-pop-15678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/608142cdfc304c353d5368cbef9e9728.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "0m"
+      },
+      {
+        "title": "Super Crooks",
+        "alternativeTitle": "Super Crooks",
+        "id": "super-crooks-17918",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d0e96e0265b3abac8660d57fc1df48f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyblade: Metal Masters",
+        "alternativeTitle": "Metal Fight Beyblade: Baku",
+        "id": "beyblade-metal-masters-4570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8733dfe7340dc281f40981e9419abb91.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Nura: Rise of the Yokai Clan: Demon Capital",
+        "alternativeTitle": "Nurarihyon no Mago: Sennen Makyou",
+        "id": "nura-rise-of-the-yokai-clan-demon-capital-497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b5308b83095f43ba4817316c00c0dec.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Magmel of the Sea Blue",
+        "alternativeTitle": "Gunjou no Magmell",
+        "id": "magmel-of-the-sea-blue-7960",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02053d12d42c5309493fb769e72422ba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zombie Land Saga",
+        "alternativeTitle": "Zombieland Saga",
+        "id": "zombie-land-saga-1427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61822f6a6402ea90db7cb87038ee0f62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Special A (S.A)",
+        "alternativeTitle": "Special A",
+        "id": "special-a-sa-1353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de14f6cd0de5800076dd329c89590800.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Irina: The Vampire Cosmonaut",
+        "alternativeTitle": "Tsuki to Laika to Nosferatu",
+        "id": "irina-the-vampire-cosmonaut-17701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3664358815e6c3287d043e79127c337.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magical Sempai",
+        "alternativeTitle": "Tejina-senpai",
+        "id": "magical-sempai-5729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97b164c30ab5da65cf44656bba634a58.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "The Familiar of Zero: Rondo of Princesses",
+        "alternativeTitle": "Zero no Tsukaima: Princesses no Rondo",
+        "id": "the-familiar-of-zero-rondo-of-princesses-1858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aea52ce6d8659cb473cf28e6e2f22c0d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nyan Koi!",
+        "alternativeTitle": "Nyan Koi!",
+        "id": "nyan-koi-2671",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/193868f7ba21f2f232e2f6b37606b88d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Lagoon: Roberta's Blood Trail",
+        "alternativeTitle": "Black Lagoon: Roberta's Blood Trail",
+        "id": "black-lagoon-robertas-blood-trail-457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9001710f3a1009f07b81d494fb90e7a.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Burn the Witch",
+        "alternativeTitle": "Burn the Witch",
+        "id": "burn-the-witch-2476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb6378acfba97847bb75034de250bcc3.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Movie",
+        "duration": "21m"
+      },
+      {
+        "title": "Strawberry Marshmallow",
+        "alternativeTitle": "Ichigo Mashimaro",
+        "id": "strawberry-marshmallow-1121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c609fe04893562c9a23364fa991d9c4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shin Ikkitousen",
+        "alternativeTitle": "Shin Ikkitousen",
+        "id": "shin-ikkitousen-18001",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60507840d9f8c3d5fc5bb44d44e4067d.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "My Hero Academia ONA",
+        "alternativeTitle": "Boku no Hero Academia (ONA)",
+        "id": "my-hero-academia-ona-18136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd05c8c5b679ade2100781114e974160.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece: Episode of Skypiea",
+        "alternativeTitle": "One Piece: Episode of Sorajima",
+        "id": "one-piece-episode-of-skypiea-3097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a593442adebb95308e506e969852aa0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "105m"
+      },
+      {
+        "title": "Dragon Ball Z: Cooler's Revenge",
+        "alternativeTitle": "Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou",
+        "id": "dragon-ball-z-coolers-revenge-3263",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2da3e20a80d3efd49bb389f92340df0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "46m"
+      },
+      {
+        "title": "Doraemon (US)",
+        "alternativeTitle": "Doraemon (US)",
+        "id": "doraemon-us-17863",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bc3d3be727bb06713808f043ff574d1.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam Wing",
+        "alternativeTitle": "Mobile Suit Gundam Wing",
+        "id": "mobile-suit-gundam-wing-968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/69d58ccd98d2f1c5c176f41c735aec77.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Horizon in the Middle of Nowhere",
+        "alternativeTitle": "Kyoukaisenjou no Horizon",
+        "id": "horizon-in-the-middle-of-nowhere-3085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/065f6ee2502a879d762727014f03ffe0.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

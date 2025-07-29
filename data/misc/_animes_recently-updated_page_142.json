@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 142,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "THE IDOLM@STER",
+        "alternativeTitle": "The iDOLM@STER",
+        "id": "the-idolmster-1186",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ac2b48768014cc96fe75d7f3d70d009.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Heaven's Memo Pad",
+        "alternativeTitle": "Kamisama no Memochou",
+        "id": "heavens-memo-pad-1442",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b77b312be57ae18e44aa31bc04114d9c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "High School DxD BorN: Yomigaeranai Fushichou",
+        "alternativeTitle": "High School DxD BorN: Yomigaeranai Fushichou",
+        "id": "high-school-dxd-born-yomigaeranai-fushichou-1698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04aa1cc88ed580094fc6c6789a6305af.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Yowamushi Pedal OVA: Special Ride",
+        "alternativeTitle": "Yowamushi Pedal: Special Ride",
+        "id": "yowamushi-pedal-ova-special-ride-1954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0df739da88e4e906ef5989d4964182f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "The Betrayal Knows My Name",
+        "alternativeTitle": "Uragiri wa Boku no Namae wo Shitteiru",
+        "id": "the-betrayal-knows-my-name-2466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74d974dff57e8e59b8946fd252c34a29.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hellsing: The Dawn",
+        "alternativeTitle": "Hellsing: The Dawn",
+        "id": "hellsing-the-dawn-2722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e98fcc80a8a2eb1d22cccb66ab3b70ad.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Jungle Emperor Leo",
+        "alternativeTitle": "Jungle Taitei Movie (1997)",
+        "id": "jungle-emperor-leo-3234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fe89b9eed5acb3da553654ae4f1e32c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "NG Knight Ramune & 40",
+        "alternativeTitle": "NG Knight Ramune & 40",
+        "id": "ng-knight-ramune-40-3746",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d31b6c467f366d4af421bffb4b60d657.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Katri, Girl of the Meadows",
+        "alternativeTitle": "Makiba no Shoujo Katri",
+        "id": "katri-girl-of-the-meadows-4002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e50a703816a56798787df5a17ee15c9.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ikkitousen: Dragon Destiny Specials",
+        "alternativeTitle": "Ikkitousen: Dragon Destiny Specials",
+        "id": "ikkitousen-dragon-destiny-specials-5026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d75505d1b9ca53859949f9f1c18029f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Fatal Fury: The Motion Picture",
+        "alternativeTitle": "Fatal Fury: The Motion Picture",
+        "id": "fatal-fury-the-motion-picture-5282",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a248ea48471d2920bcc7e452e166ae05.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Occult Academy Specials",
+        "alternativeTitle": "Seikimatsu Occult Gakuin Specials",
+        "id": "occult-academy-specials-5538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9aae297b5816b8515b3a079e8f520648.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Beast Wars Neo",
+        "alternativeTitle": "Chou Seimeitai Transformers Beast Wars Neo",
+        "id": "beast-wars-neo-6050",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f537208d159359f0aee2934559045273.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "SD Gundam Sangokuden Brave Battle Warriors",
+        "alternativeTitle": "SD Gundam Sangokuden Brave Battle Warriors",
+        "id": "sd-gundam-sangokuden-brave-battle-warriors-6562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c4651667f29ebae1b39ce8fbde56c28.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Lime-iro Senkitan: Nankoku Yume Roman",
+        "alternativeTitle": "Lime-iro Senkitan: Nankoku Yume Roman",
+        "id": "lime-iro-senkitan-nankoku-yume-roman-7074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/865625c99a78bd935577c522904cbf10.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Dragoon",
+        "alternativeTitle": "Dragoon",
+        "id": "dragoon-8610",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/429baa98147697080d985cba941544b5.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Yamishibai: Japanese Ghost Stories 4",
+        "alternativeTitle": "Yami Shibai 4",
+        "id": "yamishibai-japanese-ghost-stories-4-8866",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c4968c0a84a4aad51d3cd02f6f0a8af.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "The Chohjotai",
+        "alternativeTitle": "The Gakuen Choujo-tai",
+        "id": "the-chohjotai-9122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23e457c0fbc61f6fb12fdecd811789b7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Joker: Marginal City",
+        "alternativeTitle": "Joker: Marginal City",
+        "id": "joker-marginal-city-9634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb4fc7661d47f6a8481add9343b862a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "36m"
+      },
+      {
+        "title": "Scar on the Praeter",
+        "alternativeTitle": "Project Scard: Praeter no Kizu",
+        "id": "scar-on-the-praeter-15522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3176cb3c1d77e56a18e3a989a9639b5a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Banana Fish",
+        "alternativeTitle": "Banana Fish",
+        "id": "banana-fish-163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78cd3068b1a2e01370ead2b2ed8f939c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Full Metal Panic? Fumoffu",
+        "alternativeTitle": "Full Metal Panic? Fumoffu",
+        "id": "full-metal-panic-fumoffu-419",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f2e235f1fe36c0d071b4a3a42cfec7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaleido Star: Legend of Phoenix - The Layla Hamilton Story",
+        "alternativeTitle": "Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari",
+        "id": "kaleido-star-legend-of-phoenix-the-layla-hamilton-story-675",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88915a2626f894a408e1ed735a2cb4ff.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Hybrid Child",
+        "alternativeTitle": "Hybrid Child",
+        "id": "hybrid-child-931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb58440dece184d4688b8c8325409026.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "A Certain Magical Index II",
+        "alternativeTitle": "Toaru Majutsu no Index II",
+        "id": "a-certain-magical-index-ii-1187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b83281717238275d76005c9de2e4ebc.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "the Garden of sinners Chapter 6: Oblivion Recording",
+        "alternativeTitle": "Kara no Kyoukai 6: Boukyaku Rokuon",
+        "id": "the-garden-of-sinners-chapter-6-oblivion-recording-1443",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b0b902026530c88096d1396c826fcaa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "When They Cry: Rei",
+        "alternativeTitle": "Higurashi no Naku Koro ni Rei",
+        "id": "when-they-cry-rei-1699",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/015136b876d37f4432a9c08f9ca3d2d5.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Yuki Yuna is a Hero",
+        "alternativeTitle": "Yuuki Yuuna wa Yuusha de Aru",
+        "id": "yuki-yuna-is-a-hero-1955",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c945e6fdca9672097a846b8a78e48b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "El Hazard: The Magnificent World",
+        "alternativeTitle": "El Hazard: The Magnificent World",
+        "id": "el-hazard-the-magnificent-world-2211",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45480ca725669feba4baedb3f6b76a63.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "Wei, Kanjian Erduo La!",
+        "alternativeTitle": "Wei, Kanjian Erduo La!",
+        "id": "wei-kanjian-erduo-la-2467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1202e282f40e8b5d63e51d39d5333953.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "High School Fleet OVA",
+        "alternativeTitle": "High School Fleet OVA",
+        "id": "high-school-fleet-ova-2723",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fb42d06262aa3beac303e0cf894300d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Legends of the Dark King: A Fist of the North Star Story",
+        "alternativeTitle": "Hokuto no Ken: Raoh Gaiden Ten no Haoh",
+        "id": "legends-of-the-dark-king-a-fist-of-the-north-star-story-2979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/769b415bbf9c89d6d7a11895b0b88b2e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaibutsu Oujo (OVA)",
+        "alternativeTitle": "Kaibutsu Oujo (OVA)",
+        "id": "kaibutsu-oujo-ova-3235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a07850917288810d38db92af378ad1a2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Nightwalker: The Midnight Detective",
+        "alternativeTitle": "Night Walker: Mayonaka no Tantei",
+        "id": "nightwalker-the-midnight-detective-3747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd456d85582bd7893fc779971dfb201d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Myriad Colors Phantom World",
+        "alternativeTitle": "Musaigen no Phantom World",
+        "id": "myriad-colors-phantom-world-4003",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb38e2a961046a4e60fec4f6720a255e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Touken Ranbu - Hanamaru",
+        "alternativeTitle": "Touken Ranbu: Hanamaru",
+        "id": "touken-ranbu-hanamaru-4259",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49c1df173c481d6b59b02e2dfa0fe6b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "THE IDOLM@STER CINDERELLA GIRLS Theater (Web)",
+        "alternativeTitle": "Cinderella Girls Gekijou: Kayou Cinderella Theater",
+        "id": "the-idolm-at-ster-cinderella-girls-theater-web-6051",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb645a6bcab21ab85222cd5125f2360e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Magical Kanan",
+        "alternativeTitle": "Magical Canan",
+        "id": "magical-kanan-7075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e13a92a67691e7f6e7eda245b470fa31.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nutcracker Fantasy",
+        "alternativeTitle": "Kurumiwari Ningyou",
+        "id": "nutcracker-fantasy-8099",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41e5f41aa7e214aba8d3cd0e4f5e069f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "81m"
+      },
+      {
+        "title": "Angel's Drop",
+        "alternativeTitle": "Tenshi no Drop",
+        "id": "angels-drop-10659",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53b5dd127b7e241a5aec74b91a9035f6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "5m"
+      }
+    ]
+  }
+}

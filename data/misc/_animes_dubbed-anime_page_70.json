@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 70,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Bobobo-bo Bo-bobo",
+        "alternativeTitle": "Bobobo-bo Bo-bobo",
+        "id": "bobobo-bo-bo-bobo-1564",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/262354c97ba27178cba053556a7deedc.jpg",
+        "episodes": {
+          "sub": 76,
+          "dub": 76,
+          "eps": 76
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Baki: Dai Raitaisai-hen",
+        "alternativeTitle": "Baki: Dai Raitaisai-hen",
+        "id": "baki-dai-raitaisai-hen-1563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b45c40e018680e462d51c2c0c7da181.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Butler II Specials",
+        "alternativeTitle": "Kuroshitsuji II Specials",
+        "id": "black-butler-ii-specials-1559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de63b7552517c22be9a779f2cfbac12f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Stars Align",
+        "alternativeTitle": "Hoshiai no Sora",
+        "id": "stars-align-1557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1b48b20775ab04973e45b9d92dda15a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Excel Saga",
+        "alternativeTitle": "Heppoko Jikken Animation Excel♥Saga",
+        "id": "excel-saga-1556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2eeeed5a1636a134c296183aad57b65f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hellsing",
+        "alternativeTitle": "Hellsing",
+        "id": "hellsing-1555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4feb42b614d2fb5d692a335d30895c69.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hal",
+        "alternativeTitle": "Hal",
+        "id": "hal-1554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e8539ed4b8f3dc340d5dfb9375ded27.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
+        "alternativeTitle": "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
+        "id": "haikara-san-ga-tooru-movie-1-benio-hana-no-17-sai-1553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55e944176c2b7ea5d8122ab6f4b8cc21.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Aura: Koga Maryuin's Last War",
+        "alternativeTitle": "Aura: Maryuuin Kouga Saigo no Tatakai",
+        "id": "aura-koga-maryuins-last-war-1549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58a765525d97a3e0ab57b2ee6276a343.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "83m"
+      },
+      {
+        "title": "Zipang",
+        "alternativeTitle": "Zipang",
+        "id": "zipang-1545",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ffafe2d46ce5aeec632af4ea727ddc3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Captain Harlock: Arcadia of my Youth",
+        "alternativeTitle": "Waga Seishun no Arcadia",
+        "id": "captain-harlock-arcadia-of-my-youth-1543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdb317bab11cefcf11918bed4ce439b5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "Towanoquon: The Complicity of Dreams",
+        "alternativeTitle": "Towa no Quon 3: Mugen no Renza",
+        "id": "towanoquon-the-complicity-of-dreams-1542",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/873e1eabb2df2284c033a34ad03c2e1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Persona 4 the Animation: No One is Alone",
+        "alternativeTitle": "Persona 4 the Animation: No One is Alone",
+        "id": "persona-4-the-animation-no-one-is-alone-1537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b99ad2f30abc70f3a6153e7a264b28f7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "30m"
+      },
+      {
+        "title": "Seraph of the End: Vampire Reign",
+        "alternativeTitle": "Owari no Seraph",
+        "id": "seraph-of-the-end-vampire-reign-1536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d93a1caa9551838b22f994a015c5a0b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Oban Star-Racers",
+        "alternativeTitle": "Oban Star-Racers",
+        "id": "oban-star-racers-1535",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8134368ad5378807dc835676427e2f3c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "alternativeTitle": "Toaru Majutsu no Index Movie: Endymion no Kiseki",
+        "id": "a-certain-magical-index-the-movie-the-miracle-of-endymion-1530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b6ebb8b0e8df948b291efb8018837d5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Dusk Maiden of Amnesia: Ghost Girl",
+        "alternativeTitle": "Tasogare Otome x Amnesia: Taima Otome",
+        "id": "dusk-maiden-of-amnesia-ghost-girl-1529",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3aa702810f1b4606c505f9485ed100fe.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Say \"I Love You\".",
+        "alternativeTitle": "Sukitte Ii na yo.",
+        "id": "say-i-love-you-1528",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52c6f2687b0180bab48d97c87261a47c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gargantia on the Verdurous Planet",
+        "alternativeTitle": "Suisei no Gargantia",
+        "id": "gargantia-on-the-verdurous-planet-1527",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f5472fd4d49397d57d8b4fd0913e29a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Prince of Tennis II: Specials",
+        "alternativeTitle": "Shin Tennis no Ouji-sama Specials",
+        "id": "the-prince-of-tennis-ii-specials-1526",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ae2bd66cdf1800a2fb1c57e2320029a.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Nanbaka: Season 2",
+        "alternativeTitle": "Nanbaka 2",
+        "id": "nanbaka-season-2-1524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/535b95c057072742f160bd4e900c395d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Kakuriyo: Bed and Breakfast for Spirits",
+        "alternativeTitle": "Kakuriyo no Yadomeshi",
+        "id": "kakuriyo-bed-and-breakfast-for-spirits-1520",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f73d22a8f56640b2c84cb310711bbeca.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Higurashi: When They Cry – Gou",
+        "alternativeTitle": "Higurashi no Naku Koro ni Gou",
+        "id": "higurashi-when-they-cry-gou-1518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cd1ab997ed0ae2d6ec14ef690fcd65e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love, Chunibyo & Other Delusions!: Sparkling... Slapstick Noel",
+        "alternativeTitle": "Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel",
+        "id": "love-chunibyo-other-delusions-sparkling-slapstick-noel-1515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d1ab1a2ad509781e1390363cc130a7e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Waiting in the Summer",
+        "alternativeTitle": "Ano Natsu de Matteru",
+        "id": "waiting-in-the-summer-1514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58b6ed7c0ed874b6290b320c538e760e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ajin: Demi-Human",
+        "alternativeTitle": "Ajin",
+        "id": "ajin-demi-human-1512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83d665fddd648684ded2222240832df5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magic Knight Rayearth II",
+        "alternativeTitle": "Magic Knight Rayearth II",
+        "id": "magic-knight-rayearth-ii-1509",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d39ab53e7eb73e813fed9336d7ca7ed.jpg",
+        "episodes": {
+          "sub": 29,
+          "dub": 29,
+          "eps": 29
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Arise - Border 2: Ghost Whispers",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers",
+        "id": "ghost-in-the-shell-arise-border-2-ghost-whispers-1508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae91c36186646695fab0133774cc662a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "56m"
+      },
+      {
+        "title": "Martian Successor Nadesico",
+        "alternativeTitle": "Kidou Senkan Nadesico",
+        "id": "martian-successor-nadesico-1506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34ca1fdc7888c68d4471a183ccb0c741.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kaleido Star: New Wings Extra Stage",
+        "alternativeTitle": "Kaleido Star: Aratanaru Tsubasa - Extra Stage",
+        "id": "kaleido-star-new-wings-extra-stage-1505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d80601a05bf3ba72b5b4125cc67e2789.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Free! Movie 1: Timeless Medley - Kizuna",
+        "alternativeTitle": "Free! Movie 1: Timeless Medley - Kizuna",
+        "id": "free-movie-1-timeless-medley-kizuna-1499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c30d4c65e361cff07d944eca6ae77a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Digimon Adventure tri. Determination",
+        "alternativeTitle": "Digimon Adventure tri. 2: Ketsui",
+        "id": "digimon-adventure-tri-determination-1498",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b26eb8d6ee791ef73197c98d793a70ed.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Danganronpa 3: The End of Hope's Peak High School - Despair Arc",
+        "alternativeTitle": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+        "id": "danganronpa-3-the-end-of-hopes-peak-high-school-despair-arc-1495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae1e2088b31fece73c76531064225127.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Casshern Sins",
+        "alternativeTitle": "Casshern Sins",
+        "id": "casshern-sins-1494",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/479c6317d846a358662c363b90f71550.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

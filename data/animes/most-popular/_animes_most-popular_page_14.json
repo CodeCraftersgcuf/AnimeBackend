@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 14,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "That Time I Got Reincarnated as a Slime: The Movie - Scarlet Bond",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+        "id": "that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-18191",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f3997b21b21a4d49a73ad751de50a5e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "Triage X (Uncensored)",
+        "alternativeTitle": "Triage X (Uncensored)",
+        "id": "triage-x-uncensored-17886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60d907f07272725909023dcb73a2171b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Deer Friend Nokotan",
+        "alternativeTitle": "Shikanoko Nokonoko Koshitantan",
+        "id": "my-deer-friend-nokotan-19249",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5439875b4262583ec34720afd5e5f10.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Certain Magical Index",
+        "alternativeTitle": "Toaru Majutsu no Index",
+        "id": "a-certain-magical-index-1716",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/365354a46619dd7a0492c15294c36d7a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Dress-Up Darling Season 2",
+        "alternativeTitle": "Sono Bisque Doll wa Koi wo Suru Season 2",
+        "id": "my-dress-up-darling-season-2-19794",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41c10d21a2be8f2aef7491504eb64444.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Battle Through The Heavens 5th Season",
+        "alternativeTitle": "Doupo Cangqiong: Nian Fan",
+        "id": "battle-through-the-heavens-5th-season-18119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069e39f99972004849bab4a2946d968c.jpg",
+        "episodes": {
+          "sub": 157,
+          "dub": 52,
+          "eps": 157
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Bucchigiri?!",
+        "alternativeTitle": "Bucchigiri?!",
+        "id": "bucchigiri-18781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72bfde46c44a200ff11d82049005d3c8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ranma 1/2",
+        "alternativeTitle": "Ranma ½ (2024)",
+        "id": "ranma-1-2-19335",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7047f0a9810e1670278c680381dc3c5b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The 8th son? Are you kidding me?",
+        "alternativeTitle": "Hachi-nan tte, Sore wa Nai deshou!",
+        "id": "the-8th-son-are-you-kidding-me-7283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/510b16c00021897304ecf3ba77e58344.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Death Parade",
+        "alternativeTitle": "Death Parade",
+        "id": "death-parade-292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99a44ff5d886a06213eb9c386f76f450.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2",
+        "alternativeTitle": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+        "id": "the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made-season-2-18283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12020fcacf0967e0c93dbd7573b46753.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Café Terrace and Its Goddesses",
+        "alternativeTitle": "Megami no Café Terrace",
+        "id": "the-cafe-terrace-and-its-goddesses-18358",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2106d53bdce5a97678d71512265a70fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Happy Marriage Season 2",
+        "alternativeTitle": "Watashi no Shiawase na Kekkon 2nd Season",
+        "id": "my-happy-marriage-season-2-19432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2a246a281ee33d66635458797ce76cf.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Ice Guy and His Cool Female Colleague",
+        "alternativeTitle": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+        "id": "the-ice-guy-and-his-cool-female-colleague-18255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f06e623306e909db3c859ad5a26042f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost Stories",
+        "alternativeTitle": "Gakkou no Kaidan",
+        "id": "ghost-stories-1076",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6360bc1c4daff05e1877a6be6e26bb6.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 20,
+          "eps": 19
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kingdom 4th Season",
+        "alternativeTitle": "Kingdom 4th Season",
+        "id": "kingdom-4th-season-17986",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be62d4245131f40fd344f3b51d8003d6.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K. 2",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan 2",
+        "id": "the-disastrous-life-of-saiki-k-2-94",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05878f31a262e24cde809c15266a03ba.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ishura 2nd Season",
+        "alternativeTitle": "Ishura 2nd Season",
+        "id": "ishura-2nd-season-19447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1d70f7787c5988805d0e61df1f056a0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Death March to the Parallel World Rhapsody",
+        "alternativeTitle": "Death March kara Hajimaru Isekai Kyousoukyoku",
+        "id": "death-march-to-the-parallel-world-rhapsody-5372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecc8fb7d813a825064687b3611427795.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+        "alternativeTitle": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+        "id": "the-genius-princes-guide-to-raising-a-nation-out-of-debt-17506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67d9db2506cabd6031721e957a59c97d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Prince of Tennis",
+        "alternativeTitle": "Tennis no Ouji-sama",
+        "id": "the-prince-of-tennis-640",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d44b030d2a4c13bfcbce336181475483.jpg",
+        "episodes": {
+          "sub": 179,
+          "dub": 128,
+          "eps": 179
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "How Not to Summon a Demon Lord Ω",
+        "alternativeTitle": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω",
+        "id": "how-not-to-summon-a-demon-lord-w-15743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f3b248223c972b90a15688537e36053.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Reborn to Master the Blade: From Hero-King to Extraordinary Squire",
+        "alternativeTitle": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi",
+        "id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-18285",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39422c1389fc938de2ae606ba7058195.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/stay night",
+        "alternativeTitle": "Fate/stay night",
+        "id": "fatestay-night-2060",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca2434d645f6b67052348d55bcc852ed.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Demon King Daimao",
+        "alternativeTitle": "Ichiban Ushiro no Daimaou",
+        "id": "demon-king-daimao-3825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/632f0f439448857e63e57ee2dd15a0a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Interspecies Reviewers",
+        "alternativeTitle": "Ishuzoku Reviewers",
+        "id": "interspecies-reviewers-1208",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf73096b82f2640a981a5857a5c0a2dd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Promised Neverland",
+        "alternativeTitle": "Yakusoku no Neverland",
+        "id": "the-promised-neverland-55",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0de9fad948c05346a163d139bf93358f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Blue Exorcist: Shimane Illuminati Saga",
+        "alternativeTitle": "Ao no Exorcist: Shimane Illuminati-hen",
+        "id": "blue-exorcist-shimane-illuminati-saga-18862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba9e528c0152e1939a4bab416234d53c.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
+        "id": "jojos-bizarre-adventure-part-4-diamond-is-unbreakable-17867",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5ad1f8f0379ea4dd1f63b27c8449707.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kiss x Sis (TV)",
+        "alternativeTitle": "Kiss x Sis (TV)",
+        "id": "kiss-x-sis-tv-4712",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab4d821bc0cae4d272e7dfee0457e0a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lookism",
+        "alternativeTitle": "Gaiken Shijou Shugi",
+        "id": "lookism-18234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/36f79c46b79fcd43c27b20c34ba84ead.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "By the Grace of the Gods Season 2",
+        "alternativeTitle": "Kami-tachi ni Hirowareta Otoko 2nd Season",
+        "id": "by-the-grace-of-the-gods-season-2-18242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/804282b759cb21348f029bea344aaed7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Daily Life of the Immortal King 4",
+        "alternativeTitle": "Xian Wang de Richang Shenghuo 4",
+        "id": "the-daily-life-of-the-immortal-king-4-18706",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11370f0ab895f9ecfb438c80b6d80509.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Twin Star Exorcists",
+        "alternativeTitle": "Sousei no Onmyouji",
+        "id": "twin-star-exorcists-2178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0c2f71ae35c9d02dce5d847fe34e7e7.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High School DxD New: Oppai, Tsutsumimasu!",
+        "alternativeTitle": "High School DxD New: Oppai, Tsutsumimasu!",
+        "id": "high-school-dxd-new-oppai-tsutsumimasu-2329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deee773aa750b74dc464b563a14df362.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Insomniacs After School",
+        "alternativeTitle": "Kimi wa Houkago Insomnia",
+        "id": "insomniacs-after-school-18344",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/202a4c434af567174dc7683de096a96c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Tiny Senpai",
+        "alternativeTitle": "Uchi no Kaisha no Chiisai Senpai no Hanashi",
+        "id": "my-tiny-senpai-18486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e700a61aebcfab087f6e9a7543ec8803.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Suppose a Kid from the Last Dungeon Boonies moved to a starter town?",
+        "alternativeTitle": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari",
+        "id": "suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town-15572",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe5a936dab12028964d437b5fc8789e4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece Log: Fish-Man Island Saga",
+        "alternativeTitle": "One Piece: Gyojin Tou-hen",
+        "id": "one-piece-log-fish-man-island-saga-19404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65eebbb906e8dab6e9efc4bf096db3fb.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 0,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nande Koko ni Sensei ga!?",
+        "alternativeTitle": "Nande Koko ni Sensei ga!?",
+        "id": "nande-koko-ni-sensei-ga-5893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e32280f91c5da6549ac576130577646.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      }
+    ]
+  }
+}

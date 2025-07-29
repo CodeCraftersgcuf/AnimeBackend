@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 11,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Honey Lemon Soda",
+        "alternativeTitle": "Honey Lemon Soda",
+        "id": "honey-lemon-soda-19438",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86f9c642f26b43fc3c7925abefe80e5e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Toilet-Bound Hanako-kun Season 2",
+        "alternativeTitle": "Jibaku Shounen Hanako-kun 2",
+        "id": "toilet-bound-hanako-kun-season-2-19437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1dcb86bfc375eeb7b1b3090f30096cf8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/strange Fake",
+        "alternativeTitle": "Fate/strange Fake",
+        "id": "fatestrange-fake-19436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
+        "alternativeTitle": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
+        "id": "the-100-girlfriends-who-really-really-really-really-really-love-you-season-2-19435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e91ce663a30bda517c5a191c575a16c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Thunderbolt Fantasy: Touri-ken Yuuki 4",
+        "alternativeTitle": "Thunderbolt Fantasy: Touri-ken Yuuki 4",
+        "id": "thunderbolt-fantasy-touri-ken-yuuki-4-19434",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e749ec0e1348b65d7787357d25fa34ac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Swallowed Star: Blood Luo Continent",
+        "alternativeTitle": "Tunshi Xingkong Movie: Xueluo Dalu",
+        "id": "swallowed-star-blood-luo-continent-19433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a6a40862ba374caf0ca9e3ce2ca934f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "93m"
+      },
+      {
+        "title": "My Happy Marriage Season 2",
+        "alternativeTitle": "Watashi no Shiawase na Kekkon 2nd Season",
+        "id": "my-happy-marriage-season-2-19432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2a246a281ee33d66635458797ce76cf.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakamoto Days",
+        "alternativeTitle": "Sakamoto Days",
+        "id": "sakamoto-days-19431",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bbe7ece956bbefc6f385a7a447c182c.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dr. Stone: Science Future",
+        "alternativeTitle": "Dr. Stone: Science Future",
+        "id": "dr-stone-science-future-19430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6256426cfa94332309fa3b10b37dde06.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Apothecary Diaries Season 2",
+        "alternativeTitle": "Kusuriya no Hitorigoto 2nd Season",
+        "id": "the-apothecary-diaries-season-2-19429",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7346b9cd930d501d2b6b40770b2b1d0.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kizumonogatari: Koyomi Vamp",
+        "alternativeTitle": "Kizumonogatari: Koyomi Vamp",
+        "id": "kizumonogatari-koyomi-vamp-19428",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3445be1bff97246f6f9b1d6fba2b1df.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "144m"
+      },
+      {
+        "title": "SSSS.Dynazenon Movie",
+        "alternativeTitle": "SSSS.Dynazenon Movie",
+        "id": "ssssdynazenon-movie-19427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/049f94ac8dda02ae66f84ae917053d01.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "My Senior Brother Is Too Steady",
+        "alternativeTitle": "Shixiong A Shixiong 2nd Season",
+        "id": "my-senior-brother-is-too-steady-19426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06f57da2c5c5cfae6b190a5a6317c81b.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 0,
+          "eps": 78
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Glorious Revenge of Ye Feng Season 2",
+        "alternativeTitle": "Dubu Wangu 2nd Season",
+        "id": "glorious-revenge-of-ye-feng-season-2-19425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5a67bedb9755a8702e1d1c4e7d66aa2.jpg",
+        "episodes": {
+          "sub": 90,
+          "dub": 0,
+          "eps": 90
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Ensemble Stars!! Road to Show!!",
+        "alternativeTitle": "Ensemble Stars!! Road to Show!!",
+        "id": "ensemble-stars-road-to-show-19424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19de34e8d175ded3869e0efae120523b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "72m"
+      },
+      {
+        "title": "No Love Zone",
+        "alternativeTitle": "Yeon-aejehanguyeog",
+        "id": "no-love-zone-19423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3cf105fa347e6d38ba927dd597d10a7.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Kuromi's Pretty Journey Season 2",
+        "alternativeTitle": "Kuromi's Pretty Journey: Hacha Mecha! Multiverse Daidasshutsu!",
+        "id": "kuromis-pretty-journey-season-2-19422",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/302680640bbf0da66bd5c779efa498ef.jpg",
+        "episodes": {
+          "sub": 19,
+          "dub": 19,
+          "eps": 19
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Grandmaster Of Alchemy",
+        "alternativeTitle": "Dan Dao Zongshi",
+        "id": "grandmaster-of-alchemy-19421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/faa53c2e8812687eec408e3838dc2960.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Mountain and Sea Organization",
+        "alternativeTitle": "Shanhai Jihui",
+        "id": "mountain-and-sea-organization-19420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cbdf474806c0a58961224ef3fa828659.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "1st Kiss",
+        "alternativeTitle": "Ni De Rensheng Shi Wo Lai Chi Le",
+        "id": "1st-kiss-19419",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a11af49c54b50be807ce2d1d4ed5257.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "The Flame Imperial Guards",
+        "alternativeTitle": "Chi Yan Jinyiwei",
+        "id": "the-flame-imperial-guards-19418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03cf219176a0be20ff9d8ad102f7a451.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "The Legend of Dragon Soldier",
+        "alternativeTitle": "Shen Ji Long Wei",
+        "id": "the-legend-of-dragon-soldier-19417",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4ace6bdff95cc9faef8ea60a6f90d0c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Legend of Soldier",
+        "alternativeTitle": "Xiaobing Chuanqi",
+        "id": "legend-of-soldier-19416",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f62ce80b9e5cf174b2c529432a347c7b.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "White Cat Legend Season 2",
+        "alternativeTitle": "Da Li Si Rizhi 2nd Season",
+        "id": "white-cat-legend-season-2-19415",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b73cd7a7f834fa593f551a27af1efff.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "27m"
+      },
+      {
+        "title": "Nights with a Cat Season 3",
+        "alternativeTitle": "Yoru wa Neko to Issho Season 3",
+        "id": "nights-with-a-cat-season-3-19414",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe7f727a5a97848b168029bf82235093.jpg",
+        "episodes": {
+          "sub": 34,
+          "dub": 0,
+          "eps": 34
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Solo Leveling Season 2: Arise from the Shadow",
+        "alternativeTitle": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+        "id": "solo-leveling-season-2-arise-from-the-shadow-19413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65f92e6e315a931ef872da4b312442b8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World of Immortals",
+        "alternativeTitle": "Chang Sheng Jie",
+        "id": "world-of-immortals-19412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2034156b5e08e273db9f00904a3ad879.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Rakshasa Street 4th Season",
+        "alternativeTitle": "Zhen Hun Jie 4th Season",
+        "id": "rakshasa-street-4th-season-19411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a6b0e741761ae158e6d970f44cbd0fd.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "High Card: The Flowers Bloom",
+        "alternativeTitle": "High Card: The Flowers Bloom",
+        "id": "high-card-the-flowers-bloom-19410",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f21060d7cda4918357cbb24ee15ecd9b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "26m"
+      },
+      {
+        "title": "Tales of Herding Gods",
+        "alternativeTitle": "Mushen Ji",
+        "id": "tales-of-herding-gods-19409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
+        "episodes": {
+          "sub": 41,
+          "dub": 0,
+          "eps": 41
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
+        "alternativeTitle": "Crayon Shin-chan Movie 30: Mononoke Ninja Chinpuuden",
+        "id": "crayon-shin-chan-movie-30-mononoke-ninja-chinpuuden-19408",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8614ce4086001d5e8ad17e065b7133f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "69m"
+      },
+      {
+        "title": "One Way or Another",
+        "alternativeTitle": "Dadao Chaotian",
+        "id": "one-way-or-another-19407",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/115f93f3329aa48671222ce11b8d9ec2.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "One Piece Fan Letter",
+        "alternativeTitle": "One Piece Fan Letter",
+        "id": "one-piece-fan-letter-19406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08367d0a68b3952cb14a1e72b84aaae3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece Log: Fish-Man Island Saga",
+        "alternativeTitle": "One Piece: Gyojin Tou-hen",
+        "id": "one-piece-log-fish-man-island-saga-19404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65eebbb906e8dab6e9efc4bf096db3fb.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 0,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

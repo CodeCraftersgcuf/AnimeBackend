@@ -1,0 +1,444 @@
+{
+  "success": true,
+  "data": {
+    "name": "Zoro Roronoa",
+    "type": "character",
+    "japanese": "ロロノア・ゾロ",
+    "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/400x400/100/c7df2fc09984feb9aab02f82c6e44f9c.jpg",
+    "bio": "Name: Roronoa Zoro<br>Age: 19; 21<br>Birthdate: November 11, Scorpio <br>Height: 178 cm (5'10\") , 181 (5'11\") (after timeskip)<br>Affiliation: Straw Hat Pirates<br>Position: Swordsman<br>Devil Fruit: None<br>Bounty: 320,000,000 (previously: 60,000,000 and 120,000,000)<br><br>Zoro was the first crew member to be recruited by Luffy. Zoro is a skilled swordsman who fights with his own unique sword style known as santoryu (three katana fighting style).This is achieved by using one katana in each hand and another in his mouth. He is also seen fighting with only one or two swords. When in a serious fight he ties his bandana, normally tied on the arm, on his head. <br><br>Though not a samurai, he appears to maintain a certain degree of bushido, and is frequently mistaken for one. Unlike Luffy and most of the other Straw Hat pirates, Zoro has been known to kill his opponents if he has to, though never in cold blood.<br><br>Zoro has a stern, serious and distanced personality, but, unlike Robin, he often reacts in a goofy and exaggerated comic style due to his gruff, impatient attitude. On the ship, he normally either trains with weights or sleeps. The only work he is seen doing regularly is hoisting the anchor using his great strength. He also likes sake, almost to the degree that Luffy likes meat, but like Nami, he never gets drunk due to his inhumanly-high endurance and tolerance for alcohol. Another notable trait is his lack of orientation, as Zoro often gets lost, even in small, familiar spaces or when being led by someone. Despite this, he is often the first to sense an enemy or danger, and the first to react. He is often displayed being well aware of dangerous situations and people around him.<br><br>Zoro often also reminds others of the harsh facts, which often shocks some of the other crew members, although they usually decide he is right. Zoro has also stated that he is an atheist, and has never believed in anything except himself. He often comes across as arrogant and overconfident, but only because he knows he's a strong man with great fighting ability. Even so, Zoro knows that he still has a lot of untapped potential, and is constantly seen training and trying to improve his fighting skills. He also adheres to a strict sword master's code of honor, and never falsely brags or lies about his abilities, sometimes outright admitting a weakness, even to an enemy. He also never tries to escape from a fight or use trickery to win, believing that doing so is cowardly and scorning anyone who uses such tactics. Zoro is very vigorous, strong-willed, and determined.",
+    "animeAppearances": [
+      {
+        "title": "One Piece",
+        "alternativeTitle": "One Piece",
+        "id": "one-piece-100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcd84731a3eda4f4a306250769675065.jpg",
+        "role": "Main",
+        "type": "TV"
+      },
+      {
+        "title": "One Piece: Episode of Merry - The Tale of One More Friend",
+        "alternativeTitle": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+        "id": "one-piece-episode-of-merry-the-tale-of-one-more-friend-293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9c03a6e40d324f2cfc22f870abe1c15.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece: The Movie 10 - Strong World",
+        "alternativeTitle": "One Piece Film: Strong World",
+        "id": "one-piece-the-movie-10-strong-world-298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de58e554fa74d9a5443799ab84cf0c65.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: The Movie 12 - Film Z",
+        "alternativeTitle": "One Piece Film: Z",
+        "id": "one-piece-the-movie-12-film-z-299",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f20b80bbae084c6165821c4f490a22a.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: The Movie 14 - Stampede",
+        "alternativeTitle": "One Piece: The Movie 14 - Stampede",
+        "id": "one-piece-the-movie-14-stampede-316",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8a122d878c53cddf5730946f3bae6fb.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: Episode of Nami - Tears of a Navigator and the Bonds of Friends",
+        "alternativeTitle": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+        "id": "one-piece-episode-of-nami-tears-of-a-navigator-and-the-bonds-of-friends-336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8ec23b151d2e3e0a392c3ce9f4429b7.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece Film: Strong World Episode 0",
+        "alternativeTitle": "One Piece Film: Strong World Episode 0",
+        "id": "one-piece-film-strong-world-episode-0-499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/228ea6c39b625f78ae75fa95cf9e63ee.jpg",
+        "role": "Supporting",
+        "type": "OVA"
+      },
+      {
+        "title": "One Piece: The Movie 13 - Film: Gold",
+        "alternativeTitle": "One Piece Film: Gold",
+        "id": "one-piece-the-movie-13-film-gold-550",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7156c377053c230cc42b66bbf7260325.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece 3D2Y: 15th Anniversary",
+        "alternativeTitle": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
+        "id": "one-piece-3d2y-15th-anniversary-609",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcf230a574c9b8dabbc871043f0a8443.jpg",
+        "role": "Supporting",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece: Episode of East Blue",
+        "alternativeTitle": "One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+        "id": "one-piece-episode-of-east-blue-634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/122753b7529b699e7ee65e31bdd85e17.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece: Episode of Sabo - The Three Brothers' Bond",
+        "alternativeTitle": "One Piece: Episode of Sabo - 3 Kyoudai no Kizuna Kiseki no Saikai to Uketsugareru Ishi",
+        "id": "one-piece-episode-of-sabo-the-three-brothers-bond-943",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c11aa8226ea5ae258307936838025535.jpg",
+        "role": "Supporting",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece: Baron Omatsuri and the Secret Island",
+        "alternativeTitle": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+        "id": "one-piece-baron-omatsuri-and-the-secret-island-1043",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1101d8772c508a881d49595b7c86679.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: Episode of Luffy - Hand Island Adventure",
+        "alternativeTitle": "One Piece: Episode of Luffy - Hand Island no Bouken",
+        "id": "one-piece-episode-of-luffy-hand-island-adventure-1085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31b60e5d857308aac024e5981d47221a.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece: Dead End",
+        "alternativeTitle": "One Piece Movie 4: Dead End no Bouken",
+        "id": "one-piece-dead-end-1284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/085b2c99e12b21786da1a7cfdc314c42.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: Heart of Gold",
+        "alternativeTitle": "One Piece: Heart of Gold",
+        "id": "one-piece-heart-of-gold-1414",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4c06d31192bcd16b0daae746b120a76.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "alternativeTitle": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "id": "one-piece-movie-9-episode-of-chopper-plus-fuyu-ni-saku-kiseki-no-sakura-1481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65f80950ef7dd9fe39ee705123d90265.jpg",
+        "role": "Supporting",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: Romance Dawn Story",
+        "alternativeTitle": "One Piece: Romance Dawn Story",
+        "id": "one-piece-romance-dawn-story-1860",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7d7242012fbb0209ec15aba2e8edd67.jpg",
+        "role": "Supporting",
+        "type": "OVA"
+      },
+      {
+        "title": "One Piece Special: Protect! The Last Great Performance",
+        "alternativeTitle": "One Piece: Mamore! Saigo no Dai Butai",
+        "id": "one-piece-special-protect-the-last-great-performance-1933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c9d06b236c92929ad415f78950dbf43.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece: The Movie 8 - Adventures in Alabasta",
+        "alternativeTitle": "One Piece Movie 8: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi",
+        "id": "one-piece-the-movie-8-adventures-in-alabasta-2076",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a23edd40c184ec10e6acfbf6771231ca.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: Adventure of Nebulandia",
+        "alternativeTitle": "One Piece: Adventure of Nebulandia",
+        "id": "one-piece-adventure-of-nebulandia-2254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31b57d916ab1c020bea5aca7f50fe678.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+        "alternativeTitle": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei",
+        "id": "one-piece-movie-7-karakuri-jou-no-mecha-kyohei-2266",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41526ff58363bf9cea33002c065296e0.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece Special: Open Upon the Great Sea! A Father's Huge, HUGE Dream!",
+        "alternativeTitle": "One Piece: Oounabara ni Hirake! Dekkai Dekkai Chichi no Yume!",
+        "id": "one-piece-special-open-upon-the-great-sea-a-fathers-huge-huge-dream-2347",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f76225081860e89adacad5ef06af20f2.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece Special: Adventure in the Ocean's Navel",
+        "alternativeTitle": "One Piece: Umi no Heso no Daibouken-hen",
+        "id": "one-piece-special-adventure-in-the-oceans-navel-2348",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/878cfee15c8fab4b1341462f72461cad.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece: The Curse of the Sacred Sword",
+        "alternativeTitle": "One Piece Movie 5: Norowareta Seiken",
+        "id": "one-piece-the-curse-of-the-sacred-sword-2451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/900d9390ae10b86336a2acad56acc976.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece Special: The Detective Memoirs of Chief Straw Hat Luffy",
+        "alternativeTitle": "One Piece: Nenmatsu Tokubetsu Kikaku! Mugiwara no Luffy Oyabun Torimonochou",
+        "id": "one-piece-special-the-detective-memoirs-of-chief-straw-hat-luffy-2538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e92eef56e90c0a4c2457b68f8da51e3.jpg",
+        "role": "Supporting",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece: Glorious Island",
+        "alternativeTitle": "One Piece: Glorious Island",
+        "id": "one-piece-glorious-island-2688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/622144a3ae59c58a9cfa2787c27722cb.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece: Django's Dance Carnival",
+        "alternativeTitle": "One Piece: Jango no Dance Carnival",
+        "id": "one-piece-djangos-dance-carnival-2761",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca6a1dfa56f1bf1fdc8bf073860b9f01.jpg",
+        "role": "Main",
+        "type": "ONA"
+      },
+      {
+        "title": "One Piece: Clockwork Island Adventure",
+        "alternativeTitle": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+        "id": "one-piece-clockwork-island-adventure-2776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec524a9783f942b07a6ddd8d775b2cdb.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: Soccer King of Dreams",
+        "alternativeTitle": "One Piece: Yume no Soccer Ou!",
+        "id": "one-piece-soccer-king-of-dreams-2777",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d503eeb571d83c10b5d937275e397d63.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece Recap",
+        "alternativeTitle": "One Piece Recap",
+        "id": "one-piece-recap-2836",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80cbbff9ab97108fb57908d05930133a.jpg",
+        "role": "Main",
+        "type": "OVA"
+      },
+      {
+        "title": "ONE PIECE FILM GOLD 〜episode 0〜",
+        "alternativeTitle": "One Piece Film: Gold Episode 0 - 711 ver.",
+        "id": "one-piece-film-gold-episode-0-2853",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4b191bf7af9d38d4548af84d3c1573b.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece Movie 1",
+        "alternativeTitle": "One Piece Movie 1",
+        "id": "one-piece-movie-1-3096",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff736656ba002e0dd51363c3d889d9ff.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: Episode of Skypiea",
+        "alternativeTitle": "One Piece: Episode of Sorajima",
+        "id": "one-piece-episode-of-skypiea-3097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a593442adebb95308e506e969852aa0.jpg",
+        "role": "Main",
+        "type": "Special"
+      },
+      {
+        "title": "One Piece 3D: Strawhat Chase",
+        "alternativeTitle": "One Piece 3D: Mugiwara Chase",
+        "id": "one-piece-3d-strawhat-chase-3188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01605691c2a52ce8c5f3226ec4a631a9.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: Take Aim! The Pirate Baseball King",
+        "alternativeTitle": "One Piece: Mezase! Kaizoku Yakyuu Ou",
+        "id": "one-piece-mezase-kaizoku-yakyuu-ou-3391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d09255209e6f32a295d81557416c403.jpg",
+        "role": "Main",
+        "type": "OVA"
+      },
+      {
+        "title": "One Piece 3D: Gekisou! Trap Coaster",
+        "alternativeTitle": "One Piece 3D: Gekisou! Trap Coaster",
+        "id": "one-piece-3d-gekisou-trap-coaster-3400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0a890203ee84a3c205d149b6e91a724.jpg",
+        "role": "Main",
+        "type": "OVA"
+      },
+      {
+        "title": "One Piece: Chopper Kingdom of Strange Animal Island",
+        "alternativeTitle": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+        "id": "one-piece-chopper-kingdom-of-strange-animal-island-3533",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fed4b5260a27fe18d3e2dee6e5c068a.jpg",
+        "role": "Main",
+        "type": "Movie"
+      },
+      {
+        "title": "One Piece: Defeat the Pirate Ganzack!",
+        "alternativeTitle": "One Piece: Taose! Kaizoku Ganzack",
+        "id": "one-piece-defeat-the-pirate-ganzack-4498",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf42f6e03566212945df91b25bb62510.jpg",
+        "role": "Main",
+        "type": "OVA"
+      }
+    ],
+    "voiceActors": [
+      {
+        "name": "Nakai, Kazuya",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3eaa00f6c293df5146813f869deb0a20.jpg",
+        "id": "people:kazuya-nakai-37",
+        "language": "Japanese"
+      },
+      {
+        "name": "Sabat, Christopher",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/44ab3c1f5430464757823a2c3a607f95.jpg",
+        "id": "people:christopher-sabat-113",
+        "language": "English"
+      },
+      {
+        "name": "Takagi, Wataru",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f1c3639545b6434933a4919583734745.jpg",
+        "id": "people:wataru-takagi-260",
+        "language": "Japanese"
+      },
+      {
+        "name": "Campos, Marcelo",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/35c65f6ef7519c3e8dcf648e233f4cd6.jpg",
+        "id": "people:marcelo-campos-845",
+        "language": "Brazilian"
+      },
+      {
+        "name": "Diraison, Marc",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c73613af9e39b229e1f7032fde187fe.jpg",
+        "id": "people:marc-diraison-1201",
+        "language": "English"
+      },
+      {
+        "name": "Prata, Patrizio",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f5124500d6a980bf98dcab1b0b9657f3.jpg",
+        "id": "people:patrizio-prata-2617",
+        "language": "Italian"
+      },
+      {
+        "name": "Brammer, Philipp",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa953b47b0b1dca6cafb0269add1e33a.jpg",
+        "id": "people:philipp-brammer-2776",
+        "language": "German"
+      },
+      {
+        "name": "Saudinós, Jorge",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/411fefae180c610f2c3ba5fb2a850102.jpg",
+        "id": "people:jorge-saudinos-4408",
+        "language": "Spanish"
+      },
+      {
+        "name": "Urawa, Megumi",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9c7f4a189e05343d579c516b0e08cb13.jpg",
+        "id": "people:megumi-urawa-4897",
+        "language": "Japanese"
+      },
+      {
+        "name": "Kim, Seung jun",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f636890ad71c5a762200baa90b5b0eff.jpg",
+        "id": "people:seung-jun-kim-5026",
+        "language": "Korean"
+      },
+      {
+        "name": "Farhat, Marwan",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ea28b697b1130c1e0d26034f94521a41.jpg",
+        "id": "people:marwan-farhat-6313",
+        "language": "Hebrew"
+      },
+      {
+        "name": "Thomsen, Uwe",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/90669eb797d0fe0f57d0ff4994110f82.jpg",
+        "id": "people:uwe-thomsen-6411",
+        "language": "German"
+      },
+      {
+        "name": "Yosefsberg, Yoram",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b2078f579880bd37d0824c7e3cd0bc72.jpg",
+        "id": "people:yoram-yosefsberg-6590",
+        "language": "Hebrew"
+      },
+      {
+        "name": "Basurto, Alfredo Gabriel",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6258a12df248136af5c20671449270c5.jpg",
+        "id": "people:alfredo-gabriel-basurto-8031",
+        "language": "Spanish"
+      },
+      {
+        "name": "Zimmerman, Brian",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/42f9fcdf1f1666d24ece659e29281739.jpg",
+        "id": "people:brian-zimmerman-8789",
+        "language": "English"
+      },
+      {
+        "name": "Hespel, Christophe",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1cb91d4786a21bb7b2af75086e088d06.jpg",
+        "id": "people:christophe-hespel-8862",
+        "language": "French"
+      },
+      {
+        "name": "Noérie, Patrick",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2eed43bda727d59d1b1c8fcdd97ccc9a.jpg",
+        "id": "people:patrick-noerie-9101",
+        "language": "French"
+      },
+      {
+        "name": "Santos, Angelica",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4d36ef9020fd996147ceb7a612b86e2d.jpg",
+        "id": "people:angelica-santos-10040",
+        "language": "Brazilian"
+      },
+      {
+        "name": "Marques, Glauco",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/66f5b6d19abb185d0715e4aac77d6eb9.jpg",
+        "id": "people:glauco-marques-10563",
+        "language": "Brazilian"
+      },
+      {
+        "name": "Santana, Marina",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/528be6f3178e539ea150d3388aaebad1.jpg",
+        "id": "people:santana-marina-17251",
+        "language": "Brazilian"
+      },
+      {
+        "name": "Beck, Tony",
+        "imageUrl": "/images/no-avatar.jpeg",
+        "id": "people:beck-tony-17457",
+        "language": "French"
+      }
+    ]
+  }
+}

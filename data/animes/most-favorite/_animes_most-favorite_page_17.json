@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 17,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Sky of Connection",
+        "alternativeTitle": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+        "id": "sky-of-connection-6683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8380af552adcb0f577802a9d6611152c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Initial D First Stage",
+        "alternativeTitle": "Initial D First Stage",
+        "id": "initial-d-first-stage-236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a05ab08aa49bb9a74d21d4c159a09fcc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Edens Zero 2nd Season",
+        "alternativeTitle": "Edens Zero 2nd Season",
+        "id": "edens-zero-2nd-season-18331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fdf6665f533bc7cd366522825d31553.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fena: Pirate Princess",
+        "alternativeTitle": "Kaizoku Oujo",
+        "id": "fena-pirate-princess-17888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d77b8f7ebe76236c26a2ffba239fd9ec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Case Study of Vanitas Part 2",
+        "alternativeTitle": "Vanitas no Karte Part 2",
+        "id": "the-case-study-of-vanitas-part-2-17932",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/69a33eed1eac666829dbcc4b0f0e0c78.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Life as Inukai-san's Dog.",
+        "alternativeTitle": "Inu ni Nattara Suki na Hito ni Hirowareta.",
+        "id": "my-life-as-inukaisans-dog-18282",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aaf51926d9fd57611f031b3358081988.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Hitori no Shita - The Outcast",
+        "alternativeTitle": "Hitori no Shita: The Outcast",
+        "id": "hitori-no-shita-the-outcast-4472",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b359ee2595301f735606b6e52b4a2c2a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ascendance of a Bookworm",
+        "alternativeTitle": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+        "id": "ascendance-of-a-bookworm-467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47710192a898543bfd1ef6f9ea79ad99.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Taboo Tattoo",
+        "alternativeTitle": "Taboo Tattoo",
+        "id": "taboo-tattoo-8594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31d6d62e8db3a204eebc9971ab6f15d2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Ravens",
+        "alternativeTitle": "Tokyo Ravens",
+        "id": "tokyo-ravens-1366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d3793dc05cf5cce66b3a5ac1d83a2aa.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "God Eater",
+        "alternativeTitle": "God Eater",
+        "id": "god-eater-2215",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/201d3b9be60ba94f08b2110f483f47a8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Armed Girl's Machiavellism",
+        "alternativeTitle": "Busou Shoujo Machiavellianism",
+        "id": "armed-girls-machiavellism-3638",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20d5109138cd486650548568a070cc89.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mother of the Goddess' Dormitory",
+        "alternativeTitle": "Megami-ryou no Ryoubo-kun.",
+        "id": "mother-of-the-goddess-dormitory-15799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4baa39376c62b622a5bf42a2d4c597f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sasaki to Miyano",
+        "alternativeTitle": "Sasaki to Miyano",
+        "id": "sasaki-to-miyano-17364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a620ee2bc127407889b1832bfd5b1477.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Date A Live II",
+        "alternativeTitle": "Date A Live II",
+        "id": "date-a-live-ii-2480",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f47332257b858553e77bb342721ec075.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Love Story!!",
+        "alternativeTitle": "Ore Monogatari!!",
+        "id": "my-love-story-551",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0041c23faf1900d05d91a8469530735.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Hunter x Hunter",
+        "alternativeTitle": "Hunter x Hunter",
+        "id": "hunter-x-hunter-128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45c50af44712f05b30c9cbfba6283abb.jpg",
+        "episodes": {
+          "sub": 62,
+          "dub": 62,
+          "eps": 62
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Food Wars! The Fifth Plate",
+        "alternativeTitle": "Shokugeki no Souma: Gou no Sara",
+        "id": "food-wars-the-fifth-plate-2018",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eeb135e1c40d01554fbb8cca16062385.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kaguya-sama: Love is War - The First Kiss That Never Ends",
+        "alternativeTitle": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai",
+        "id": "kaguyasama-love-is-war-the-first-kiss-that-never-ends-18394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/020c0e42789c7d53c894285f680bc46c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure",
+        "alternativeTitle": "JoJo no Kimyou na Bouken",
+        "id": "jojos-bizarre-adventure-17864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e825c9fb2edb7834361f1617e6a9bba9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saving 80,000 Gold in Another World for My Retirement",
+        "alternativeTitle": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+        "id": "saving-80000-gold-in-another-world-for-my-retirement-18297",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1d7a45381ab2aaf864898d6506b72f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Re:CREATORS",
+        "alternativeTitle": "Re:Creators",
+        "id": "recreators-1296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2adb0c3af7a233b2d569ce8a85184987.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Life as Inukai-san's Dog (Uncensored)",
+        "alternativeTitle": "Inu ni Nattara Suki na Hito ni Hirowareta (Uncensored)",
+        "id": "my-life-as-inukai-sans-dog-uncensored-18314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9a14ab0a5fb7166081a8cb2276f84c2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Food Wars! The Fourth Plate",
+        "alternativeTitle": "Shokugeki no Souma: Shin no Sara",
+        "id": "food-wars-the-fourth-plate-835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/940afa3742dc3f702e8103292e79075c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "So, I Can't Play H!",
+        "alternativeTitle": "Dakara Boku wa, H ga Dekinai.",
+        "id": "so-i-cant-play-h-4923",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d53a3ab2a4d17128d4afdc2a1de76861.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Outbreak Company",
+        "alternativeTitle": "Outbreak Company",
+        "id": "outbreak-company-2187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d685ca618180d3608a60d721cb8b62af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BTOOOM!",
+        "alternativeTitle": "Btooom!",
+        "id": "btooom-1875",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6892c5e42464d50ea09942a5608cf9b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+        "alternativeTitle": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?",
+        "id": "do-you-love-your-mom-and-her-two-hit-multi-target-attacks-9232",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bbfc0b1eef9ed728c828fa7eb0d8e123.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nana (2006)",
+        "alternativeTitle": "Nana",
+        "id": "nana-2006-118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f958494d616f3cbce35de4f926fd3d5.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 47,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Devil is a Part-Timer!! 2nd Season",
+        "alternativeTitle": "Hataraku Maou-sama!! 2nd Season",
+        "id": "the-devil-is-a-part-timer-2nd-season-18491",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cf9075abde514382e329869a9dbb704.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "InuYasha",
+        "alternativeTitle": "InuYasha",
+        "id": "inuyasha-739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cacb9f9e6993b1016a87f77f171b591c.jpg",
+        "episodes": {
+          "sub": 167,
+          "dub": 167,
+          "eps": 167
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Great Teacher Onizuka",
+        "alternativeTitle": "Great Teacher Onizuka",
+        "id": "great-teacher-onizuka-42",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48e3444bbb6d58d37977b6e2c6a78cb2.jpg",
+        "episodes": {
+          "sub": 43,
+          "dub": 43,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Monster Girl Doctor",
+        "alternativeTitle": "Monster Musume no Oishasan",
+        "id": "monster-girl-doctor-5762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7ce3fb3d9a5c7abf383f1ef57e32092.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Clannad ~After Story~",
+        "alternativeTitle": "Clannad: After Story",
+        "id": "clannad-after-story-15",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04e65044c0d9637367efe0cddf7dd205.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Made in Abyss: The Golden City of the Scorching Sun",
+        "alternativeTitle": "Made in Abyss: Retsujitsu no Ougonkyou",
+        "id": "made-in-abyss-the-golden-city-of-the-scorching-sun-15784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfb473a0157437e02bd732ef8f40ae8a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Princess Mononoke",
+        "alternativeTitle": "Mononoke Hime",
+        "id": "princess-mononoke-36",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12d035088d46d18d76f751d07ef8e31e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "133m"
+      },
+      {
+        "title": "Kuroko's Basketball 2",
+        "alternativeTitle": "Kuroko no Basket 2nd Season",
+        "id": "kurokos-basketball-2-207",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bceccbe201b58e9b21a1122d04c63bc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Campione!",
+        "alternativeTitle": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+        "id": "campione-3224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0e181d726052f107d8fa67919401ed5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gosick",
+        "alternativeTitle": "Gosick",
+        "id": "gosick-397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcdad474a87417d34d51efe3a778f5b8.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Summer Ghost",
+        "alternativeTitle": "Summer Ghost",
+        "id": "summer-ghost-17477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0cb57ea88b1ca7ee1fd7718cea94207.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "39m"
+      }
+    ]
+  }
+}

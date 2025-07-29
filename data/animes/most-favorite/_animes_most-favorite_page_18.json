@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 18,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Trigun Stampede",
+        "alternativeTitle": "Trigun Stampede",
+        "id": "trigun-stampede-18281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fe81ea9ef1eb78be49fbacdde846327.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Munou na Nana",
+        "alternativeTitle": "Munou na Nana",
+        "id": "munou-na-nana-2594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d65092778d5f12d8dd4065c61ef5c540.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Orient",
+        "alternativeTitle": "Orient",
+        "id": "orient-17468",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44d3da8d076006e2d28ba4c8eddc05f4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Familiar of Zero",
+        "alternativeTitle": "Zero no Tsukaima",
+        "id": "the-familiar-of-zero-2093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddb9a0a77bc6d8fed4b4b5c4226974e1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Zero Season 2",
+        "alternativeTitle": "Fate/Zero 2nd Season",
+        "id": "fatezero-season-2-67",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4da992fefb1b9d2ee3e939403375a08e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sekirei",
+        "alternativeTitle": "Sekirei",
+        "id": "sekirei-2936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1302c0755b495809fcf6719b488eccc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Girl & Her Guard Dog",
+        "alternativeTitle": "Ojou to Banken-kun",
+        "id": "a-girl-and-her-guard-dog-18543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2a2f90483f1fb3a2968787bc9f8feea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World Break: Aria of Curse for a Holy Swordsman",
+        "alternativeTitle": "Seiken Tsukai no World Break",
+        "id": "world-break-aria-of-curse-for-a-holy-swordsman-3753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f04bb82b6e8083027a185b784b10a9f0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Neighbor Totoro",
+        "alternativeTitle": "Tonari no Totoro",
+        "id": "my-neighbor-totoro-188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/566b1070fa957dfbb64176c2577e5718.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "86m"
+      },
+      {
+        "title": "Golden Boy",
+        "alternativeTitle": "Golden Boy",
+        "id": "golden-boy-510",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/494fda2c4cfa8603514fe136f0f9df18.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Handa-kun",
+        "alternativeTitle": "Handa-kun",
+        "id": "handa-kun-1882",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/924b9d71789533547f6d017d71380c8b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dagashi Kashi",
+        "alternativeTitle": "Dagashi Kashi",
+        "id": "dagashi-kashi-5085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e63984dba54fbaabacb49f0cc7d3dbbe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Saint's Magic Power is Omnipotent",
+        "alternativeTitle": "Seijo no Maryoku wa Bannou Desu",
+        "id": "the-saints-magic-power-is-omnipotent-15536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67a58ec87d387fc109a33af11a88f4bd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "World's End Harem",
+        "alternativeTitle": "Shuumatsu no Harem",
+        "id": "worlds-end-harem-17959",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34b9a8ed656558d0d40f427f91a86325.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Free! - Iwatobi Swim Club",
+        "alternativeTitle": "Free!",
+        "id": "free-iwatobi-swim-club-1828",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c9d73938b3a1cf4ad73b877b52344b8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Violet Evergarden: The Movie (2020)",
+        "alternativeTitle": "Violet Evergarden Movie",
+        "id": "violet-evergarden-the-movie-2020-159",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed1c6fd65a6dab12e75dc038acc2fec2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "140m"
+      },
+      {
+        "title": "The Day I Became a God",
+        "alternativeTitle": "Kamisama ni Natta Hi",
+        "id": "the-day-i-became-a-god-15757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53b70f158dd6299da500a0fa7f8b1faf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
+        "alternativeTitle": "Fate/stay night: Unlimited Blade Works 2nd Season",
+        "id": "fatestay-night-unlimited-blade-works-season-2-191",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43fce28c6cf751bd9fcb71cbcbf5ed0f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Haikyu!! Movie: The Dumpster Battle",
+        "alternativeTitle": "Haikyuu!! Movie: Gomisuteba no Kessen",
+        "id": "haikyu-movie-the-dumpster-battle-18922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/013f3a18a20f41ab171794a391b30f07.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "The Executioner and Her Way of Life",
+        "alternativeTitle": "Shokei Shoujo no Virgin Road",
+        "id": "the-executioner-and-her-way-of-life-17503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55ba9a400222c9ce7c60153c54aaf57e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Real Girl",
+        "alternativeTitle": "3D Kanojo: Real Girl",
+        "id": "real-girl-4517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee4de88427eea72d4b4a947148604e7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Majikoi: Oh! Samurai Girls",
+        "alternativeTitle": "Maji de Watashi ni Koi Shinasai!",
+        "id": "majikoi-oh-samurai-girls-4405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e69bf71f8b12f55f3907cbb0ce8fd89.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Faraway Paladin: The Lord of Rust Mountains",
+        "alternativeTitle": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+        "id": "the-faraway-paladin-the-lord-of-rust-mountains-18576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b9ee25ecd4fd800f05f6b4b171d7ec6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tales of Wedding Rings [Uncensored]",
+        "alternativeTitle": "Kekkon Yubiwa Monogatari [Uncensored]",
+        "id": "tales-of-wedding-rings-uncensored-18964",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6abee8ef9c3a3f38173dd0bceadf7c35.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Date A Live III",
+        "alternativeTitle": "Date A Live III",
+        "id": "date-a-live-iii-3053",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e9349ddb0b21d678d5e8a92da201ac8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kiss x Sis (TV)",
+        "alternativeTitle": "Kiss x Sis (TV)",
+        "id": "kiss-x-sis-tv-4712",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab4d821bc0cae4d272e7dfee0457e0a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yuragi-sou no Yuuna-san",
+        "alternativeTitle": "Yuragi-sou no Yuuna-san",
+        "id": "yuragi-sou-no-yuuna-san-3218",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bece1677671669b24877d73ff4481a67.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "AHO-GIRL",
+        "alternativeTitle": "Aho Girl",
+        "id": "aho-girl-3700",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90ab3a3ff0a6cc87f62a8067ef1863af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Onimai: I'm Now Your Sister! (Uncensored)",
+        "alternativeTitle": "Oniichan wa Oshimai! (Uncensored)",
+        "id": "onimai-im-now-your-sister-uncensored-18312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ae4c13db5851cb7003e9516143625e2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2",
+        "alternativeTitle": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+        "id": "as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-2-19329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3670b66104179ccff9492aa8158fde3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "ID: INVADED",
+        "alternativeTitle": "Id:Invaded",
+        "id": "id-invaded-629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d44a05f2cfb4ca5de32e8257501b6245.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beastars",
+        "alternativeTitle": "Beastars",
+        "id": "beastars-382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb532a0deb7f6d001acaeb9bbf4077a7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Yakuza Fiancé: Raise wa Tanin ga Ii",
+        "alternativeTitle": "Raise wa Tanin ga Ii",
+        "id": "yakuza-fiance-raise-wa-tanin-ga-ii-19336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9149b1098b1021fa57a10224b27dd45.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Code:Breaker",
+        "alternativeTitle": "Code:Breaker",
+        "id": "codebreaker-4277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5e84568ad62124dc6f06c193b9fbe27.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nisekoi: False Love",
+        "alternativeTitle": "Nisekoi:",
+        "id": "nisekoi-false-love-1859",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/996d060a3268c360ace3fe6415309fe9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Princess Connect! Re:Dive",
+        "alternativeTitle": "Princess Connect! Re:Dive",
+        "id": "princess-connect-redive-3207",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2caec3fa4c97ea00507fba899463b7f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokémon",
+        "alternativeTitle": "Pokemon",
+        "id": "pokemon-2097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cbc594a737dde4cdeba0856bb5a77c2.jpg",
+        "episodes": {
+          "sub": 276,
+          "dub": 276,
+          "eps": 276
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I'm standing on 1,000,000 lives.",
+        "alternativeTitle": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+        "id": "im-standing-on-1000000-lives-17393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78b0e3418f039f90352a3c81f3fadc12.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Actually, I am...",
+        "alternativeTitle": "Jitsu wa Watashi wa",
+        "id": "actually-i-am-3799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b420c4a6f2d747aaa2a073c93e770c4b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Golden Kamuy",
+        "alternativeTitle": "Golden Kamuy",
+        "id": "golden-kamuy-863",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9d9a32f153f0f854b99487283f13fe5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

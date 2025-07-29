@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 144,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Omamori Himari",
+        "alternativeTitle": "Omamori Himari",
+        "id": "omamori-himari-3749",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90a07fbd06964c574fe5ce10e3e74cae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
+        "alternativeTitle": "Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!",
+        "id": "naruto-the-movie-3-guardians-of-the-crescent-moon-kingdom-4005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73d003618cd260df44e93a5baf9acb56.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Real Girl",
+        "alternativeTitle": "3D Kanojo: Real Girl",
+        "id": "real-girl-4517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee4de88427eea72d4b4a947148604e7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Re:ZERO PETIT",
+        "alternativeTitle": "Re:Petit kara Hajimeru Isekai Seikatsu",
+        "id": "rezero-petit-4773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e878b92ca63018a0f42295d7e3fb9fa3.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Speed Racer",
+        "alternativeTitle": "Mach GoGoGo",
+        "id": "speed-racer-5029",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57d7933cffa49c0ff88efc3f3e8090e9.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Silent Möbius: The Motion Picture",
+        "alternativeTitle": "Silent Möbius: The Motion Picture",
+        "id": "silent-mobius-the-motion-picture-6565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d5cb85353e1af82fe17ce6f0e038805.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "54m"
+      },
+      {
+        "title": "Maken-Ki! Two Specials",
+        "alternativeTitle": "Maken-Ki! Two Specials",
+        "id": "maken-ki-two-specials-7077",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed788e4f862baa18e1f4decf45a6b4cf.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Kenzen Robo Daimidaler Specials",
+        "alternativeTitle": "Kenzen Robo Daimidaler Specials",
+        "id": "kenzen-robo-daimidaler-specials-7333",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17f4f4b93030c0df99fde0791c913626.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Goddamn",
+        "alternativeTitle": "Goddamn",
+        "id": "goddamn-8613",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1225c47f929cece272152ecef0f8f2b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "RErideD: Derrida, who leaps through time",
+        "alternativeTitle": "RErideD: Tokigoe no Derrida",
+        "id": "rerided-derrida-who-leaps-through-time-8869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/853a27989eaf661922b4906c41c61fe4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Crimson Wolf",
+        "alternativeTitle": "Hon Ran",
+        "id": "crimson-wolf-10149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b6bcdcd4d9b4b11e6f18e6c64ae1af2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "59m"
+      },
+      {
+        "title": "Love Rice 2",
+        "alternativeTitle": "Love Kome: We Love Rice 2nd Season",
+        "id": "love-rice-2-10405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e337399352700b1b6bfdbbd558fa1f40.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Pupa",
+        "alternativeTitle": "Pupa",
+        "id": "pupa-10661",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5a406546d080ca549ff10967acc2625.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "[RAW] Magical★Taruruuto-kun Movie",
+        "alternativeTitle": "[RAW] Magical★Taruruuto-kun Movie",
+        "id": "magicaltaruruuto-kun-movie-15013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67613e353cd1e7c10d93de1c5379b14f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "The Warrior From Qin",
+        "alternativeTitle": "Qin Xia",
+        "id": "the-warrior-from-qin-15525",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cff12240bdba18d039c3350423093a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Romeo and the Black Brothers",
+        "alternativeTitle": "Romeo no Aoi Sora",
+        "id": "romeo-and-the-black-brothers-166",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c51e4fba5b18adde6d1f3d232e686767.jpg",
+        "episodes": {
+          "sub": 33,
+          "dub": 0,
+          "eps": 33
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "the Garden of sinners Chapter 3: Remaining Sense of Pain",
+        "alternativeTitle": "Kara no Kyoukai 3: Tsuukaku Zanryuu",
+        "id": "the-garden-of-sinners-chapter-3-remaining-sense-of-pain-422",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7be668ed257e57554ef3a51159f70bb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "The Melancholy of Haruhi Suzumiya",
+        "alternativeTitle": "Suzumiya Haruhi no Yuuutsu",
+        "id": "the-melancholy-of-haruhi-suzumiya-678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db8e8ec8af1f77796c482663f95e6989.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kuroko's Basketball Movie 3: Winter Cup Highlights -Crossing the Door-",
+        "alternativeTitle": "Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou",
+        "id": "kurokos-basketball-movie-3-winter-cup-highlights-crossing-the-door-934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a7a9d62b9f3a6667659daf3189a52c3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Overlord Movie 1: The Undead King",
+        "alternativeTitle": "Overlord Movie 1: Fushisha no Ou",
+        "id": "overlord-movie-1-the-undead-king-1190",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d88084810d68914ea90cdf060c590a29.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Aa! Megami-sama! (TV) Specials",
+        "alternativeTitle": "Aa! Megami-sama! (TV) Specials",
+        "id": "aa-megami-sama-tv-specials-1446",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/881141e7df47bc45befc2ad238633896.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Is This a Zombie?",
+        "alternativeTitle": "Kore wa Zombie Desu ka?",
+        "id": "is-this-a-zombie-1702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e407dacf5138ca98f053375ec7967631.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Amagami SS",
+        "alternativeTitle": "Amagami SS",
+        "id": "amagami-ss-1958",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dcebd03133866920de933e5dc50aa61.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aishen Qiaokeli-ing...II",
+        "alternativeTitle": "Aishen Qiaokeli-ing...II",
+        "id": "aishen-qiaokeli-ingii-2470",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75fd257e22938239cc8ec8f83888944b.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Kekkai Sensen & Beyond: Zapp Renfro Ingaouhouchuu!!/Baccardio no Shizuku",
+        "alternativeTitle": "Kekkai Sensen & Beyond: Zapp Renfro Ingaouhouchuu!!/Baccardio no Shizuku",
+        "id": "kekkai-sensen-beyond-zapp-renfro-ingaouhouchuubaccardio-no-shizuku-2726",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34984635dea35f58d23fd25def1f3c07.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Demon Prince Enma",
+        "alternativeTitle": "Kikoushi Enma",
+        "id": "demon-prince-enma-2982",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89443f6209e77397a757aa45602804f6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "40m"
+      },
+      {
+        "title": "Robotech: The New Generation",
+        "alternativeTitle": "Kikou Souseiki Mospeada",
+        "id": "robotech-the-new-generation-3238",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/619fdfa62298c78d74a5f5102ba0f12e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Devilman: The Demon Bird",
+        "alternativeTitle": "Devilman: Yochou Sirene-hen",
+        "id": "devilman-the-demon-bird-3494",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d73c3c1ce925ae0cd4d0335f3857c7dd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "57m"
+      },
+      {
+        "title": "Fairy Musketeers",
+        "alternativeTitle": "Otogi Juushi Akazukin",
+        "id": "fairy-musketeers-3750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f0194fd7a496f3bebaeba8c7d0ad725.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Noblesse",
+        "alternativeTitle": "Noblesse",
+        "id": "noblesse-4006",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7330176d8155ec4403de893e719b97ee.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blue Legend Shoot!",
+        "alternativeTitle": "Aoki Densetsu Shoot! (Movie)",
+        "id": "blue-legend-shoot-4518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c597491902b8d72238fb31aeb2eca5cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "Stella Women's Academy, High School Division Class C³",
+        "alternativeTitle": "Stella Jogakuin Koutou-ka C³-bu",
+        "id": "stella-womens-academy-high-school-division-class-c3-5542",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9c24e28193eaebde505037d4a751d2e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets♥Sareta Ken Specials",
+        "alternativeTitle": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets♥Sareta Ken Specials",
+        "id": "ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-getssareta-ken-specials-5798",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f0d5e238b63406012ab5d6476026713.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Sono Hanabira ni Kuchizuke wo: Risa x Miya Gekijou",
+        "alternativeTitle": "Sono Hanabira ni Kuchizuke wo: Risa x Miya Gekijou",
+        "id": "sono-hanabira-ni-kuchizuke-wo-risa-x-miya-gekijou-6566",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9957be1d2e5a30bd806f471801d460ad.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Manyuu Hikenchou",
+        "alternativeTitle": "Manyuu Hikenchou",
+        "id": "manyuu-hikenchou-7078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dd2044fa8ef0bdfc6d10146196b6a5c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Assemble Insert",
+        "alternativeTitle": "Assemble Insert",
+        "id": "assemble-insert-7590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a509ab15b0dc6a068249b88c6cde5117.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Tomie",
+        "alternativeTitle": "Tomie",
+        "id": "tomie-8358",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52664002e18bdbd45e76d972c2b61353.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Sotsugyou M: Ore-tachi no Carnival",
+        "alternativeTitle": "Sotsugyou M: Ore-tachi no Carnival",
+        "id": "sotsugyou-m-ore-tachi-no-carnival-9382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3761b524d9d19335938c1eb72cfee470.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "[RAW] Magical★Taruruuto-kun: Moeru! Yuujou no Mahou Taisen",
+        "alternativeTitle": "[RAW] Magical★Taruruuto-kun: Moeru! Yuujou no Mahou Taisen",
+        "id": "magicaltaruruuto-kun-moeru-yuujou-no-mahou-taisen-15014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f5a92ac268f88157ec82801e1c326ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "Kids on the Slope",
+        "alternativeTitle": "Sakamichi no Apollon",
+        "id": "kids-on-the-slope-167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b6e81874ad78f812d2e1619f2ae8922.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      }
+    ]
+  }
+}

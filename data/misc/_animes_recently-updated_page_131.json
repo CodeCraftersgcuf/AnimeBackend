@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 131,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "You're Being Summoned, Azazel",
+        "alternativeTitle": "Yondemasu yo, Azazel-san. (TV)",
+        "id": "youre-being-summoned-azazel-1424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fef66749927dc5c7852ae8ac182348c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Magic Knight Rayearth",
+        "alternativeTitle": "Magic Knight Rayearth",
+        "id": "magic-knight-rayearth-1680",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/742e7f9ba21188b5282e76029167c1d5.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 20,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ranma ½: Team Ranma vs. The Legendary Phoenix",
+        "alternativeTitle": "Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou",
+        "id": "ranma-team-ranma-vs-the-legendary-phoenix-1936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42473588dbdc809cf795c5a8cc037da0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "31m"
+      },
+      {
+        "title": "Corpse Princess: Kuro",
+        "alternativeTitle": "Shikabane Hime: Kuro",
+        "id": "corpse-princess-kuro-2192",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87ede195ba5b1d203f601ff0141e2f20.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Witch Hunter Robin",
+        "alternativeTitle": "Witch Hunter Robin",
+        "id": "witch-hunter-robin-2448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcf1a4cc6ff23d28a048386875dcb1da.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tenchi Forever!",
+        "alternativeTitle": "Tenchi Muyou! in Love 2: Haruka Naru Omoi",
+        "id": "tenchi-forever-2704",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fce0d2eedc5da0f02f3a8c19fdaede9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Umineko: When They Cry",
+        "alternativeTitle": "Umineko no Naku Koro ni",
+        "id": "umineko-when-they-cry-2960",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea5b33bd65dc81a248062d626b2f1112.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokemon The Movie 12: Arceus and the Jewel of Life",
+        "alternativeTitle": "Pokemon Movie 12: Arceus Choukoku no Jikuu e",
+        "id": "pokemon-the-movie-12-arceus-and-the-jewel-of-life-3472",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/231c0b17a35450733115901c45f8a2a5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Animation Runner Kuromi 2",
+        "alternativeTitle": "Animation Seisaku Shinkou Kuromi-chan 2",
+        "id": "animation-runner-kuromi-2-3728",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22e1c49b9f8daf0fe4bc825a978d8e66.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "47m"
+      },
+      {
+        "title": "Doraemon Movie 06: Nobita's Little Space War",
+        "alternativeTitle": "Doraemon Movie 06: Nobita no Little Star Wars",
+        "id": "doraemon-movie-06-nobitas-little-space-war-3984",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d79e07029bfe24912df727aab907715.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "Ghost Slayers Ayashi: Inferno",
+        "alternativeTitle": "Tenpou Ibun: Ayakashi Ayashi - Ayashi Shinkyoku",
+        "id": "ghost-slayers-ayashi-inferno-4240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa8fb88cfa76a3cd86f6df82c81bb257.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Lostorage incited WIXOSS",
+        "alternativeTitle": "Lostorage Incited WIXOSS",
+        "id": "lostorage-incited-wixoss-4752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/622eecbe531452cff5627daef2978374.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Street Fighter Alpha: The Movie",
+        "alternativeTitle": "Street Fighter Zero The Animation",
+        "id": "street-fighter-alpha-the-movie-5520",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/554b157f3a6e0e332ff8f7a6919b6c10.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "[RAW] Paul in Fantasy Island",
+        "alternativeTitle": "[RAW] Paul no Miracle Daisakusen",
+        "id": "paul-in-fantasy-island-6032",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3980f5c00125bc4c94335643dc37033b.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "My First Girlfriend is a Gal",
+        "alternativeTitle": "Hajimete no Gal",
+        "id": "my-first-girlfriend-is-a-gal-6544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c15cf87270b03f744bf6da611ebc8f77.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "THE IDOLM@STER SideM Wakeatte Mini!",
+        "alternativeTitle": "The iDOLM@STER SideM: Wake Atte Mini!",
+        "id": "the-idolmster-sidem-wakeatte-mini-7312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b552665544fe7826ef9fc6ed438a15b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Sword Gai The Animation",
+        "alternativeTitle": "Sword Gai The Animation",
+        "id": "sword-gai-the-animation-8336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f71f1d50a2cab5c00c036bd88205837.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Dorami-chan: A Blue Straw Hat",
+        "alternativeTitle": "Dorami-chan: A Blue Straw Hat",
+        "id": "dorami-chan-a-blue-straw-hat-13456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0772e2cb8d118a67bad5ed8c23e3d06.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "15m"
+      },
+      {
+        "title": "Miracle Shoujo Limit-chan",
+        "alternativeTitle": "Miracle Shoujo Limit-chan",
+        "id": "miracle-shoujo-limit-chan-15248",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22cc8afcd59662006c037c648e3b03d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Natsume Yujin-cho the Movie: Ephemeral Bond",
+        "alternativeTitle": "Natsume Yuujinchou Movie: Utsusemi ni Musubu",
+        "id": "natsume-yujin-cho-the-movie-ephemeral-bond-145",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/276cc771356c922283c18326f955e1b7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Summer Wars",
+        "alternativeTitle": "Summer Wars",
+        "id": "summer-wars-401",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45531435c6432585997eaff91b651c94.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "114m"
+      },
+      {
+        "title": "Psycho-Pass 3: First Inspector",
+        "alternativeTitle": "Psycho-Pass 3: First Inspector",
+        "id": "psycho-pass-3-first-inspector-657",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e248bb03056d9981aa068872870cc534.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Movie",
+        "duration": "46m"
+      },
+      {
+        "title": "WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?",
+        "alternativeTitle": "Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?",
+        "id": "worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us-913",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f21b0d0b59bf1d897bb233e6d6899c43.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "School-Live!",
+        "alternativeTitle": "Gakkougurashi!",
+        "id": "school-live-1169",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/805d1d276c73d0420f2ad9ed9d7af958.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yuru Camp△ Specials",
+        "alternativeTitle": "Yuru Camp△ Specials",
+        "id": "yuru-camp-specials-1425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10369dbe9429a659e4c26bbdda224263.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "My-Hime",
+        "alternativeTitle": "Mai-HiME",
+        "id": "my-hime-1681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b527af2addef6a18d6cec47003d169df.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sabagebu! -Survival Game Club!-",
+        "alternativeTitle": "Sabage-bu!",
+        "id": "sabagebu-survival-game-club-1937",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d8830bdda83ec5b1ce4aeb9a41dc012.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Witchblade",
+        "alternativeTitle": "Witchblade",
+        "id": "witchblade-2449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8a258a65453124cee9db59075676d33.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Witch Craft Works",
+        "alternativeTitle": "Witch Craft Works",
+        "id": "witch-craft-works-3217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f833d32db551eb942a8e97a401f2aa2a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Re:Zero kara Hajimeru Break Time 2nd Season",
+        "alternativeTitle": "Re:Zero kara Hajimeru Break Time 2nd Season",
+        "id": "rezero-kara-hajimeru-break-time-2nd-season-3473",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15694cb07903bf3d36416d149ae0a93e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Doraemon the Movie: The Records of Nobita, Spaceblazer",
+        "alternativeTitle": "Doraemon Movie 02: Nobita no Uchuu Kaitakushi",
+        "id": "doraemon-the-movie-the-records-of-nobita-spaceblazer-3729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5502f363cd77b141c15f703fdc435fad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Dragon Ball Movie 03: Mystical Adventure",
+        "alternativeTitle": "Dragon Ball Movie 3: Makafushigi Daibouken",
+        "id": "dragon-ball-movie-03-mystical-adventure-3985",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f69e62cd0836c7fbcbddbd31aee16f7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Gargoyle of Yoshinaga House",
+        "alternativeTitle": "Yoshinaga-sanchi no Gargoyle",
+        "id": "gargoyle-of-yoshinaga-house-4497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7175cbfc26e514c2d8984a41c64ee53.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III: Napoleon's Dictionary",
+        "alternativeTitle": "Lupin III: Napoleon no Jisho wo Ubae",
+        "id": "lupin-iii-napoleons-dictionary-4753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8da480c7cff0f82902a7553afb462e1f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+        "alternativeTitle": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+        "id": "boku-no-tonari-ni-ankoku-hakaishin-ga-imasu-5009",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32e78357f694055472d912b20a5d0a4a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "eX-Driver: Nina & Rei Danger Zone",
+        "alternativeTitle": "eX-Driver: Nina & Rei Danger Zone",
+        "id": "ex-driver-nina-rei-danger-zone-5777",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e3e535db32c40add047f454a99bd616.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Saint October",
+        "alternativeTitle": "Saint October",
+        "id": "saint-october-6289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fc522aa5e14824d93847aaf3ae1723f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 10,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Working Buddies!",
+        "alternativeTitle": "Hataraku Onii-san!",
+        "id": "working-buddies-6545",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a2299a4d1b8bc4da713b195f7daba17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Wo Jiao Bai Xiaofei",
+        "alternativeTitle": "Wo Jiao Bai Xiaofei",
+        "id": "wo-jiao-bai-xiaofei-7057",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cab5c12651f31dd4d2192c12943d3721.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Sword Gai The Animation Part II",
+        "alternativeTitle": "Sword Gai The Animation Part II",
+        "id": "sword-gai-the-animation-part-ii-8337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ce725d5bdcab5176647df0a55703f62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      }
+    ]
+  }
+}

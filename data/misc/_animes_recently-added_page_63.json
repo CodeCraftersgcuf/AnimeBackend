@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 63,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Dr. Slump",
+        "alternativeTitle": "Dr. Slump",
+        "id": "dr-slump-3560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ec4a72790fad8a375f2d21aa52fa1c7.jpg",
+        "episodes": {
+          "sub": 74,
+          "dub": 0,
+          "eps": 74
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Zoids Wild Zero",
+        "alternativeTitle": "[RAW] Zoids Wild Zero",
+        "id": "raw-zoids-wild-zero-12750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e1ae9da24527b9a1962994fc3dea1ca.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "PostPet Momobin",
+        "alternativeTitle": "PostPet Momobin",
+        "id": "postpet-momobin-11186",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3df6597ab4afee9d03c40148ac9ea37.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Dr. Slump: Arale-chan [RAW]",
+        "alternativeTitle": "Dr. Slump: Arale-chan [RAW]",
+        "id": "dr-slump-arale-chan-raw-2906",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bd8e88f0828f5c69560f6cbd82317e7.jpg",
+        "episodes": {
+          "sub": 243,
+          "dub": 0,
+          "eps": 243
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fist of the Blue Sky: Regenesis 2nd Season",
+        "alternativeTitle": "Souten no Ken: Regenesis 2nd Season",
+        "id": "fist-of-the-blue-sky-regenesis-2nd-season-7579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73e7b80ced3d94eceac627dc7a19fcf7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Battle Through the Heavens 3rd Season",
+        "alternativeTitle": "Doupo Cangqiong 3rd Season",
+        "id": "battle-through-the-heavens-3rd-season-1114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60aca850cb8b86275424fb7b2ea13bbc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Battle Through the Heavens 2nd Season",
+        "alternativeTitle": "Doupo Cangqiong 2nd Season",
+        "id": "battle-through-the-heavens-2nd-season-1205",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c796b421dd40f7f22909ace96e6c144.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Battle Through the Heavens",
+        "alternativeTitle": "Doupo Cangqiong",
+        "id": "battle-through-the-heavens-2150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2eca9955980e30a007f410a15aff4fd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Battle Through The Heavens: Special",
+        "alternativeTitle": "Doupo Cangqiong Specials",
+        "id": "battle-through-the-heavens-special-1740",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3854f6eef1b97003d7aff5fafe629c49.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Bakugan: Battle Planet",
+        "alternativeTitle": "Bakugan: Battle Planet",
+        "id": "bakugan-battle-planet-9048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a06beafa6502ee467e31ac9b6b59ef4d.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 5: Golden Wind (Uncensored)",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze (Uncensored)",
+        "id": "jojos-bizarre-adventure-part-5-golden-wind-uncensored-56",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8ac650456dd47563c6ce33c89a51dd7.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Street Fighter II: The Animated Series",
+        "alternativeTitle": "Street Fighter II V",
+        "id": "street-fighter-ii-the-animated-series-3298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6aaae7bd9649d4e15d0d98e0be9d30a1.jpg",
+        "episodes": {
+          "sub": 29,
+          "dub": 29,
+          "eps": 29
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 4: Diamond is Unbreakable (Uncensored)",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai (Uncensored)",
+        "id": "jojos-bizarre-adventure-part-4-diamond-is-unbreakable-uncensored-89",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/674b068e98b6d409a0999a60b8b15122.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 2: Stardust Crusaders (Uncensored)",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 2: Stardust Crusaders (Uncensored)",
+        "id": "jojos-bizarre-adventure-part-2-stardust-crusaders-uncensored-350",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1eeefdca57c9024b5767c6b4062c526.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 3: Stardust Crusaders 2nd Season (Uncensored)",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season (Uncensored)",
+        "id": "jojos-bizarre-adventure-part-3-stardust-crusaders-2nd-season-uncensored-102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41d051f28d329f1ca9f042e7e0502a00.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bungo Stray Dogs 2",
+        "alternativeTitle": "Bungou Stray Dogs 2nd Season",
+        "id": "bungo-stray-dogs-2-288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b585220a97d25a8d40ec83c763daf3fe.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "When They Cry",
+        "alternativeTitle": "Higurashi no Naku Koro ni",
+        "id": "when-they-cry-568",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/381a92d1f165eef343d7f97e02bca35a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-82",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6da7e0ae359ff50e394d4984ed694c6a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Bungou Stray Dogs 3rd Season",
+        "alternativeTitle": "Bungou Stray Dogs 3rd Season",
+        "id": "bungou-stray-dogs-3rd-season-339",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed273e90615f1ae97a2f1519639cd7ff.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "High School DxD New",
+        "alternativeTitle": "High School DxD New",
+        "id": "high-school-dxd-new-1380",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92d3ecd66afdab300212649d31016d54.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure (Uncensored)",
+        "alternativeTitle": "JoJo no Kimyou na Bouken (Uncensored)",
+        "id": "jojos-bizarre-adventure-uncensored-368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/379fe285468f6b5f621f534d2d4850d9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex",
+        "id": "ghost-in-the-shell-stand-alone-complex-117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9b5d7aa68642642fc2f1eba2c22a8e9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Initial D Fourth Stage",
+        "alternativeTitle": "Initial D Fourth Stage",
+        "id": "initial-d-fourth-stage-341",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55fcef81a256771d6605d5aff5ef1938.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "27m"
+      },
+      {
+        "title": "Initial D Second Stage",
+        "alternativeTitle": "Initial D Second Stage",
+        "id": "initial-d-second-stage-376",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c029deda2b66b6c044122b3c8b12ec94.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ghost in the Shell: Arise - Border 1: Ghost Pain",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain",
+        "id": "ghost-in-the-shell-arise-border-1-ghost-pain-1638",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54b5f71e65e570afcf27d5473483d979.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "58m"
+      },
+      {
+        "title": "Initial D First Stage",
+        "alternativeTitle": "Initial D First Stage",
+        "id": "initial-d-first-stage-236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a05ab08aa49bb9a74d21d4c159a09fcc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sailor Moon",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon",
+        "id": "sailor-moon-1067",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1044111c86585d9ed55c41c7f6f6262f.jpg",
+        "episodes": {
+          "sub": 46,
+          "dub": 46,
+          "eps": 46
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball Z",
+        "alternativeTitle": "Dragon Ball Z",
+        "id": "dragon-ball-z-325",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ac32c050b4dff7747fcc7f64c01edbd.jpg",
+        "episodes": {
+          "sub": 291,
+          "dub": 291,
+          "eps": 291
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Digimon: Digital Monsters",
+        "alternativeTitle": "Digimon Adventure",
+        "id": "digimon-digital-monsters-809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5257ca7826531ac8a201b75f91f36fc9.jpg",
+        "episodes": {
+          "sub": 54,
+          "dub": 54,
+          "eps": 54
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man - Tachikoma na Hibi",
+        "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikomatic-days-4479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d72f61f8d90a5543a21df83af316ba8a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Hunter x Hunter",
+        "alternativeTitle": "Hunter x Hunter",
+        "id": "hunter-x-hunter-128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45c50af44712f05b30c9cbfba6283abb.jpg",
+        "episodes": {
+          "sub": 62,
+          "dub": 62,
+          "eps": 62
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex - Solid State Society: Uchikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi",
+        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society-uchikomatic-days-3722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2fcd5dbb7bfe20c6ff948ee5eba2eaa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Digimon Adventure 02",
+        "alternativeTitle": "Digimon Adventure 02",
+        "id": "digimon-adventure-02-2510",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8431d856934c60664a13814f222510e2.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "InuYasha: The Final Act",
+        "alternativeTitle": "InuYasha: Kanketsu-hen",
+        "id": "inuyasha-the-final-act-277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0f297d44bbf455f222f0169eafeb382.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yu Yu Hakusho: Ghost Files",
+        "alternativeTitle": "Yuu☆Yuu☆Hakusho",
+        "id": "yu-yu-hakusho-ghost-files-114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c40b2b7f5ccc41e1e758bd2d62890e4.jpg",
+        "episodes": {
+          "sub": 112,
+          "dub": 112,
+          "eps": 112
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magi: The Labyrinth of Magic",
+        "alternativeTitle": "Magi: The Labyrinth of Magic",
+        "id": "magi-the-labyrinth-of-magic-425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/119db3171acab63d95dc40a3cb8aeee9.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sailor Moon R",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon R",
+        "id": "sailor-moon-r-1057",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b78bcf9a2a75ed264e394a3410ddf0ee.jpg",
+        "episodes": {
+          "sub": 43,
+          "dub": 43,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hybrid x Heart Magias Academy Ataraxia",
+        "alternativeTitle": "Masou Gakuen HxH",
+        "id": "hybrid-x-heart-magias-academy-ataraxia-7098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a5b5f7d8b7e44469de019e64d109ac0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Clannad ~After Story~",
+        "alternativeTitle": "Clannad: After Story",
+        "id": "clannad-after-story-15",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04e65044c0d9637367efe0cddf7dd205.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cat Planet Cuties",
+        "alternativeTitle": "Asobi ni Iku yo!",
+        "id": "cat-planet-cuties-4916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dd80c796f3f1031dd01b8cba435d1f3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

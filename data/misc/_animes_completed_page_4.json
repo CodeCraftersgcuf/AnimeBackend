@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 4,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Rock Is a Lady's Modesty",
+        "alternativeTitle": "Rock wa Lady no Tashinami deshite",
+        "id": "rock-is-a-ladys-modesty-19570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c34215a7d263221e6c9c34f6be4fe81d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin the IIIrd: Zenigata to Futari no Lupin",
+        "alternativeTitle": "Lupin the IIIrd: Zenigata to Futari no Lupin",
+        "id": "lupin-the-iiird-zenigata-to-futari-no-lupin-19801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d522db8d7ad24bc01a57d1002f6fcc4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "53m"
+      },
+      {
+        "title": "Soni-Ani: Super Sonico The Animation",
+        "alternativeTitle": "SoniAni: Super Sonico The Animation",
+        "id": "soni-ani-super-sonico-the-animation-7578",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ae8ae5b91ddc1efa05c8dc94a3aec7b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lupin III vs. Detective Conan: The Movie",
+        "alternativeTitle": "Lupin III vs. Detective Conan: The Movie",
+        "id": "lupin-iii-vs-detective-conan-the-movie-645",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57fdba881245151d99fa29385df262d2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "Suzuka",
+        "alternativeTitle": "Suzuka",
+        "id": "suzuka-2604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a68f211f3140cc5a208266e8afad6224.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Your Forma",
+        "alternativeTitle": "Your Forma",
+        "id": "your-forma-19558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c0d01aa44ce5ec7b88f52c8a0b4d4fe.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Spirit of Wonder: Shounen Kagaku Club",
+        "alternativeTitle": "Spirit of Wonder: Shounen Kagaku Club",
+        "id": "spirit-of-wonder-shounen-kagaku-club-5346",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5e0a33b745cf98184fa911effc14745.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Psycho-Pass 3: First Inspector",
+        "alternativeTitle": "Psycho-Pass 3: First Inspector",
+        "id": "psycho-pass-3-first-inspector-657",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e248bb03056d9981aa068872870cc534.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Movie",
+        "duration": "46m"
+      },
+      {
+        "title": "Psycho-Pass 3",
+        "alternativeTitle": "Psycho-Pass 3",
+        "id": "psycho-pass-3-1360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f6dbd24f89d9bbea095ee7a0ef8a6be.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "45m"
+      },
+      {
+        "title": "Shinsei Galverse",
+        "alternativeTitle": "Shinsei Galverse",
+        "id": "shinsei-galverse-19800",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f07833c49c679915ba82abf4f8b82eac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Princess Connection",
+        "alternativeTitle": "Otohime Connection",
+        "id": "princess-connection-7210",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/023cd953ea8e85caf4bd0af6dd767495.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "49m"
+      },
+      {
+        "title": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!",
+        "alternativeTitle": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+        "id": "beheneko-the-elf-girls-cat-is-secretly-an-s-ranked-monster-19450",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8fadfa769570c5086a820d86a317cfe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Super Dimension Century Orguss",
+        "alternativeTitle": "Choujikuu Seiki Orguss",
+        "id": "the-super-dimension-century-orguss-5586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b87247591fc080bf7534ec620ac1f70b.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Deep Sea",
+        "alternativeTitle": "Shenhai",
+        "id": "deep-sea-17629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fe866666e707eb7fbd7babe0b80b635.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      },
+      {
+        "title": "Mobile Suit Gundam GQuuuuuuX",
+        "alternativeTitle": "Kidou Senshi Gundam: GQuuuuuuX",
+        "id": "mobile-suit-gundam-gquuuuuux-19560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f96ce69f862fd224f66363cb7650681.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Apocalypse Hotel",
+        "alternativeTitle": "Apocalypse Hotel",
+        "id": "apocalypse-hotel-19592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92801fc77f545b94faeed2f6de7b5ad6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Michel",
+        "alternativeTitle": "Suhoyojeong Michel",
+        "id": "michel-6234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17065c7f1da86aafdbb3a677321122d6.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Peace Maker Kurogane",
+        "alternativeTitle": "Peace Maker Kurogane",
+        "id": "peace-maker-kurogane-2171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9dfb81593124ba13371f18fa606e7431.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ai no Kusabi (2012)",
+        "alternativeTitle": "Ai no Kusabi (2012)",
+        "id": "ai-no-kusabi-2012-16141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52371306362cfe659dfc69868a1a4de4.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Kaze wo Nuke!",
+        "alternativeTitle": "Kaze wo Nuke!",
+        "id": "kaze-wo-nuke-7811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a4a42cc9cdb17511eaae19e4706570f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
+        "alternativeTitle": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.",
+        "id": "the-mononoke-lecture-logs-of-chuzenji-sensei-he-just-solves-all-the-mysteries-19595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/efd1fcabe5a71734180366ac60944283.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Compass 2.0: Sentou Setsuri Kaiseki System",
+        "alternativeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+        "id": "compass-20-sentou-setsuri-kaiseki-system-19599",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ccb96cac6b38eca4a89fb22c8931bab.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zatsu Tabi: That's Journey",
+        "alternativeTitle": "Zatsu Tabi: That's Journey",
+        "id": "zatsu-tabi-thats-journey-19568",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/822722dbe57eaab3729a5c854ef6a7f1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Super Shiro",
+        "alternativeTitle": "Super Shiro",
+        "id": "super-shiro-8122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5145c7b3f9aa05ede69137a2009f8ef6.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 48,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Please Twins",
+        "alternativeTitle": "Onegai☆Twins",
+        "id": "please-twins-4008",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8912357f87bba05fa88641f911e5492.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Prétear: The New Legend of Snow White",
+        "alternativeTitle": "Shin Shirayuki-hime Densetsu Prétear",
+        "id": "pretear-the-new-legend-of-snow-white-2698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c460a066c7c55773efaf9884de74b1f5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece: Dr. Chopper's Adventure Checkup - Good Friends at a Crossroad",
+        "alternativeTitle": "One Piece: Dr. Chopper no Bouken Karte - Shinyuu-tachi no Crossroad",
+        "id": "one-piece-dr-choppers-adventure-checkup-good-friends-at-a-crossroad-19797",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6219a887344d14c4365d62cc0dd9502b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Mashin Souzouden Wataru",
+        "alternativeTitle": "Mashin Souzouden Wataru",
+        "id": "mashin-souzouden-wataru-19481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/506aea20fdcd12c83bfc8bd5969099e1.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maebashi Witches",
+        "alternativeTitle": "Maebashi Witches",
+        "id": "maebashi-witches-19596",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/847a58c26c4194dae68752e39951ec94.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yandere Dark Elf: She Chased Me All the Way From Another World! [UNCENSORED]",
+        "alternativeTitle": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita [UNCENSORED]",
+        "id": "yandere-dark-elf-she-chased-me-all-the-way-from-another-world-uncensored-19643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3aca0826a0b696c73bddb24bcb4aa2b4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
+        "alternativeTitle": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+        "id": "yandere-dark-elf-she-chased-me-all-the-way-from-another-world-19634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32f3d0c957c333ae47b6b77786e1287e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Shoshimin: How to Become Ordinary Season 2",
+        "alternativeTitle": "Shoushimin Series 2nd Season",
+        "id": "shoshimin-how-to-become-ordinary-season-2-19557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/580c6de0eec119563d47b49803bafa01.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I'm the Evil Lord of an Intergalactic Empire!",
+        "alternativeTitle": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+        "id": "im-the-evil-lord-of-an-intergalactic-empire-19561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/204f14c82271f1120b1237df0eb86c25.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "From Old Country Bumpkin to Master Swordsman",
+        "alternativeTitle": "Katainaka no Ossan, Kensei ni Naru",
+        "id": "from-old-country-bumpkin-to-master-swordsman-19551",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84feed0bc64bfccac0421e57440b08f1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Masuda Kousuke Gekijou: Gag Manga Biyori Go",
+        "alternativeTitle": "Masuda Kousuke Gekijou: Gag Manga Biyori Go",
+        "id": "masuda-kousuke-gekijou-gag-manga-biyori-go-19607",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd53d6937ad7580fe5e19b63ebb8608f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "The Dinner Table Detective",
+        "alternativeTitle": "Nazotoki wa Dinner no Ato de",
+        "id": "the-dinner-table-detective-19571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd4bf0e6216701d3180a78b13d631864.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Usagi-chan de Cue!!",
+        "alternativeTitle": "Usagi-chan de Cue!!",
+        "id": "usagi-chan-de-cue-8978",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4367ef24758d2c59f7430e7b0b37dfd6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Marvel Future Avengers 2nd Season",
+        "alternativeTitle": "Marvel Future Avengers 2nd Season",
+        "id": "marvel-future-avengers-2nd-season-7443",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/509222af5bba5128d688d519f2a3a447.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Marvel Future Avengers",
+        "alternativeTitle": "Marvel Future Avengers",
+        "id": "marvel-future-avengers-8891",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/895feef4df55e05e18edc346f0afbbba.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Rascal Does Not Dream of a Dreaming Girl",
+        "alternativeTitle": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-a-dreaming-girl-44",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f41f4c62f5f3824f1dcdea53752c5286.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      }
+    ]
+  }
+}

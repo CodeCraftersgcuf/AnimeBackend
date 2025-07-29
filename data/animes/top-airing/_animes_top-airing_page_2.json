@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 11,
+      "currentPage": 2,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "YAIBA: Samurai Legend",
+        "alternativeTitle": "Shin Samurai-den Yaiba",
+        "id": "yaiba-samurai-legend-19575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc237f80ce02963acf93eb8797e12f9f.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Uglymug, Epicfighter",
+        "alternativeTitle": "Busamen Gachi Fighter",
+        "id": "uglymug-epicfighter-19747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa35a27d3d0c49dfb712103acdc29753.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Private Tutor to the Duke's Daughter",
+        "alternativeTitle": "Koujo Denka no Kateikyoushi",
+        "id": "private-tutor-to-the-dukes-daughter-19754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ef83145bba49eeb77b85ec2331b5ae8.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Perfect World",
+        "alternativeTitle": "Wanmei Shijie",
+        "id": "perfect-world-17492",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76a4c54d2b7d76cc4aecd8151b977e25.jpg",
+        "episodes": {
+          "sub": 225,
+          "dub": 0,
+          "eps": 234
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "SumPock",
+        "alternativeTitle": "Summer Pockets",
+        "id": "sumpock-19559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7010bbe5fb9c9cba54c19a9d660b98fc.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 0,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rascal Does Not Dream of Santa Claus",
+        "alternativeTitle": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-santa-claus-19788",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e9109398449cbeab3228d6ea05c5b1d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 1,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Doraemon (2005)",
+        "alternativeTitle": "Doraemon (2005)",
+        "id": "doraemon-2005-1551",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/046c7bccf54eb6c2d36fc15fb00a0739.jpg",
+        "episodes": {
+          "sub": 780,
+          "dub": 1252,
+          "eps": 780
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Stunned Hero and the Assassin Princesses",
+        "alternativeTitle": "Kizetsu Yuusha to Ansatsu Hime",
+        "id": "the-stunned-hero-and-the-assassin-princesses-19753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b26ecc3bfec1e0e448830968361ccfea.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rent-a-Girlfriend Season 4",
+        "alternativeTitle": "Kanojo, Okarishimasu 4th Season",
+        "id": "rent-a-girlfriend-season-4-19782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b24508cfaff6a3b0778d656d30c3a422.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 1,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Grand Blue Dreaming Season 2",
+        "alternativeTitle": "Grand Blue Season 2",
+        "id": "grand-blue-dreaming-season-2-19786",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2269ac1520195c3bd6bcca1246bc0b2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mikadono Sanshimai wa Angai, Choroi.",
+        "alternativeTitle": "Mikadono Sanshimai wa Angai, Choroi.",
+        "id": "mikadono-sanshimai-wa-angai-choroi-19765",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/388f4b910e67046f642d35228791e015.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nukitashi the Animation",
+        "alternativeTitle": "Nukitashi the Animation",
+        "id": "nukitashi-the-animation-19806",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33d4163485c2892aad7b42ddcf4ef7d8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Watari-kun's ****** Is about to Collapse",
+        "alternativeTitle": "Watari-kun no xx ga Houkai Sunzen",
+        "id": "watari-kuns-is-about-to-collapse-19769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7353719ac2fd26e6af72fe773c37a06a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tales of Herding Gods",
+        "alternativeTitle": "Mushen Ji",
+        "id": "tales-of-herding-gods-19409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a35a56dca52d7280df274193ba6b5a35.jpg",
+        "episodes": {
+          "sub": 41,
+          "dub": 0,
+          "eps": 41
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Burning Kabaddi",
+        "alternativeTitle": "Shakunetsu Kabaddi",
+        "id": "burning-kabaddi-15540",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cca9fc3f4d274abd7209911454388913.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/strange Fake",
+        "alternativeTitle": "Fate/strange Fake",
+        "id": "fatestrange-fake-19436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac32cdf531d2abecf89c8614f8131ce4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+        "alternativeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+        "id": "reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-2-19776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86ab58b1b09723017a3883d9ba2cfa22.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece - Wano Kuni SP",
+        "alternativeTitle": "One Piece - Wano Kuni SP",
+        "id": "one-piece-wano-kuni-sp-18217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd758a025129d9fb3806b27d3e5f428b.jpg",
+        "episodes": {
+          "sub": 19,
+          "dub": 0,
+          "eps": 19
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Throne of Seal 2nd Season",
+        "alternativeTitle": "Shen Yin Wangzuo 2nd Season",
+        "id": "throne-of-seal-2nd-season-18643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7eae90b00f92055c4cb250605b10879.jpg",
+        "episodes": {
+          "sub": 143,
+          "dub": 0,
+          "eps": 143
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Onmyo Kaiten Re:Birth Verse",
+        "alternativeTitle": "Onmyou Kaiten Re:Birth",
+        "id": "onmyo-kaiten-rebirth-verse-19744",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13b4878f4875d721ab896b97ebaf5d48.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Life as Inukai-san’s Dog. OVA",
+        "alternativeTitle": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials",
+        "id": "my-life-as-inukai-sans-dog-ova-18392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cd688e0d95aecdd53f47e350a1b6be3.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Betrothed to My Sister's Ex",
+        "alternativeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+        "id": "betrothed-to-my-sisters-ex-19766",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7726d03ae15975c080df874ca8e3d8a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Plus-Sized Elf Specials",
+        "alternativeTitle": "Elf-san wa Yaserarenai. Specials",
+        "id": "plus-sized-elf-specials-19398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68a402018a7ca1dd9383eefcf3221935.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Haigakura",
+        "alternativeTitle": "Haigakura",
+        "id": "haigakura-19361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c31d079ae74568b981d4168ef478dfa4.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "There's No Freaking Way I'll be Your Lover! Unless...",
+        "alternativeTitle": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+        "id": "theres-no-freaking-way-ill-be-your-lover-unless-19773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d340e5542d2e90dbd45940f897e1fe0.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Couple of Cuckoos Season 2",
+        "alternativeTitle": "Kakkou no Iinazuke Season 2",
+        "id": "a-couple-of-cuckoos-season-2-19778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ff05305e6d9951f288f55e9ba12287f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 1,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Detectives These Days Are Crazy!",
+        "alternativeTitle": "Mattaku Saikin no Tantei to Kitara",
+        "id": "detectives-these-days-are-crazy-19756",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0125c85fd9b4cfe0a9977eed50b91b78.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Anne Shirley",
+        "alternativeTitle": "Anne Shirley",
+        "id": "anne-shirley-19565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2e271a9e9498aa1dde79ae78a7e97ca.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 15,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hell Teacher: Jigoku Sensei Nube",
+        "alternativeTitle": "Jigoku Sensei Nube (2025)",
+        "id": "hell-teacher-jigoku-sensei-nube-19758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b820eb87b6c05c6f9d98007e7eee2b24.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Record of Mortal's Journey to Immortality Season 3",
+        "alternativeTitle": "Fanren Xiu Xian Chuan 3rd Season",
+        "id": "a-record-of-mortals-journey-to-immortality-season-3-19015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c113cfdf822840adf77c553d59794d85.jpg",
+        "episodes": {
+          "sub": 81,
+          "dub": 0,
+          "eps": 81
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Fermat's Cuisine",
+        "alternativeTitle": "Fermat no Ryouri",
+        "id": "fermats-cuisine-19746",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4623b9c59ef7376b07e7ab2217df9efe.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chiikawa",
+        "alternativeTitle": "Chiikawa",
+        "id": "chiikawa-18003",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2147b7dfdac8d45a8ffa0e92da9c4859.jpg",
+        "episodes": {
+          "sub": 120,
+          "dub": 0,
+          "eps": 120
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Panty & Stocking with Garterbelt 2nd Season",
+        "alternativeTitle": "New Panty & Stocking with Garterbelt",
+        "id": "panty-stocking-with-garterbelt-2nd-season-19780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a71d234899029be1b8bc25552cca8408.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ling Jian Zun 4th Season",
+        "alternativeTitle": "Ling Jian Zun 4th Season",
+        "id": "ling-jian-zun-4th-season-14951",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6a150a93ecc1af79d26860e85177210.jpg",
+        "episodes": {
+          "sub": 612,
+          "dub": 0,
+          "eps": 612
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "One Hundred Thousand Years of Qi Refining",
+        "alternativeTitle": "Lian Qi Shi Wan Nian",
+        "id": "one-hundred-thousand-years-of-qi-refining-19182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6aa3770a48ac6a8500d378819d0de918.jpg",
+        "episodes": {
+          "sub": 256,
+          "dub": 0,
+          "eps": 256
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Dekin no Mogura: The Earthbound Mole",
+        "alternativeTitle": "Dekin no Mogura",
+        "id": "dekin-no-mogura-the-earthbound-mole-19755",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bcbf3154a1f466ebbe5a62155a14431.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 1,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arknights: Rise from Ember",
+        "alternativeTitle": "Arknights: Rise from Ember",
+        "id": "arknights-rise-from-ember-19768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/761de12ac14d81fb28a5e991d9db31a9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Solo Camping for Two",
+        "alternativeTitle": "Futari Solo Camp",
+        "id": "solo-camping-for-two-19752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/352ec6644247a3fb28cd1f9199f991f4.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ruri Rocks",
+        "alternativeTitle": "Ruri no Houseki",
+        "id": "ruri-rocks-19763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3008601e63660ec3634240b41edc2e65.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "With You and the Rain",
+        "alternativeTitle": "Ame to Kimi to",
+        "id": "with-you-and-the-rain-19762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd4753d8a4d3ba94607dd9f60b23e3a6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "22m"
+      }
+    ]
+  }
+}

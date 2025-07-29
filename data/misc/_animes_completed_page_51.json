@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 51,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Sakura Trick",
+        "alternativeTitle": "Sakura Trick",
+        "id": "sakura-trick-3465",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8c3a1755e8b8df58baad2ce85982434.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kandagawa Jet Girls",
+        "alternativeTitle": "Kandagawa Jet Girls",
+        "id": "kandagawa-jet-girls-8965",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a03686ccf8a7ecb7022d56ab618e7f59.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soul Land: 7th Season",
+        "alternativeTitle": "Douluo Dalu: Hanhai Qian Kun",
+        "id": "soul-land-7th-season-17806",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79027f766010a70c3ee514a77de291b2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Soul Land: 6th Season",
+        "alternativeTitle": "Douluo Dalu: Xingdou Xian Ji Pian",
+        "id": "soul-land-6th-season-17795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35ebfa97bcecfbdd3048d846a011c92f.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Soul Land: 5th Season",
+        "alternativeTitle": "Douluo Dalu: Xiaowu Juebie",
+        "id": "soul-land-5th-season-648",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccb9889d3e55f27f6d5ebeda9378969c.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Soul Land: 4th Season",
+        "alternativeTitle": "Douluo Dalu: Qian Hua Xi Jin",
+        "id": "soul-land-4th-season-477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21b14074996e0d5f1d65f5ffd992e5cd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Soul Land: 3rd Season",
+        "alternativeTitle": "Douluo Dalu: Hao Tian Yang Wei",
+        "id": "soul-land-3rd-season-595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/607bcf2dffcc668b2b54faf0e1c7ccf8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "King From Now On!",
+        "alternativeTitle": "Kyou kara Maou!",
+        "id": "king-from-now-on-963",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42229e98d2fd265da63f60e0ce660bf3.jpg",
+        "episodes": {
+          "sub": 78,
+          "dub": 78,
+          "eps": 78
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Wasteful Days of High School Girl",
+        "alternativeTitle": "Joshikousei no Mudazukai",
+        "id": "wasteful-days-of-high-school-girl-1014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33699d1541e1af66c3b6b90d99aad8a0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shironeko Project ZERO CHRONICLE",
+        "alternativeTitle": "Shironeko Project: Zero Chronicle",
+        "id": "shironeko-project-zero-chronicle-9768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/834a5d5bd5ea4ceaa4dda5ae402d4901.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kaguya-sama: Love is War",
+        "alternativeTitle": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen",
+        "id": "kaguya-sama-love-is-war-123",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4f7470c7b0fedc1df5ec703c2d7fbc0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sword Art Online: Alicization",
+        "alternativeTitle": "Sword Art Online: Alicization",
+        "id": "sword-art-online-alicization-1298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19551cc7bfb4b94894014d2802763913.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shirobako",
+        "alternativeTitle": "Shirobako",
+        "id": "shirobako-170",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/498ce2330bda5c321f29ea076607e571.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakura Wars the Animation",
+        "alternativeTitle": "Shin Sakura Taisen the Animation",
+        "id": "sakura-wars-the-animation-8579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/830ed2b6a6e14acba2f2d8864b175a6d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Demon Girl Next Door",
+        "alternativeTitle": "Machikado Mazoku",
+        "id": "the-demon-girl-next-door-1017",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef05beb474955c03a230d1cc696a7f9b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BNA",
+        "alternativeTitle": "BNA",
+        "id": "bna-1493",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e390932e38585ec71ce3db2e858a4a97.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Psycho-Pass 2",
+        "alternativeTitle": "Psycho-Pass 2",
+        "id": "psycho-pass-2-1774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e11304ee40b00691163cb7e9c2f5d709.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Psycho-Pass",
+        "alternativeTitle": "Psycho-Pass",
+        "id": "psycho-pass-158",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/beb3713889a579eb4d3f088ee704c565.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gatchaman",
+        "alternativeTitle": "Gatchaman",
+        "id": "gatchaman-6192",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0d8e3ccb78ac0e88c2995e54a5cd8a8.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "47m"
+      },
+      {
+        "title": "Inari Kon Kon",
+        "alternativeTitle": "Inari, Konkon, Koi Iroha.",
+        "id": "inari-kon-kon-2634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e02f497c66008bb91180899a66b066d.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hyperdimension Neptunia",
+        "alternativeTitle": "Choujigen Game Neptune The Animation",
+        "id": "hyperdimension-neptunia-3517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9fe317574bce188a01abc28460f0ba2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Shining Heresy",
+        "alternativeTitle": "Soukou Kihei Votoms: Kakuyaku taru Itan",
+        "id": "armored-trooper-votoms-shining-heresy-3757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4867f20c20d330516ab555247a67a9d.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Phantom Arc",
+        "alternativeTitle": "Soukou Kihei Votoms: Genei-hen",
+        "id": "armored-trooper-votoms-phantom-arc-4581",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7964fcabc0fce4be072cac9abb93485e.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Pailsen Files",
+        "alternativeTitle": "Soukou Kihei Votoms: Pailsen Files",
+        "id": "armored-trooper-votoms-pailsen-files-2439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2370c6181f52b14042f4df4b86df04dd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Ojamajo Doremi: Owarai Gekijou",
+        "alternativeTitle": "Ojamajo Doremi: Owarai Gekijou",
+        "id": "ojamajo-doremi-owarai-gekijou-7373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/076a7f1923b366ce901a9c7093ab106c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Lucky☆Star: Original na Visual to Animation",
+        "alternativeTitle": "Lucky☆Star: Original na Visual to Animation",
+        "id": "luckystar-original-na-visual-to-animation-774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a557132bf1c410324678f3f7e27ea2c9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "42m"
+      },
+      {
+        "title": "Lucky☆Star",
+        "alternativeTitle": "Lucky☆Star",
+        "id": "luckystar-868",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a382956f1857e7e95c71bbd434e06f8.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magic User's Club (OVA)",
+        "alternativeTitle": "Mahoutsukai Tai!",
+        "id": "magic-users-club-ova-3245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de53da7efe846c1126995d4e1f3a84b8.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Babel II: Beyond Infinity",
+        "alternativeTitle": "Babel Nisei (2001)",
+        "id": "babel-ii-beyond-infinity-8704",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1148deffa03b32f6efbd8a30821f2269.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cyber City Oedo 808",
+        "alternativeTitle": "Cyber City Oedo 808",
+        "id": "cyber-city-oedo-808-2815",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/748c1099557d5310361be5a73fc6d859.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Babel II",
+        "alternativeTitle": "Babel Nisei (OVA)",
+        "id": "babel-ii-8363",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/898041eeb6572c77ac0e4a2a515ed72f.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Magical DoReMi: Sharp",
+        "alternativeTitle": "Ojamajo Doremi Sharp",
+        "id": "magical-doremi-sharp-2185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c84318a9bb4d74c3c1345e9df4ae64d4.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kamisama Kiss: 2nd Season",
+        "alternativeTitle": "Kamisama Hajimemashita◎",
+        "id": "kamisama-kiss-2nd-season-331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6483ff5ae07bc72a090b8195b939eb58.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kamisama Kiss",
+        "alternativeTitle": "Kamisama Hajimemashita",
+        "id": "kamisama-kiss-480",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38aebe25cb52bffab9682a7d5ecea1b8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Show By Rock!! #",
+        "alternativeTitle": "Show By Rock!! #",
+        "id": "show-by-rock-3476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42a2356724350a8ce45fed7dde6f60e7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Show By Rock!! Mashumairesh!!",
+        "alternativeTitle": "Show By Rock!! Mashumairesh!!",
+        "id": "show-by-rock-mashumairesh-4031",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1e5bdb75699003d8ded615fe1a351d2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Show By Rock!!",
+        "alternativeTitle": "Show By Rock!!",
+        "id": "show-by-rock-3404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b108c54495d2ad77ae5b3696dd288584.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "More! Magical DoReMi",
+        "alternativeTitle": "Motto! Ojamajo Doremi",
+        "id": "more-magical-doremi-2230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c09f1fcc037fea25a6aa59e721b285a4.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magical DoReMi Na-i-sho",
+        "alternativeTitle": "Ojamajo Doremi Na-i-sho",
+        "id": "magical-doremi-na-i-sho-998",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/987ede7889ccfc0cb988eb3747d55b2b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Suite Precure",
+        "alternativeTitle": "Suite Precure♪",
+        "id": "suite-precure-2462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28a56ac481f2ae10d85f7ddba4d51366.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

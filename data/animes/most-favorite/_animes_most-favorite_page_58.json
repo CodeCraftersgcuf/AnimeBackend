@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 58,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Rurouni Kenshin -Kyoto Disturbance-",
+        "alternativeTitle": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+        "id": "rurouni-kenshin-kyoto-disturbance-19340",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c339e5c8107dbda621c214e351f7164.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Aquarion Evol",
+        "alternativeTitle": "Aquarion Evol",
+        "id": "aquarion-evol-2897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/894fed76bbe61961af0959e1634aedf1.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Little Busters! ~Refrain~",
+        "alternativeTitle": "Little Busters!: Refrain",
+        "id": "little-busters-refrain-256",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1126e3c76482cf8948b674fb98e50bd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Life as Inukai-san’s Dog. OVA",
+        "alternativeTitle": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials",
+        "id": "my-life-as-inukai-sans-dog-ova-18392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cd688e0d95aecdd53f47e350a1b6be3.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Head Start at Birth",
+        "alternativeTitle": "0-saiji Start Dash Monogatari",
+        "id": "head-start-at-birth-19207",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fcd6ba7881014b8213af4c05e8d0a29.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Porco Rosso",
+        "alternativeTitle": "Kurenai no Buta",
+        "id": "porco-rosso-535",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a95db7b721e06e1f50ca6ec670b9c36f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Super Danganronpa 2.5: Nagito Komaeda and the Destroyer of the World",
+        "alternativeTitle": "Super Danganronpa 2.5: Komaeda Nagito to Sekai no Hakaimono",
+        "id": "super-danganronpa-25-nagito-komaeda-and-the-destroyer-of-the-world-2701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/624e7612ea1da75f4e80bca88eb6ab43.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Sengoku Basara: Samurai Kings",
+        "alternativeTitle": "Sengoku Basara",
+        "id": "sengoku-basara-samurai-kings-1864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d9890e722761a7bd687cbcaf2117183.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wangan Midnight",
+        "alternativeTitle": "Wangan Midnight",
+        "id": "wangan-midnight-1736",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cdead849640892e527d36f1bf7d7468b.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Yamishibai: Japanese Ghost Stories",
+        "alternativeTitle": "Yami Shibai",
+        "id": "yamishibai-japanese-ghost-stories-3303",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cedddd8649f12ff09846d8d303985d8c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Dragon Ball Z: Bojack Unbound",
+        "alternativeTitle": "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+        "id": "dragon-ball-z-bojack-unbound-2999",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5488ca75e7e1618397a17ded27f165c2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "Girly Air Force",
+        "alternativeTitle": "Girly Air Force",
+        "id": "girly-air-force-7088",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b618329e0da18c3fda8cab2abc7460d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Big Order",
+        "alternativeTitle": "Big Order",
+        "id": "big-order-8546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec6fb71346b1b9eb1fbde1a956e4c7a1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Broken Blade",
+        "alternativeTitle": "Break Blade",
+        "id": "broken-blade-2313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a319e993e5d1d2fc1f8be1c57b954a5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Queen's Blade: Rebellion",
+        "alternativeTitle": "Queen's Blade: Rebellion",
+        "id": "queens-blade-rebellion-6559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07ec691c0ae716434f9d448ca3fcf233.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Daimidaler: Prince vs. Penguin Empire",
+        "alternativeTitle": "Kenzen Robo Daimidaler",
+        "id": "daimidaler-prince-vs-penguin-empire-7288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67c2b006b05dd36a77afd0f46a12cfad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Back Street Girls: Gokudolls",
+        "alternativeTitle": "Back Street Girls: Gokudolls",
+        "id": "back-street-girls-gokudolls-3888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd99fea6373ea7fe67af5718814b4d0e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rakshasa Street 2",
+        "alternativeTitle": "Zhen Hun Jie: Bei Luo Shi Men Pian Part 2",
+        "id": "rakshasa-street-2-15626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e36befd63a3d5f0372117c737a3b891.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Aokana: Four Rhythm Across the Blue",
+        "alternativeTitle": "Ao no Kanata no Four Rhythm",
+        "id": "aokana-four-rhythm-across-the-blue-4691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/921e46f8290d9137e082d2e086019d0c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tenchi Muyou!",
+        "alternativeTitle": "Tenchi Muyou!",
+        "id": "tenchi-muyou-1734",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/737791945b195ed66555e6c0baed2074.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Art Online II: Debriefing",
+        "alternativeTitle": "Sword Art Online II: Debriefing",
+        "id": "sword-art-online-ii-debriefing-5522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2fecf51f9e69c0d32d27dfd479a2340.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Witchblade",
+        "alternativeTitle": "Witchblade",
+        "id": "witchblade-2449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8a258a65453124cee9db59075676d33.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Dark Rabbit has Seven Lives",
+        "alternativeTitle": "Itsuka Tenma no Kuro Usagi",
+        "id": "a-dark-rabbit-has-seven-lives-5185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04b3f3016fb22cf12691d0f51ce36f7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "One Piece 3D: Strawhat Chase",
+        "alternativeTitle": "One Piece 3D: Mugiwara Chase",
+        "id": "one-piece-3d-strawhat-chase-3188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01605691c2a52ce8c5f3226ec4a631a9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "Chihayafuru 3",
+        "alternativeTitle": "Chihayafuru 3",
+        "id": "chihayafuru-3-83",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a90a4eaa30d267ca62b8e8f6ef8a029.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "The Silver Guardian 2",
+        "alternativeTitle": "Gin no Guardian II",
+        "id": "the-silver-guardian-2-5095",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98d1a7fba0f55be03bc353fa1b7aa241.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Trinity Blood",
+        "alternativeTitle": "Trinity Blood",
+        "id": "trinity-blood-2201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3063882803a6da52e007d2d0563595af.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Battle Through the Heavens",
+        "alternativeTitle": "Doupo Cangqiong",
+        "id": "battle-through-the-heavens-2150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2eca9955980e30a007f410a15aff4fd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Shoot! Goal to the Future",
+        "alternativeTitle": "Shoot! Goal to the Future",
+        "id": "shoot-goal-to-the-future-18097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea7c0f44a5baa332022eaa60f5ab41ff.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kekkaishi",
+        "alternativeTitle": "Kekkaishi (TV)",
+        "id": "kekkaishi-1176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb96778c31a037addd3436ce36ae5efe.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Earl and Fairy",
+        "alternativeTitle": "Hakushaku to Yousei",
+        "id": "earl-and-fairy-2326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b267313bd8f6add9cdec58a9e5278158.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Girls Bravo: Second Season",
+        "alternativeTitle": "Girls Bravo: Second Season",
+        "id": "girls-bravo-second-season-4822",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70e1472f82ca02e4d4b3b2435f5e9515.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "IDOLiSH7",
+        "alternativeTitle": "IDOLiSH7",
+        "id": "idolish7-803",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7563a120d632cfcd49357b43fea4377.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 0,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Evil or Live",
+        "alternativeTitle": "Evil or Live",
+        "id": "evil-or-live-8492",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb633ffaca30d37c06a1042ff9d2a728.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!",
+        "alternativeTitle": "Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!",
+        "id": "amagi-brilliant-park-nonbirishiteiru-hima-ga-nai-2505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25ad6647b9081b64b2e171e97545b9e6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Sakamoto Desu ga? Special",
+        "alternativeTitle": "Sakamoto Desu ga? Special",
+        "id": "sakamoto-desu-ga-special-4255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20651331181321a83f0f00eb32785e34.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Ace of Diamond Act II",
+        "alternativeTitle": "Diamond no Ace: Act II",
+        "id": "ace-of-diamond-act-ii-272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e3a94911133e0ca7a803fd6630a1e5f.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Idaten Jump",
+        "alternativeTitle": "[RAW] Idaten Jump",
+        "id": "raw-idaten-jump-3875",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bd92b05e61ddc0d207f890c88b889dc.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "So, I Can't Play H! (OVA)",
+        "alternativeTitle": "Dakara Boku wa, H ga Dekinai.: Mie Sugi! Mizugi Contest",
+        "id": "so-i-cant-play-h-ova-4737",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0714e2290b17e207d8a0fa24cdb76c1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Fairies Albums",
+        "alternativeTitle": "Bai Yao Pu",
+        "id": "fairies-albums-4192",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b75e854d8aa452c1031aeccb95effeaf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      }
+    ]
+  }
+}

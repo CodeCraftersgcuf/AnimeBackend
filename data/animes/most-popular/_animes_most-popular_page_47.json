@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 47,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Pokemon the Movie 18: Hoopa and the Clash of Ages",
+        "alternativeTitle": "Pokemon Movie 18: Ring no Choumajin Hoopa",
+        "id": "pokemon-the-movie-18-hoopa-and-the-clash-of-ages-5614",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/496ae1464babbcb9eea295390df74920.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "78m"
+      },
+      {
+        "title": "Magilumiere Co. Ltd.",
+        "alternativeTitle": "Kabushikigaisha Magi-Lumière",
+        "id": "magilumiere-co-ltd-19357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50dba3709f716a66809e0d8371dc6baf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Detective Conan Movie 24: The Scarlet Bullet",
+        "alternativeTitle": "Detective Conan Movie 24: Hiiro no Dangan",
+        "id": "detective-conan-movie-24-the-scarlet-bullet-15686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08ef8ab96bc564c85cf7c2dff8f19fb9.png",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Higurashi: When They Cry – Gou",
+        "alternativeTitle": "Higurashi no Naku Koro ni Gou",
+        "id": "higurashi-when-they-cry-gou-1518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cd1ab997ed0ae2d6ec14ef690fcd65e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Space Dandy",
+        "alternativeTitle": "Space☆Dandy",
+        "id": "space-dandy-687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c83268a9efdb38c5ab76d3aaaa45c38d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Zeta Gundam",
+        "alternativeTitle": "Mobile Suit Zeta Gundam",
+        "id": "mobile-suit-zeta-gundam-633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d73a1f59ec9c6b62c26f6d4a0628f557.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Place to Place",
+        "alternativeTitle": "Acchi Kocchi (TV)",
+        "id": "place-to-place-1490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34e4aad09c1c33e760b3fb3b765cbd85.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K. Final Arc",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+        "id": "the-disastrous-life-of-saiki-k-final-arc-281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50888b6a169a08dfaf4cf95e17eb6504.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "50m"
+      },
+      {
+        "title": "Inazuma Eleven Go: Galaxy",
+        "alternativeTitle": "Inazuma Eleven Go: Galaxy",
+        "id": "inazuma-eleven-go-galaxy-4933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc651a96a999f37a2dcee6db4c8e2f63.jpg",
+        "episodes": {
+          "sub": 43,
+          "dub": 0,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+        "alternativeTitle": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+        "id": "fategrand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram-15701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3084653413a3c182368f37ca57864ab.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "A Certain Scientific Railgun S",
+        "alternativeTitle": "Toaru Kagaku no Railgun S",
+        "id": "a-certain-scientific-railgun-s-453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f678ec59bf69fef2b8d0d1dd917967d2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Girl Who Leapt Through Time",
+        "alternativeTitle": "Toki wo Kakeru Shoujo",
+        "id": "the-girl-who-leapt-through-time-285",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f85a65ba186992cc43435361ae33faba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "Big Order (TV)",
+        "alternativeTitle": "Big Order (TV)",
+        "id": "big-order-tv-9582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99b19d8e061d07bff765598eca0d5b75.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "When I Woke Up I Became a Bagel Girl",
+        "alternativeTitle": "Eoneu Nal Jameseo Kkaeeoboni Bagelyeoga Doeeo Isseotda",
+        "id": "when-i-woke-up-i-became-a-bagel-girl-17283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f5fa2f7dfbe5430195335942453d3dd.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "A Certain Scientific Railgun T",
+        "alternativeTitle": "Toaru Kagaku no Railgun T",
+        "id": "a-certain-scientific-railgun-t-241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57c29ad41c8214e567ed79dda1200336.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shakugan no Shana: Season I",
+        "alternativeTitle": "Shakugan no Shana",
+        "id": "shakugan-no-shana-season-i-1474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46b469f368cc095a724912d50d51229a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arknights Animation: Prelude to Dawn",
+        "alternativeTitle": "Arknights: Reimei Zensou",
+        "id": "arknights-animation-prelude-to-dawn-18175",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/989587ed4bb13d80711dd8be32854a22.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Obey Me!",
+        "alternativeTitle": "Obey Me!",
+        "id": "obey-me-17835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/212caf6c733229b1b8fd5de6a545fe2e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "6m"
+      },
+      {
+        "title": "DearS",
+        "alternativeTitle": "DearS",
+        "id": "dears-5178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab003f5bd18de54f4738b09b98e2a228.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "TONIKAWA: Over The Moon For You Episode 12.5 – Flashbacks",
+        "alternativeTitle": "Tonikaku Kawaii: Kaisou",
+        "id": "tonikawa-over-the-moon-for-you-episode-125-flashbacks-17458",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e28ebe08a89e9daefb7a618864bad1c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Doraemon: Nobita's Sky Utopia",
+        "alternativeTitle": "Doraemon Movie 42: Nobita to Sora no Utopia",
+        "id": "doraemon-nobitas-sky-utopia-18256",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb4cfa035b3de56f6333bac436e0eb3a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "107m"
+      },
+      {
+        "title": "Bastard!!",
+        "alternativeTitle": "Bastard!!: Ankoku no Hakaishin",
+        "id": "bastard-4544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0d337b9958b74760777614c8c26684e.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Sousou no Frieren - Marumaru no Mahou (Mini Anime)",
+        "alternativeTitle": "Sousou no Frieren: no Mahou",
+        "id": "sousou-no-frieren-marumaru-no-mahou-mini-anime-18640",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b7d46aae55fcd98e1d4c8eb246abb7e.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "To LOVE Ru Darkness 2 Specials",
+        "alternativeTitle": "To LOVE-Ru Darkness 2nd Specials",
+        "id": "to-love-ru-darkness-2-specials-1140",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50ccc198a5135dd1fef6348a46217003.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Sirius the Jaeger",
+        "alternativeTitle": "Sirius",
+        "id": "sirius-the-jaeger-3318",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1af3de775308a1cf548382af94c4affa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Triage X",
+        "alternativeTitle": "Triage X",
+        "id": "triage-x-6499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c4cc3328b896e7392ee142dac539dcf.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mezzo Forte",
+        "alternativeTitle": "Mezzo Forte",
+        "id": "mezzo-forte-16168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2172ce770bf04fb343be33d1073224f7.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Yuu Gi Ou: Go Rush!!",
+        "alternativeTitle": "Yu☆Gi☆Oh!: Go Rush!!",
+        "id": "yuu-gi-ou-go-rush-18000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92701d4864595e6cd3ce3c4effa2c198.jpg",
+        "episodes": {
+          "sub": 151,
+          "dub": 29,
+          "eps": 151
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Roommate is a Cat",
+        "alternativeTitle": "Doukyonin wa Hiza, Tokidoki, Atama no Ue.",
+        "id": "my-roommate-is-a-cat-846",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb2cd8a31402bf9a0519fd77343a4dce.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Familiar of Zero F",
+        "alternativeTitle": "Zero no Tsukaima F",
+        "id": "the-familiar-of-zero-f-1426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/963e0927a42a4e36beac3b70591d1c63.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "7 Seeds",
+        "alternativeTitle": "7 Seeds",
+        "id": "7-seeds-5672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b9f297975bd1d2295a4d85346904eb3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Anne Shirley",
+        "alternativeTitle": "Anne Shirley",
+        "id": "anne-shirley-19565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2e271a9e9498aa1dde79ae78a7e97ca.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 15,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Katsugeki Touken Ranbu",
+        "alternativeTitle": "Katsugeki/Touken Ranbu",
+        "id": "katsugeki-touken-ranbu-4643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e7840b694a70fc08c8223dfc5c2a522.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nozo x Kimi",
+        "alternativeTitle": "Nozo x Kimi",
+        "id": "nozo-x-kimi-5913",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1a6e06dd1c273479de84e53a75d6e89.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "SSSS.Dynazenon",
+        "alternativeTitle": "SSSS.Dynazenon",
+        "id": "ssssdynazenon-15563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d744829666ceda17408d9184f299847.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lord of Vermilion: The Crimson King",
+        "alternativeTitle": "Lord of Vermilion: Guren no Ou",
+        "id": "lord-of-vermilion-the-crimson-king-9752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b465502a9d9b564de16dbbd992bcdf2b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Major S1",
+        "alternativeTitle": "Major S1",
+        "id": "major-s1-226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55406b5f33974391a68d0e742bb946df.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Chibi☆Devi!",
+        "alternativeTitle": "Chibi☆Devi!",
+        "id": "chibidevi-4550",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb3c9b06b0d824a882fa11cd9c98bd44.jpg",
+        "episodes": {
+          "sub": 75,
+          "dub": 0,
+          "eps": 75
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "A Lull in the Sea",
+        "alternativeTitle": "Nagi no Asu kara",
+        "id": "a-lull-in-the-sea-395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1484f38d8a9c7065c9dffc5087285670.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hell Teacher: Jigoku Sensei Nube",
+        "alternativeTitle": "Jigoku Sensei Nube (2025)",
+        "id": "hell-teacher-jigoku-sensei-nube-19758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b820eb87b6c05c6f9d98007e7eee2b24.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

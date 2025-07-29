@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 44,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Lupin III",
+        "alternativeTitle": "Lupin III",
+        "id": "lupin-iii-1126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/170a925f89b941a98f0be20ad3ea6e4a.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tesla Note",
+        "alternativeTitle": "Tesla Note",
+        "id": "tesla-note-17848",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1682be97747cede2310ecee98437d03.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon",
+        "alternativeTitle": "Dragon",
+        "id": "dragon-7630",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/740cec04b30a383618b5955346320535.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "ONA",
+        "duration": "26m"
+      },
+      {
+        "title": "Coyote Ragtime Show",
+        "alternativeTitle": "Coyote Ragtime Show",
+        "id": "coyote-ragtime-show-5014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/609de3b29269c4b1fedbef065005af8b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "HeatGuy J",
+        "alternativeTitle": "HeatGuy J",
+        "id": "heatguy-j-2825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e42762ceba342f3f03591c18eb9b076.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "HeatGuy J Special",
+        "alternativeTitle": "HeatGuy J Special",
+        "id": "heatguy-j-special-3444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5aa32202e04d4efd90a6def4b73efde7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "86-Eighty Six- Special Edition - Coquelicots Blooming Across the Battlefield",
+        "alternativeTitle": "86 Special Edition: Senya ni Akaku Hinageshi no Saku",
+        "id": "86eighty-six-special-edition-coquelicots-blooming-across-the-battlefield-17948",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e9448521e5959e8db0a6857569d80e5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Demon Slayer: Mt. Natagumo Arc",
+        "alternativeTitle": "Demon Slayer: Natagumo Mountain Arc",
+        "id": "demon-slayer-mt-natagumo-arc-17858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5020a13530f648be6f59e64f4ec78c3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "138m"
+      },
+      {
+        "title": "Sengoku Musou",
+        "alternativeTitle": "Sengoku Musou",
+        "id": "sengoku-musou-5426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1108806cbf91aa088bec8f156a0f487.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Samurai Warriors SP: Legend of the Sanada",
+        "alternativeTitle": "Sengoku Musou SP: Sanada no Shou",
+        "id": "samurai-warriors-sp-legend-of-the-sanada-5259",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2450593fb5d22d95db6e208bec85c18.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "45m"
+      },
+      {
+        "title": "Queen's Blade OVA Specials",
+        "alternativeTitle": "Queen's Blade OVA Specials",
+        "id": "queens-blade-ova-specials-7657",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94db270f768b25a74b21133c0204ee79.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "20m"
+      },
+      {
+        "title": "Queen's Blade: The Exiled Virgin",
+        "alternativeTitle": "Queen's Blade: Rurou no Senshi Specials",
+        "id": "queens-blade-the-exiled-virgin-7988",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa72d6b740774e6469ac48b861536197.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Queen's Blade: Inheritor of the Throne Specials",
+        "alternativeTitle": "Queen's Blade: Gyokuza wo Tsugu Mono Specials",
+        "id": "queens-blade-inheritor-of-the-throne-specials-7229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d4ce49cfa503eafa8cb3310a7a87925.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Ancient Girl's-Frame",
+        "alternativeTitle": "Dou Shen Ji",
+        "id": "ancient-girlsframe-17924",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97794bf388d89873a97499c8233db2e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+        "alternativeTitle": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram",
+        "id": "fategrand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram-15701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3084653413a3c182368f37ca57864ab.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Beyblade Burst Evolution",
+        "alternativeTitle": "Beyblade Burst God",
+        "id": "beyblade-burst-evolution-4885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fe547c28b3ffce06c51197c2241bce1.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aldnoah.Zero",
+        "alternativeTitle": "Aldnoah.Zero",
+        "id": "aldnoahzero-1683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eee2f5b71e3f1de9f20a53b6fd93dec1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Defective",
+        "alternativeTitle": "Can Ci Pin",
+        "id": "the-defective-15671",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0eec6df4b361845da25635d64bdb4358.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Hitori no Shita: The Outcast Recap",
+        "alternativeTitle": "Hitori no Shita: The Outcast Recap",
+        "id": "hitori-no-shita-the-outcast-recap-6738",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1bcccfc4667fce88ec4753a9417bda08.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Episode of Nami - Tears of a Navigator and the Bonds of Friends",
+        "alternativeTitle": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+        "id": "one-piece-episode-of-nami-tears-of-a-navigator-and-the-bonds-of-friends-336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8ec23b151d2e3e0a392c3ce9f4429b7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "106m"
+      },
+      {
+        "title": "One Piece 3D: Strawhat Chase",
+        "alternativeTitle": "One Piece 3D: Mugiwara Chase",
+        "id": "one-piece-3d-strawhat-chase-3188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01605691c2a52ce8c5f3226ec4a631a9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "One Piece: Romance Dawn Story",
+        "alternativeTitle": "One Piece: Romance Dawn Story",
+        "id": "one-piece-romance-dawn-story-1860",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7d7242012fbb0209ec15aba2e8edd67.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "One Piece Film: Strong World Episode 0",
+        "alternativeTitle": "One Piece Film: Strong World Episode 0",
+        "id": "one-piece-film-strong-world-episode-0-499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/228ea6c39b625f78ae75fa95cf9e63ee.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "18m"
+      },
+      {
+        "title": "One Piece: Glorious Island",
+        "alternativeTitle": "One Piece: Glorious Island",
+        "id": "one-piece-glorious-island-2688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/622144a3ae59c58a9cfa2787c27722cb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "One Piece 3D: Gekisou! Trap Coaster",
+        "alternativeTitle": "One Piece 3D: Gekisou! Trap Coaster",
+        "id": "one-piece-3d-gekisou-trap-coaster-3400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0a890203ee84a3c205d149b6e91a724.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "12m"
+      },
+      {
+        "title": "Mobile Suit Gundam AGE",
+        "alternativeTitle": "Mobile Suit Gundam AGE",
+        "id": "mobile-suit-gundam-age-5793",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f20830910ce1733fd087f3970cf2e8f.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Isuca (Uncensored)",
+        "alternativeTitle": "Isuca (Uncensored)",
+        "id": "isuca-uncensored-17958",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9679aae568c1d6ac60a934c42002f538.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Attack on Titan: Final Season, Part 1",
+        "alternativeTitle": "Shingeki no Kyojin: Final Season, Part 1",
+        "id": "attack-on-titan-final-season-part-1-15548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83da53919d7a20332be01686141f18f6.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": ".hack//Beyond the World",
+        "alternativeTitle": ".hack//The Movie: Sekai no Mukou ni",
+        "id": "hackbeyond-the-world-2892",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3217ad7f08a208c7537b6dd199bf29a9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram",
+        "alternativeTitle": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram",
+        "id": "fategrand-order-shinsei-entaku-ryouiki-camelot-2-paladin-agateram-15702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/416c79d1c1a752f312c4c3b49d61d4db.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Golgo 13",
+        "alternativeTitle": "Golgo 13 (TV)",
+        "id": "golgo-13-1457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bcf04b8bde205ecd8577ee0da35c8a6.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arifureta: From Commonplace to World's Strongest",
+        "alternativeTitle": "Arifureta Shokugyou de Sekai Saikyou Specials",
+        "id": "arifureta-from-commonplace-to-worlds-strongest-5937",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acb042c40dd50c70ed804060175dc692.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "The World Ends with You The Animation",
+        "alternativeTitle": "Subarashiki Kono Sekai The Animation",
+        "id": "the-world-ends-with-you-the-animation-15566",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b49331f51e585dfdfe51ff8683be0d63.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "LBX Girls",
+        "alternativeTitle": "Soukou Musume Senki",
+        "id": "lbx-girls-15560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/00ba6901cb21416a6d76e7a325f2dc68.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

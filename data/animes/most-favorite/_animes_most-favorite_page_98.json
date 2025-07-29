@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 98,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Teekyu",
+        "alternativeTitle": "Teekyuu",
+        "id": "teekyu-5239",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43eba077fc4dbf89b810a6ad3f8a7ff3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Aquarion Logos",
+        "alternativeTitle": "Aquarion Logos",
+        "id": "aquarion-logos-8762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b97f48f6682cb87d039e08a519a6e79.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Seiyu's Life!",
+        "alternativeTitle": "Sore ga Seiyuu!",
+        "id": "seiyus-life-3396",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/202aef7b54ebc1ef15c4d8acc0c5de65.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kuroko no Basket 3rd Season NG-shuu",
+        "alternativeTitle": "Kuroko no Basket 3rd Season NG-shuu",
+        "id": "kuroko-no-basket-3rd-season-ng-shuu-1016",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54468da1d22c3eb821c72133f8bc748e.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Soul Land: 2nd Season",
+        "alternativeTitle": "Douluo Dalu: Jingying Sai",
+        "id": "soul-land-2nd-season-386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd4cbfbbae123185246046309426a733.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Uta no Prince Sama Revolutions",
+        "alternativeTitle": "Uta no☆Prince-sama♪: Maji Love Revolutions",
+        "id": "uta-no-prince-sama-revolutions-3324",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41e8f4f373d355da2df4cf93e8ef8078.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Issho ni Sleeping: Sleeping with Hinako",
+        "alternativeTitle": "Issho ni Sleeping: Sleeping with Hinako",
+        "id": "issho-ni-sleeping-sleeping-with-hinako-10578",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94e824a0c885d9c4018f1530494b69d6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "49m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0080: War in the Pocket",
+        "alternativeTitle": "Mobile Suit Gundam 0080: War in the Pocket",
+        "id": "mobile-suit-gundam-0080-war-in-the-pocket-698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfb31e1369f886c70172a723cb2bcc56.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "The Eccentric Family 2",
+        "alternativeTitle": "Uchouten Kazoku 2",
+        "id": "the-eccentric-family-2-359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c0e81c51b7cf105602d4e074b6bd085.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Certain Magical Index: Specials",
+        "alternativeTitle": "Toaru Majutsu no Index-tan",
+        "id": "a-certain-magical-index-specials-3685",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f200ca686e37df45b75f60ba199fed7c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman",
+        "alternativeTitle": "Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman",
+        "id": "haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman-4200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81ae5fb00ad012dbbfe38f043e727d25.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "The Country of Rare Treasure",
+        "alternativeTitle": "Mi Bao Zhi Guo",
+        "id": "the-country-of-rare-treasure-15804",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c651833f95823fc90eecc87bb70c30f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "The Legend of Super normal Pref. CHIBA",
+        "alternativeTitle": "Chou Futsuu Ken Chiba Densetsu",
+        "id": "the-legend-of-super-normal-pref-chiba-18748",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f07b3ed0e80b629c75c42861245b31a.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Final Approach",
+        "alternativeTitle": "Final Approach",
+        "id": "final-approach-5406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/758abedd84661df886541ad2091b424b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "14m"
+      },
+      {
+        "title": "Sasami-san@Ganbaranai",
+        "alternativeTitle": "Sasami-san@Ganbaranai",
+        "id": "sasami-sanganbaranai-4868",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dedfdd821c988f2fa34cd5e12497513b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rizelmine",
+        "alternativeTitle": "Rizelmine",
+        "id": "rizelmine-5514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9086fc26c1743556af819f06ece8a44e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Love Hina Christmas Movie",
+        "alternativeTitle": "Love Hina Christmas Special: Silent Eve",
+        "id": "love-hina-christmas-movie-2130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6189869c93ef95dbce44f0cfe5c7df14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "46m"
+      },
+      {
+        "title": "Strike Witches: 501st JOINT FIGHTER WING Take Off!",
+        "alternativeTitle": "Strike Witches: 501 Butai Hasshin Shimasu!",
+        "id": "strike-witches-501st-joint-fighter-wing-take-off-6132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1748955a74b407084daa27bcbceb0a6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Baldr Force Exe Resolution",
+        "alternativeTitle": "Baldr Force Exe Resolution",
+        "id": "baldr-force-exe-resolution-5835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3ac56ef7fa7318fa0a0638ee6402a7d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ikkitousen: Xtreme Xecutor Specials",
+        "alternativeTitle": "Ikkitousen: Xtreme Xecutor Specials",
+        "id": "ikkitousen-xtreme-xecutor-specials-5321",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae30b5b604a8e85f903eef7c34b61552.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Queen's Blade: Rebellion Specials",
+        "alternativeTitle": "Queen's Blade: Rebellion Specials",
+        "id": "queens-blade-rebellion-specials-7451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b74563141ebc22c53155358c3f91af3.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Hula Fulla Dance",
+        "alternativeTitle": "Hula Fulla Dance",
+        "id": "hula-fulla-dance-17292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c6b96ac83d7a64d94567cd68bacfbc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "The Many Sides of Voice Actor Radio",
+        "alternativeTitle": "Seiyuu Radio no Uraomote",
+        "id": "the-many-sides-of-voice-actor-radio-19121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a165e967ca566b006c06422df6f99b1f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Amatsuki",
+        "alternativeTitle": "Amatsuki",
+        "id": "amatsuki-3863",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0840dd1471df7cf747edf442f8bb3e5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ebiten",
+        "alternativeTitle": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
+        "id": "ebiten-7062",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a517f34c81cc759235759702447148d1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Arjuna",
+        "alternativeTitle": "Chikyuu Shoujo Arjuna",
+        "id": "arjuna-4217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af14c08c6b4b6cb8746801b11cf961d1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Black★Rock Shooter (OVA)",
+        "alternativeTitle": "Black★Rock Shooter (OVA)",
+        "id": "blackrock-shooter-ova-3051",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb2ae241ddb3ffed6f22fc325ecd16ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Digimon Adventure tri. Loss",
+        "alternativeTitle": "Digimon Adventure tri. 4: Soushitsu",
+        "id": "digimon-adventure-tri-loss-2030",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9db41d970b8bbcdd88cf223f14731053.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Sonny Boy & Dewdrop Girl",
+        "alternativeTitle": "Hinata no Aoshigure",
+        "id": "sonny-boy-dewdrop-girl-3648",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9cb1dbe848dc3b0f819cab9a2ab8b136.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "18m"
+      },
+      {
+        "title": "Aikatsu!",
+        "alternativeTitle": "Aikatsu!",
+        "id": "aikatsu-1973",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a22e35b04466e40453c45b9816a50d9.jpg",
+        "episodes": {
+          "sub": 178,
+          "dub": 0,
+          "eps": 178
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+        "alternativeTitle": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+        "id": "mobile-suit-gundam-the-origin-advent-of-the-red-comet-451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89f8a773979f28fb0d06b34f2ebe974d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Master Keaton",
+        "alternativeTitle": "Master Keaton",
+        "id": "master-keaton-1226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d34b4461a0750ebceb72da8f97feb6ae.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Looking Up At The Half-Moon",
+        "alternativeTitle": "Hanbun no Tsuki ga Noboru Sora",
+        "id": "looking-up-at-the-half-moon-1458",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef79c8c69f72aa430384ba481cc756b1.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+        "alternativeTitle": "Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai",
+        "id": "sora-wo-miageru-shoujo-no-hitomi-ni-utsuru-sekai-3039",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b650e6cf6d34a59802b9054abf4a913.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Re: Cutey Honey",
+        "alternativeTitle": "Re: Cutey Honey",
+        "id": "re-cutey-honey-3099",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b7a4d1c351436162f933b8a56e4d891.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Kemeko Deluxe!",
+        "alternativeTitle": "Kemeko Deluxe!",
+        "id": "kemeko-deluxe-5296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca74dbb83848303091ce32988a94fe38.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Marriage of God & Soul Godannar!!",
+        "alternativeTitle": "Shinkon Gattai Godannar!!",
+        "id": "marriage-of-god-soul-godannar-4854",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad2c22ec0c300ade4fe59c1863a70fa5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Saki",
+        "alternativeTitle": "Saki",
+        "id": "saki-1601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1bc3d2359ca2e4191bf2860c6c89a66f.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sorcerous Stabber Orphen 2nd Season: Revenge",
+        "alternativeTitle": "Majutsushi Orphen: Revenge",
+        "id": "sorcerous-stabber-orphen-2nd-season-revenge-4286",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5683e9d9cb357a95dc1d32b1478b2a70.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aggretsuko (ONA) 4th Season",
+        "alternativeTitle": "Aggressive Retsuko (ONA) 4th Season",
+        "id": "aggretsuko-ona-4th-season-17373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e515fc3607ac8bd885365683372d648.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "18m"
+      }
+    ]
+  }
+}

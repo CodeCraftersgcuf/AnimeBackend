@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 166,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Dragon Drive",
+        "alternativeTitle": "Dragon Drive",
+        "id": "dragon-drive-4631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a34194d45293f1099a58f80de225372.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 38,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Shinkalion: Change the World",
+        "alternativeTitle": "Shinkalion: Change the World",
+        "id": "shinkalion-change-the-world-19150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/320764accaec6ce29c0d40cc7b079fa6.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Early Reins",
+        "alternativeTitle": "Early Reins",
+        "id": "early-reins-8247",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9aae478964d363d710d96bb7691ab3a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Promise of Wizard",
+        "alternativeTitle": "Mahoutsukai no Yakusoku",
+        "id": "promise-of-wizard-19462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fdfe722ce6f854d582a147367a5f6683.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Can You Keep a Secret?",
+        "alternativeTitle": "Kono Kaisha ni Suki na Hito ga Imasu",
+        "id": "can-you-keep-a-secret-19443",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/231f4704ef8573817aea6df75e25a3a4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Age: Dawn of the Seeker",
+        "alternativeTitle": "Dragon Age: Blood Mage no Seisen",
+        "id": "dragon-age-dawn-of-the-seeker-7523",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef76064ecde56db1e687b78426303bda.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "DRAMAtical Murder: Data_xx_Transitory",
+        "alternativeTitle": "DRAMAtical Murder: Data_xx_Transitory",
+        "id": "dramatical-murder-dataxxtransitory-7718",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c32329f6050f1cdcab69eeccca18a625.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "0 Years Old Child Starting Dash Story Season 2",
+        "alternativeTitle": "0-saiji Start Dash Monogatari Season 2",
+        "id": "0-years-old-child-starting-dash-story-season-2-19479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3456bcff1c43aa7b8e291e1df25f7e36.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "The Fable",
+        "alternativeTitle": "The Fable",
+        "id": "the-fable-19120",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5523fb79a550d018a527a1309f53585.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
+        "alternativeTitle": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+        "id": "okitsura-fell-in-love-with-an-okinawan-girl-but-i-just-wish-i-know-what-shes-saying-19448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f32b1ba68f6b46263d229645d3809112.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I Want to Escape from Princess Lessons",
+        "alternativeTitle": "Kisaki Kyouiku kara Nigetai Watashi",
+        "id": "i-want-to-escape-from-princess-lessons-19464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05e0320f150c495590604e7875561f2e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Deer Squad 3rd Season",
+        "alternativeTitle": "Wudi Lu Zhandui 3rd Season",
+        "id": "deer-squad-3rd-season-19585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccbf01cbcd66e0d836527904eb59d304.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Monogatari Series - Off & Monster Season: Specials",
+        "alternativeTitle": "Monogatari Series: Off & Monster Season SP",
+        "id": "monogatari-series-off-monster-season-specials-19307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90b4f8dec04ed0feaf961dfcc33d5c4c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Deer Squad 2nd Season",
+        "alternativeTitle": "Wudi Lu Zhandui 2nd Season",
+        "id": "deer-squad-2nd-season-19584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/410867200eb70a6a66e0cd4840714b48.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Deer Squad",
+        "alternativeTitle": "Wudi Lu Zhandui",
+        "id": "deer-squad-19583",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7172c70f14fc4ef9f0640dd29618255.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "UniteUp! Bond Special - LEGIT & JAXX/JAXX Edition",
+        "alternativeTitle": "UniteUp! Bond Special - LEGIT & JAXX/JAXX Edition",
+        "id": "uniteup-bond-special-legit-jaxxjaxx-edition-19531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc94c9bff765facf89df4c65706fa815.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Yoza-Quar!",
+        "alternativeTitle": "Yoza-Quar!",
+        "id": "yoza-quar-5531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f2f416fb06933e95318d5f3368c1232.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Sensei no Ojikan: Doki Doki School Hours OVA",
+        "alternativeTitle": "Sensei no Ojikan: Doki Doki School Hours OVA",
+        "id": "sensei-no-ojikan-doki-doki-school-hours-ova-5355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4062124468d09e397600a7270013d38.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Teacher's Time",
+        "alternativeTitle": "Sensei no Ojikan: Doki Doki School Hours",
+        "id": "teachers-time-4869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fc3c9eb3bc8008f0a411708907a0535.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sorairo Utility (TV)",
+        "alternativeTitle": "Sorairo Utility (TV)",
+        "id": "sorairo-utility-tv-19470",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7155c7efa44898b92a66ad28cca76f38.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tasokare Hotel",
+        "alternativeTitle": "Tasokare Hotel",
+        "id": "tasokare-hotel-19472",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d43d1b1427ff9bf01483caa334c2eae3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dominion",
+        "alternativeTitle": "Dominion",
+        "id": "dominion-3790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09e1bfa8c8bf43b3c8c4b630ead6fff5.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "36m"
+      },
+      {
+        "title": "Ippou Nippon Mukashibanashi",
+        "alternativeTitle": "Ippou Nippon Mukashibanashi",
+        "id": "ippou-nippon-mukashibanashi-14253",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/788a85befec60316044975ecc003de3c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Amazing Nuts!",
+        "alternativeTitle": "Amazing Nuts!",
+        "id": "amazing-nuts-5366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d5158c8608aebd885b40d972a2d7f34.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Music",
+        "duration": "10m"
+      },
+      {
+        "title": "Five Element God of War 2nd Season",
+        "alternativeTitle": "Wuhang Zhanshen 2nd Season",
+        "id": "five-element-god-of-war-2nd-season-19581",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a36add4ded78e244cf9ac46ea677b74b.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Five Element God of War",
+        "alternativeTitle": "Wuhang Zhanshen",
+        "id": "five-element-god-of-war-19580",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf2f0967e2f03dfa663c0a8834bb69dd.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Jian Gu",
+        "alternativeTitle": "Jian Gu",
+        "id": "jian-gu-19579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a425bd4afffcf92b78111a2d6ec3beb.jpg",
+        "episodes": {
+          "sub": 60,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Possibly the Greatest Alchemist of All Time",
+        "alternativeTitle": "Izure Saikyou no Renkinjutsushi?",
+        "id": "possibly-the-greatest-alchemist-of-all-time-19451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04e3c56bf2b52e90e0016b803967600e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Demon Tyrant and Sweet Baby Season 5",
+        "alternativeTitle": "My Demon Tyrant and Sweet Baby Season 5",
+        "id": "my-demon-tyrant-and-sweet-baby-season-5-19586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da45f7a76a5b17ebbb138cbfa2f31c22.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "My Demon Tyrant and Sweet Baby Season 4",
+        "alternativeTitle": "My Demon Tyrant and Sweet Baby Season 4",
+        "id": "my-demon-tyrant-and-sweet-baby-season-4-19587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91e9057b993be3f0455f97b1f90df518.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "My Demon Tyrant and Sweet Baby Season 3",
+        "alternativeTitle": "My Demon Tyrant and Sweet Baby Season 3",
+        "id": "my-demon-tyrant-and-sweet-baby-season-3-19588",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f80d384047ff90b033d8fba25a2f6a6.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
+        "alternativeTitle": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
+        "id": "bogus-skill-lesslessfruitmastergreatergreater-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you-19465",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07953579207ce88266ba127534a75eb6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Demon Tyrant and Sweet Baby Season 2",
+        "alternativeTitle": "My Demon Tyrant and Sweet Baby Season 2",
+        "id": "my-demon-tyrant-and-sweet-baby-season-2-19589",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb707ad8d830096a10343e804381db84.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "After School in the Lounge",
+        "alternativeTitle": "Houkago no Shokuinshitsu",
+        "id": "after-school-in-the-lounge-10090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b82413965d0adc3efc5cdd9761eed365.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "My Demon Tyrant and Sweet Baby",
+        "alternativeTitle": "My Demon Tyrant and Sweet Baby",
+        "id": "my-demon-tyrant-and-sweet-baby-19590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7368d6b2fae6de85c56f402efe409ed1.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
+        "alternativeTitle": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
+        "id": "im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic-19458",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b060e0aaeadef4e3a3d6a89bafca1fe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mythical Creatures Are My Dinners",
+        "alternativeTitle": "Jintian de Wancan Jiushi Ni",
+        "id": "mythical-creatures-are-my-dinners-19183",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1f548af4bdffc764713e1f56ee808bf.jpg",
+        "episodes": {
+          "sub": 36,
+          "dub": 0,
+          "eps": 36
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!: Party Special! Clover",
+        "alternativeTitle": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.: Party Tokushuu! Clover",
+        "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths-party-special-clover-19582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/919cca088c845af05c86ad28c62007ca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! [Uncensored]",
+        "alternativeTitle": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu [Uncensored]",
+        "id": "beheneko-the-elf-girls-cat-is-secretly-an-s-ranked-monster-uncensored-19503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa2cb028fd55a639ceccab8c94fbd4b4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "About the Movement of the Earth",
+        "alternativeTitle": "Chi.: Chikyuu no Undou ni Tsuite",
+        "id": "about-the-movement-of-the-earth-19351",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/739a0460ebf8421dd7425ab9efb8078e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

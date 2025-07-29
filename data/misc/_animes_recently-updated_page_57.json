@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 57,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Infini-T Force",
+        "alternativeTitle": "Infini-T Force",
+        "id": "infini-t-force-5661",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/301493af43880be16bb86e0c817923d5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Robot Girls Z",
+        "alternativeTitle": "Robot Girls Z",
+        "id": "robot-girls-z-5917",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2de54261495ade76fa8f0868dcc3d17.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "Legend of the Forest",
+        "alternativeTitle": "Mori no Densetsu",
+        "id": "legend-of-the-forest-6173",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2be915233808bcbb004998c5bad0f34d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "29m"
+      },
+      {
+        "title": "Fire Emblem",
+        "alternativeTitle": "Fire Emblem",
+        "id": "fire-emblem-8989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95e7773a4dc76e65ad6ffb1dbd44e2e1.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Basilisk: The Ouka Ninja Scrolls",
+        "alternativeTitle": "Basilisk: Ouka Ninpouchou",
+        "id": "basilisk-the-ouka-ninja-scrolls-9501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a366d721faebcf951650780870ee3eaf.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Alice or Alice",
+        "alternativeTitle": "Alice or Alice",
+        "id": "alice-or-alice-9757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb55c9857cc9d43cfb692373f5ce05f1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Aria the Crepuscolo",
+        "alternativeTitle": "Aria the Crepuscolo",
+        "id": "aria-the-crepuscolo-15645",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/269a0a12e867788988c5b7ec68e29c82.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Monogatari Series: Second Season",
+        "alternativeTitle": "Monogatari Series: Second Season",
+        "id": "monogatari-series-second-season-30",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5cc1697af64c1f7dc2d6ac6110afa41d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Scissor Seven 2nd season",
+        "alternativeTitle": "Wu Liuqi Zhi Zui Qiang Fa Xing Shi",
+        "id": "scissor-seven-2nd-season-286",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53a21118b52dd85aec81aba8f73b37df.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "You and Me 2",
+        "alternativeTitle": "Kimi to Boku. 2",
+        "id": "you-and-me-2-542",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e686091d4a57bd3b57c5081674859dd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "ACCA: 13-Territory Inspection Dept.",
+        "alternativeTitle": "ACCA: 13-ku Kansatsu-ka",
+        "id": "acca-13-territory-inspection-dept-1054",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b0c7889a5eb144612af6956599c3c1c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Legend Shoot!",
+        "alternativeTitle": "Aoki Densetsu Shoot!",
+        "id": "blue-legend-shoot-1822",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/906c369b907cfb3ffeb60a58855565e5.jpg",
+        "episodes": {
+          "sub": 58,
+          "dub": 0,
+          "eps": 58
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kamichama Karin",
+        "alternativeTitle": "Kamichama Karin",
+        "id": "kamichama-karin-2334",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2deccce62f038cc26b32e639600f6508.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Le Chevalier D'Eon",
+        "alternativeTitle": "Le Chevalier D'Eon",
+        "id": "le-chevalier-deon-2590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae03b8547bc75bcf2ff27fa314ed49b3.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Dead Aggressor - The Beyond",
+        "alternativeTitle": "Soukyuu no Fafner: Dead Aggressor - The Beyond",
+        "id": "soukyuu-no-fafner-dead-aggressor-the-beyond-3102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2a7990ff62d742d71746cf4b792f3dd.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Movie",
+        "duration": "28m"
+      },
+      {
+        "title": "Lupin III: Dragon of Doom",
+        "alternativeTitle": "Lupin III: Moeyo Zantetsuken!",
+        "id": "lupin-iii-dragon-of-doom-3358",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc234e416efd84cbbd6149c1f9d4f3db.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Good Luck! Ninomiya-kun",
+        "alternativeTitle": "Goshuushou-sama Ninomiya-kun",
+        "id": "good-luck-ninomiya-kun-4638",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d5303ba9bee23ffe5e0fa62e7f1ba3e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Happy☆Lesson (TV)",
+        "alternativeTitle": "Happy☆Lesson (TV)",
+        "id": "happylesson-tv-4894",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0536a0a830081dc7cd270bc6f0feb095.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sacred Seven",
+        "alternativeTitle": "Sacred Seven",
+        "id": "sacred-seven-5150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0129e2f8d700cdec193d2ea1ce02fff6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Final Approach",
+        "alternativeTitle": "Final Approach",
+        "id": "final-approach-5406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/758abedd84661df886541ad2091b424b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "14m"
+      },
+      {
+        "title": "Hell Girl: Fourth Twilight",
+        "alternativeTitle": "Jigoku Shoujo: Yoi no Togi",
+        "id": "hell-girl-fourth-twilight-5662",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23b811c7ec3850c2ca9bd4d6a2f0c7d2.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Android Announcer Maico 2010",
+        "alternativeTitle": "Android Ana Maico 2010",
+        "id": "android-announcer-maico-2010-6174",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58c5660b791703bd96088a2fe87998b2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "14m"
+      },
+      {
+        "title": "Cyborg 009 VS Devilman",
+        "alternativeTitle": "Cyborg 009 VS Devilman",
+        "id": "cyborg-009-vs-devilman-6430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42e789cf25df988a9bc42c915add63c0.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "31m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 28: Crash! Rakuga Kingdom and Almost Four Heroes",
+        "alternativeTitle": "Crayon Shin-chan Movie 28: Gekitotsu! Rakugaki Kingdom to Hobo Yonin no Yuusha",
+        "id": "crayon-shin-chan-movie-28-crash-rakuga-kingdom-and-almost-four-heroes-13342",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/179047170b2d0a8a29f70a887baea1ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Your Lie in April",
+        "alternativeTitle": "Shigatsu wa Kimi no Uso",
+        "id": "your-lie-in-april-31",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1713f98ec94d824b3a34ef0f4ace633f.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Berserk: The Golden Age Arc III - The Advent",
+        "alternativeTitle": "Berserk: Ougon Jidai-hen III - Kourin",
+        "id": "berserk-the-golden-age-arc-iii-the-advent-287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/238525889f6baeafa0c382410fc89267.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Kindaichi Shounen no Jikenbo",
+        "alternativeTitle": "Kindaichi Shounen no Jikenbo",
+        "id": "kindaichi-shounen-no-jikenbo-543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3704d997945049cf59abbc288f1ac46.jpg",
+        "episodes": {
+          "sub": 148,
+          "dub": 0,
+          "eps": 148
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Snow White with the Red Hair",
+        "alternativeTitle": "Akagami no Shirayuki-hime",
+        "id": "snow-white-with-the-red-hair-799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b34ddeb1d4e2db809b4c0b8510c2149.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Spring Ride (Ao Haru Ride)",
+        "alternativeTitle": "Ao Haru Ride",
+        "id": "blue-spring-ride-ao-haru-ride-1055",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16e1ca5d6061489b54b21c7e8aeba066.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Arpeggio of Blue Steel -Ars Nova-",
+        "alternativeTitle": "Aoki Hagane no Arpeggio: Ars Nova",
+        "id": "arpeggio-of-blue-steel-ars-nova-1823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0e41be286bcc500eb8fd3c723551536.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Robotics;Notes",
+        "alternativeTitle": "Robotics;Notes",
+        "id": "roboticsnotes-2079",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/882cfa0623149e217c6aec38246cc03b.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kuroko's Basketball Special",
+        "alternativeTitle": "Kuroko no Basket: Oshaberi Shiyokka",
+        "id": "kurokos-basketball-special-2335",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d801ae1d7eef34f033bf92dcce800f56.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Lupin the IIIrd: Mine Fujiko no Uso",
+        "alternativeTitle": "Lupin the IIIrd: Mine Fujiko no Uso",
+        "id": "lupin-the-iiird-mine-fujiko-no-uso-2591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dbb0801605b050c07d56fece72fa6d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "57m"
+      },
+      {
+        "title": "Aquarion",
+        "alternativeTitle": "Sousei no Aquarion",
+        "id": "aquarion-3103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3ce89f37d377cc8ab4e03b552322c32.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Witchy Pretty Cure!",
+        "alternativeTitle": "Mahoutsukai Precure!",
+        "id": "witchy-pretty-cure-3359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ae643426907546ec191eeb3076a9386.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 2,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King of Prism: Pride the Hero",
+        "alternativeTitle": "King of Prism: Pride the Hero",
+        "id": "king-of-prism-pride-the-hero-4127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/356609e9ad51ae0c6c934f7846a695a5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "69m"
+      },
+      {
+        "title": "God Troubles Me",
+        "alternativeTitle": "Han Hua Ri Ji",
+        "id": "god-troubles-me-4639",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30286001995125a1925606d01892e581.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Appleseed XIII Remix Movie 1: Yuigon",
+        "alternativeTitle": "Appleseed XIII Remix Movie 1: Yuigon",
+        "id": "appleseed-xiii-remix-movie-1-yuigon-6175",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20a2e0e3b02923bdf473ed8fe8788f5d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "Dr. Slump and Arale-chan Movie 01: Hello! Wonder Island",
+        "alternativeTitle": "Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima",
+        "id": "dr-slump-and-arale-chan-movie-01-hello-wonder-island-6431",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed2de7fd39f9cdde3178ce5e4b0278db.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "Azur Lane",
+        "alternativeTitle": "Azur Lane",
+        "id": "azur-lane-6687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7aaa1c3656b720bafbb3e0024fa239cd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

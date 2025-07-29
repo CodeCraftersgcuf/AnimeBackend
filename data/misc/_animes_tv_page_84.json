@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 121,
+      "currentPage": 84,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "SaiKano: She, The Ultimate Weapon",
+        "alternativeTitle": "Saishuu Heiki Kanojo",
+        "id": "saikano-she-the-ultimate-weapon-2780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8f3200aebc17d66a18ddeb581a1b86d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pumpkin Scissors",
+        "alternativeTitle": "Pumpkin Scissors",
+        "id": "pumpkin-scissors-2778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/129a57e9a66840486692977f623a9e4b.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Pilot's Love Song",
+        "alternativeTitle": "Toaru Hikuushi e no Koiuta",
+        "id": "the-pilots-love-song-2774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7dc5e809b587035f087340f32311c2f6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Combat Mecha Xabungle",
+        "alternativeTitle": "Sentou Mecha Xabungle",
+        "id": "combat-mecha-xabungle-2768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/812230e62a039ab715f4b1ea924151e2.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Invaders of the Rokujyoma!?",
+        "alternativeTitle": "Rokujouma no Shinryakusha!? (TV)",
+        "id": "invaders-of-the-rokujyoma-2766",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/130a92f33cd876dafe874590a5686d40.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Please Teacher!",
+        "alternativeTitle": "Onegai☆Teacher",
+        "id": "please-teacher-2763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/812d14f02a6eac1db788ca8f4824e9a1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Onegai My Melody: Kuru Kuru Shuffle!",
+        "alternativeTitle": "Onegai My Melody: Kuru Kuru Shuffle!",
+        "id": "onegai-my-melody-kuru-kuru-shuffle-2762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/110fc7d188686879eff0c6581d57cbb3.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Mikan's Picture Diary",
+        "alternativeTitle": "Mikan Enikki",
+        "id": "mikans-picture-diary-2759",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a66a99a47e0edb328dcfd3e4e886adc0.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lord Marksman and Vanadis",
+        "alternativeTitle": "Madan no Ou to Vanadis",
+        "id": "lord-marksman-and-vanadis-2758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75a3518a8c41b31fce5c37af9d164c30.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "RIN-NE 2nd Season",
+        "alternativeTitle": "Kyoukai no Rinne (TV) 2nd Season",
+        "id": "rin-ne-2nd-season-2756",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e15ed299df09ef06895f9e232c5ebded.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kimi ga Aruji de Shitsuji ga Ore de",
+        "alternativeTitle": "Kimi ga Aruji de Shitsuji ga Ore de",
+        "id": "kimi-ga-aruji-de-shitsuji-ga-ore-de-2755",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b11b53bdfa89149bb41fe3824f58673a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Mars Daybreak",
+        "alternativeTitle": "Kenran Butou Sai: The Mars Daybreak",
+        "id": "mars-daybreak-2754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19598de2d32b28bac9e970baef3e9d13.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bodyguard of the Wind",
+        "alternativeTitle": "Kaze no Youjinbou",
+        "id": "bodyguard-of-the-wind-2753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66c1eb4bb76fd3be88269dfa73b4927e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Himouto! Umaru-chan",
+        "alternativeTitle": "Himouto! Umaru-chan",
+        "id": "himouto-umaru-chan-2748",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c9fb56368f5a850a0ac5602f62741a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Galaxy Angel Z",
+        "alternativeTitle": "Galaxy Angel Z",
+        "id": "galaxy-angel-z-2746",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4ba1bae9fd11283b4f6a7a1088547a4.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tower of Druaga: The Aegis of Uruk",
+        "alternativeTitle": "Druaga no Tou: The Aegis of Uruk",
+        "id": "tower-of-druaga-the-aegis-of-uruk-2745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43b42c87da0127f4cd4bab76aafd4153.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Magical Circle Guru Guru 2",
+        "alternativeTitle": "Dokidoki♡Densetsu: Mahoujin Guruguru",
+        "id": "magical-circle-guru-guru-2-2742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d1ed4a2bc25907fd9c28961e2b04fed.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Black Bullet",
+        "alternativeTitle": "Black Bullet",
+        "id": "black-bullet-2741",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05731f73a09c90e96e413e227391b89b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aoharu x Machinegun",
+        "alternativeTitle": "Aoharu x Kikanjuu",
+        "id": "aoharu-x-machinegun-2739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6b6610243eac6a898efb3a46e5ee66c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Box of Goblins",
+        "alternativeTitle": "Mouryou no Hako",
+        "id": "box-of-goblins-2736",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e140da7f2039a69ce78d872abc94e40a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Masuda Kousuke Gekijou Gag Manga Biyori",
+        "alternativeTitle": "Masuda Kousuke Gekijou Gag Manga Biyori",
+        "id": "masuda-kousuke-gekijou-gag-manga-biyori-2734",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87eed302d7a90813130b9759c99f6dcb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "The Comic Artist and His Assistants",
+        "alternativeTitle": "Mangaka-san to Assistant-san to The Animation",
+        "id": "the-comic-artist-and-his-assistants-2733",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83e382b8d356fc546e4a968d75928e12.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Mama is Just a Fourth Grade Pupil",
+        "alternativeTitle": "Mama wa Shougaku 4 Nensei",
+        "id": "mama-is-just-a-fourth-grade-pupil-2732",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f8ea39a6cf12194b3bbc2965700f974.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Guin Saga",
+        "alternativeTitle": "Guin Saga",
+        "id": "guin-saga-2721",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92133e8defcbf37b3bd64eb8de26d1f5.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Trinity Seven",
+        "alternativeTitle": "Trinity Seven",
+        "id": "trinity-seven-2707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b83e86034efb224f601b85f105d6ab4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokimeki Tonight",
+        "alternativeTitle": "Tokimeki Tonight",
+        "id": "tokimeki-tonight-2706",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7dfec9765e3819d0747c406da6d6091.jpg",
+        "episodes": {
+          "sub": 34,
+          "dub": 0,
+          "eps": 34
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tears to Tiara",
+        "alternativeTitle": "Tears to Tiara",
+        "id": "tears-to-tiara-2703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcdd8b0456f371177242b5360edf1b72.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You're Under Arrest: Full Throttle",
+        "alternativeTitle": "Taiho Shichau zo: Full Throttle",
+        "id": "youre-under-arrest-full-throttle-2702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8adf906cddc0d2a3d27e7d72d4044f82.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Prétear: The New Legend of Snow White",
+        "alternativeTitle": "Shin Shirayuki-hime Densetsu Prétear",
+        "id": "pretear-the-new-legend-of-snow-white-2698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c460a066c7c55773efaf9884de74b1f5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nanana's Buried Treasure",
+        "alternativeTitle": "Ryuugajou Nanana no Maizoukin (TV)",
+        "id": "nananas-buried-treasure-2696",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0966b9f5d74469d2e94fe08525acd54e.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rumiko Takahashi Anthology",
+        "alternativeTitle": "Rumiko Takahashi Anthology",
+        "id": "rumiko-takahashi-anthology-2695",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce3b2f6a2ee2c516d4181902b8a0da0e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Pokemon Diamond & Pearl",
+        "alternativeTitle": "Pokemon Diamond & Pearl",
+        "id": "pokemon-diamond-pearl-2692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d91cd4b1354459548504109c078d1a8.jpg",
+        "episodes": {
+          "sub": 191,
+          "dub": 191,
+          "eps": 191
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Phi-Brain ~ Puzzle of God",
+        "alternativeTitle": "Phi Brain: Kami no Puzzle",
+        "id": "phi-brain-puzzle-of-god-2691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a3a3fb8a1b13a47bcefed6a85b828e5.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Wolf Girl & Black Prince",
+        "alternativeTitle": "Ookami Shoujo to Kuro Ouji",
+        "id": "wolf-girl-black-prince-2689",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41790e7066f6101736a4da79a0dedab0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

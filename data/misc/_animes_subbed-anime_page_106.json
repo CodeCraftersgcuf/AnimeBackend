@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 106,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Kiitaro's yokai picture diary",
+        "alternativeTitle": "Kiitarou Shounen no Youkai Enikki",
+        "id": "kiitaros-yokai-picture-diary-6069",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5be8b96e205b6675ab27cdbc8d75ab8f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Kanokon Specials",
+        "alternativeTitle": "Kanokon Specials",
+        "id": "kanokon-specials-6068",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d2ea052557111818ef52dc9d4d48532.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Tokyo Pig",
+        "alternativeTitle": "Hare Tokidoki Buta (TV)",
+        "id": "tokyo-pig-6066",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edd06e45d7248253a5d1189ede582b54.jpg",
+        "episodes": {
+          "sub": 61,
+          "dub": 0,
+          "eps": 61
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Boy Who Carried a Guitar: Kikaider vs. Inazuman",
+        "alternativeTitle": "Guitar wo Motta Shounen: Kikaider vs. Inazuman",
+        "id": "the-boy-who-carried-a-guitar-kikaider-vs-inazuman-6063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e9e02205260153f843328cd76d5826f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "28m"
+      },
+      {
+        "title": "Gangsta.",
+        "alternativeTitle": "Gangsta. Recap",
+        "id": "gangsta-6061",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32e67093cdb795012d76cdfe52d5036a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "FLCL Progressive",
+        "alternativeTitle": "FLCL Progressive",
+        "id": "flcl-progressive-6059",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70d14e8f2c969abf65974114a711381f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Movie",
+        "duration": "20m"
+      },
+      {
+        "title": "Fate/strange Fake",
+        "alternativeTitle": "Fate/strange Fake",
+        "id": "fatestrange-fake-6058",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10480da8747dd2b53535e8e308518c63.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Danchigai: Juusan Goutou Sentou Ikitai!!",
+        "alternativeTitle": "Danchigai: Juusan Goutou Sentou Ikitai!!",
+        "id": "danchigai-juusan-goutou-sentou-ikitai-6056",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2485520bcdb32db4c3ca9fe1568a168.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "THE IDOLM@STER CINDERELLA GIRLS Theater (Web)",
+        "alternativeTitle": "Cinderella Girls Gekijou: Kayou Cinderella Theater",
+        "id": "the-idolm-at-ster-cinderella-girls-theater-web-6051",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb645a6bcab21ab85222cd5125f2360e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Beast Wars Neo",
+        "alternativeTitle": "Chou Seimeitai Transformers Beast Wars Neo",
+        "id": "beast-wars-neo-6050",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f537208d159359f0aee2934559045273.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blue Seed Beyond",
+        "alternativeTitle": "Blue Seed 2",
+        "id": "blue-seed-beyond-6048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccf4ba3d5e0d32ec3a0e1e88839a4d91.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Takamiya Nasuno Desu!: Teekyuu Spin-off",
+        "alternativeTitle": "Takamiya Nasuno Desu!: Teekyuu Spin-off",
+        "id": "takamiya-nasuno-desu-teekyuu-spin-off-6038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f785404175119090bd247b8a970df43f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Senran Kagura Specials",
+        "alternativeTitle": "Senran Kagura: Specials",
+        "id": "senran-kagura-specials-6036",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fac3fc34b84ca865f818e046ff38ab0.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Sengoku Collection",
+        "alternativeTitle": "Sengoku Collection",
+        "id": "sengoku-collection-6035",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c30c275ffd21aaa147fcbcbbb4fba69.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "MegaMan: Wishing upon a Star",
+        "alternativeTitle": "Rockman Hoshi ni Negai wo",
+        "id": "megaman-wishing-upon-a-star-6034",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c9d35a49c1f3e2a162cc910c05c822f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "My Little Sister Can't Be This Cute 2 Specials",
+        "alternativeTitle": "Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials",
+        "id": "my-little-sister-cant-be-this-cute-2-specials-6031",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ae53bd226cdcf5454a38e70eb576623.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "If I See You in My Dreams: OVA",
+        "alternativeTitle": "Yume de Aetara",
+        "id": "if-i-see-you-in-my-dreams-ova-6027",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce558d72bc353877e0614bab1d82c275.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
+        "alternativeTitle": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
+        "id": "yoku-wakaru-mahouka-saiseitte-nani-6026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c30bdc63a40c7c7871cdc0a1ecf944f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Modern Magic Made Simple",
+        "alternativeTitle": "Yoku Wakaru Gendai Mahou",
+        "id": "modern-magic-made-simple-6025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff6b99a49f87ee1f1aca98aa9dcc588e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Transformers The Headmasters",
+        "alternativeTitle": "Transformers: The☆Headmasters",
+        "id": "transformers-the-headmasters-6022",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad117829cc67b6f0b97981c965466b0d.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Art Online Alternative: Gun Gale Online - Refrain",
+        "alternativeTitle": "Sword Art Online Alternative: Gun Gale Online - Refrain",
+        "id": "sword-art-online-alternative-gun-gale-online-refrain-6021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c257068774ba890650f2d12a30bc387.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Sonic X",
+        "alternativeTitle": "Sonic X",
+        "id": "sonic-x-6020",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c8a52c9ff9a1a122f9049d1798a497f.jpg",
+        "episodes": {
+          "sub": 78,
+          "dub": 78,
+          "eps": 78
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakura Wars: The Movie",
+        "alternativeTitle": "Sakura Taisen: Katsudou Shashin",
+        "id": "sakura-wars-the-movie-6015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fd7414f9749f9feeb0a6fd989a77944.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Prism Ark",
+        "alternativeTitle": "Prism Ark",
+        "id": "prism-ark-6013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f77991a254916d5f7135e84de40acaf3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon the Movie 15: Kyurem VS. The Sword of Justice",
+        "alternativeTitle": "Pokemon Movie 15: Kyurem vs. Seikenshi",
+        "id": "pokemon-the-movie-kyurem-vs-the-sword-of-justice-6012",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed4c9c820203914a27bed6cd12d5b525.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "71m"
+      },
+      {
+        "title": "Japan Sinks: 2020",
+        "alternativeTitle": "Nihon Chinbotsu 2020",
+        "id": "japan-sinks-2020-6011",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebba1d5b02fc586e2612544d81271c53.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Lupin III (2015): Italian Game",
+        "alternativeTitle": "Lupin III (2015): Italian Game",
+        "id": "lupin-iii-2015-italian-game-6007",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97056ec65f57388607b86021c2b1c6e3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "91m"
+      },
+      {
+        "title": "Luger Code 1951",
+        "alternativeTitle": "Luger Code 1951",
+        "id": "luger-code-1951-6006",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3b803fac7f78c5693133374b39765bd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Last Period: The Journey to the End of the Despair",
+        "alternativeTitle": "Last Period: Owarinaki Rasen no Monogatari",
+        "id": "last-period-the-journey-to-the-end-of-the-despair-6005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13b07994b40a7b3fb54c8379112ab350.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Last Exile: Fam, the Silver Wing - Over the Wishes",
+        "alternativeTitle": "Last Exile: Ginyoku no Fam Movie - Over the Wishes",
+        "id": "last-exile-fam-the-silver-wing-over-the-wishes-6004",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a870a54941b87f240a491873f43b06b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Voice of Fox",
+        "alternativeTitle": "Kitsune no Koe",
+        "id": "voice-of-fox-6002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b2af48acc87a77499fac7ad40f7d3e5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Kagewani -II-",
+        "alternativeTitle": "Kagewani: Shou",
+        "id": "kagewani-ii-6000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1373a40d72b9014b48d5aeb2ab3e83b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Jagainu-kun",
+        "alternativeTitle": "Jagainu-kun",
+        "id": "jagainu-kun-5999",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afbfa126bdba78ef187853299bf3de65.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Hitorigurashi no Shougakusei",
+        "alternativeTitle": "Hitorigurashi no Shougakusei",
+        "id": "hitorigurashi-no-shougakusei-5997",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebc29cab3c49077f836794a0c2328b9e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "3m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 169,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Tengen Toppa Gurren Lagann: Parallel Works",
+        "alternativeTitle": "Tengen Toppa Gurren Lagann: Parallel Works",
+        "id": "tengen-toppa-gurren-lagann-parallel-works-3021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28e63b8d0dac5211daaa7a7b15551dd6.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "Music",
+        "duration": "3m"
+      },
+      {
+        "title": "Ling Long: Incarnation",
+        "alternativeTitle": "Ling Long: Incarnation",
+        "id": "ling-long-incarnation-3277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/958f6d3f707d0d437ad4b30bbfa4b924.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "30m"
+      },
+      {
+        "title": "One Piece: Chopper Kingdom of Strange Animal Island",
+        "alternativeTitle": "One Piece Movie 3: Chinjuu-jima no Chopper Oukoku",
+        "id": "one-piece-chopper-kingdom-of-strange-animal-island-3533",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fed4b5260a27fe18d3e2dee6e5c068a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "55m"
+      },
+      {
+        "title": "Space Runaway Ideon",
+        "alternativeTitle": "Densetsu Kyojin Ideon",
+        "id": "space-runaway-ideon-3789",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7320f2a1b40c2d34659dcee251cbfd27.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Super Demon Hero Wataru",
+        "alternativeTitle": "Chou Mashin Eiyuuden Wataru",
+        "id": "super-demon-hero-wataru-4045",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/def761a30f828d9928b19d5523e5fb7b.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cardfight!! Vanguard Legion Mate",
+        "alternativeTitle": "Cardfight!! Vanguard: Legion Mate-hen",
+        "id": "cardfight-vanguard-legion-mate-4301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/803b1d25475f697095a5305c28d01123.jpg",
+        "episodes": {
+          "sub": 33,
+          "dub": 0,
+          "eps": 33
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Futari wa Precure: Splash☆Star Movie - Tick Tack Kiki Ippatsu!",
+        "alternativeTitle": "Futari wa Precure: Splash☆Star Movie - Tick Tack Kiki Ippatsu!",
+        "id": "futari-wa-precure-splashstar-movie-tick-tack-kiki-ippatsu-4557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82a881d37001efc4541e4cbe0578b620.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "51m"
+      },
+      {
+        "title": "Wedding Peach",
+        "alternativeTitle": "Ai Tenshi Densetsu Wedding Peach",
+        "id": "wedding-peach-4813",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e326fcc337f7bd00d6ee81b728f0a5f3.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kakegurui Picture Drama",
+        "alternativeTitle": "Kakegurui Picture Drama",
+        "id": "kakegurui-picture-drama-5325",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10350ea8dce267f31c6d6bb59911968c.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Magikano",
+        "alternativeTitle": "Magikano",
+        "id": "magikano-6349",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d9a6cb4d795f1a629dd7de7fb2ae7bd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Giniro no Olynsis: Tokito",
+        "alternativeTitle": "Giniro no Olynsis: Tokito",
+        "id": "giniro-no-olynsis-tokito-6605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe8c89234fe10813d404b0d3663a3ab0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yatogame-chan Kansatsu Nikki",
+        "alternativeTitle": "Yatogame-chan Kansatsu Nikki",
+        "id": "yatogame-chan-kansatsu-nikki-7117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b231d73951666409f13016dd5f5fe98.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ojamajo Doremi: Owarai Gekijou",
+        "alternativeTitle": "Ojamajo Doremi: Owarai Gekijou",
+        "id": "ojamajo-doremi-owarai-gekijou-7373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/076a7f1923b366ce901a9c7093ab106c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "alternativeTitle": "Hibike! Euphonium Movie: Photo Session e Youkoso",
+        "id": "hibike-euphonium-movie-photo-session-e-youkoso-7885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58da8e2f380c72781a31fde4508dd273.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "4m"
+      },
+      {
+        "title": "Metal Skin Panic MADOX-01",
+        "alternativeTitle": "Metal Skin Panic MADOX-01",
+        "id": "metal-skin-panic-madox-01-8141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/369390ecc1bbeee0e2dca7d5cff75a61.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "42m"
+      },
+      {
+        "title": "Aragne: Sign of Vermillion",
+        "alternativeTitle": "Aragne no Mushikago",
+        "id": "aragne-sign-of-vermillion-9933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a52621f3a39c8add7a1504567e09afa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "75m"
+      },
+      {
+        "title": "Zo Zo Zombie",
+        "alternativeTitle": "Zo Zo Zo Zombie-kun (TV)",
+        "id": "zo-zo-zombie-12749",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c31d040c8acf636a3ce92b20b8000f3.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Legend of Exorcism",
+        "alternativeTitle": "Tian Bao Fuyao Lu",
+        "id": "legend-of-exorcism-17357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/094552df0d811e5b43d041b97fbb729e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Esper Mami",
+        "alternativeTitle": "Esper Mami",
+        "id": "esper-mami-17869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6522d3022c3ff1004e4f032b403176d3.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 119
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ultraman Final",
+        "alternativeTitle": "Ultraman Final",
+        "id": "ultraman-final-18381",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7e8afc55bb1884f62c03c9a62fa7f4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Left-Hand Layup!",
+        "alternativeTitle": "Zuoshou Shanglan",
+        "id": "left-hand-layup-19661",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fbdad5480b6a95cc1f97b23108a1d171.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "KonoSuba: God's Blessing on This Wonderful World! 2",
+        "alternativeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "id": "konosuba-gods-blessing-on-this-wonderful-world-2-206",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0f7ee4981df2434f3968fe15655f934.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gintama: Dai Hanseikai",
+        "alternativeTitle": "Gintama: Dai Hanseikai",
+        "id": "gintama-dai-hanseikai-462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2748fbf5d337a709afecace011b98896.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "14m"
+      },
+      {
+        "title": "the Garden of sinners Chapter 2: Murder Speculation Part A",
+        "alternativeTitle": "Kara no Kyoukai 2: Satsujin Kousatsu (Zen)",
+        "id": "the-garden-of-sinners-chapter-2-murder-speculation-part-a-718",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe6456a94a3d65ac605b3ce9d7ae14f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Persona 3 the Movie 3: Falling Down",
+        "alternativeTitle": "Persona 3 the Movie 3: Falling Down",
+        "id": "persona-3-the-movie-3-falling-down-1230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/622e63b670947510f9233000b18fb10e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "87m"
+      },
+      {
+        "title": "Golden Kamuy 2nd Season OVA",
+        "alternativeTitle": "Golden Kamuy 2nd Season OVA",
+        "id": "golden-kamuy-2nd-season-ova-1742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a2c5105a32bd237431b1731068ddf3a.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Student Council's Discretion",
+        "alternativeTitle": "Seitokai no Ichizon",
+        "id": "student-councils-discretion-1998",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfd5a460dc855431774292d9851a46f0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Adventure of Nebulandia",
+        "alternativeTitle": "One Piece: Adventure of Nebulandia",
+        "id": "one-piece-adventure-of-nebulandia-2254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31b57d916ab1c020bea5aca7f50fe678.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "106m"
+      },
+      {
+        "title": "Digimon Adventure 02",
+        "alternativeTitle": "Digimon Adventure 02",
+        "id": "digimon-adventure-02-2510",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8431d856934c60664a13814f222510e2.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Invaders of the Rokujyoma!?",
+        "alternativeTitle": "Rokujouma no Shinryakusha!? (TV)",
+        "id": "invaders-of-the-rokujyoma-2766",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/130a92f33cd876dafe874590a5686d40.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lupin III: Nusumareta Lupin",
+        "alternativeTitle": "Lupin III: Nusumareta Lupin",
+        "id": "lupin-iii-nusumareta-lupin-3278",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2e8d0952b5954a1ec99d09d1e421e67.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "91m"
+      },
+      {
+        "title": "Orenchi no Furo Jijou",
+        "alternativeTitle": "Orenchi no Furo Jijou",
+        "id": "orenchi-no-furo-jijou-3534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0ad2058409835e523cb2e30c6297683.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Dominion",
+        "alternativeTitle": "Dominion",
+        "id": "dominion-3790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09e1bfa8c8bf43b3c8c4b630ead6fff5.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "36m"
+      },
+      {
+        "title": "Digimon Frontier: Island of Lost Digimon",
+        "alternativeTitle": "Digimon Frontier: Ornismon Fukkatsu!!",
+        "id": "digimon-frontier-island-of-lost-digimon-4046",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee2d90b4b159a304f096bb6983b9ac96.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri",
+        "alternativeTitle": "Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri",
+        "id": "crayon-shin-chan-movie-25-shin-chan-shuurai-uchuujin-shiriri-4302",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/598f081d17ae279974a887c1e09a2d2e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Kanokon: Manatsu no Dai Shanikusai",
+        "alternativeTitle": "Kanokon: Manatsu no Dai Shanikusai",
+        "id": "kanokon-manatsu-no-dai-shanikusai-5326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/864ff9eca346059673485e60f0d7a196.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Mahou no Angel Sweet Mint",
+        "alternativeTitle": "Mahou no Angel Sweet Mint",
+        "id": "mahou-no-angel-sweet-mint-6350",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35a20b8c6269d0b4f58a47d1a9e06fcb.jpg",
+        "episodes": {
+          "sub": 19,
+          "dub": 0,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gundam Build Divers",
+        "alternativeTitle": "Gundam Build Divers",
+        "id": "gundam-build-divers-6606",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d59c0f0060eb746ee129f2b8939c210.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Orochi, the Eight-Headed Dragon",
+        "alternativeTitle": "Wanpaku Ouji no Orochi Taiji",
+        "id": "orochi-the-eight-headed-dragon-6862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/846dd9e6b1d3da69e54731a11e5f6e34.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "86m"
+      },
+      {
+        "title": "Dragon",
+        "alternativeTitle": "Dragon",
+        "id": "dragon-7630",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/740cec04b30a383618b5955346320535.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "ONA",
+        "duration": "26m"
+      }
+    ]
+  }
+}

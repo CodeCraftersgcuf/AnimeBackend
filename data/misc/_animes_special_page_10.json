@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 23,
+      "currentPage": 10,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Robot Girls Z",
+        "alternativeTitle": "Robot Girls Z",
+        "id": "robot-girls-z-5917",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2de54261495ade76fa8f0868dcc3d17.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime: Tales - Veldora's Journal",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki",
+        "id": "that-time-i-got-reincarnated-as-a-slime-tales-veldoras-journal-5909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bfff7301bf672f318002200765e7667.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Gundam Build Fighters Specials",
+        "alternativeTitle": "Gundam Build Fighters Specials",
+        "id": "gundam-build-fighters-specials-5878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5746f7df357cff2819fd26fe702516e1.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Di Gi Charat Summer Special 2000",
+        "alternativeTitle": "Di Gi Charat Summer Special 2000",
+        "id": "di-gi-charat-summer-special-2000-5874",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b13b09b856fc014a10ff0e89bc1fb35.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Keijo!!!!!!!! Specials",
+        "alternativeTitle": "Keijo!!!!!!!! Specials",
+        "id": "keijo-specials-5854",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a61b4aff4d22708df24b6fb9334d454.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou",
+        "alternativeTitle": "Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou",
+        "id": "inugami-san-to-nekoyama-san-nekoyama-san-to-onsen-ryokou-5851",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f0a73ff183f1f68c96ce8d6053c4dad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "I''s Pure Bonus",
+        "alternativeTitle": "I''s Pure Bonus",
+        "id": "is-pure-bonus-5849",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8034d9c622283e55db16d9fcbf0220c1.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets♥Sareta Ken Specials",
+        "alternativeTitle": "Ore ga Ojousama Gakkou ni \"Shomin Sample\" Toshite Gets♥Sareta Ken Specials",
+        "id": "ore-ga-ojousama-gakkou-ni-shomin-sample-toshite-getssareta-ken-specials-5798",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f0d5e238b63406012ab5d6476026713.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!",
+        "alternativeTitle": "Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!",
+        "id": "nurarihyon-no-mago-gekitou-dai-futsal-taikai-nuragumi-w-cup-5796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd722d8e64272fb484a7f48e75eb9716.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "13m"
+      },
+      {
+        "title": "Legend of Regios",
+        "alternativeTitle": "Legend of Regios",
+        "id": "legend-of-regios-5791",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/633767b0ab78cb587e55a6ec5d0837cc.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "Last Exile: Fam, the Silver Wing Recaps",
+        "alternativeTitle": "Last Exile: Ginyoku no Fam - Adjournment",
+        "id": "last-exile-fam-the-silver-wing-recaps-5790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b8b26703a1a506dd8b94b8548b6ca8a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Di Gi Charat Tsuyu Specials",
+        "alternativeTitle": "Di Gi Charat Tsuyu Specials",
+        "id": "di-gi-charat-tsuyu-specials-5775",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/adbf75294b930d8c817216dc82258600.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Kämpfer für die Liebe",
+        "alternativeTitle": "Kämpfer für die Liebe",
+        "id": "kampfer-fur-die-liebe-5756",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63a858fc54e10ce0bee1f4bfe67a080c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "K-ON!!: Ura-On!!",
+        "alternativeTitle": "K-On!!: Ura-On!!",
+        "id": "k-on-ura-on-5754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd6b6131a428e424d3de8028cf8bd337.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "Special",
+        "duration": "30m"
+      },
+      {
+        "title": "Samurai After Specials",
+        "alternativeTitle": "Hyakka Ryouran: Samurai After Specials",
+        "id": "samurai-after-specials-5752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f29fad46ac61df22dc65cb40995c4997.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Galaxy Express 999: Can You Live Like A Warrior?",
+        "alternativeTitle": "Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareru ka?",
+        "id": "galaxy-express-999-can-you-live-like-a-warrior-5748",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e126b58db5cdba623b778493eec0b454.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "93m"
+      },
+      {
+        "title": "Naruto: Find the Crimson Four-leaf Clover!",
+        "alternativeTitle": "Naruto: Akaki Yotsuba no Clover wo Sagase",
+        "id": "naruto-find-the-crimson-four-leaf-clover-5694",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da3a3d57e29aa0dba87cd6e1596b78e9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "17m"
+      },
+      {
+        "title": "Kuma Miko Specials",
+        "alternativeTitle": "Kuma Miko Specials",
+        "id": "kuma-miko-specials-5669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/496fd4dd0049875c56376e08a66a4089.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "16m"
+      },
+      {
+        "title": "Fuyu no Sonata Special",
+        "alternativeTitle": "Fuyu no Sonata Special",
+        "id": "fuyu-no-sonata-episode-0-5657",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0be870500e12a7932901333d539303ec.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Freezing Vibration Specials",
+        "alternativeTitle": "Freezing Vibration Specials",
+        "id": "freezing-vibration-specials-5656",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07689c158fc47e8447e6064baff0fdfa.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Etotama Specials",
+        "alternativeTitle": "Etotama Specials",
+        "id": "etotama-specials-5655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/631049ac80f17049f215396160c6544f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Shigofumi Picture Drama",
+        "alternativeTitle": "Shigofumi Picture Drama",
+        "id": "shigofumi-picture-drama-5623",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f94c003b8bf70b12e4cecfd5ac9b3730.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Omoi no Kakera",
+        "alternativeTitle": "Omoi no Kakera",
+        "id": "omoi-no-kakera-5607",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a82bfa16a807272498958c563782fa0f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Koukaku Kidoutai Arise: Another Mission",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Another Mission",
+        "id": "koukaku-kidoutai-arise-another-mission-5576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4764820d3010197c80bd2cd96bec96b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "The Heroic Legend of Arslan",
+        "alternativeTitle": "Arslan Senki (TV): Tsuioku no Shou - Dakkan no Yaiba",
+        "id": "the-heroic-legend-of-arslan-5559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a01e9b4ebce31637498772f29ef13035.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Amagami SS+ Plus Picture Drama",
+        "alternativeTitle": "Amagami SS+ Plus Picture Drama",
+        "id": "amagami-ss-plus-picture-drama-5558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0ae7b0daf31ce69b09f81d41e7825f3.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+        "alternativeTitle": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+        "id": "akuma-no-riddle-shousha-wa-dare-nukiuchi-test-5557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2988f3548fef2ec5c6a028c6313164cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Occult Academy Specials",
+        "alternativeTitle": "Seikimatsu Occult Gakuin Specials",
+        "id": "occult-academy-specials-5538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9aae297b5816b8515b3a079e8f520648.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Pokemon: Pichu Bros. in Party Panic",
+        "alternativeTitle": "Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+        "id": "pokemon-pichu-bros-in-party-panic-5537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/129a2cef089472eb858b233c8636010f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "58m"
+      },
+      {
+        "title": "Yoza-Quar!",
+        "alternativeTitle": "Yoza-Quar!",
+        "id": "yoza-quar-5531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f2f416fb06933e95318d5f3368c1232.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "You're Under Arrest: No Mercy!!",
+        "alternativeTitle": "Taiho Shichau zo in America",
+        "id": "youre-under-arrest-no-mercy-5524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0f6c7048eeff410e16a96596e8b5b26.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Art Online II: Debriefing",
+        "alternativeTitle": "Sword Art Online II: Debriefing",
+        "id": "sword-art-online-ii-debriefing-5522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2fecf51f9e69c0d32d27dfd479a2340.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Kyoushirou to Towa no Sora Specials",
+        "alternativeTitle": "Kyoushirou to Towa no Sora Specials",
+        "id": "kyoushirou-to-towa-no-sora-specials-5499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a77919ea2ba22ee619064e3c4c76b3c8.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "The Legend of the Legendary Heroes: Iris Report",
+        "alternativeTitle": "Densetsu no Yuusha no Densetsu: Iris Report",
+        "id": "the-legend-of-the-legendary-heroes-iris-report-5483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/418c9c4b42267bab6b90c68e874d1888.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      }
+    ]
+  }
+}

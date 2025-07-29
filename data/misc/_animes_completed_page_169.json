@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 169,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Malice@Doll",
+        "alternativeTitle": "Malice@Doll",
+        "id": "malicedoll-8500",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2fd9aa758c254ca7d72b2d1919e44550.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Demon Warrior Luna Varga",
+        "alternativeTitle": "Majuu Senshi Luna Varga",
+        "id": "demon-warrior-luna-varga-8379",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdd273006dad4c8e733fa502ee101c70.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "A Moment but Forever",
+        "alternativeTitle": "Nian Wushuang",
+        "id": "a-moment-but-forever-19296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bf93b407f74f72a2fef1f75c6bb0408.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Majokko Shimai no Yoyo to Nene Movie Extra: Hatsukoi - Mikako Komatsu",
+        "alternativeTitle": "Majokko Shimai no Yoyo to Nene Movie Extra: Hatsukoi - Mikako Komatsu",
+        "id": "majokko-shimai-no-yoyo-to-nene-movie-extra-hatsukoi-mikako-komatsu-7785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3da3f4e044de7c124d19626f52bba876.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Majo demo Steady",
+        "alternativeTitle": "Majo demo Steady",
+        "id": "majo-demo-steady-10021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3752862a8156c84fd8270af85671f61.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "Makaryuudo Demon Hunter",
+        "alternativeTitle": "Makaryuudo Demon Hunter",
+        "id": "makaryuudo-demon-hunter-9596",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17522eed2123df72c70ed7408ff4bcc8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Marie & Gali ver. 2.0",
+        "alternativeTitle": "Marie & Gali ver. 2.0",
+        "id": "marie-gali-ver-20-8158",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/663dbc05271627304c7ec09f80b04b6b.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Marie & Gali",
+        "alternativeTitle": "Marie & Gali",
+        "id": "marie-gali-6714",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a7bc63470452f7ab1b2cec3acb2f160.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Marie & Gali Special",
+        "alternativeTitle": "Marie & Gali Special",
+        "id": "marie-gali-special-9042",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e619e96041f8306411c11ae0f6b71f6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Marie & Gali Episode Zero",
+        "alternativeTitle": "Marie & Gali Episode Zero",
+        "id": "marie-gali-episode-zero-8576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dea49979c4a673be99a3b1eff998bf6c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Ojamanga Yamada-kun (Movie)",
+        "alternativeTitle": "Ojamanga Yamada-kun (Movie)",
+        "id": "ojamanga-yamada-kun-movie-10867",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17b339a412795f6f623b680cb1e7d895.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "27m"
+      },
+      {
+        "title": "Masamune Datenicle",
+        "alternativeTitle": "Masamune Datenicle",
+        "id": "masamune-datenicle-7968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58d0fd74b3caec48fc939c0ce9dd409f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "Mask of Zeguy",
+        "alternativeTitle": "Unkai no Meikyuu Zeguy",
+        "id": "mask-of-zeguy-8752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03c01a09b59733da65b3c91d5244113a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "36m"
+      },
+      {
+        "title": "Maroko",
+        "alternativeTitle": "Maroko",
+        "id": "maroko-6619",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf95dbe298b97b5d0860db96c9bc7773.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Mars of Destruction",
+        "alternativeTitle": "Hametsu no Mars",
+        "id": "mars-of-destruction-10690",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd3d62d937899eca0bb0bb59c6cdfa40.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "19m"
+      },
+      {
+        "title": "The Chohjotai",
+        "alternativeTitle": "The Gakuen Choujo-tai",
+        "id": "the-chohjotai-9122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23e457c0fbc61f6fb12fdecd811789b7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Maris the Chojo",
+        "alternativeTitle": "The Choujo",
+        "id": "maris-the-chojo-7982",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3274fc4dcc7b7d2d41199062198f304e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "Marimo no Hana: Saikyou Butouha Shougakusei Densetsu",
+        "alternativeTitle": "Marimo no Hana: Saikyou Butouha Shougakusei Densetsu",
+        "id": "marimo-no-hana-saikyou-butouha-shougakusei-densetsu-10212",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3880a148f0037768ca9655e69cd25916.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "11m"
+      },
+      {
+        "title": "Super Demon Hero Wataru",
+        "alternativeTitle": "Chou Mashin Eiyuuden Wataru",
+        "id": "super-demon-hero-wataru-4045",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/def761a30f828d9928b19d5523e5fb7b.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bocchi the Rock! Movie",
+        "alternativeTitle": "Bocchi the Rock! Movie",
+        "id": "bocchi-the-rock-movie-19086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78f1999c042742c40ca8d66fda8782a2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "God of War Alliance",
+        "alternativeTitle": "Zhanshen Lianmeng",
+        "id": "god-of-war-alliance-19514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1e8965f391cc1bacaf550217b615c7a.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Mayoi Neko Overrun!",
+        "alternativeTitle": "Mayoi Neko Overrun!",
+        "id": "mayoi-neko-overrun-4718",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be0af259397fbf0af2c581a3474ab28f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mazinger Z Movie: Infinity",
+        "alternativeTitle": "Mazinger Z Movie: Infinity",
+        "id": "mazinger-z-movie-infinity-4372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba6be82ff9b03473e4de74ce13bbf9af.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Mayoi Neko Overrun! Specials",
+        "alternativeTitle": "Mayoi Neko Overrun! Specials",
+        "id": "mayoi-neko-overrun-specials-4719",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8514b6c3563145044816b6a727c3f6a2.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Touken Ranbu Kai: Douden Chikashi Haberau Monora",
+        "alternativeTitle": "Touken Ranbu Kai: Douden Chikashi Haberau Monora",
+        "id": "touken-ranbu-kai-douden-chikashi-haberau-monora-19190",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d41100eed8f1ccc4d8d0d300b1fd2fc8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "69m"
+      },
+      {
+        "title": "Manga Nihon Keizai Nyuumon",
+        "alternativeTitle": "Manga Nihon Keizai Nyuumon",
+        "id": "manga-nihon-keizai-nyuumon-15082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff19e32e2775027aad4d7e22bcddb405.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Matoi the Sacred Slayer",
+        "alternativeTitle": "Soushin Shoujo Matoi",
+        "id": "matoi-the-sacred-slayer-4678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63a9dff42eaec166a9215fa01a76b99d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soushin Shoujo Matoi: Kabushiki Gaisha Knight Busters",
+        "alternativeTitle": "Soushin Shoujo Matoi: Kabushiki Gaisha Knight Busters",
+        "id": "soushin-shoujo-matoi-kabushiki-gaisha-knight-busters-5444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b8bc5eff63f1924a4f39f7f04c93ea0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Mechanical Arms",
+        "alternativeTitle": "Mecha-ude",
+        "id": "mechanical-arms-3676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3240f2aae3ac8bd4a5137733dcdb5515.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Sugar Bunnies Fleur",
+        "alternativeTitle": "Sugar Bunnies Fleur",
+        "id": "sugar-bunnies-fleur-11843",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41d05b83c3e4b0af1fe3b5f957045bd9.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Voogie's Angel",
+        "alternativeTitle": "Dennou Sentai Voogie's★Angel",
+        "id": "voogies-angel-9291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/630e7c6ce94db9956643d37441a6de66.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Magical Princess Minky Momo: Hold on to Your Dreams",
+        "alternativeTitle": "Mahou no Princess Minky Momo: Yume wo Dakishimete",
+        "id": "magical-princess-minky-momo-hold-on-to-your-dreams-5112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a9e8612b72e1978d8bb9e83aa0718e3.jpg",
+        "episodes": {
+          "sub": 62,
+          "dub": 0,
+          "eps": 62
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mahou no Princess Minky Momo: Yume wo Dakishimete Specials",
+        "alternativeTitle": "Mahou no Princess Minky Momo: Yume wo Dakishimete Specials",
+        "id": "mahou-no-princess-minky-momo-yume-wo-dakishimete-specials-15019",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d2643c5658e440ebe4c2e2e2c6305c6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "21m"
+      },
+      {
+        "title": "Prayers",
+        "alternativeTitle": "Prayers",
+        "id": "prayers-9337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/712f1651b5c455687cc23972fe67796b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Blue Lock Season 2",
+        "alternativeTitle": "Blue Lock vs. U-20 Japan",
+        "id": "blue-lock-season-2-19318",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ed3a4df2e8f22be9916959c96e5e3e2.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Demon Lord 2099",
+        "alternativeTitle": "Maou 2099",
+        "id": "demon-lord-2099-19339",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bbe3d0785392e3ca5b179e0d281e434.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Choushin Hime Dangaizer 3",
+        "alternativeTitle": "Choushin Hime Dangaizer 3",
+        "id": "choushin-hime-dangaizer-3-9584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/367b656aca089dcdde4d739120dd3a65.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Captain Kuppa",
+        "alternativeTitle": "Sabaku no Kaizoku! Captain Kuppa",
+        "id": "captain-kuppa-11352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54a508b91dfb45cf97343263d3d282c3.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Moeyo Ken",
+        "alternativeTitle": "Kidou Shinsengumi Moeyo Ken",
+        "id": "moeyo-ken-8886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09e22303b23fb7a356b7f846ffa2bd53.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Moeyo Ken TV",
+        "alternativeTitle": "Kidou Shinsengumi Moeyo Ken TV",
+        "id": "moeyo-ken-tv-7203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19bc7ed307456953eda368a2b8d1ad76.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

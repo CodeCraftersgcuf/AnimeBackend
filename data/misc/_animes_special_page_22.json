@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 23,
+      "currentPage": 22,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Gekkan Shoujo Nozaki-kun Specials",
+        "alternativeTitle": "Gekkan Shoujo Nozaki-kun Specials",
+        "id": "gekkan-shoujo-nozaki-kun-specials-812",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9aa63124053b9f88636df2af44f66c6d.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Shiki Specials",
+        "alternativeTitle": "Shiki Specials",
+        "id": "shiki-specials-787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/558823ed5a52cafcd362c2b5dc2a6e7a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
+        "alternativeTitle": "Nodame Cantabile: Finale - Mine to Kiyora no Saikai",
+        "id": "nodame-cantabile-finale-mine-to-kiyora-no-saikai-750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f7a6247e8647c683a55ae5ab8f154da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Magic Kaito",
+        "alternativeTitle": "Magic Kaito",
+        "id": "magic-kaito-747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a39366b3315f5671f0aed8fbcf52e12d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "K-On!: Live House!",
+        "alternativeTitle": "K-On!: Live House!",
+        "id": "k-on-live-house-743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/303a2f1c6349128a6fc0996fb59c89f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Hidamari Sketch x ☆☆☆ Specials",
+        "alternativeTitle": "Hidamari Sketch x ☆☆☆ Specials",
+        "id": "hidamari-sketch-x-specials-738",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/adf407f0a4df9ce8ce342fb95656158b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "K-On!!: Keikaku!",
+        "alternativeTitle": "K-On!!: Keikaku!",
+        "id": "k-on-keikaku-727",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cce34c4672c2082c0da6f15f82368b9f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Daily Lives of High School Boys Specials",
+        "alternativeTitle": "Danshi Koukousei no Nichijou Specials",
+        "id": "daily-lives-of-high-school-boys-specials-701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/256ccd0a9b11ad001e5354f9d7a48084.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Clannad ~After Story~: Another World, Kyou Chapter",
+        "alternativeTitle": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+        "id": "clannad-after-story-another-world-kyou-chapter-690",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b64746bb3104a3c3f874f3e7a50ceac5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Durarara!! Specials",
+        "alternativeTitle": "Durarara!! Specials",
+        "id": "durarara-specials-644",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e1b2d149ad801fbc496bb3b542b84cd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece: Episode of East Blue",
+        "alternativeTitle": "One Piece: Episode of East Blue - Luffy to 4-nin no Nakama no Daibouken",
+        "id": "one-piece-episode-of-east-blue-634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/122753b7529b699e7ee65e31bdd85e17.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "106m"
+      },
+      {
+        "title": "The Labyrinth of Grisaia: The Cocoon of Caprice 0",
+        "alternativeTitle": "Grisaia no Meikyuu: Caprice no Mayu 0",
+        "id": "the-labyrinth-of-grisaia-the-cocoon-of-caprice-0-619",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c621adc1dc8894103da875c905c447f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "47m"
+      },
+      {
+        "title": "One Piece 3D2Y: 15th Anniversary",
+        "alternativeTitle": "One Piece 3D2Y: Ace no shi wo Koete! Luffy Nakama Tono Chikai",
+        "id": "one-piece-3d2y-15th-anniversary-609",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcf230a574c9b8dabbc871043f0a8443.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "107m"
+      },
+      {
+        "title": "Aria the Avvenire",
+        "alternativeTitle": "Aria the Avvenire",
+        "id": "aria-the-avvenire-588",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ea39b86fb9966b5497f33bad93c4133.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "21m"
+      },
+      {
+        "title": "Free!: Eternal Summer - Kindan no All Hard!",
+        "alternativeTitle": "Free!: Eternal Summer - Kindan no All Hard!",
+        "id": "free-eternal-summer-kindan-no-all-hard-565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc30459111dcb1b7f0ef4670062106ab.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Hikaru no Go: Hokuto Hai e no Michi",
+        "alternativeTitle": "Hikaru no Go: Hokuto Hai e no Michi",
+        "id": "hikaru-no-go-hokuto-hai-e-no-michi-560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1058e4e72e23be8f0f35f7b3f1d534c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "77m"
+      },
+      {
+        "title": "Darker than Black: Gaiden",
+        "alternativeTitle": "Darker than Black: Kuro no Keiyakusha Gaiden",
+        "id": "darker-than-black-gaiden-558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3f01b85077a10cba851c22458fc8bdf.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Clannad: Another World, Tomoyo Chapter",
+        "alternativeTitle": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+        "id": "clannad-another-world-tomoyo-chapter-516",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/205f891c94de306383c57f7664cc944d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Aria the Origination: Sono Choppiri Himitsu no Basho ni...",
+        "alternativeTitle": "Aria the Origination: Sono Choppiri Himitsu no Basho ni...",
+        "id": "aria-the-origination-sono-choppiri-himitsu-no-basho-ni-508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3645fa1335b8e8d70ae293faf603246.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4b6651c5acc4188dbd03f6a9911ce15.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "161m"
+      },
+      {
+        "title": "Kokoro Connect OVA",
+        "alternativeTitle": "Kokoro Connect: Michi Random",
+        "id": "kokoro-connect-ova-487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/716cf8bc3ec3625abd40aaf417a61e92.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "Gintama: Dai Hanseikai",
+        "alternativeTitle": "Gintama: Dai Hanseikai",
+        "id": "gintama-dai-hanseikai-462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2748fbf5d337a709afecace011b98896.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "14m"
+      },
+      {
+        "title": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+        "alternativeTitle": "Gintama: Nanigoto mo Saiyo ga Kanjin nano de Tasho Senobisuru Kurai ga Choudoyoi",
+        "id": "gintama-nanigoto-mo-saiyo-ga-kanjin-nano-de-tasho-senobisuru-kurai-ga-choudoyoi-434",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e314b4c312604128ab6ceecac3546a1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "32m"
+      },
+      {
+        "title": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+        "alternativeTitle": "Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue",
+        "id": "gintama0-umai-mono-wa-atomawashi-ni-suru-to-yokodorisareru-kara-yappari-saki-ni-kue-420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/379b4bb142a787919cca1a17618f9256.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
+        "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-415",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4be62fe2ed33ae4bc36368621599aee8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "160m"
+      },
+      {
+        "title": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+        "alternativeTitle": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+        "id": "gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru-410",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/891956f052138172099679e5065f906a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/stay night: Unlimited Blade Works - Prologue",
+        "alternativeTitle": "Fate/stay night: Unlimited Blade Works Prologue",
+        "id": "fatestay-night-unlimited-blade-works-prologue-389",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f42ac14fc94fdb866fe617749efa5b14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "51m"
+      },
+      {
+        "title": "Kuroko no Basket: Saikou no Present Desu",
+        "alternativeTitle": "Kuroko no Basket: Saikou no Present Desu",
+        "id": "kuroko-no-basket-saikou-no-present-desu-378",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5794415b91f0421ff726c3113da1829.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society",
+        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society-370",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fef67e354e6b1825930541f7d1682b4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "108m"
+      },
+      {
+        "title": "Baccano! Specials",
+        "alternativeTitle": "Baccano! Specials",
+        "id": "baccano-specials-338",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b0d3e35f8ae257c104c1d5d682b9c01.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "One Piece: Episode of Nami - Tears of a Navigator and the Bonds of Friends",
+        "alternativeTitle": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+        "id": "one-piece-episode-of-nami-tears-of-a-navigator-and-the-bonds-of-friends-336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8ec23b151d2e3e0a392c3ce9f4429b7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "106m"
+      },
+      {
+        "title": "One Piece: Episode of Merry - The Tale of One More Friend",
+        "alternativeTitle": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+        "id": "one-piece-episode-of-merry-the-tale-of-one-more-friend-293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9c03a6e40d324f2cfc22f870abe1c15.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "106m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K. Final Arc",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+        "id": "the-disastrous-life-of-saiki-k-final-arc-281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50888b6a169a08dfaf4cf95e17eb6504.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "50m"
+      },
+      {
+        "title": "ReLIFE: Kanketsu-hen",
+        "alternativeTitle": "ReLIFE: Kanketsu-hen",
+        "id": "relife-kanketsu-hen-264",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75aaf55bfd5dda101e356c5582034721.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "23m"
+      }
+    ]
+  }
+}

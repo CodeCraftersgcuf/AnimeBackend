@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 160,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Love Live! School Idol Festival All Stars",
+        "alternativeTitle": "Love Live! School Idol Festival All Stars",
+        "id": "love-live-school-idol-festival-all-stars-2925",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c084ac0d67b30c4b7d75dc1ec419d360.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "Record of Lodoss War: Chronicles of the Heroic Knight",
+        "alternativeTitle": "Lodoss-tou Senki: Eiyuu Kishi Den",
+        "id": "record-of-lodoss-war-chronicles-of-the-heroic-knight-2924",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b92d806e06661883a5131e0f3ad686a.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 27,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Requiem from the Darkness",
+        "alternativeTitle": "Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari",
+        "id": "requiem-from-the-darkness-2922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c20e734a026fa6a4f4072203df3154d2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikomatic-days-2921",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d358499e5a37ced8cc7ec59120a99116.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Koi Kaze",
+        "alternativeTitle": "Koi Kaze",
+        "id": "koi-kaze-2920",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59716cef3ab48c3dc317e4580dbdd07b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Knight's & Magic",
+        "alternativeTitle": "Knight's & Magic",
+        "id": "knights-magic-2919",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6f5e8491c9c78af04d0fe40fe4165d2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kenkou Zenrakei Suieibu Umishou",
+        "alternativeTitle": "Kenkou Zenrakei Suieibu Umishou",
+        "id": "kenkou-zenrakei-suieibu-umishou-2917",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11b9163fac2ca01a1f35bfd1bab372d4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kamisama Kazoku",
+        "alternativeTitle": "Kamisama Kazoku",
+        "id": "kamisama-kazoku-2916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/947cbb6246951a74361fe3ed0454c4ad.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Room Camp",
+        "alternativeTitle": "Heya Camp△",
+        "id": "room-camp-2914",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae61592658bb5395c8c7fce2a5a37f1c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Smart-san",
+        "alternativeTitle": "Haikara-san ga Tooru",
+        "id": "smart-san-2912",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/049ad4a7a81ef8a89f0b7d5b09d3eed8.jpg",
+        "episodes": {
+          "sub": 28,
+          "dub": 0,
+          "eps": 42
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Golden Kamuy OVA",
+        "alternativeTitle": "Golden Kamuy OVA",
+        "id": "golden-kamuy-ova-2911",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e10237272e3499b9af60c2f15fd7ad6c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Girls & Panzer: Taiyaki War!",
+        "alternativeTitle": "Girls & Panzer: Taiyaki War!",
+        "id": "girls-panzer-taiyaki-war-2910",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71fa74cad9bc3059adfa28c29ca13328.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "The Galaxy Railways",
+        "alternativeTitle": "Ginga Tetsudou Monogatari",
+        "id": "the-galaxy-railways-2909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4e23e4067c26e7ee4f5019acc187316.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
+        "alternativeTitle": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
+        "id": "ginga-kikoutai-majestic-prince-movie-kakusei-no-idenshi-2908",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23a063cb843eb7339222942cf8bf9f1f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "77m"
+      },
+      {
+        "title": "Fate/Apocrypha",
+        "alternativeTitle": "Fate/Apocrypha",
+        "id": "fateapocrypha-2907",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc8b7cb55357ca963a3f8d0cc36eb380.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Doraemon Movie 13: Nobita and the Kingdom of Clouds",
+        "alternativeTitle": "Doraemon Movie 13: Nobita to Kumo no Oukoku",
+        "id": "doraemon-movie-13-nobita-and-the-kingdom-of-clouds-2905",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0403b90a1dc36ba504b1f0a1b99bd40.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Doraemon Movie 12: Nobita's Dorabian Nights",
+        "alternativeTitle": "Doraemon Movie 12: Nobita no Dorabian Nights",
+        "id": "doraemon-movie-12-nobitas-dorabian-nights-2904",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a276052682701fbe0771829ca83ea197.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Digimon Frontier",
+        "alternativeTitle": "Digimon Frontier",
+        "id": "digimon-frontier-2903",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9db013e213d921e9c4f37024c5eea252.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Boogiepop Phantom",
+        "alternativeTitle": "Boogiepop wa Warawanai",
+        "id": "boogiepop-phantom-2901",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d1682743c8f6ec336f3b42828fe87db.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bleach: Memories in the Rain",
+        "alternativeTitle": "Bleach: Memories in the Rain",
+        "id": "bleach-memories-in-the-rain-2900",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2832869a128404ef544cbda6a1a000e9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "Black Blood Brothers",
+        "alternativeTitle": "Black Blood Brothers",
+        "id": "black-blood-brothers-2899",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7409e02d5cc91e8db4abc7e4b1ff3b2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "B'T X Neo",
+        "alternativeTitle": "B'T X Neo",
+        "id": "bt-x-neo-2898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd4cf7045c412fb4070b1436ac1aaaf7.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Aquarion Evol",
+        "alternativeTitle": "Aquarion Evol",
+        "id": "aquarion-evol-2897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/894fed76bbe61961af0959e1634aedf1.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+        "alternativeTitle": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+        "id": "ao-no-exorcist-kyoto-fujouou-hen-ova-2896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/adc8976d67ec05a0c7f413bd384ad451.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Angolmois: Record of Mongol Invasion",
+        "alternativeTitle": "Angolmois: Genkou Kassenki",
+        "id": "angolmois-record-of-mongol-invasion-2893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/037bf32585f128c3ec069ff0ac615c78.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": ".hack//Beyond the World",
+        "alternativeTitle": ".hack//The Movie: Sekai no Mukou ni",
+        "id": "hackbeyond-the-world-2892",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3217ad7f08a208c7537b6dd199bf29a9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Lupin III: Dead or Alive",
+        "alternativeTitle": "Lupin III: Dead or Alive",
+        "id": "lupin-iii-dead-or-alive-2891",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8c63b6c1aa60b0034dee0945c7337a8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Lupin III: Missed by a Dollar",
+        "alternativeTitle": "Lupin III: $1 Money Wars",
+        "id": "lupin-iii-missed-by-a-dollar-2890",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/692ab482a820ac5b0395f6e7bb0d57cf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Eureka Seven - good night, sleep tight, young lovers",
+        "alternativeTitle": "Koukyoushihen Eureka Seven: Pocket ga Niji de Ippai",
+        "id": "eureka-seven-good-night-sleep-tight-young-lovers-2889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52791450fb5cbecdfb2a5387609a4ca6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Karneval (TV)",
+        "alternativeTitle": "Karneval (TV)",
+        "id": "karneval-tv-2887",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe144f9b651806cbb080979d93858a6e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maria the Virgin Witch",
+        "alternativeTitle": "Junketsu no Maria",
+        "id": "maria-the-virgin-witch-2886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9b5323bd9bf1e17788338969dc698e7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure",
+        "alternativeTitle": "JoJo no Kimyou na Bouken: Adventure",
+        "id": "jojos-bizarre-adventure-2885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a74a6ec03d674502dd4442806fbb3d06.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "When Supernatural Battles Became Commonplace",
+        "alternativeTitle": "Inou-Battle wa Nichijou-kei no Naka de",
+        "id": "when-supernatural-battles-became-commonplace-2884",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53ba14e98e6e32ebe0e0d028923744af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High School of the Dead",
+        "alternativeTitle": "Highschool of the Dead",
+        "id": "high-school-of-the-dead-2883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3142379e5487450e48a36980ee8cbdeb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

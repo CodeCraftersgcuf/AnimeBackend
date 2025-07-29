@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 64,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Sword Art Online: Alicization - Recollection",
+        "alternativeTitle": "Sword Art Online: Alicization - Recollection",
+        "id": "sword-art-online-alicization-recollection-5154",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1ee1fe36a5e46ff7b69b20ddd16fb87.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Sekai de Ichiban Tsuyoku Naritai! Specials",
+        "alternativeTitle": "Sekai de Ichiban Tsuyoku Naritai! Specials",
+        "id": "sekai-de-ichiban-tsuyoku-naritai-specials-8697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21d9f62c92a0174774a995d64f3fe4d0.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Birdy the Mighty: Decode",
+        "alternativeTitle": "Tetsuwan Birdy Decode",
+        "id": "birdy-the-mighty-decode-1715",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cdf363f3e0ce31ffeeb53664cbc1045.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cromartie High School",
+        "alternativeTitle": "Sakigake!! Cromartie Koukou",
+        "id": "cromartie-high-school-610",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21118566e1d582a9edc44ff42d53cea9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Little Witch Academia: The Movie 2 - The Enchanted Parade",
+        "alternativeTitle": "Little Witch Academia: Mahoujikake no Parade",
+        "id": "little-witch-academia-the-movie-2-the-enchanted-parade-821",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67c8854f3e89b46d609a72661c890f11.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "53m"
+      },
+      {
+        "title": "Cross Road",
+        "alternativeTitle": "Cross Road",
+        "id": "cross-road-1825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d838118ad79f8a107f713a89c612f55f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Phantom in the Twilight",
+        "alternativeTitle": "Phantom in the Twilight",
+        "id": "phantom-in-the-twilight-6106",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f815668c858631ce27194abeedfb8596.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Grand Carnival",
+        "alternativeTitle": "Fate/Grand Carnival",
+        "id": "fategrand-carnival-17421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f266819e20bf339257f7b4a7ba9874d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "This Ugly Yet Beautiful World",
+        "alternativeTitle": "Kono Minikuku mo Utsukushii Sekai",
+        "id": "this-ugly-yet-beautiful-world-4477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6bb6eeb84110887dbe9e20cf6cfa59f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High Score Girl II",
+        "alternativeTitle": "High Score Girl II",
+        "id": "high-score-girl-ii-367",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83f6c49c82a9143d15cdd63c79499dc9.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 9,
+          "eps": 9
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+        "alternativeTitle": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+        "id": "ao-no-exorcist-kyoto-fujouou-hen-ova-2896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/adc8976d67ec05a0c7f413bd384ad451.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Saint Seiya: Knights of the Zodiac",
+        "alternativeTitle": "Saint Seiya",
+        "id": "saint-seiya-knights-of-the-zodiac-834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a0508625e4cbcf5916c08460d97d21.jpg",
+        "episodes": {
+          "sub": 114,
+          "dub": 114,
+          "eps": 114
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Triage X: Recollection XOXO",
+        "alternativeTitle": "Triage X: Recollection XOXO",
+        "id": "triage-x-recollection-xoxo-5709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62db663444d9979451ab4bba13570561.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Extra: Last Encore - Illustrias Tendousetsu",
+        "alternativeTitle": "Fate/Extra: Last Encore - Illustrias Tendousetsu",
+        "id": "fateextra-last-encore-illustrias-tendousetsu-5405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd09f501e042c3189287467869b52b84.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "32m"
+      },
+      {
+        "title": "Code Geass: Akito the Exiled - To Beloved Ones",
+        "alternativeTitle": "Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e",
+        "id": "code-geass-akito-the-exiled-to-beloved-ones-2869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4489400a9e3cd986299f0f12cec3055.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Monster List",
+        "alternativeTitle": "Yaoguai Mingdan",
+        "id": "monster-list-3766",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c962c4de3b4b717ee46d19012933da7f.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Zakuro",
+        "alternativeTitle": "Otome Youkai Zakuro",
+        "id": "zakuro-1596",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45a72314dae4bc86994ea02f256e41fa.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gensou Sangokushi: Tengen Reishinki",
+        "alternativeTitle": "Gensou Sangokushi: Tengen Reishinki",
+        "id": "gensou-sangokushi-tengen-reishinki-17960",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ffa60b953d16efa3e81f3b54ea110a7.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fantasy x Hunter",
+        "alternativeTitle": "Huan You Lieren",
+        "id": "fantasy-x-hunter-18014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86056a2b8ae358a1e265076098f3327e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Beyblade: Metal Masters",
+        "alternativeTitle": "Metal Fight Beyblade: Baku",
+        "id": "beyblade-metal-masters-4570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8733dfe7340dc281f40981e9419abb91.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kanon (2006)",
+        "alternativeTitle": "Kanon (2006)",
+        "id": "kanon-2006-512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ebb9662441172f5fd1f78932988c8f2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bokurano",
+        "alternativeTitle": "Bokura no",
+        "id": "bokurano-1108",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d141641064c018731dc42f9ed93d0277.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hunter x Hunter: Original Video Animation",
+        "alternativeTitle": "Hunter x Hunter: Original Video Animation",
+        "id": "hunter-x-hunter-original-video-animation-193",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/370d6adde1969cd0fccb18097a06621d.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Fog Hill of Five Elements 2nd Season",
+        "alternativeTitle": "Wu Shan Wu Xing (2020): Xichuan Huan Zi Lin",
+        "id": "fog-hill-of-five-elements-2nd-season-18453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad3b2f1d4d3045fb85b52aa7b7dcf27f.png",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "38m"
+      },
+      {
+        "title": "Fairy gone Season 1 Part 2",
+        "alternativeTitle": "Fairy Gone 2nd Season",
+        "id": "fairy-gone-season-1-part-2-6189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b1730d089cb956cbac1eee7783e9759.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kämpfer für die Liebe",
+        "alternativeTitle": "Kämpfer für die Liebe",
+        "id": "kampfer-fur-die-liebe-5756",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63a858fc54e10ce0bee1f4bfe67a080c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Colorful",
+        "alternativeTitle": "Colorful",
+        "id": "colorful-7712",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eba040857fc101a9f8ded424847f4bc4.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "6m"
+      },
+      {
+        "title": "Tales from Earthsea",
+        "alternativeTitle": "Ged Senki",
+        "id": "tales-from-earthsea-3646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c66713fd09a82b375236bc7849d6e294.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Gurren Lagann The Movie: Childhood's End",
+        "alternativeTitle": "Tengen Toppa Gurren Lagann Movie 1: Gurren-hen",
+        "id": "gurren-lagann-the-movie-childhoods-end-335",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2eb8db3ddf774daf9bf853e49b941d6c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      },
+      {
+        "title": "Fate/Grand Order: Moonlight/Lostroom",
+        "alternativeTitle": "Fate/Grand Order: Moonlight/Lostroom",
+        "id": "fategrand-order-moonlightlostroom-6918",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4db697946c23bba43913ce58540be0b1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "32m"
+      },
+      {
+        "title": "Fighting Spirit: Mashiba vs. Kimura",
+        "alternativeTitle": "Hajime no Ippo: Mashiba vs. Kimura",
+        "id": "fighting-spirit-mashiba-vs-kimura-274",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f62986c0c0874d7f47ab822bb342411f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "61m"
+      },
+      {
+        "title": "Shenmue the Animation",
+        "alternativeTitle": "Shenmue the Animation",
+        "id": "shenmue-the-animation-17968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31dfc2981f37a0e17d58fe571364a4f5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kyou no Asuka Show",
+        "alternativeTitle": "Kyou no Asuka Show",
+        "id": "kyou-no-asuka-show-4834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5116f3fbc38ea382ea7304a8252b2068.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "The Heike Story",
+        "alternativeTitle": "Heike Monogatari",
+        "id": "the-heike-story-17903",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d47b8e6c2240f26671d7c33d30463364.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Speed Grapher",
+        "alternativeTitle": "Speed Grapher",
+        "id": "speed-grapher-2087",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1236eed92437e02dcd3fb4327737068.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dropkick On My Devil!! X",
+        "alternativeTitle": "Jashin-chan Dropkick 3rd Season",
+        "id": "dropkick-on-my-devil-x-15747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7cb77693e35904157ad4232275f49b1b.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Horizon in the Middle of Nowhere II",
+        "alternativeTitle": "Kyoukaisenjou no Horizon II",
+        "id": "horizon-in-the-middle-of-nowhere-ii-1388",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9390571b56e3b23783891a586ad50037.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "How to Steal 55 Kisses",
+        "alternativeTitle": "Guomin Laogong Dai Huijia",
+        "id": "how-to-steal-55-kisses-7503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4c73156840c2f02ce828401164466fe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Tears to Tiara",
+        "alternativeTitle": "Tears to Tiara",
+        "id": "tears-to-tiara-2703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcdd8b0456f371177242b5360edf1b72.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tawawa on Monday: Specials",
+        "alternativeTitle": "Getsuyoubi no Tawawa Specials",
+        "id": "tawawa-on-monday-specials-5284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/258c0e579ffb0bba4e1bcaec7ff2103b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "4m"
+      }
+    ]
+  }
+}

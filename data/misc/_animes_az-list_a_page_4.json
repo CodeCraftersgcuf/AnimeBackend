@@ -1,0 +1,480 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 14,
+      "currentPage": 4,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "AKIRA",
+        "alternativeTitle": "Akira",
+        "id": "akira-337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b4628ccc255bd2e628f48ccce80848f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "124m"
+      },
+      {
+        "title": "Akudama Drive",
+        "alternativeTitle": "Akudama Drive",
+        "id": "akudama-drive-12846",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fee733a9759ff6ee4e27aea8af1db9fe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Akuemon",
+        "alternativeTitle": "Akuemon",
+        "id": "akuemon-8085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5637ede1016da3fdd459588c95bdf796.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Akuma no Memumemu-chan",
+        "alternativeTitle": "Akuma no Memumemu-chan",
+        "id": "akuma-no-memumemu-chan-8940",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82ee1d861f06d89aee3f1399ee14c5c0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+        "alternativeTitle": "Akuma no Riddle: Shousha wa Dare? Nukiuchi Test",
+        "id": "akuma-no-riddle-shousha-wa-dare-nukiuchi-test-5557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2988f3548fef2ec5c6a028c6313164cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Akuma Tou no Prince: Mitsume ga Tooru",
+        "alternativeTitle": "Akuma Tou no Prince: Mitsume ga Tooru",
+        "id": "akuma-tou-no-prince-mitsume-ga-tooru-8440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1c45904283b8a11031fda854a04e42e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "84m"
+      },
+      {
+        "title": "Akuma-kun (Movie)",
+        "alternativeTitle": "Akuma-kun (Movie)",
+        "id": "akuma-kun-movie-8241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/197cfaa5c4524f3d9e46fcfb0e66f0e7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "Akuma-kun (ONA)",
+        "alternativeTitle": "Akuma-kun (Shin Anime)",
+        "id": "akuma-kun-ona-17680",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46e4ba7d01b827388801730011b84526.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Akuma-kun: Youkoso Akuma Land e!!",
+        "alternativeTitle": "Akuma-kun: Youkoso Akuma Land e!!",
+        "id": "akuma-kun-youkoso-akuma-land-e-8484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0562eb62bd919c10ea1d1a5be905ad88.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "Aldnoah.Zero",
+        "alternativeTitle": "Aldnoah.Zero",
+        "id": "aldnoahzero-1683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eee2f5b71e3f1de9f20a53b6fd93dec1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aldnoah.Zero 2nd Season",
+        "alternativeTitle": "Aldnoah.Zero 2nd Season",
+        "id": "aldnoahzero-2nd-season-3556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3169eb4934a495f795694172dbe035b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+        "alternativeTitle": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+        "id": "aldnoahzero-ame-no-danshou-the-penultimate-truth-19672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b428fd90db23f8b71558cdfd651354b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Alice Gear Aegis Expansion",
+        "alternativeTitle": "Alice Gear Aegis Expansion",
+        "id": "alice-gear-aegis-expansion-18373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90a1dbcb03b97c209fd2b3e8fdeee1af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix",
+        "alternativeTitle": "Alice Gear Aegis: Doki! Actress Darake no Mermaid Grand Prix",
+        "id": "alice-gear-aegis-doki-actress-darake-no-mermaid-grand-prix-17245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7edf56b8b8835ab23da50b5645e84fe3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "15m"
+      },
+      {
+        "title": "Alice or Alice",
+        "alternativeTitle": "Alice or Alice",
+        "id": "alice-or-alice-9757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb55c9857cc9d43cfb692373f5ce05f1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Alice & Zoroku",
+        "alternativeTitle": "Alice to Zouroku",
+        "id": "alice-zoroku-3048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8635e70d2393a1f7513e110a9d86ba47.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Alien 9",
+        "alternativeTitle": "Alien 9",
+        "id": "alien-9-5006",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed0d70f88b3ec4d3a851dca4a471b224.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "All Out!!",
+        "alternativeTitle": "All Out!!",
+        "id": "all-out-3138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c302c65c62e68ce9b636d3f2109e7a81.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Allison & Lillia",
+        "alternativeTitle": "Allison to Lillia",
+        "id": "allison-lillia-2110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/350bc7a5688ae433fa251d81d461024a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Alps no Shoujo Heidi",
+        "alternativeTitle": "Alps no Shoujo Heidi",
+        "id": "alps-no-shoujo-heidi-2402",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f318df5ad953d57718f174c2239bced.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ah My Buddha",
+        "alternativeTitle": "Amaenaide yo!!",
+        "id": "ah-my-buddha-5740",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0387362068e623599fdaa392dd58b26b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah My Buddha Katsu",
+        "alternativeTitle": "Amaenaide yo!! Katsu!!",
+        "id": "ah-my-buddha-katsu-4689",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f74dd14b1869332ecc707f82860de79.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah My Buddha Katsu Special",
+        "alternativeTitle": "Amaenaide yo!! Katsu!!: Damasarenaide yo!!",
+        "id": "ah-my-buddha-katsu-special-5118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/606e05df6df1424da1c27b1a51e379f5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Amagami SS",
+        "alternativeTitle": "Amagami SS",
+        "id": "amagami-ss-1958",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dcebd03133866920de933e5dc50aa61.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Amagami SS",
+        "alternativeTitle": "Amagami SS OVA",
+        "id": "amagami-ss-2472",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a0f75629c9d37bb902fcc30f3fbcb97.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "5m"
+      },
+      {
+        "title": "Amagami SS+ plus",
+        "alternativeTitle": "Amagami SS+ Plus",
+        "id": "amagami-ss-plus-1684",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fad9950224329d628fc74c6cd0e4020.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Amagami SS+ Plus Picture Drama",
+        "alternativeTitle": "Amagami SS+ Plus Picture Drama",
+        "id": "amagami-ss-plus-picture-drama-5558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0ae7b0daf31ce69b09f81d41e7825f3.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Amagami SS+ Plus: Extra Episode+ Plus",
+        "alternativeTitle": "Amagami SS+ Plus: Extra Episode+ Plus",
+        "id": "amagami-ss-plus-extra-episode-plus-2573",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac63bad0b2c519e16347bf87caccefc7.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Amagami SS: Little Sister",
+        "alternativeTitle": "Amagami SS: Tachibana Miya-hen - Imouto",
+        "id": "amagami-ss-little-sister-2548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f774617388e970178b746c0952415bd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Amagi Brilliant Park",
+        "alternativeTitle": "Amagi Brilliant Park",
+        "id": "amagi-brilliant-park-1452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2207409e2c327d626fe4563c92748f1a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!",
+        "alternativeTitle": "Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!",
+        "id": "amagi-brilliant-park-nonbirishiteiru-hima-ga-nai-2505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25ad6647b9081b64b2e171e97545b9e6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage",
+        "alternativeTitle": "Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage",
+        "id": "amagi-brilliant-park-wakuwaku-mini-theater-rakugaki-backstage-5174",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc1e961d57153cd96d76c8501e80892e.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Amanchu!",
+        "alternativeTitle": "Amanchu!",
+        "id": "amanchu-2403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef480e179e7b4853a77da82ba0abcb4c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Amanchu! Advance",
+        "alternativeTitle": "Amanchu! Advance",
+        "id": "amanchu-advance-2994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f49f55c60c9837305e29943ba1d213b3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto",
+        "alternativeTitle": "Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto",
+        "id": "amanchu-yakusoku-no-natsu-to-atarashii-omoide-no-koto-1974",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3c82439dfe7c4e24544283689418262.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Amatsuki",
+        "alternativeTitle": "Amatsuki",
+        "id": "amatsuki-3863",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0840dd1471df7cf747edf442f8bb3e5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 7,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Triage X: Recollection XOXO",
+        "alternativeTitle": "Triage X: Recollection XOXO",
+        "id": "triage-x-recollection-xoxo-5709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62db663444d9979451ab4bba13570561.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Triage X (Uncensored)",
+        "alternativeTitle": "Triage X (Uncensored)",
+        "id": "triage-x-uncensored-17886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60d907f07272725909023dcb73a2171b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hybrid x Heart Magias Academy Ataraxia",
+        "alternativeTitle": "Masou Gakuen HxH",
+        "id": "hybrid-x-heart-magias-academy-ataraxia-7098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a5b5f7d8b7e44469de019e64d109ac0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Zoids Wild Zero",
+        "alternativeTitle": "[RAW] Zoids Wild Zero",
+        "id": "raw-zoids-wild-zero-12750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e1ae9da24527b9a1962994fc3dea1ca.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Birdy the Mighty: Decode OVA",
+        "alternativeTitle": "Tetsuwan Birdy Decode: The Cipher",
+        "id": "birdy-the-mighty-decode-ova-2277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bcc1af522217543acc868992bc0de56.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Robotech II: The Sentinels",
+        "alternativeTitle": "Robotech II: The Sentinels",
+        "id": "robotech-ii-the-sentinels-17893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2e3ba85e3e5822a18109d8ee9665695.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "75m"
+      },
+      {
+        "title": "Robotech: The Shadow Chronicles",
+        "alternativeTitle": "Robotech: The Shadow Chronicles",
+        "id": "robotech-the-shadow-chronicles-17894",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdff26ef0dec25006ccaa2d98b3a2779.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Star Wars: Visions",
+        "alternativeTitle": "Star Wars: Visions",
+        "id": "star-wars-visions-17899",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/513bb70237b4edcd24061463aa7e9d01.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 9,
+          "eps": 9
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Baki Hanma: Son of Ogre",
+        "alternativeTitle": "Hanma Baki: Son of Ogre",
+        "id": "baki-hanma-son-of-ogre-15723",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07af6ad4b238c803c840c6001de63dbe.jpeg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon Movie 23: Coco",
+        "alternativeTitle": "Pokemon Movie 23: Coco",
+        "id": "pokemon-movie-23-coco-15517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6b7fceb562c881fc5724046e35737c6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "07-Ghost",
+        "alternativeTitle": "07-Ghost",
+        "id": "07-ghost-2503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcbadaeb8aa3aee97f9fbf575754c329.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "11eyes",
+        "alternativeTitle": "11eyes",
+        "id": "11eyes-7242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a05e3093a45c709b47d38d098c2722bd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "91 Days",
+        "alternativeTitle": "91 Days",
+        "id": "91-days-730",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33d8d5af68ae79b8cca8c501c717d928.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "86",
+        "alternativeTitle": "86",
+        "id": "86-15632",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9f1c1a9a3e94005b190e214c69ec411.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "801 T.T.S. Airbats",
+        "alternativeTitle": "Aozora Shoujo-tai",
+        "id": "801-tts-airbats-5741",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d49c6c742274109729f2945215b13bfe.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "3x3 Eyes",
+        "alternativeTitle": "3x3 Eyes",
+        "id": "3x3-eyes-4431",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1acda400c79e08db0be25e189138d7e2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "3x3 Eyes: Legend of the Divine Demon",
+        "alternativeTitle": "3x3 Eyes: Seima Densetsu",
+        "id": "3x3-eyes-legend-of-the-divine-demon-3658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc6df20845a543bcf171fd08de9769d9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "009-1",
+        "alternativeTitle": "009-1",
+        "id": "009-1-6880",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cb71cdfad7874c5223c16f15e732421.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": ".hack//Quantum",
+        "alternativeTitle": ".hack//Quantum",
+        "id": "hackquantum-2790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d18e2bde7a7282f6146d3ec43c4074bb.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "A.I.C.O.: Incarnation",
+        "alternativeTitle": "A.I.C.O.: Incarnation",
+        "id": "aico-incarnation-5004",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/846724990483a503ece2b5633e64d835.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Accel World",
+        "alternativeTitle": "Accel World",
+        "id": "accel-world-2109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a31ed251de92862d8816f2930fd888f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Air Master",
+        "alternativeTitle": "Air Master",
+        "id": "air-master-3486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86019217f47f0835c0ffc88bf308deed.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 0,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Akashic Records of Bastard Magic Instructor",
+        "alternativeTitle": "Rokudenashi Majutsu Koushi to Akashic Records",
+        "id": "akashic-records-of-bastard-magic-instructor-2674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e3a434d11fcb53cc8fa5119ec8812b0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Akudama Drive",
+        "alternativeTitle": "Akudama Drive",
+        "id": "akudama-drive-12846",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fee733a9759ff6ee4e27aea8af1db9fe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "All Purpose Cultural Cat Girl Nuku Nuku TV",
+        "alternativeTitle": "Bannou Bunka Neko-Musume (1998)",
+        "id": "all-purpose-cultural-cat-girl-nuku-nuku-tv-5561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53b00b70b80b7d7f0280c87cdd9b2cff.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Allison & Lillia",
+        "alternativeTitle": "Allison to Lillia",
+        "id": "allison-lillia-2110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/350bc7a5688ae433fa251d81d461024a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Angel Beats!",
+        "alternativeTitle": "Angel Beats!",
+        "id": "angel-beats-321",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9432a1c947b1fe6da1d7c9a3c324527.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Angolmois: Record of Mongol Invasion",
+        "alternativeTitle": "Angolmois: Genkou Kassenki",
+        "id": "angolmois-record-of-mongol-invasion-2893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/037bf32585f128c3ec069ff0ac615c78.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "All Purpose Cultural Cat Girl Nuku Nuku Dash!",
+        "alternativeTitle": "Bannou Bunka Neko-Musume DASH!",
+        "id": "all-purpose-cultural-cat-girl-nuku-nuku-dash-6357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1d4e68d6f20304dc34eac667d36c06c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "AntiMagic Academy 35th Test Platoon",
+        "alternativeTitle": "Taimadou Gakuen 35 Shiken Shoutai",
+        "id": "antimagic-academy-35th-test-platoon-3858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fcd95bce1cfde9a257c319d608e76cb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Appleseed XIII",
+        "alternativeTitle": "Appleseed XIII",
+        "id": "appleseed-xiii-6423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f5e824588600b5264e9c77432fe71cf.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Aquarion Logos",
+        "alternativeTitle": "Aquarion Logos",
+        "id": "aquarion-logos-8762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b97f48f6682cb87d039e08a519a6e79.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Certain Magical Index",
+        "alternativeTitle": "Toaru Majutsu no Index",
+        "id": "a-certain-magical-index-1716",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/365354a46619dd7a0492c15294c36d7a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Certain Magical Index II",
+        "alternativeTitle": "Toaru Majutsu no Index II",
+        "id": "a-certain-magical-index-ii-1187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b83281717238275d76005c9de2e4ebc.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

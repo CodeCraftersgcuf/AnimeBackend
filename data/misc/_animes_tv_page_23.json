@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 121,
+      "currentPage": 23,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Spy x Family",
+        "alternativeTitle": "Spy x Family",
+        "id": "spy-x-family-17977",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88bd17534dc4884f23027035d23d74e5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aharen Is Indecipherable",
+        "alternativeTitle": "Aharen-san wa Hakarenai",
+        "id": "aharen-is-indecipherable-17976",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4906e91343c1d7e6a1c95972f244bd7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Komi-san wa, Comyushou desu. 2nd Season",
+        "alternativeTitle": "Komi-san wa, Comyushou desu. 2nd Season",
+        "id": "komi-san-wa-comyushou-desu-2nd-season-17975",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c946ba84494983519adbbb324095e42.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dr. Slump: Arale-chan",
+        "alternativeTitle": "Dr. Slump: Arale-chan",
+        "id": "dr-slump-arale-chan-17973",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7bfa12392a67232a8ee52f2fc7405f67.jpg",
+        "episodes": {
+          "sub": 171,
+          "dub": 0,
+          "eps": 243
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Super Dragon Ball Heroes: Ultra God Mission",
+        "alternativeTitle": "Super Dragon Ball Heroes: Ultra God Mission",
+        "id": "super-dragon-ball-heroes-ultra-god-mission-17971",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af201f52c76d14bfd5f01984f537a88d.png",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Super Dragon Ball Heroes: Big Bang Mission!!!",
+        "alternativeTitle": "Super Dragon Ball Heroes: Big Bang Mission!!!",
+        "id": "super-dragon-ball-heroes-big-bang-mission-17970",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/440f62e68ca62b339b712bd3051e2133.jpg",
+        "episodes": {
+          "sub": 19,
+          "dub": 0,
+          "eps": 19
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Shenmue the Animation",
+        "alternativeTitle": "Shenmue the Animation",
+        "id": "shenmue-the-animation-17968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31dfc2981f37a0e17d58fe571364a4f5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gensou Sangokushi: Tengen Reishinki",
+        "alternativeTitle": "Gensou Sangokushi: Tengen Reishinki",
+        "id": "gensou-sangokushi-tengen-reishinki-17960",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ffa60b953d16efa3e81f3b54ea110a7.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World's End Harem",
+        "alternativeTitle": "Shuumatsu no Harem",
+        "id": "worlds-end-harem-17959",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34b9a8ed656558d0d40f427f91a86325.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Isuca (Uncensored)",
+        "alternativeTitle": "Isuca (Uncensored)",
+        "id": "isuca-uncensored-17958",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9679aae568c1d6ac60a934c42002f538.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Foodie Boy’s Classic of Mountains & Seas",
+        "alternativeTitle": "Foodie Boy’s Classic of Mountains & Seas",
+        "id": "foodie-boys-classic-of-mountains-seas-17957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3b36904fb691f9f12c9b50cf1103c1a.jpeg",
+        "episodes": {
+          "sub": 41,
+          "dub": 0,
+          "eps": 41
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "One Piece: Barto's Secret Room",
+        "alternativeTitle": "One Piece: Barto no Himitsu no Heya!",
+        "id": "one-piece-bartos-secret-room-17947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f754bde8fa48765250e63f94b1f89f3b.png",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yami Shibai 10",
+        "alternativeTitle": "Yami Shibai 10",
+        "id": "yami-shibai-10-17946",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df284eab6cb601dc56ea03d98acc1c1d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Delicious Party♡Precure",
+        "alternativeTitle": "Delicious Party♡Precure",
+        "id": "delicious-partyprecure-17945",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ad880700443ac9ec86140e913bf3bf9.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 0,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Atasha Kawajiri Kodama Da yo: Dangerous Lifehacker no Tadareta Seikatsu",
+        "alternativeTitle": "Atasha Kawajiri Kodama Da yo: Dangerous Lifehacker no Tadareta Seikatsu",
+        "id": "atasha-kawajiri-kodama-da-yo-dangerous-lifehacker-no-tadareta-seikatsu-17943",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0dde180ff69638ca0c1f6dcc6dd9e05.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ninjala (TV)",
+        "alternativeTitle": "Ninjala (TV)",
+        "id": "ninjala-tv-17942",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78ff6f4f63f4e6e879164fdb4d43c8e3.jpg",
+        "episodes": {
+          "sub": 137,
+          "dub": 0,
+          "eps": 137
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ryman's Club",
+        "alternativeTitle": "Ryman's Club",
+        "id": "rymans-club-17939",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5e4f446615021fe369af2800087416e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+        "alternativeTitle": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+        "id": "kaijin-kaihatsu-bu-no-kuroitsu-san-17938",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1e3f6e3529ae5595b3241c81c26485b.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tribe Nine",
+        "alternativeTitle": "Tribe Nine",
+        "id": "tribe-nine-17937",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12134eae0520bf4402d69ea83bf3bd74.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Police in a Pod",
+        "alternativeTitle": "Hakozume: Kouban Joshi no Gyakushuu",
+        "id": "police-in-a-pod-17936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c46153cc22b7e9db575e2e5dc342d6ff.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Twenty Fourth Ward",
+        "alternativeTitle": "Tokyo 24-ku",
+        "id": "tokyo-twenty-fourth-ward-17935",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24b15044482062ead72030e61ddb1a1e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+        "alternativeTitle": "Fantasy Bishoujo Juniku Ojisan to",
+        "id": "life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-17934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5984b825a46f169f7287eabf9dc35035.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Teasing Master Takagi-san 3",
+        "alternativeTitle": "Karakai Jouzu no Takagi-san 3",
+        "id": "teasing-master-takagi-san-3-17933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ed8eb9e6316a5bf07a9be9b1944835b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Case Study of Vanitas Part 2",
+        "alternativeTitle": "Vanitas no Karte Part 2",
+        "id": "the-case-study-of-vanitas-part-2-17932",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/69a33eed1eac666829dbcc4b0f0e0c78.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "How a Realist Hero Rebuilt the Kingdom Part 2",
+        "alternativeTitle": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
+        "id": "how-a-realist-hero-rebuilt-the-kingdom-part-2-17931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1b898989934ca5afaefb06a8318577d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Dress-Up Darling",
+        "alternativeTitle": "Sono Bisque Doll wa Koi wo Suru",
+        "id": "my-dress-up-darling-17930",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5567bb1cdafd71b2f2e04e353000517b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My First Girlfriend is a Gal (Uncensored)",
+        "alternativeTitle": "Hajimete no Gal (Uncensored)",
+        "id": "my-first-girlfriend-is-a-gal-uncensored-17929",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3eda50e38b0d27ed99491ac145b146c.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Domestic Girlfriend (Uncensored)",
+        "alternativeTitle": "Domestic na Kanojo (Uncensored)",
+        "id": "domestic-girlfriend-uncensored-17928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e179c82dda901a6dc3cf68aff8c0a4e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kaginado",
+        "alternativeTitle": "Kaginado",
+        "id": "kaginado-17920",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42f139c73c2a3cb15aa9e2860754b11a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "6m"
+      },
+      {
+        "title": "Deep Insanity: The Lost Child",
+        "alternativeTitle": "Deep Insanity: The Lost Child",
+        "id": "deep-insanity-the-lost-child-17919",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8222ba425b9ed9288718a28cb075314.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Can I Make Your Ears Happy in 180 Seconds?",
+        "alternativeTitle": "180 Byou de Kimi no Mimi wo Shiawase ni Dekiru ka?",
+        "id": "can-i-make-your-ears-happy-in-180-seconds-17915",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/341cc1b441eda98734b08cd16e31cdae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "The Demon Slayer: Kimetsu no Yaiba Mugen Train Arc TV",
+        "alternativeTitle": "Kimetsu no Yaiba: Mugen Ressha-hen",
+        "id": "the-demon-slayer-kimetsu-no-yaiba-mugen-train-arc-tv-17914",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/509332a350ed6508359b8fc2201d916d.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "LUPIN THE 3rd PART 6",
+        "alternativeTitle": "Lupin III: Part 6",
+        "id": "lupin-the-3rd-part-6-17913",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15bde8c8123d60a651c83dc25fd2d0b2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Build Divide: Code Black",
+        "alternativeTitle": "Build Divide: Code Black",
+        "id": "build-divide-code-black-17912",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12e788c92bff8b30532b7463bf748027.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

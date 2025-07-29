@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 36,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Hunter x Hunter Movie 1: Phantom Rouge",
+        "alternativeTitle": "Hunter x Hunter Movie 1: Phantom Rouge",
+        "id": "hunter-x-hunter-movie-1-phantom-rouge-2561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3b63fdaabc4b4fac5d0a4ae1a5595fd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Dusk Maiden of Amnesia",
+        "alternativeTitle": "Tasogare Otome x Amnesia",
+        "id": "dusk-maiden-of-amnesia-709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1891b259a73724cdd7d389abc44bc2f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Uma Musume: Cinderella Gray",
+        "alternativeTitle": "Uma Musume: Cinderella Gray",
+        "id": "uma-musume-cinderella-gray-19567",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bcac6418bc2be64477c40f9b5e45f5f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Super Lovers",
+        "alternativeTitle": "Super Lovers",
+        "id": "super-lovers-2855",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4237aa363ff81d8c7d51d50ef033b36b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+        "alternativeTitle": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
+        "id": "berserk-the-golden-age-arc-ii-the-battle-for-doldrey-616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7287d8abe5782382375d45c91aceff7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Blade Dance of the Elementalers",
+        "alternativeTitle": "Seireitsukai no Blade Dance",
+        "id": "blade-dance-of-the-elementalers-4104",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97ea6a4e49858a0dba22f5352cdaf031.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Naruto the Movie 3: Guardians of the Crescent Moon Kingdom",
+        "alternativeTitle": "Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!",
+        "id": "naruto-the-movie-3-guardians-of-the-crescent-moon-kingdom-4005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73d003618cd260df44e93a5baf9acb56.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Air Gear",
+        "alternativeTitle": "Air Gear",
+        "id": "air-gear-1449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/590667c5e75bc93230b3429e20a6da02.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Deaimon",
+        "alternativeTitle": "Deaimon",
+        "id": "deaimon-17991",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4a37cdea7f7ad857175bf1f8fdce24a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Duke of Death and His Maid Season 3",
+        "alternativeTitle": "Shinigami Bocchan to Kuro Maid 3rd Season",
+        "id": "the-duke-of-death-and-his-maid-season-3-19128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d20bd9561d2f1764d75b458f05b7f89d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rascal Does Not Dream of a Sister Venturing Out",
+        "alternativeTitle": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-a-sister-venturing-out-18934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c563da71f1ff4427ee75cc413e75e14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "73m"
+      },
+      {
+        "title": "Baccano!",
+        "alternativeTitle": "Baccano!",
+        "id": "baccano-129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/799e20886574444d86896803ee6a23d3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lucky☆Star",
+        "alternativeTitle": "Lucky☆Star",
+        "id": "luckystar-868",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a382956f1857e7e95c71bbd434e06f8.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Familiar of Zero: Knight of the Twin Moons",
+        "alternativeTitle": "Zero no Tsukaima: Futatsuki no Kishi",
+        "id": "the-familiar-of-zero-knight-of-the-twin-moons-1534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a430d8f10c50d5d3f5923e3c39c06408.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "To LOVE-Ru Darkness OVA",
+        "alternativeTitle": "To LOVE-Ru Darkness OVA",
+        "id": "to-love-ru-darkness-ova-1236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd069c0b1a47b7626f75eb49dd743fcb.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Danganronpa 3: The End of Hope's Peak High School - Despair Arc",
+        "alternativeTitle": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+        "id": "danganronpa-3-the-end-of-hopes-peak-high-school-despair-arc-1495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae1e2088b31fece73c76531064225127.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Accel World",
+        "alternativeTitle": "Accel World",
+        "id": "accel-world-2109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a31ed251de92862d8816f2930fd888f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Grisaia no Kajitsu Specials",
+        "alternativeTitle": "Grisaia no Kajitsu Specials",
+        "id": "grisaia-no-kajitsu-specials-3873",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4adfab6f092704e69f4b3c940844a39.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Girls & Panzer",
+        "alternativeTitle": "Girls & Panzer",
+        "id": "girls-panzer-1377",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fab3e98503d1dd3dc2010f7a83ffdae4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kengan Ashura Season 2",
+        "alternativeTitle": "Kengan Ashura Season 2",
+        "id": "kengan-ashura-season-2-18455",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb6f050b7847bccd4307e7be98cd101e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Junji Ito Maniac: Japanese Tales of the Macabre",
+        "alternativeTitle": "Itou Junji: Maniac",
+        "id": "junji-ito-maniac-japanese-tales-of-the-macabre-18277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec511e23d0ad4f5937f848a81ac462e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Rift",
+        "alternativeTitle": "Rift",
+        "id": "rift-18055",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa90b14ebd2aaa4c7056a6d198364fdd.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Sonny Boy",
+        "alternativeTitle": "Sonny Boy",
+        "id": "sonny-boy-17876",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bde6315a3932e21295a2385c2f763860.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tonikaku Kawaii: SNS",
+        "alternativeTitle": "Tonikaku Kawaii OVA",
+        "id": "tonikaku-kawaii-sns-17392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12e5c11916ae80916f86d44dac276551.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Hinomaru Sumo",
+        "alternativeTitle": "Hinomaruzumou",
+        "id": "hinomaru-sumo-1220",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25d690b220aa001768e80f192ba35175.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Danganronpa 3: The End of Hope's Peak High School - Future Arc",
+        "alternativeTitle": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+        "id": "danganronpa-3-the-end-of-hopes-peak-high-school-future-arc-1876",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/610f9b9ec03d25fe9639b7cf1fac947d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Spice and Wolf",
+        "alternativeTitle": "Ookami to Koushinryou",
+        "id": "spice-and-wolf-227",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bab18908a74175bf72975ea89aec0e81.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tadaima, Okaeri",
+        "alternativeTitle": "Tadaima, Okaeri",
+        "id": "tadaima-okaeri-19116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78e485190f9da2d4502da66890e9ff89.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Kiki's Delivery Service",
+        "alternativeTitle": "Majo no Takkyuubin",
+        "id": "kikis-delivery-service-257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a4253a0527c2a5f6e363a990529439e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "103m"
+      },
+      {
+        "title": "A Will Eternal 2 season",
+        "alternativeTitle": "Yi Nian Yong Heng: Chuan Cheng Pian",
+        "id": "a-will-eternal-2-season-18110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25e3a9b167fa92be9196d32728f6d391.jpg",
+        "episodes": {
+          "sub": 54,
+          "dub": 0,
+          "eps": 54
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "NieR:Automata Ver1.1a (Cour 2)",
+        "alternativeTitle": "NieR:Automata Ver1.1a Part 2",
+        "id": "nierautomata-ver11a-cour-2-19248",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce34646da62ed8504ae5199cd1e94f25.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Do Your Best, Douki-chan, Senpai is Mine",
+        "alternativeTitle": "Ganbare Douki-chan",
+        "id": "do-your-best-douki-chan-senpai-is-mine-17897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e1647de6b73a2541ba275352b3e7703.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Wandering Witch: The Journey of Elaina",
+        "alternativeTitle": "Majo no Tabitabi",
+        "id": "wandering-witch-the-journey-of-elaina-1064",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70c4669b662d78bc5fb679d06bf2f801.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Bride is a Mermaid",
+        "alternativeTitle": "Seto no Hanayome",
+        "id": "my-bride-is-a-mermaid-873",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ef064258d3a3316948bc1f4b2cd3d36.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Honor Student at Magic High School",
+        "alternativeTitle": "Mahouka Koukou no Yuutousei",
+        "id": "the-honor-student-at-magic-high-school-17466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6767fbc29ead271ee16f9268433a0bd9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Ninja and an Assassin Living Together",
+        "alternativeTitle": "Ninja to Koroshiya no Futarigurashi",
+        "id": "a-ninja-and-an-assassin-living-together-19594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95677884d452befae13a8de6a05a4e6c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Isekai Quartet",
+        "alternativeTitle": "Isekai Quartet",
+        "id": "isekai-quartet-1635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41386d03af3131c68d06809654094bd6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Kimetsu Academy: Special Edition",
+        "alternativeTitle": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
+        "id": "kimetsu-academy-special-edition-17967",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/181c8367c44c6b8e731ecd608aa70366.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Yi Nian Yong Heng",
+        "alternativeTitle": "Yi Nian Yong Heng",
+        "id": "yi-nian-yong-heng-3861",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de52e49f62d1a5777d51dec04c176873.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "We Never Learn!: Bokuben",
+        "alternativeTitle": "Bokutachi wa Benkyou ga Dekinai!",
+        "id": "we-never-learn-bokuben-2027",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0915702b2d3dafb9dcb56f111d316b6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

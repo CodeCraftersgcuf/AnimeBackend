@@ -1,0 +1,480 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 14,
+      "currentPage": 12,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "A Letter to Momo",
+        "alternativeTitle": "Momo e no Tegami",
+        "id": "a-letter-to-momo-1177",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/69bc857bff91b786582cf4e0d1160655.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "2m"
+      },
+      {
+        "title": "A Rhapsody Called Lucy -The Very First Song-",
+        "alternativeTitle": "Mon-Soni!: Senritsu no Lucifer, Tada Hitotsu no Hajimari no Uta",
+        "id": "a-rhapsody-called-lucy-the-very-first-song-7100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79114375e1dd8b2e12a581721cc32325.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "A Lull in the Sea",
+        "alternativeTitle": "Nagi no Asu kara",
+        "id": "a-lull-in-the-sea-395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1484f38d8a9c7065c9dffc5087285670.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Whisker Away",
+        "alternativeTitle": "Nakitai Watashi wa Neko wo Kaburu",
+        "id": "a-whisker-away-1772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30d734a5c62ba302c1bf70733408f5e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Amazing Nurse Nanako",
+        "alternativeTitle": "Nanako Kaitai Shinsho",
+        "id": "amazing-nurse-nanako-9115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/400530dc4fa2d175fd8853e252cea9fd.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "A Summer Snow Rendezvous",
+        "alternativeTitle": "Natsuyuki Rendezvous",
+        "id": "a-summer-snow-rendezvous-2400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe87d6e19781f24cf8c5d7099ceb4fc1.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Alderamin on the Sky",
+        "alternativeTitle": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
+        "id": "alderamin-on-the-sky-903",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d6d6b68a51a58775c4e048985bc43e1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "And you thought there is never a girl online?",
+        "alternativeTitle": "Netoge no Yome wa Onnanoko ja Nai to Omotta?",
+        "id": "and-you-thought-there-is-never-a-girl-online-4084",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/215570cb2039dde3b0a21ee8e8dbb622.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Against the Gods (2023)",
+        "alternativeTitle": "Ni Tian Xieshen",
+        "id": "against-the-gods-2023-18436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61cfd58efd62f01e2791b92a77ee1d33.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Against The Sky Supreme",
+        "alternativeTitle": "Ni Tian Zhizun",
+        "id": "against-the-sky-supreme-18646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/079d9f88c5c3149cde06020275571934.jpg",
+        "episodes": {
+          "sub": 253,
+          "dub": 0,
+          "eps": 480
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "A Moment but Forever",
+        "alternativeTitle": "Nian Wushuang",
+        "id": "a-moment-but-forever-19296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bf93b407f74f72a2fef1f75c6bb0408.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "A Ninja and an Assassin Living Together",
+        "alternativeTitle": "Ninja to Koroshiya no Futarigurashi",
+        "id": "a-ninja-and-an-assassin-living-together-19594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95677884d452befae13a8de6a05a4e6c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Girl & Her Guard Dog",
+        "alternativeTitle": "Ojou to Banken-kun",
+        "id": "a-girl-and-her-guard-dog-18543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2a2f90483f1fb3a2968787bc9f8feea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Angel Tales",
+        "alternativeTitle": "Otogi Story Tenshi no Shippo",
+        "id": "angel-tales-5436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cb9f3376df5478c3ce0be85df7a90d0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Angel Tales",
+        "alternativeTitle": "Otogi Story Tenshi no Shippo Specials",
+        "id": "angel-tales-6229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c1f6858a2c3cf4f0493e7974d2c2db0.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Armor Shop for Ladies & Gentlemen",
+        "alternativeTitle": "Otona no Bouguya-san",
+        "id": "armor-shop-for-ladies-gentlemen-9019",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94022ee2fd2fa21d6bcfa15a9b21685d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "A Galaxy Next Door",
+        "alternativeTitle": "Otonari ni Ginga",
+        "id": "a-galaxy-next-door-18347",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6350e5f8680182581663b8437c84de1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Tree of Palme",
+        "alternativeTitle": "Palme no Ki",
+        "id": "a-tree-of-palme-5611",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fef846766d6936a50025f76af3a8205.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "136m"
+      },
+      {
+        "title": "A Sheep In Wolf's Clothing",
+        "alternativeTitle": "Pi Zhe Lang Pi De Yang",
+        "id": "a-sheep-in-wolfs-clothing-18387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/615f6fa4b50f0f8245e3601e3038d961.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "Akashic Records of Bastard Magic Instructor",
+        "alternativeTitle": "Rokudenashi Majutsu Koushi to Akashic Records",
+        "id": "akashic-records-of-bastard-magic-instructor-2674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e3a434d11fcb53cc8fa5119ec8812b0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Atelier Ryza: Ever Darkness & the Secret Hideout The Animation",
+        "alternativeTitle": "Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega",
+        "id": "atelier-ryza-ever-darkness-and-the-secret-hideout-the-animation-18476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79ce10ba08e5a3a59072d80c47cc239e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A World Worth Protecting",
+        "alternativeTitle": "San Cun Renjian",
+        "id": "a-world-worth-protecting-18138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a674cc92d332039ac34ec36547c182b.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Ape Escape",
+        "alternativeTitle": "Saru Getchu: On Air",
+        "id": "ape-escape-7397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97ecb94f901b176c7829d451f71fd13b.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Angels of Death",
+        "alternativeTitle": "Satsuriku no Tenshi",
+        "id": "angels-of-death-4182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/213ca7cfccc1bed3ce9a97a19ac2131c.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Adieu Galaxy Express 999",
+        "alternativeTitle": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+        "id": "adieu-galaxy-express-999-2370",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b650a26eae1dd2336f8b6b27ddaf0f74.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "Angel Links",
+        "alternativeTitle": "Seihou Tenshi Angel Links",
+        "id": "angel-links-8118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03e54fe6ffbbb6300b96c99315048137.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aura Battler Dunbine",
+        "alternativeTitle": "Seisenshi Dunbine",
+        "id": "aura-battler-dunbine-3621",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1d62dc4446e0cb806b1e64a1ca1ff36.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Antique Bakery",
+        "alternativeTitle": "Seiyou Kottou Yougashiten: Antique",
+        "id": "antique-bakery-3315",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3116e540ce83a8b350e2f2bb146abaa4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season",
+        "alternativeTitle": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season",
+        "id": "a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized-2nd-season-19367",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f5abb230576afc9894520bd66de30b5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Attack on Titan",
+        "alternativeTitle": "Shingeki no Kyojin",
+        "id": "attack-on-titan-112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/debf027d032c6d40b91fab16b2ff9bd4.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Attack on Titan: Crimson Bow and Arrow",
+        "alternativeTitle": "Shingeki no Kyojin Movie 1: Guren no Yumiya",
+        "id": "attack-on-titan-crimson-bow-and-arrow-1233",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8b79c1c7b8153e7b5c64f0cf8b959ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "118m"
+      },
+      {
+        "title": "Attack on Titan: Wings of Freedom",
+        "alternativeTitle": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa",
+        "id": "attack-on-titan-wings-of-freedom-993",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5789753c0b623c288cf8d70bc8e77325.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "Attack on Titan: The Last Attack",
+        "alternativeTitle": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+        "id": "attack-on-titan-the-last-attack-19391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b17cd8c7479d523d77e5e2cbbb5ad67.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "144m"
+      },
+      {
+        "title": "Attack on Titan OVA",
+        "alternativeTitle": "Shingeki no Kyojin OVA",
+        "id": "attack-on-titan-ova-761",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c563690ade996fc0f7788a8e961ae7e6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Attack on Titan Season 2",
+        "alternativeTitle": "Shingeki no Kyojin Season 2",
+        "id": "attack-on-titan-season-2-150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d97e8c9a57b03c06dd59650c0a3c693.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Attack on Titan Season 3",
+        "alternativeTitle": "Shingeki no Kyojin Season 3",
+        "id": "attack-on-titan-season-3-85",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98b21bfbd9fa3d49ec80ba8fe75ed5cd.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 47,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Cuticle Detective Inaba",
+        "alternativeTitle": "Cuticle Tantei Inaba",
+        "id": "cuticle-detective-inaba-2290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e14b7855cf4240e16f818cb6eb037ba.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aoharu x Machinegun",
+        "alternativeTitle": "Aoharu x Kikanjuu",
+        "id": "aoharu-x-machinegun-2739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6b6610243eac6a898efb3a46e5ee66c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aki-Sora: Yume no Naka",
+        "alternativeTitle": "Aki-Sora: Yume no Naka",
+        "id": "aki-sora-yume-no-naka-7487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c45a028d8a12ea6c0fa7727194c358f.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Golden Kamuy Season 3",
+        "alternativeTitle": "Golden Kamuy 3rd Season",
+        "id": "golden-kamuy-season-3-445",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05af4af9518a27c70d892dacd36350c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Way of the Househusband Season 2",
+        "alternativeTitle": "Gokushufudou Season 2",
+        "id": "the-way-of-the-househusband-season-2-18252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d793e9ca38f3aac4c1c86ecc8a1bbd8.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "m"
+      },
+      {
+        "title": "Nande Koko ni Sensei ga!? Special",
+        "alternativeTitle": "Nande Koko ni Sensei ga!? Special",
+        "id": "nande-koko-ni-sensei-ga-special-4212",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ced29495b5cefcf4bf31e801c8f1675f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Haikyuu!! Movie 3: Sainou to Sense",
+        "alternativeTitle": "Haikyuu!! Movie 3: Sainou to Sense",
+        "id": "haikyuu-movie-3-sainou-to-sense-435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83ef9ddb31088d68fb6bd0accc2b44dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Made in Abyss Movie 2: Wandering Twilight",
+        "alternativeTitle": "Made in Abyss Movie 2: Hourou Suru Tasogare",
+        "id": "made-in-abyss-movie-2-wandering-twilight-225",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4f4d6d100fffdbc11cb82c4514fa652.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Back Arrow",
+        "alternativeTitle": "Back Arrow",
+        "id": "back-arrow-15650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0798537328d2f4f3a729f1f4b5e85fb.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sekai Ichi Hatsukoi - World's Greatest First Love",
+        "alternativeTitle": "Sekaiichi Hatsukoi",
+        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love-760",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/837b6b5ae1b8636f83da55f246df82c5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragon Crisis!",
+        "alternativeTitle": "Dragon Crisis!",
+        "id": "dragon-crisis-4701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34e6f775cc0a5ca46d53dee2aa800405.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Promare",
+        "alternativeTitle": "Promare",
+        "id": "promare-361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a800914bbc6fb708e421e11d2bb38332.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "111m"
+      },
+      {
+        "title": "Negima!",
+        "alternativeTitle": "Mahou Sensei Negima!",
+        "id": "negima-3654",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0435d389d7cc834508883b4018a9b6f9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Inari Kon Kon",
+        "alternativeTitle": "Inari, Konkon, Koi Iroha.",
+        "id": "inari-kon-kon-2634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e02f497c66008bb91180899a66b066d.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Endride",
+        "alternativeTitle": "Endride",
+        "id": "endride-8988",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba49198a3b58a8e24031f47b8527286f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Clannad: The Movie",
+        "alternativeTitle": "Clannad Movie",
+        "id": "clannad-the-movie-2553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/146185b19062e463b04c0b0f88fcbfdb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Luck & Logic",
+        "alternativeTitle": "Luck & Logic",
+        "id": "luck-logic-7535",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/708ef6afcad643c3a8aee9b922062507.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Knight in the Area",
+        "alternativeTitle": "Area no Kishi",
+        "id": "the-knight-in-the-area-2574",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1300a4e9f291a5e8ed337104defba943.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 37
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Marginal Service",
+        "alternativeTitle": "The Marginal Service",
+        "id": "the-marginal-service-18367",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/156d675b246379abe808817bee3a2f5b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "La storia della Arcana Famiglia",
+        "alternativeTitle": "Arcana Famiglia",
+        "id": "la-storia-della-arcana-famiglia-6793",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4306af63f8174c749d7f692cc6be2a51.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Food Wars! The Second Plate OVA",
+        "alternativeTitle": "Shokugeki no Souma: Ni no Sara OVA",
+        "id": "food-wars-the-second-plate-ova-1407",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e604f0771821bad9f1dc2c6040497157.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Persona 4 the Animation",
+        "alternativeTitle": "Persona 4 the Animation",
+        "id": "persona-4-the-animation-1484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60aba8150b2346c9674171db1db5d1ee.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Utawarerumono",
+        "alternativeTitle": "Utawarerumono",
+        "id": "utawarerumono-1096",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc4c6088e75644a6b2bed3fa77a704e7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aldnoah.Zero 2nd Season",
+        "alternativeTitle": "Aldnoah.Zero 2nd Season",
+        "id": "aldnoahzero-2nd-season-3556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3169eb4934a495f795694172dbe035b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Puella Magi Madoka Magica the Movie 3: Rebellion",
+        "alternativeTitle": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+        "id": "puella-magi-madoka-magica-the-movie-rebellion-126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/338ba44c0a53e13535a8ee33e5bb1b6c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "116m"
+      },
+      {
+        "title": "Initial D Final Stage",
+        "alternativeTitle": "Initial D Final Stage",
+        "id": "initial-d-final-stage-255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1486234bc5b2aec7047b59719b30c3ae.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "27m"
+      },
+      {
+        "title": "Koyomimonogatari",
+        "alternativeTitle": "Koyomimonogatari",
+        "id": "koyomimonogatari-1026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2abc989b548874635f373c7232759d23.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Black Butler: Book of Murder",
+        "alternativeTitle": "Kuroshitsuji: Book of Murder",
+        "id": "black-butler-book-of-murder-352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd0a18e818f00d823925815f531ae718.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "58m"
+      },
+      {
+        "title": "Sorcerous Stabber Orphen -Doom of Dragon's Sanctuary-",
+        "alternativeTitle": "Majutsushi Orphen Hagure Tabi: Seiiki-hen",
+        "id": "sorcerous-stabber-orphen-doom-of-dragons-sanctuary-18374",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23c7c58700157bf6d8152e8e2214b3a7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kuromukuro",
+        "alternativeTitle": "Kuromukuro",
+        "id": "kuromukuro-2641",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b3d2bd1eb1061e2e69579e79ec38e2b.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Little Sister Can't Be This Cute 2",
+        "alternativeTitle": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+        "id": "my-little-sister-cant-be-this-cute-2-3189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92cdc9832fab7ed9c6039c7ff3e14744.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chrono Crusade",
+        "alternativeTitle": "Chrno Crusade",
+        "id": "chrono-crusade-1111",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85db3b2b8bc89346f3ed889eb733fe02.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Castlevania 3rd Season",
+        "alternativeTitle": "Castlevania 3rd Season",
+        "id": "castlevania-3rd-season-17872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4a217f1061e7a908007e5b77d95f245.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Gankutsuou: The Count of Monte Cristo",
+        "alternativeTitle": "Gankutsuou",
+        "id": "gankutsuou-the-count-of-monte-cristo-326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88ffa8743fa2e4ad9507adf85b5ac98f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bakuman.",
+        "alternativeTitle": "Bakuman. 2nd Season",
+        "id": "bakuman-138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/917a04b88d28f481d7e5950625a3a02a.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bungo and Alchemist -Gears of Judgement-",
+        "alternativeTitle": "Bungou to Alchemist: Shinpan no Haguruma",
+        "id": "bungo-and-alchemist-gears-of-judgement-6885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/526feadd132339b80606e5e3b8a05b48.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soul Eater NOT!",
+        "alternativeTitle": "Soul Eater NOT!",
+        "id": "soul-eater-not-7980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75f19bf74cbb8a0d91ce28a3d63cc1b4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Demon Girl Next Door 2nd Season",
+        "alternativeTitle": "Machikado Mazoku 2nd Season",
+        "id": "the-demon-girl-next-door-2nd-season-15781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ab7698bfe28babc2f5b70dca33f6d9e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Iya na Kao sare nagara Opantsu Misete Moraitai",
+        "alternativeTitle": "Iya na Kao sare nagara Opantsu Misete Moraitai",
+        "id": "iya-na-kao-sare-nagara-opantsu-misete-moraitai-8774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff62d61604ca62e865d2d6ba37c7e8f9.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "Sasaki and Miyano: A Little Story Before I Realized Love",
+        "alternativeTitle": "Sasaki to Miyano: Koi ni Kizuku Mae no Chotto Shita Hanashi.",
+        "id": "sasaki-and-miyano-a-little-story-before-i-realized-love-18112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd5d3335b6efe23708e82e1fde2650bd.png",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      }
+    ]
+  }
+}

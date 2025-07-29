@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 45,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Busted! Darklord",
+        "alternativeTitle": "Xiao Mo Tou Baolu La! S1 + S2",
+        "id": "busted-darklord-18022",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81d4be6a4c144a08b5e48df9627beeaf.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Battle Through the Heavens 2nd Season",
+        "alternativeTitle": "Doupo Cangqiong 2nd Season",
+        "id": "battle-through-the-heavens-2nd-season-1205",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c796b421dd40f7f22909ace96e6c144.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Guilty Gear Strive: Dual Rulers",
+        "alternativeTitle": "Guilty Gear Strive: Dual Rulers",
+        "id": "guilty-gear-strive-dual-rulers-19573",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fe38930aaf0fa4bf72e88f8d14d3eac.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Scissor Seven Specials",
+        "alternativeTitle": "Cike Wu Liuqi Specials",
+        "id": "scissor-seven-specials-17925",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31807f183405ef8c2f9589665b8340e9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "xxxHOLiC",
+        "alternativeTitle": "xxxHOLiC",
+        "id": "xxxholic-504",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94c8aa2a2ee09b5025c1a2971cb113a7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aldnoah.Zero",
+        "alternativeTitle": "Aldnoah.Zero",
+        "id": "aldnoahzero-1683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eee2f5b71e3f1de9f20a53b6fd93dec1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aria the Scarlet Ammo",
+        "alternativeTitle": "Hidan no Aria",
+        "id": "aria-the-scarlet-ammo-3902",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ce77c2fd05e42497e4d89cbfc654bbb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Brynhildr in the Darkness",
+        "alternativeTitle": "Gokukoku no Brynhildr",
+        "id": "brynhildr-in-the-darkness-3793",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09f317725b345e88c4b499d34b7c5f77.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Onimai: I'm Now Your Sister!",
+        "alternativeTitle": "Oniichan wa Oshimai!",
+        "id": "onimai-im-now-your-sister-18246",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d9356c9cbf38c8d9e49bd22894ffc30.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Interviews With Monster Girls",
+        "alternativeTitle": "Demi-chan wa Kataritai",
+        "id": "interviews-with-monster-girls-1150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3eccc771dd28738a5bf3f31cb443ecb2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Boy and the Beast",
+        "alternativeTitle": "Bakemono no Ko",
+        "id": "the-boy-and-the-beast-173",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79345280b2ef511dd48f25428faf485c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Blades of the Guardians",
+        "alternativeTitle": "Biao Ren: Blades of the Guardians",
+        "id": "blades-of-the-guardians-17415",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92865cc4af32021c677c728af0619af2.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Terra Formars",
+        "alternativeTitle": "Terra Formars",
+        "id": "terra-formars-3410",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/962e8887579c7b6ddc3b100c94fc0c6c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Junjo Romantica",
+        "alternativeTitle": "Junjou Romantica",
+        "id": "junjo-romantica-1015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8756c5d00708ea8620ed5088603d9a92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Good Luck! Ninomiya-kun",
+        "alternativeTitle": "Goshuushou-sama Ninomiya-kun",
+        "id": "good-luck-ninomiya-kun-4638",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d5303ba9bee23ffe5e0fa62e7f1ba3e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gantz",
+        "alternativeTitle": "Gantz",
+        "id": "gantz-3348",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e85a46386346733006766d20c1b6fdf.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Heaven Official's Blessing Special",
+        "alternativeTitle": "Tian Guan Ci Fu Special",
+        "id": "heaven-officials-blessing-special-17355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf19e099beda0a54a1dd28bceacde2ca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Omamori Himari",
+        "alternativeTitle": "Omamori Himari",
+        "id": "omamori-himari-3749",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90a07fbd06964c574fe5ce10e3e74cae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Basilisk",
+        "alternativeTitle": "Basilisk: Kouga Ninpou Chou",
+        "id": "basilisk-1307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/191cb6319fff579a08f97a2d9cbb1c33.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yu-Gi-Oh! VRAINS",
+        "alternativeTitle": "Yu☆Gi☆Oh! VRAINS",
+        "id": "yu-gi-oh-vrains-4976",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9556b516bc04ec5f6c8c244296406b5c.jpg",
+        "episodes": {
+          "sub": 120,
+          "dub": 120,
+          "eps": 120
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I Tried Asking In Dogeza",
+        "alternativeTitle": "Dogeza de Tanondemita",
+        "id": "i-tried-asking-in-dogeza-15688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a54dc82e3158df1eb8616f87b31c358.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Utawarerumono",
+        "alternativeTitle": "Utawarerumono",
+        "id": "utawarerumono-1096",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc4c6088e75644a6b2bed3fa77a704e7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "ItaKiss",
+        "alternativeTitle": "Itazura na Kiss",
+        "id": "itakiss-1398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2c6b34bf0e467936d1e138cbd5c8fcc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blood+",
+        "alternativeTitle": "Blood+",
+        "id": "blood-1107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2fd96419cb28d079c478cca3c0204f74.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BLEND-S",
+        "alternativeTitle": "Blend S",
+        "id": "blend-s-1900",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2221e8d063603e878d2a62ffe3120632.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Val x Love",
+        "alternativeTitle": "Val x Love",
+        "id": "val-x-love-8283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/befd06093b06e766308c13db50741088.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sailor Moon Crystal: Season I & II",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon Crystal",
+        "id": "sailor-moon-crystal-season-i-ii-3635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/102d3f7e52b67d6dce47b74ec24f8c9c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Flower and Asura",
+        "alternativeTitle": "Hana wa Saku, Shura no Gotoku",
+        "id": "flower-and-asura-19459",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/635bd442a4ce70eb7d87f8828f02cea7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 2,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Little Witch Academia",
+        "alternativeTitle": "Little Witch Academia (TV)",
+        "id": "little-witch-academia-601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c14279a169a94f9d0a3b5c1bf5171a36.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Day Before Us",
+        "alternativeTitle": "Yeon-ae Halujeon",
+        "id": "a-day-before-us-3860",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb93936aa7e9f0e3a69177bac541f219.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Metallic Rouge",
+        "alternativeTitle": "Metallic Rouge",
+        "id": "metallic-rouge-18844",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af079457fb4f53196f1feaa0d9a48e7d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Peach Girl: Super Pop Love Hurricane",
+        "alternativeTitle": "Peach Girl",
+        "id": "peach-girl-super-pop-love-hurricane-3544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bfae4d3e34c2a928fad3713f8611578b.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Skip Beat!",
+        "alternativeTitle": "Skip Beat!",
+        "id": "skip-beat-357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87e41748e883709257e17f74ef57f85c.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "School-Live!",
+        "alternativeTitle": "Gakkougurashi!",
+        "id": "school-live-1169",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/805d1d276c73d0420f2ad9ed9d7af958.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tis Time for \"Torture,\" Princess",
+        "alternativeTitle": "Himesama \"Goumon\" no Jikan desu",
+        "id": "tis-time-for-torture-princess-18778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e6409575dd1fa50a463c79e0b47f3a7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love is Like a Cocktail",
+        "alternativeTitle": "Osake wa Fuufu ni Natte kara",
+        "id": "love-is-like-a-cocktail-3834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f761b41d3a60df3ad1077ccd05b9281.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+        "alternativeTitle": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+        "id": "mobile-suit-gundam-iron-blooded-orphans-2nd-season-260",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8671e535d154ad662b6a617414bb2b9.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Salad Bowl of Eccentrics",
+        "alternativeTitle": "Henjin no Salad Bowl",
+        "id": "salad-bowl-of-eccentrics-19105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c4a0331dc1ed64f58883f267108a22.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA",
+        "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-ova-6803",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/295e970a582f86b659ea457126dad59d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "2.43: Seiin High School Boys Volleyball Team",
+        "alternativeTitle": "2.43: Seiin Koukou Danshi Volley-bu",
+        "id": "243-seiin-high-school-boys-volleyball-team-15630",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1cb90446ef28668e12ac1b99bf8bd9f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

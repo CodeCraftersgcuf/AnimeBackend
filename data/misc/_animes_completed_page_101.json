@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 101,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "[RAW] Biriken",
+        "alternativeTitle": "[RAW] Biriken",
+        "id": "biriken-13054",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8da7ad02a50be7211553fca9871a31b0.jpg",
+        "episodes": {
+          "sub": 31,
+          "dub": 0,
+          "eps": 31
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "[RAW] Himitsu no Akko-chan 3",
+        "alternativeTitle": "[RAW] Himitsu no Akko-chan 3",
+        "id": "himitsu-no-akko-chan-3-6458",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed969e5a8883859e2a0b86ab151e069f.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Himitsu no Akko-chan 2",
+        "alternativeTitle": "[RAW] Himitsu no Akko-chan 2",
+        "id": "himitsu-no-akko-chan-2-7328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e7068674c89706095a699bb31083c66.jpg",
+        "episodes": {
+          "sub": 61,
+          "dub": 0,
+          "eps": 61
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Pumpkin Wine",
+        "alternativeTitle": "The Kabocha Wine",
+        "id": "the-pumpkin-wine-5624",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bcc0ed4488ede157f78d756c48149ba.jpg",
+        "episodes": {
+          "sub": 95,
+          "dub": 0,
+          "eps": 95
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Dangard Ace",
+        "alternativeTitle": "[RAW] Wakusei Robo Danguard Ace",
+        "id": "dangard-ace-6786",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53493d04f82b15ca0de9ac64e7e1cb00.jpg",
+        "episodes": {
+          "sub": 56,
+          "dub": 0,
+          "eps": 56
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tsurune: Kazemai Koukou Kyuudoubu",
+        "alternativeTitle": "Tsurune: Kazemai Koukou Kyuudoubu",
+        "id": "tsurune-kazemai-koukou-kyuudoubu-1367",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bfbd9d995aa9decd873f6a5553a933a6.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yuki Yuna is a Hero",
+        "alternativeTitle": "Yuuki Yuuna wa Yuusha de Aru",
+        "id": "yuki-yuna-is-a-hero-1955",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c945e6fdca9672097a846b8a78e48b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You and Me.",
+        "alternativeTitle": "Kimi to Boku.",
+        "id": "you-and-me-986",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b0b3488e14f2d4af669204be13a58e6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tsukigakirei",
+        "alternativeTitle": "Tsuki ga Kirei",
+        "id": "tsukigakirei-296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b24223ef9734fdaa9e3cb6d2d81a145.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Akuma-kun",
+        "alternativeTitle": "[RAW] Akuma-kun",
+        "id": "akuma-kun-7082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68d351532b126b1557c470bb2e1bdf6a.jpg",
+        "episodes": {
+          "sub": 42,
+          "dub": 0,
+          "eps": 42
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "TWOCAR",
+        "alternativeTitle": "Two Car",
+        "id": "twocar-9067",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dd28388afaa3553ff1d28e1285604b7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "YU-NO: A girl who chants love at the bound of this world.",
+        "alternativeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+        "id": "yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-5328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/992b9a5f69eb74bf227a6918e729427e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Zombie Land Saga",
+        "alternativeTitle": "Zombieland Saga",
+        "id": "zombie-land-saga-1427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61822f6a6402ea90db7cb87038ee0f62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yuri!!! On ICE",
+        "alternativeTitle": "Yuri!!! on Ice",
+        "id": "yuri-on-ice-615",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e54652d267c7a3c19023ee302e4b9dab.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Zo Zo Zombie",
+        "alternativeTitle": "Zo Zo Zo Zombie-kun (TV)",
+        "id": "zo-zo-zombie-12749",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c31d040c8acf636a3ce92b20b8000f3.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "You and Me 2",
+        "alternativeTitle": "Kimi to Boku. 2",
+        "id": "you-and-me-2-542",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e686091d4a57bd3b57c5081674859dd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Twin Angel: Twinkle Paradise",
+        "alternativeTitle": "Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
+        "id": "twin-angel-twinkle-paradise-7856",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40c17b9e9ac0d90576070fc6578c6f33.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Twin Angels Break",
+        "alternativeTitle": "Twin Angel Break",
+        "id": "twin-angels-break-8340",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d642f6f4580486e97c9546ede1ba5032.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "You Don't Know Gunma Yet",
+        "alternativeTitle": "Omae wa Mada Gunma wo Shiranai",
+        "id": "you-dont-know-gunma-yet-9916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe6a9264b7ca1e1ef299ec99f18f270c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Young Black Jack",
+        "alternativeTitle": "Young Black Jack",
+        "id": "young-black-jack-2546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b2b147f4c31129319d9fffe3512152c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yuragi-sou no Yuuna-san",
+        "alternativeTitle": "Yuragi-sou no Yuuna-san",
+        "id": "yuragi-sou-no-yuuna-san-3218",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bece1677671669b24877d73ff4481a67.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The World is Still Beautiful",
+        "alternativeTitle": "Soredemo Sekai wa Utsukushii",
+        "id": "the-world-is-still-beautiful-1035",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52e02c41d0d097f8f565b0214e2df1a0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Time Bokan 24",
+        "alternativeTitle": "Time Bokan 24",
+        "id": "time-bokan-24-8406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/464a548a60811adbaa7ccc0ea4b9bec2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The World YAMIZUKAN",
+        "alternativeTitle": "Sekai no Yami Zukan",
+        "id": "the-world-yamizukan-10495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1829c470a7b5ac744d46000de514d7db.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "This Art Club Has a Problem!",
+        "alternativeTitle": "Kono Bijutsubu ni wa Mondai ga Aru!",
+        "id": "this-art-club-has-a-problem-2420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5e0b96896d87691abc3d360d70c6b1d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The World God Only Knows: Goddesses",
+        "alternativeTitle": "Kami nomi zo Shiru Sekai: Megami-hen",
+        "id": "the-world-god-only-knows-goddesses-399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d41e6b716f53055eefef213f0470da0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The World God Only Knows II",
+        "alternativeTitle": "Kami nomi zo Shiru Sekai II",
+        "id": "the-world-god-only-knows-ii-569",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6397332a529951bf4186eaed8c40b451.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The World God Only Knows",
+        "alternativeTitle": "Kami nomi zo Shiru Sekai",
+        "id": "the-world-god-only-knows-900",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa00c5b5c2a48c45121c5d7ec400ab36.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tu Bian Ying Xiong Leaf",
+        "alternativeTitle": "Tu Bian Ying Xiong Leaf",
+        "id": "tu-bian-ying-xiong-leaf-3108",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a441f4131ec2f7da75c19cabc9d93e16.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Time Bokan: The Villains Strike Back",
+        "alternativeTitle": "Time Bokan: Gyakushuu no San Akunin",
+        "id": "time-bokan-the-villains-strike-back-8065",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d0c175b6b882f777e8591d26d5c93ce.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "TO BE HERO",
+        "alternativeTitle": "To Be Hero",
+        "id": "to-be-hero-3552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47f26a1316c251a7b260b53525b1b488.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Toradora!",
+        "alternativeTitle": "Toradora!",
+        "id": "toradora-232",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/29a2eb93554ed3b8ab5d1507ac8f5d77.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Muv-Luv Alternative: Total Eclipse",
+        "alternativeTitle": "Muv-Luv Alternative: Total Eclipse",
+        "id": "muv-luv-alternative-total-eclipse-3094",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5b42c626ef877ff47a396b284d104dc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 24,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Trinity Seven",
+        "alternativeTitle": "Trinity Seven",
+        "id": "trinity-seven-2707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b83e86034efb224f601b85f105d6ab4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To the Abandoned Sacred Beasts",
+        "alternativeTitle": "Katsute Kami Datta Kemono-tachi e",
+        "id": "to-the-abandoned-sacred-beasts-6163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/201eadf2331f22da6d386744129f333b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "This Boy is a Professional Wizard",
+        "alternativeTitle": "Kono Danshi, Mahou ga Oshigoto Desu.",
+        "id": "this-boy-is-a-professional-wizard-3385",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63cfd889b0393efc58b34b6c4683e2de.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Time of Eve",
+        "alternativeTitle": "Eve no Jikan",
+        "id": "time-of-eve-409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f331f7d7b10071c49cf802f8af74e65d.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Tonari no Seki-kun: The Master of Killing Time",
+        "alternativeTitle": "Tonari no Seki-kun",
+        "id": "tonari-no-seki-kun-the-master-of-killing-time-1290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/303864337eded7232da64a6dc0c9f767.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 21,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Zoku Touken Ranbu: Hanamaru",
+        "alternativeTitle": "Zoku Touken Ranbu: Hanamaru",
+        "id": "zoku-touken-ranbu-hanamaru-2283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce0e62409974bc322359a3ad793d1ea6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tonkatsu DJ Agetarou",
+        "alternativeTitle": "Tonkatsu DJ Agetarou",
+        "id": "tonkatsu-dj-agetarou-2957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b2349574bcfb866069d3673c8b4deac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "9m"
+      }
+    ]
+  }
+}

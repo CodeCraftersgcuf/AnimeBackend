@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 4,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Beyblade X",
+        "alternativeTitle": "Beyblade X",
+        "id": "beyblade-x-18632",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead47129d7080b87764abe4117d0c92e.png",
+        "episodes": {
+          "sub": 88,
+          "dub": 51,
+          "eps": 88
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Alien Collections",
+        "alternativeTitle": "Xin Yichang Shengwu Jianwen Lu: Xu",
+        "id": "alien-collections-19814",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e4b00b4300eb844d66aa71d2df08b0e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Leviathan",
+        "alternativeTitle": "Leviathan",
+        "id": "leviathan-19724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c928771c9f3a1b51668c59916250542.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Lingwu Continent",
+        "alternativeTitle": "Ling Wu Dalu",
+        "id": "lingwu-continent-19295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bcdd3a87a9d9b38cf28f165e4479a7.jpg",
+        "episodes": {
+          "sub": 89,
+          "dub": 0,
+          "eps": 89
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "The Laid Off Demon King",
+        "alternativeTitle": "Shiye Mowang",
+        "id": "the-laid-off-demon-king-19517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc7cf2416a30b73b656d8864de7f6738.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Hana-Doll*: Reinterpretation of Flowering",
+        "alternativeTitle": "Hana-Doll*: Reinterpretation of Flowering",
+        "id": "hana-doll-reinterpretation-of-flowering-19604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/562359d28ef39ce48c81dc3d2b3b6464.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hoshina's Day Off",
+        "alternativeTitle": "Kaijuu 8-gou: Hoshina no Kyuujitsu",
+        "id": "hoshinas-day-off-19813",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bbb5b59bd3e57a9669520dbb349c83cb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "U Takes Terra",
+        "alternativeTitle": "Terra Live",
+        "id": "u-takes-terra-19691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a07e8bd63a0756edb568441b10ca68b4.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "The Apothecary Diaries Season 2",
+        "alternativeTitle": "Kusuriya no Hitorigoto 2nd Season",
+        "id": "the-apothecary-diaries-season-2-19429",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7346b9cd930d501d2b6b40770b2b1d0.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kamitsubaki City Under Construction: Witchling Part 1",
+        "alternativeTitle": "Kamitsubaki-shi Kensetsuchuu.: Witchling - Zenpen",
+        "id": "kamitsubaki-city-under-construction-witchling-part-1-19809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c47637964fc2e1291de61b782a795ef1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "21m"
+      },
+      {
+        "title": "Any and All Living Things",
+        "alternativeTitle": "Gekkan! Nanmono Anime",
+        "id": "any-and-all-living-things-19698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/390172b777f9b391b2f8bad08eed508a.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "My Hero Academia: Vigilantes",
+        "alternativeTitle": "Vigilante: Boku no Hero Academia Illegals",
+        "id": "my-hero-academia-vigilantes-19544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b06ba20c769cf017ebf654ca8e9fbda.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lazarus",
+        "alternativeTitle": "Lazarus",
+        "id": "lazarus-19543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9490b81206ea152e82b36b0e143d7bb3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Go! Go! Loser Ranger! Season 2",
+        "alternativeTitle": "Sentai Daishikkaku 2nd Season",
+        "id": "go-go-loser-ranger-season-2-19547",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d6c3b332db6dcf996acdb9533b8523c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 11,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
+        "alternativeTitle": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
+        "id": "shirohiyo-reincarnated-as-a-neglected-noble-raising-my-baby-brother-with-memories-from-my-past-life-19659",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8225e0ea4914ff5eb42b15b82cbc3c83.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Uma Musume: Cinderella Gray",
+        "alternativeTitle": "Uma Musume: Cinderella Gray",
+        "id": "uma-musume-cinderella-gray-19567",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bcac6418bc2be64477c40f9b5e45f5f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Go! Go! Vehicle Zoo: Vehicle Star-hen",
+        "alternativeTitle": "Go! Go! Vehicle Zoo: Vehicle Star-hen",
+        "id": "go-go-vehicle-zoo-vehicle-star-hen-19646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d85a098709d42504925463b92beae1b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Classic Stars",
+        "alternativeTitle": "Classic Stars",
+        "id": "classicstars-19605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d9a6add33c0a75b6ffad6701dabc839.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Food for the Soul",
+        "alternativeTitle": "Hibi wa Sugiredo Meshi Umashi",
+        "id": "food-for-the-soul-19603",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/487b04941eb879c2e920db51cb1e37b8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mono: Weekend Animation",
+        "alternativeTitle": "Mono",
+        "id": "mono-weekend-animation-19574",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c273516ee9955ec7a3e360660fa362b9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+        "alternativeTitle": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+        "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths-19460",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/687f03b26225203aaa9c3171527478ba.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Butler: Emerald Witch Arc",
+        "alternativeTitle": "Kuroshitsuji: Midori no Majo-hen",
+        "id": "black-butler-emerald-witch-arc-19550",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d5b93e7a52232edce885edff7ab364e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kowloon Generic Romance",
+        "alternativeTitle": "Kowloon Generic Romance",
+        "id": "kowloon-generic-romance-19555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6eaf446881baa83213efc40b123259b3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Teogonia",
+        "alternativeTitle": "Teogonia",
+        "id": "teogonia-19593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/442a769d5c81f4943b9b5552422550f3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Emperor of Myriad Realms 2nd Season",
+        "alternativeTitle": "Wan Jie Zhizun 2nd Season",
+        "id": "the-emperor-of-myriad-realms-2nd-season-19538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15040640616e08499dce4380e41dbdc6.jpg",
+        "episodes": {
+          "sub": 179,
+          "dub": 0,
+          "eps": 179
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Rock Is a Lady's Modesty",
+        "alternativeTitle": "Rock wa Lady no Tashinami deshite",
+        "id": "rock-is-a-ladys-modesty-19570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c34215a7d263221e6c9c34f6be4fe81d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Ninja and an Assassin Living Together",
+        "alternativeTitle": "Ninja to Koroshiya no Futarigurashi",
+        "id": "a-ninja-and-an-assassin-living-together-19594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95677884d452befae13a8de6a05a4e6c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Our Last Crusade or the Rise of a New World Season 2",
+        "alternativeTitle": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+        "id": "our-last-crusade-or-the-rise-of-a-new-world-season-2-19250",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dafb11f56d44a293218d9ae5910a7ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Your Forma",
+        "alternativeTitle": "Your Forma",
+        "id": "your-forma-19558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c0d01aa44ce5ec7b88f52c8a0b4d4fe.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Apocalypse Hotel",
+        "alternativeTitle": "Apocalypse Hotel",
+        "id": "apocalypse-hotel-19592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92801fc77f545b94faeed2f6de7b5ad6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam GQuuuuuuX",
+        "alternativeTitle": "Kidou Senshi Gundam: GQuuuuuuX",
+        "id": "mobile-suit-gundam-gquuuuuux-19560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f96ce69f862fd224f66363cb7650681.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Children of Shiunji Family",
+        "alternativeTitle": "Shiunji-ke no Kodomotachi",
+        "id": "the-children-of-shiunji-family-19556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99ea89a9edd568e3535f7b8b5a30d844.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
+        "alternativeTitle": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.",
+        "id": "the-mononoke-lecture-logs-of-chuzenji-sensei-he-just-solves-all-the-mysteries-19595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/efd1fcabe5a71734180366ac60944283.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Compass 2.0: Sentou Setsuri Kaiseki System",
+        "alternativeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+        "id": "compass-20-sentou-setsuri-kaiseki-system-19599",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ccb96cac6b38eca4a89fb22c8931bab.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zatsu Tabi: That's Journey",
+        "alternativeTitle": "Zatsu Tabi: That's Journey",
+        "id": "zatsu-tabi-thats-journey-19568",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/822722dbe57eaab3729a5c854ef6a7f1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aharen Is Indecipherable 2nd Season",
+        "alternativeTitle": "Aharen-san wa Hakarenai Season 2",
+        "id": "aharen-is-indecipherable-2nd-season-19545",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a576978d20d9fe3084647ddb5bdc275.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mashin Souzouden Wataru",
+        "alternativeTitle": "Mashin Souzouden Wataru",
+        "id": "mashin-souzouden-wataru-19481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/506aea20fdcd12c83bfc8bd5969099e1.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yandere Dark Elf: She Chased Me All the Way From Another World! [UNCENSORED]",
+        "alternativeTitle": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita [UNCENSORED]",
+        "id": "yandere-dark-elf-she-chased-me-all-the-way-from-another-world-uncensored-19643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3aca0826a0b696c73bddb24bcb4aa2b4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Kakushite! Makina-san!!",
+        "alternativeTitle": "Kakushite! Makina-san!!",
+        "id": "kakushite-makina-san-19562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62380f0676cc6f49ad718dc2fa8b8820.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
+        "alternativeTitle": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+        "id": "yandere-dark-elf-she-chased-me-all-the-way-from-another-world-19634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32f3d0c957c333ae47b6b77786e1287e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 4,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Dr. Stone",
+        "alternativeTitle": "Dr. Stone",
+        "id": "dr-stone-175",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ddf88c9249745b681a0c61711f4d240.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Reincarnation of the Strongest Exorcist in Another World",
+        "alternativeTitle": "Saikyou Onmyouji no Isekai Tenseiki",
+        "id": "the-reincarnation-of-the-strongest-exorcist-in-another-world-18290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abfb85788cbcf278acd411a4f2e7a161.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Summoner",
+        "alternativeTitle": "Kuro no Shoukanshi",
+        "id": "black-summoner-18088",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4885983848251a200947a0e0e3b415f.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arifureta: From Commonplace to World's Strongest Season 3",
+        "alternativeTitle": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+        "id": "arifureta-from-commonplace-to-worlds-strongest-season-3-19321",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebb78f8688b59abf0409b8799159127a.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
+        "alternativeTitle": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+        "id": "the-greatest-demon-lord-is-reborn-as-a-typical-nobody-17682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a0aab028bbcaba876e6853973e12615.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World",
+        "alternativeTitle": "Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita",
+        "id": "my-isekai-life-i-gained-a-second-character-class-and-became-the-strongest-sage-in-the-world-17502",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2ffafae01ec87bd2d3ee220bd151f09.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Brilliant Healer's New Life in the Shadows",
+        "alternativeTitle": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
+        "id": "the-brilliant-healers-new-life-in-the-shadows-19553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af4302b3aa18fd05f3824b5c52cf6db8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+        "alternativeTitle": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+        "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths-19460",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/687f03b26225203aaa9c3171527478ba.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Misfit of Demon King Academy",
+        "alternativeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e",
+        "id": "the-misfit-of-demon-king-academy-1768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e187d4c9cd03e83ac35c5b70188e8d7d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
+        "alternativeTitle": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
+        "id": "even-given-the-worthless-appraiser-class-im-actually-the-strongest-19457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa538daa52052ce7a288a55e60988896.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World's End Harem (Uncensored)",
+        "alternativeTitle": "Shuumatsu no Harem (Uncensored)",
+        "id": "worlds-end-harem-15553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3614507d32a8b43292bfa2d598edca81.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "alternativeTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "id": "mushoku-tensei-jobless-reincarnation-15820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/368b47bf4417b07cc9f316fffe10d342.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "To Be Hero X",
+        "alternativeTitle": "Tu Bian Yingxiong X",
+        "id": "to-be-hero-x-19591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3af81a186b40dc69e969075f218c74a9.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 17,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation Part 2",
+        "alternativeTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2",
+        "id": "mushoku-tensei-jobless-reincarnation-part-2-17633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cbe09489cbc6666bc9fb6f221a3b8c5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Daily Life of the Immortal King",
+        "alternativeTitle": "Xian Wang de Richang Shenghuo",
+        "id": "the-daily-life-of-the-immortal-king-2945",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d50d5a61a2a9e56f8e35b7df4d42151.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 15,
+          "eps": 15
+        },
+        "type": "TV",
+        "duration": "18m"
+      },
+      {
+        "title": "Loner Life in Another World",
+        "alternativeTitle": "Hitoribocchi no Isekai Kouryaku",
+        "id": "loner-life-in-another-world-19337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dc640871a61596483b630918f8c2e04.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Overlord",
+        "alternativeTitle": "Overlord",
+        "id": "overlord-552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f31fe7c779b896aaeabb7219a2fc589.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Ghoul √A",
+        "alternativeTitle": "Tokyo Ghoul √A",
+        "id": "tokyo-ghoul-a-3130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8798db1ca7bd21638202c622c770b313.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Dreaming Boy is a Realist",
+        "alternativeTitle": "Yumemiru Danshi wa Genjitsushugisha",
+        "id": "the-dreaming-boy-is-a-realist-18484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d366f7a0c8cb967409ec4ad6452991d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Baki",
+        "alternativeTitle": "Baki",
+        "id": "baki-2649",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4fe77589bb2ca6f2857ba863c1d78f3e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "The Wrong Way to Use Healing Magic",
+        "alternativeTitle": "Chiyu Mahou no Machigatta Tsukaikata",
+        "id": "the-wrong-way-to-use-healing-magic-18838",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d03c7b66af5689b107225b906c467ce.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Farming Life in Another World",
+        "alternativeTitle": "Isekai Nonbiri Nouka",
+        "id": "farming-life-in-another-world-18284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32331430b54de785a0e610e2983e4f07.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+        "alternativeTitle": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+        "id": "the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible-19219",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f6f9eb3a7bdd479805f034255e492c5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime 2nd Season Part 2",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+        "id": "that-time-i-got-reincarnated-as-a-slime-2nd-season-part-2-15576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e68f6d1a80303c65d654d94d2d71e1e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "A Couple of Cuckoos",
+        "alternativeTitle": "Kakkou no Iinazuke",
+        "id": "a-couple-of-cuckoos-17849",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3176a2690d7ace98cb4d39532232ded.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dr. Stone: Science Future",
+        "alternativeTitle": "Dr. Stone: Science Future",
+        "id": "dr-stone-science-future-19430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6256426cfa94332309fa3b10b37dde06.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Revengers: Christmas Showdown (Uncensored)",
+        "alternativeTitle": "Tokyo Revengers: Seiya Kessen-hen (Uncensored)",
+        "id": "tokyo-revengers-christmas-showdown-uncensored-18315",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92b1395533dc5e1bedfcf757eb3f6209.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Skeleton Knight in Another World",
+        "alternativeTitle": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+        "id": "skeleton-knight-in-another-world-17979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c32a2fc9a170dc5055225600772dce7f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fairy Tail Series 2",
+        "alternativeTitle": "Fairy Tail (2014)",
+        "id": "fairy-tail-series-2-847",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ec2ba92b40474a88d1fa3baca2d7b37.jpg",
+        "episodes": {
+          "sub": 102,
+          "dub": 102,
+          "eps": 102
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "No Longer Allowed In Another World",
+        "alternativeTitle": "Isekai Shikkaku",
+        "id": "no-longer-allowed-in-another-world-19247",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b97e75f9de748632c4458eefb3ec8d8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Summer Time Rendering",
+        "alternativeTitle": "Summertime Render",
+        "id": "summer-time-rendering-17500",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea7d0f5a13acc78dd85e81eb75ac8fdc.png",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Misfit of Demon King Academy II",
+        "alternativeTitle": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II",
+        "id": "the-misfit-of-demon-king-academy-ii-17676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14fcdd693f769d60d1c8f676c061a2bf.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rent-A-Girlfriend 2nd Season",
+        "alternativeTitle": "Kanojo, Okarishimasu 2nd Season",
+        "id": "rent-a-girlfriend-2nd-season-15758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc74be406954570894c7112980af10ff.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Revengers (Uncensored)",
+        "alternativeTitle": "Tokyo Revengers (Uncensored)",
+        "id": "tokyo-revengers-uncensored-17874",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8be468db3662b96b66888bb6c1577a2c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Daily Life of the Immortal King 2nd Season",
+        "alternativeTitle": "Xian Wang de Richang Shenghuo 2nd Season",
+        "id": "the-daily-life-of-the-immortal-king-2nd-season-17356",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97cd66890040dc3570782592eff29b18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Tsukimichi -Moonlit Fantasy-",
+        "alternativeTitle": "Tsuki ga Michibiku Isekai Douchuu",
+        "id": "tsukimichi-moonlit-fantasy-17241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e98df6c3fa1eb5e25077af466f8231a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Code Geass: Lelouch of the Rebellion",
+        "alternativeTitle": "Code Geass: Hangyaku no Lelouch",
+        "id": "code-geass-lelouch-of-the-rebellion-41",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7b180ff8404f0475e60a4f3a0f5bd20.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Star: Season 2",
+        "alternativeTitle": "Oshi no Ko 2nd Season",
+        "id": "my-star-season-2-19256",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d1cb3f0d6a5eea02851ea80f515b984.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Am I Actually the Strongest?",
+        "alternativeTitle": "Jitsu wa Ore, Saikyou deshita?",
+        "id": "am-i-actually-the-strongest-18481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5143ba1266a0f80f5ea770e92721b47.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokyo Revengers: Tenjiku-hen",
+        "alternativeTitle": "Tokyo Revengers: Tenjiku-hen",
+        "id": "tokyo-revengers-tenjiku-hen-18575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/021ca452bd8b38c15f2e3c60e4a8c2ca.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

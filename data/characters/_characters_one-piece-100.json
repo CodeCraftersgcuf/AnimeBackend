@@ -1,0 +1,314 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 91,
+      "currentPage": 1,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "name": "Brook",
+        "id": "character:brook-198",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/54cbbb789b82a8ca6f4b4b360ff5dfb6.jpg",
+        "role": "Main",
+        "voiceActors": [
+          {
+            "name": "Cho",
+            "id": "people:cho-471",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1f315c80cb027f22256d54f5ace73f2d.jpg",
+            "cast": null
+          },
+          {
+            "name": "Sinclair, Ian",
+            "id": "people:ian-sinclair-393",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/90d5d521469a4539a4c696e7f45f9e81.jpg",
+            "cast": null
+          },
+          {
+            "name": "Demma, Daniele",
+            "id": "people:daniele-demma-8218",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/415aca04a597faea2be31194b2e056f9.jpg",
+            "cast": null
+          },
+          {
+            "name": "Gutjan, Benedikt",
+            "id": "people:benedikt-gutjan-8563",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fe932103be42975e7fac38859f3f2922.jpg",
+            "cast": null
+          }
+        ]
+      },
+      {
+        "name": "Franky",
+        "id": "character:franky-307",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a51f54aacfe2ac858c1e2870781449f0.jpg",
+        "role": "Main",
+        "voiceActors": [
+          {
+            "name": "Yao, Kazuki",
+            "id": "people:kazuki-yao-377",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2a76c55a44f5f042779f9597e263f858.jpg",
+            "cast": null
+          },
+          {
+            "name": "Noda, Junko",
+            "id": "people:junko-noda-1602",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e75208f72f405436143c7e7e32020309.jpg",
+            "cast": null
+          },
+          {
+            "name": "Seitz, Patrick",
+            "id": "people:patrick-seitz-415",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa4a747209b1c5fa0c1080687d1ebae8.jpg",
+            "cast": null
+          },
+          {
+            "name": "Magne, Bruno",
+            "id": "people:bruno-magne-5992",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/250f0a100a1d61db7583e5ecd66bb95c.jpg",
+            "cast": null
+          }
+        ]
+      },
+      {
+        "name": "Monkey D., Luffy",
+        "id": "character:luffy-monkey-d-3",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5a4eaa036b66e63622272c1895bf3401.jpg",
+        "role": "Main",
+        "voiceActors": [
+          {
+            "name": "Tanaka, Mayumi",
+            "id": "people:mayumi-tanaka-117",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fdfe8d881f2f15c2e4bbe6c28ba1ab7f.jpg",
+            "cast": null
+          },
+          {
+            "name": "Clinkenbeard, Colleen",
+            "id": "people:colleen-clinkenbeard-242",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/19421e0f987ab7c89e28de08b1716479.jpg",
+            "cast": null
+          },
+          {
+            "name": "Novara, Renato",
+            "id": "people:renato-novara-2941",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f85c429be34c3b0d670a15c401028a2f.jpg",
+            "cast": null
+          },
+          {
+            "name": "Rosa, Luigi",
+            "id": "people:luigi-rosa-6480",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/605cb760503cb62c555bb10415fbb185.jpg",
+            "cast": null
+          }
+        ]
+      },
+      {
+        "name": "Nami",
+        "id": "character:nami-102",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a5a3e09b1ac8a8b479b71b4adeaae1c6.jpg",
+        "role": "Main",
+        "voiceActors": [
+          {
+            "name": "Okamura, Akemi",
+            "id": "people:akemi-okamura-453",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56dc7d925d5e604fd2e4f5721a238221.jpg",
+            "cast": null
+          },
+          {
+            "name": "Christian, Luci",
+            "id": "people:luci-christian-215",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/13bff62bd32770294af6563b6233cb11.jpg",
+            "cast": null
+          },
+          {
+            "name": "Yamazaki, Wakana",
+            "id": "people:wakana-yamazaki-1741",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4f4bb4c636460b33f3d3b61323c8937d.jpg",
+            "cast": null
+          },
+          {
+            "name": "Pacotto, Emanuela",
+            "id": "people:emanuela-pacotto-2229",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c3cd6f43a0a28098aa4ba28160b0baea.jpg",
+            "cast": null
+          }
+        ]
+      },
+      {
+        "name": "Nico, Robin",
+        "id": "character:robin-nico-54",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fff3dfd03470b0bdcce97778d0d23454.jpg",
+        "role": "Main",
+        "voiceActors": [
+          {
+            "name": "Yamaguchi, Yuriko",
+            "id": "people:yuriko-yamaguchi-162",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9f9594aa137886e4fa3e3ac1aa4337ce.jpg",
+            "cast": null
+          },
+          {
+            "name": "Young, Stephanie",
+            "id": "people:stephanie-young-1270",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4f0b6fb41ed3a36e55739b1a63d3b8fa.jpg",
+            "cast": null
+          },
+          {
+            "name": "McInerney, Kathleen",
+            "id": "people:kathleen-mcinerney-1005",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/29aace6bc49063a344f41110fe75203e.jpg",
+            "cast": null
+          },
+          {
+            "name": "Kobayashi, Yuko",
+            "id": "people:yuko-kobayashi-3248",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/427a5efa24e919f2ecccece8401168ab.jpg",
+            "cast": null
+          }
+        ]
+      },
+      {
+        "name": "Roronoa, Zoro",
+        "id": "character:zoro-roronoa-7",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c7df2fc09984feb9aab02f82c6e44f9c.jpg",
+        "role": "Main",
+        "voiceActors": [
+          {
+            "name": "Nakai, Kazuya",
+            "id": "people:kazuya-nakai-37",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3eaa00f6c293df5146813f869deb0a20.jpg",
+            "cast": null
+          },
+          {
+            "name": "Sabat, Christopher",
+            "id": "people:christopher-sabat-113",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/44ab3c1f5430464757823a2c3a607f95.jpg",
+            "cast": null
+          },
+          {
+            "name": "Prata, Patrizio",
+            "id": "people:patrizio-prata-2617",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f5124500d6a980bf98dcab1b0b9657f3.jpg",
+            "cast": null
+          },
+          {
+            "name": "Diraison, Marc",
+            "id": "people:marc-diraison-1201",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7c73613af9e39b229e1f7032fde187fe.jpg",
+            "cast": null
+          }
+        ]
+      },
+      {
+        "name": "Sanji",
+        "id": "character:sanji-47",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6297b9969717b4c49a5616d77ee00bb4.jpg",
+        "role": "Main",
+        "voiceActors": [
+          {
+            "name": "Hirata, Hiroaki",
+            "id": "people:hiroaki-hirata-223",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fbec5a53065504df5aadeba4399632c9.jpg",
+            "cast": null
+          },
+          {
+            "name": "Ootani, Ikue",
+            "id": "people:ikue-ootani-203",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0224aae4c4b83b5f3db3569a8722bc08.jpg",
+            "cast": null
+          },
+          {
+            "name": "Vale, Eric",
+            "id": "people:eric-vale-430",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6897798d3435cd7128577e09adfe1a3f.jpg",
+            "cast": null
+          },
+          {
+            "name": "Auten, Christine",
+            "id": "people:christine-auten-1839",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/108d1872cc9ad557d3c9347764daeef2.jpg",
+            "cast": null
+          }
+        ]
+      },
+      {
+        "name": "Tony Tony, Chopper",
+        "id": "character:chopper-tony-tony-132",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b2a557eb89263ec3ae033faa29b61290.jpg",
+        "role": "Main",
+        "voiceActors": [
+          {
+            "name": "Ootani, Ikue",
+            "id": "people:ikue-ootani-203",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0224aae4c4b83b5f3db3569a8722bc08.jpg",
+            "cast": null
+          },
+          {
+            "name": "Ikura, Kazue",
+            "id": "people:kazue-ikura-2749",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/37d456a52b7a9c4014b42c3dfdbf3360.jpg",
+            "cast": null
+          },
+          {
+            "name": "Palencia, Brina",
+            "id": "people:brina-palencia-192",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67b617fb3bda293fea66d48b0d4034b2.jpg",
+            "cast": null
+          },
+          {
+            "name": "Ortiz, Lisa",
+            "id": "people:lisa-ortiz-1313",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8c5692d20cfb33484f7285960bce1735.jpg",
+            "cast": null
+          }
+        ]
+      },
+      {
+        "name": "Usopp",
+        "id": "character:usopp-126",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f982eec27e5c054ccf8a23902eb90e70.jpg",
+        "role": "Main",
+        "voiceActors": [
+          {
+            "name": "Yamaguchi, Kappei",
+            "id": "people:kappei-yamaguchi-107",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/597833213a419d231f01d84ba87d7b35.jpg",
+            "cast": null
+          },
+          {
+            "name": "Strait, Sonny",
+            "id": "people:sonny-strait-711",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6bd983506793c49baa441c241f23de02.jpg",
+            "cast": null
+          },
+          {
+            "name": "Andreatto, Rodrigo",
+            "id": "people:rodrigo-andreatto-2544",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/86a4e2ff1c73f51f00c787c74df2da47.jpg",
+            "cast": null
+          },
+          {
+            "name": "Griffith, Jason",
+            "id": "people:jason-griffith-1835",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c44a20f4ba5ec15ae78797e38913fc0c.jpg",
+            "cast": null
+          }
+        ]
+      },
+      {
+        "name": "A.O",
+        "id": "character:ao-73641",
+        "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7cb24ddb2a10fd2fe1bf0c9e3dc0f0cd.jpg",
+        "role": "Supporting",
+        "voiceActors": [
+          {
+            "name": "Fukuhara, Kouhei",
+            "id": "people:kouhei-fukuhara-14058",
+            "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56b111592e23183913667f41ca7c76ef.jpg",
+            "cast": "Japanese"
+          }
+        ]
+      }
+    ]
+  }
+}

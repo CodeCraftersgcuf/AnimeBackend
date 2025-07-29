@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 111,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Grimgar: Ashes and Illusions",
+        "alternativeTitle": "Hai to Gensou no Grimgar",
+        "id": "grimgar-ashes-and-illusions-1011",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e67e9fc525d338f38d97932a138be65d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sgt. Frog",
+        "alternativeTitle": "Keroro Gunsou",
+        "id": "sgt-frog-960",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2f78b90b43c3a4038c8ab2730306a12.jpg",
+        "episodes": {
+          "sub": 358,
+          "dub": 0,
+          "eps": 358
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Uta no Prince Sama 2nd Season",
+        "alternativeTitle": "Uta no☆Prince-sama♪: Maji Love 2000%",
+        "id": "uta-no-prince-sama-2nd-season-2446",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e38366f23ff944a2b85f602ce656e564.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Uta no Prince Sama",
+        "alternativeTitle": "Uta no☆Prince-sama♪: Maji Love 1000%",
+        "id": "uta-no-prince-sama-3043",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ed127b17c8962377dd3341345d6e41f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "A Certain Scientific Railgun T",
+        "alternativeTitle": "Toaru Kagaku no Railgun T",
+        "id": "a-certain-scientific-railgun-t-241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57c29ad41c8214e567ed79dda1200336.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Goblin Slayer",
+        "alternativeTitle": "Goblin Slayer",
+        "id": "goblin-slayer-1571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32c878db0dd447d3bd2737144d043412.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ah! My Goddess: The Movie",
+        "alternativeTitle": "Aa! Megami-sama! Movie",
+        "id": "ah-my-goddess-the-movie-1328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a559f0d7cc602b53b8a383a996c352b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "106m"
+      },
+      {
+        "title": "Ah! My Goddess (OVA)",
+        "alternativeTitle": "Aa! Megami-sama!",
+        "id": "oh-my-goddess-2204",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e878153b276233a960347536e1a71eb.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Rent-a-Girlfriend",
+        "alternativeTitle": "Kanojo, Okarishimasu",
+        "id": "rent-a-girlfriend-2037",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6209ac54830ee3befb26d2ff148e671d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aa! Megami-sama!: Tatakau Tsubasa",
+        "alternativeTitle": "Aa! Megami-sama!: Tatakau Tsubasa",
+        "id": "aa-megami-sama-tatakau-tsubasa-1256",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/876f42593f668d1d31a66c6bc17640bd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Oh! My Goddess (2011) OVA",
+        "alternativeTitle": "Aa! Megami-sama! (2011)",
+        "id": "oh-my-goddess-2011-ova-2045",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b3a894cf82ebadb8b623f8f522fca00.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Plunderer",
+        "alternativeTitle": "Plunderer",
+        "id": "plunderer-5815",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66ab15cf5954dd482ad4d011156b48c5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Hatena Illusion",
+        "alternativeTitle": "Hatena☆Illusion",
+        "id": "hatena-illusion-9679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a06fd0de8a7967b66b6f308c7425b445.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bluer Than Indigo: Fate - Miyuki",
+        "alternativeTitle": "Ai Yori Aoshi: Enishi - Miyuki",
+        "id": "bluer-than-indigo-fate-miyuki-3783",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cec352d049ed2990dc06f25055c29091.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "School Rumble 3rd Semester",
+        "alternativeTitle": "School Rumble San Gakki",
+        "id": "school-rumble-3rd-semester-2258",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/487ea2ee321a586eef1ca2d69db6e91a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Aim for the Ace! The Movie (1979)",
+        "alternativeTitle": "Ace wo Nerae! (1979)",
+        "id": "aim-for-the-ace-the-movie-1979-4268",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e17e5284eb629be6c3ce274df3367b3f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Bluer Than Indigo: Speaking of Dreams",
+        "alternativeTitle": "Ai Yori Aoshi: Yumegatari",
+        "id": "bluer-than-indigo-speaking-of-dreams-4375",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9f939d2665811a729d1f75691e21fa7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "School Rumble: Ichi Gakki Hoshuu",
+        "alternativeTitle": "School Rumble: Ichi Gakki Hoshuu",
+        "id": "school-rumble-ichi-gakki-hoshuu-907",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d65616721815c51633e7a0b399dd9b59.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "The Millionaire Detective – Balance: UNLIMITED",
+        "alternativeTitle": "Fugou Keiji: Balance:Unlimited",
+        "id": "the-millionaire-detective-balance-unlimited-1167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55f9c18408ce8b5c373460c37aad7143.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Doraemon (US)",
+        "alternativeTitle": "Doraemon (US)",
+        "id": "doraemon-us-17863",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bc3d3be727bb06713808f043ff574d1.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tower of God",
+        "alternativeTitle": "Kami no Tou",
+        "id": "tower-of-god-866",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baadf81b77dc17f41ff30610b7efbfc6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Zoids",
+        "alternativeTitle": "Zoids",
+        "id": "zoids-1957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2794ea1274404aa715e5f92e744adbe6.jpg",
+        "episodes": {
+          "sub": 67,
+          "dub": 67,
+          "eps": 67
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Case File nº221: Kabukicho",
+        "alternativeTitle": "Kabukichou Sherlock",
+        "id": "case-file-no221-kabukicho-3878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f95e4eece0f3b0739304af9c0100448d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Smile Down the Runway",
+        "alternativeTitle": "Runway de Waratte",
+        "id": "smile-down-the-runway-1047",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f1a95ef2bf83290b0e953ceb1a6af4d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sailor Moon: Sailor Stars",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+        "id": "sailor-moon-sailor-stars-643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de4c242b109f74d1937601895214d85b.jpg",
+        "episodes": {
+          "sub": 34,
+          "dub": 34,
+          "eps": 34
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Story of Pollyanna: Girl of Love",
+        "alternativeTitle": "Ai Shoujo Pollyanna Story",
+        "id": "story-of-pollyanna-girl-of-love-3808",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24b23aacd6b009cbc7b75bb392dbe922.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Romeo and the Black Brothers",
+        "alternativeTitle": "Romeo no Aoi Sora",
+        "id": "romeo-and-the-black-brothers-166",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c51e4fba5b18adde6d1f3d232e686767.jpg",
+        "episodes": {
+          "sub": 33,
+          "dub": 0,
+          "eps": 33
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Crimson",
+        "alternativeTitle": "Kure-nai",
+        "id": "crimson-1968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fa77c35a7d37eea2d01cd3081adfbb6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kure-nai OVA",
+        "alternativeTitle": "Kure-nai OVA",
+        "id": "kure-nai-ova-4228",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55703ebcacde8fe43c95a1980acae598.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Bluer Than Indigo: Fate",
+        "alternativeTitle": "Ai Yori Aoshi: Enishi",
+        "id": "bluer-than-indigo-fate-2861",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b32a9e5462bb616b1048acd112dd21b3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Seven Senses of the Re'Union",
+        "alternativeTitle": "Shichisei no Subaru",
+        "id": "seven-senses-of-the-reunion-7399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23adcc5d7a8fc238e538279082fdf978.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah! My Goddess: Flights of Fancy",
+        "alternativeTitle": "Aa! Megami-sama!: Sorezore no Tsubasa",
+        "id": "ah-my-goddess-flights-of-fancy-1304",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eee62d35e988f78a4199429c76074a73.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bluer Than Indigo",
+        "alternativeTitle": "Ai Yori Aoshi",
+        "id": "bluer-than-indigo-2967",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08fe83e7c3391162e6586a3d94b715f8.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ah! My Goddess: Flights of Fancy Specials",
+        "alternativeTitle": "Aa! Megami-sama!: Sorezore no Tsubasa Specials",
+        "id": "ah-my-goddess-flights-of-fancy-specials-1447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1968a7f1154dbd1e52faf1fb489a41fd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah! My Goddess",
+        "alternativeTitle": "Aa! Megami-sama! (TV)",
+        "id": "ah-my-goddess-2046",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64887a85186002fc761959ef0f43b833.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aim for the Ace!",
+        "alternativeTitle": "Ace wo Nerae!",
+        "id": "aim-for-the-ace-3575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a23449a9e8edec33ea61d1117f5b4ff9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyblade Burst Turbo",
+        "alternativeTitle": "Beyblade Burst Chouzetsu",
+        "id": "beyblade-burst-turbo-6820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9aed05d602eb185211a6310245583087.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saber Marionette J Again",
+        "alternativeTitle": "Saber Marionette J Again",
+        "id": "saber-marionette-j-again-2612",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89e1558bf654d518121366f4f757feec.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Sci-fi Harry",
+        "alternativeTitle": "Sci-fi Harry",
+        "id": "sci-fi-harry-7109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99a321a4fd31e6e12ec14f265d8c8977.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "After School Dice Club",
+        "alternativeTitle": "Houkago Saikoro Club",
+        "id": "after-school-dice-club-4641",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d27eb84b7c0b886509142574a1b01790.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

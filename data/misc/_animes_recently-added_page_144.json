@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 144,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Tokyo Marble Chocolate",
+        "alternativeTitle": "Tokyo Marble Chocolate",
+        "id": "tokyo-marble-chocolate-2681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44fffbf26cfb3ae0fe16dcdbfa64270e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "gdgd Fairies Movie: tte Iu Eiga wa Dou kana...?",
+        "alternativeTitle": "gdgd Fairies Movie: tte Iu Eiga wa Dou kana...?",
+        "id": "gdgd-fairies-movie-tte-iu-eiga-wa-dou-kana-6834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ead5d90ea4169dcd49cfaf19d9ca211e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Gauche the Cellist",
+        "alternativeTitle": "Cello Hiki no Gauche (1982)",
+        "id": "gauche-the-cellist-3890",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5103eeed1aca09bf667c0b2e42cc5759.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Keroro Movie 3",
+        "alternativeTitle": "Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!",
+        "id": "keroro-movie-3-1678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0380ad8f3e52affcb4d225b56064b09c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Glassy Ocean",
+        "alternativeTitle": "Kujira no Chouyaku",
+        "id": "glassy-ocean-4995",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d3a55bace6a3532a50180d3681c8f52.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "22m"
+      },
+      {
+        "title": "Onimai: I'm Now Your Sister!",
+        "alternativeTitle": "Oniichan wa Oshimai!",
+        "id": "onimai-im-now-your-sister-18246",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d9356c9cbf38c8d9e49bd22894ffc30.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hyakko Extra",
+        "alternativeTitle": "Hyakko Extra",
+        "id": "hyakko-extra-4528",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfcc5fb72d1a9859b3a0984d407de5e1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "9m"
+      },
+      {
+        "title": "NieR:Automata Ver1.1a",
+        "alternativeTitle": "NieR:Automata Ver1.1a",
+        "id": "nierautomata-ver11a-18247",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d62dc242c69ba63be2d53f9f2aa792f9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hummingbirds",
+        "alternativeTitle": "Idol Bouei-tai Hummingbird",
+        "id": "hummingbirds-8566",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3baffdc643ee30e797ec06464a153b23.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "Tsurune - The Linking Shot -",
+        "alternativeTitle": "Tsurune: Tsunagari no Issha",
+        "id": "tsurune-the-linking-shot-18296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6d6b6a77dd16cf8f82e218142526c81.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hunter x Hunter Pilot",
+        "alternativeTitle": "Hunter x Hunter Pilot",
+        "id": "hunter-x-hunter-pilot-2724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08f9bae9932c86663fa1d924ce5ec99e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "The Ice Guy and His Cool Female Colleague",
+        "alternativeTitle": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+        "id": "the-ice-guy-and-his-cool-female-colleague-18255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f06e623306e909db3c859ad5a26042f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Reincarnation of the Strongest Exorcist in Another World",
+        "alternativeTitle": "Saikyou Onmyouji no Isekai Tenseiki",
+        "id": "the-reincarnation-of-the-strongest-exorcist-in-another-world-18290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abfb85788cbcf278acd411a4f2e7a161.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense 2nd Season",
+        "alternativeTitle": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. II",
+        "id": "bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-2nd-season-15745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3130829ef213c29bf5db1239b26f3ac8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "In/Spectre Season 2",
+        "alternativeTitle": "Kyokou Suiri Season 2",
+        "id": "inspectre-season-2-17332",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f8f4de6aef6a28cdbe411c9dd7aaee9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Hatena Illusion: Koi to Mahou no Illusion de, Muchuu Sasechaimasu! Special",
+        "alternativeTitle": "Hatena Illusion: Koi to Mahou no Illusion de, Muchuu Sasechaimasu! Special",
+        "id": "hatenaillusion-koi-to-mahou-no-illusion-de-muchuu-sasechaimasu-special-9208",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3c3034df8a68e80f11189369ac9b260.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Harmony",
+        "alternativeTitle": "Harmony",
+        "id": "harmony-3667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/974438b480535fb95936a05bf8766e7a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+        "alternativeTitle": "Eureka Seven AO: Jungfrau no Hanabana-tachi",
+        "id": "eureka-seven-ao-jungfrau-no-hanabana-tachi-6731",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54fc6deda8aaa1edb202bae6f4090458.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "31m"
+      },
+      {
+        "title": "Franz Kafka's A Country Doctor",
+        "alternativeTitle": "Inaka Isha",
+        "id": "franz-kafkas-a-country-doctor-4750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c858259d3911ba1cbe996ac2f376087f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "21m"
+      },
+      {
+        "title": "Usuzumizakura: Garo",
+        "alternativeTitle": "Usuzumizakura: Garo",
+        "id": "usuzumizakura-garo-7386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21bc59f0fed5aee010ef4cce6e2640b3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Miyori's Forest",
+        "alternativeTitle": "Miyori no Mori",
+        "id": "miyoris-forest-3884",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/852bc54fa9d5c3ed2b60673e716a36f7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "107m"
+      },
+      {
+        "title": "My Senior Brother Is Too Steady",
+        "alternativeTitle": "Shixiong A Shixiong",
+        "id": "my-senior-brother-is-too-steady-18318",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be2b91131b792449fe995e2631636a85.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Ai Shoujo Pollyanna Story Specials",
+        "alternativeTitle": "Ai Shoujo Pollyanna Story Specials",
+        "id": "ai-shoujo-pollyanna-story-specials-12821",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7057a1c7fd06ba5dc3061c9bb33020cb.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "45m"
+      },
+      {
+        "title": "Suddenly, Egyptian Gods Season 2",
+        "alternativeTitle": "Toutotsu ni Egypt Shin 2",
+        "id": "suddenly-egyptian-gods-season-2-18274",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9f5bf8c897501f68b2129648b74911c.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Record of Ragnarok II, Part 1",
+        "alternativeTitle": "Shuumatsu no Walküre II, Part 1",
+        "id": "record-of-ragnarok-ii-18278",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c21e44e97861ceef71a0308e03ce6097.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Handyman Saitou in Another World",
+        "alternativeTitle": "Benriya Saitou-san, Isekai ni Iku",
+        "id": "handyman-saitou-in-another-world-18289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d0d91bb124a0d7006d279eab63eaaa9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Farming Life in Another World",
+        "alternativeTitle": "Isekai Nonbiri Nouka",
+        "id": "farming-life-in-another-world-18284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32331430b54de785a0e610e2983e4f07.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Fire Hunter",
+        "alternativeTitle": "Hikari no Ou",
+        "id": "the-fire-hunter-17294",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e9dc41a16edc2ce469a6c03cd9fc541.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": ".hack//G.U. Trilogy",
+        "alternativeTitle": ".hack//G.U. Trilogy",
+        "id": "hackgu-trilogy-2965",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd15dacc445300ff76be2f5da94228ad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Galaxy Express 999: Eternal Fantasy",
+        "alternativeTitle": "Ginga Tetsudou 999: Eternal Fantasy",
+        "id": "galaxy-express-999-eternal-fantasy-5097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfff6e92ae899ee4d3642d21feaab190.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "54m"
+      },
+      {
+        "title": "Eternal Boys",
+        "alternativeTitle": "Eikyuu Shounen",
+        "id": "eternal-boys-18207",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3064f4abf1811774c0106d6e6c967dd3.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Generation of Chaos",
+        "alternativeTitle": "Generation of Chaos",
+        "id": "generation-of-chaos-10663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70bfe1f090099d7f920e1ccc59d2cd1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Bungo Stray Dogs 4",
+        "alternativeTitle": "Bungou Stray Dogs 4th Season",
+        "id": "bungo-stray-dogs-4-18240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bbab679c7d4036d15bd0e13a8a94c0e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Life as Inukai-san's Dog.",
+        "alternativeTitle": "Inu ni Nattara Suki na Hito ni Hirowareta.",
+        "id": "my-life-as-inukaisans-dog-18282",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aaf51926d9fd57611f031b3358081988.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "The Way of the Househusband Season 2",
+        "alternativeTitle": "Gokushufudou Season 2",
+        "id": "the-way-of-the-househusband-season-2-18252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d793e9ca38f3aac4c1c86ecc8a1bbd8.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "m"
+      },
+      {
+        "title": "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World",
+        "alternativeTitle": "Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu",
+        "id": "ningen-fushin-adventurers-who-dont-believe-in-humanity-will-save-the-world-18280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e64124e0caeb41efed91e30cf29a2b9.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Haikyuu!!: Lev Genzan!",
+        "alternativeTitle": "Haikyuu!!: Lev Genzan!",
+        "id": "haikyuu-lev-genzan-919",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85caa9b0c3346ec24acc7338cb79d272.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina",
+        "alternativeTitle": "Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina",
+        "id": "happiness-charge-precure-movie-ningyou-no-kuni-no-ballerina-3521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b2e67467d627cdbae22ed24d36b060e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "71m"
+      },
+      {
+        "title": "Golgo 13: Queen Bee",
+        "alternativeTitle": "Golgo 13: Queen Bee",
+        "id": "golgo-13-queen-bee-5319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6a7858513b0e29ca03c0a18b9e172bf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "56m"
+      },
+      {
+        "title": "Gundam Build Divers Battlogue",
+        "alternativeTitle": "Gundam Build Divers Battlogue",
+        "id": "gundam-build-divers-battlogue-17365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b772ba7244ec6c38bd6d56cde51cbb8f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "11m"
+      }
+    ]
+  }
+}

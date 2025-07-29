@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 22,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation Specials - Episode 0",
+        "alternativeTitle": "Mushoku Tensei II - Isekai Ittara Honki Dasu Specials - Episode 0",
+        "id": "mushoku-tensei-jobless-reincarnation-specials-episode-0-18495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60a801845f55ad185014e69238ec989f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "The All-devouring Whale: Homecoming",
+        "alternativeTitle": "Kun Tun Tianxia Zhi Zhang Men Guilai",
+        "id": "the-all-devouring-whale-homecoming-19654",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/539643a09646a8a3aa9f53c827950954.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Kowloon Generic Romance",
+        "alternativeTitle": "Kowloon Generic Romance",
+        "id": "kowloon-generic-romance-19555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6eaf446881baa83213efc40b123259b3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Duke of Death and His Maid",
+        "alternativeTitle": "Shinigami Bocchan to Kuro Maid",
+        "id": "the-duke-of-death-and-his-maid-17498",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bca3a2458500b6ec56feddb2489ab908.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ameku M.D.: Doctor Detective",
+        "alternativeTitle": "Ameku Takao no Suiri Karte",
+        "id": "ameku-md-doctor-detective-19456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7501cd6b67cc914d46cc989e7a9c6b9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saving 80,000 Gold in Another World for My Retirement",
+        "alternativeTitle": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+        "id": "saving-80000-gold-in-another-world-for-my-retirement-18297",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1d7a45381ab2aaf864898d6506b72f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Daily Lives of High School Boys",
+        "alternativeTitle": "Danshi Koukousei no Nichijou",
+        "id": "daily-lives-of-high-school-boys-221",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1c39ee3be86973c25767f2e8bff5ac9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Full-Time Magister 4",
+        "alternativeTitle": "Quanzhi Fashi IV",
+        "id": "full-time-magister-4-2077",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d03802d3e8b23c34e909723810dd401a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Munou na Nana",
+        "alternativeTitle": "Munou na Nana",
+        "id": "munou-na-nana-2594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d65092778d5f12d8dd4065c61ef5c540.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Seven Mortal Sins",
+        "alternativeTitle": "Sin: Nanatsu no Taizai",
+        "id": "seven-mortal-sins-8934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fe78d8f93076cba64e91779f888e284.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Panty & Stocking with Garterbelt",
+        "alternativeTitle": "Panty & Stocking with Garterbelt",
+        "id": "panty-stocking-with-garterbelt-944",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7bd20d9f3e2d320f0c31f2c5194d817a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Girl & Her Guard Dog",
+        "alternativeTitle": "Ojou to Banken-kun",
+        "id": "a-girl-and-her-guard-dog-18543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2a2f90483f1fb3a2968787bc9f8feea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Trigun Stampede",
+        "alternativeTitle": "Trigun Stampede",
+        "id": "trigun-stampede-18281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fe81ea9ef1eb78be49fbacdde846327.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Castlevania",
+        "alternativeTitle": "Castlevania",
+        "id": "castlevania-17870",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ae046ea432eea4bf7bb3bd283f8dae7.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "One Piece: The Movie 10 - Strong World",
+        "alternativeTitle": "One Piece Film: Strong World",
+        "id": "one-piece-the-movie-10-strong-world-298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de58e554fa74d9a5443799ab84cf0c65.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Blue Wolves Of Mibu",
+        "alternativeTitle": "Ao no Miburo",
+        "id": "blue-wolves-of-mibu-19350",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4d597f63d34acdf7b6fdfaa4d10e3be.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Grave of the Fireflies",
+        "alternativeTitle": "Hotaru no Haka",
+        "id": "grave-of-the-fireflies-96",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d5b6cad13eb8756a3e16ef40626c5a1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Campione!",
+        "alternativeTitle": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+        "id": "campione-3224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0e181d726052f107d8fa67919401ed5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "NARUTO Spin-Off: Rock Lee & His Ninja Pals",
+        "alternativeTitle": "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
+        "id": "naruto-spin-off-rock-lee-his-ninja-pals-2992",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37f8b16b0f693e433207117abe5daf44.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yu-Gi-Oh! GX",
+        "alternativeTitle": "Yu☆Gi☆Oh!: Duel Monsters GX",
+        "id": "yu-gi-oh-gx-2946",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fb1587e7e93befcf0909b66d42acfcb.jpg",
+        "episodes": {
+          "sub": 180,
+          "dub": 180,
+          "eps": 180
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Detective Is Already Dead",
+        "alternativeTitle": "Tantei wa Mou, Shindeiru.",
+        "id": "the-detective-is-already-dead-17522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/255ddb1ec7ea04cb92c78d0ce93414c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lovely Complex",
+        "alternativeTitle": "Lovely★Complex",
+        "id": "lovely-complex-450",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1dd2cd8e01c4c1a1c92b6dffb5fd5a5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Re:ZERO -Starting Life in Another World- The Frozen Bond",
+        "alternativeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna",
+        "id": "rezero-starting-life-in-another-world-the-frozen-bond-1191",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0b0a75eba56535787ecb8e33b35f476.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "76m"
+      },
+      {
+        "title": "I'm the Villainess, So I'm Taming the Final Boss",
+        "alternativeTitle": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+        "id": "im-the-villainess-so-im-taming-the-final-boss-18155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58f96f86025eef966b9b81e80e96c015.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blue Lock: Episode Nagi",
+        "alternativeTitle": "Blue Lock: Episode Nagi",
+        "id": "blue-lock-episode-nagi-19085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97a276237c3dce81b62af1565488fd37.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Kengan Ashura",
+        "alternativeTitle": "Kengan Ashura",
+        "id": "kengan-ashura-1636",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/610c0485042cba4f6968d2c4de396405.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Orange",
+        "alternativeTitle": "Orange",
+        "id": "orange-1229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98a953ed53cc03cdd46950ade51237d4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fena: Pirate Princess",
+        "alternativeTitle": "Kaizoku Oujo",
+        "id": "fena-pirate-princess-17888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d77b8f7ebe76236c26a2ffba239fd9ec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World of Leadale",
+        "alternativeTitle": "Leadale no Daichi nite",
+        "id": "world-of-leadale-17475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c847879e52e9a8ddc5bf3bae5175273.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Harem in the Labyrinth of Another World Specials",
+        "alternativeTitle": "Isekai Meikyuu de Harem wo Specials",
+        "id": "harem-in-the-labyrinth-of-another-world-specials-18322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fd417f2dc8660350c77b85b1c50a903.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Scissor Seven 3rd Season",
+        "alternativeTitle": "Wu Liuqi Zhi Xuanwu Guo Pian",
+        "id": "scissor-seven-3rd-season-17471",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12b26f180df3884d49748f427f1b50ee.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Full Dive: The Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!",
+        "alternativeTitle": "Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara",
+        "id": "full-dive-the-ultimate-next-gen-full-dive-rpg-is-even-shittier-than-real-life-17418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7280ef65954bf4fd26de172fd91c6658.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "D.Gray-man",
+        "alternativeTitle": "D.Gray-man",
+        "id": "dgray-man-441",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a23fc057bd632f76096a962e8d78f4f.jpg",
+        "episodes": {
+          "sub": 103,
+          "dub": 103,
+          "eps": 103
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
+        "alternativeTitle": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+        "id": "okitsura-fell-in-love-with-an-okinawan-girl-but-i-just-wish-i-know-what-shes-saying-19448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f32b1ba68f6b46263d229645d3809112.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Ravens",
+        "alternativeTitle": "Tokyo Ravens",
+        "id": "tokyo-ravens-1366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d3793dc05cf5cce66b3a5ac1d83a2aa.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Soul Land 2: Peerless Tang Sect",
+        "alternativeTitle": "Douluo Dalu II: Jueshi Tangmen",
+        "id": "soul-land-2-peerless-tang-sect-18416",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
+        "episodes": {
+          "sub": 111,
+          "dub": 0,
+          "eps": 104
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Say \"I Love You\".",
+        "alternativeTitle": "Sukitte Ii na yo.",
+        "id": "say-i-love-you-1528",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52c6f2687b0180bab48d97c87261a47c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Combatants Will Be Dispatched!",
+        "alternativeTitle": "Sentouin, Hakenshimasu!",
+        "id": "combatants-will-be-dispatched-15539",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d61af8dde6743da3d347e8596fb04e6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+        "alternativeTitle": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
+        "id": "ive-been-killing-slimes-for-300-years-and-maxed-out-my-level-season-2-19541",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19b68d11d697082fbd291f0184f09f6d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hitori no Shita - The Outcast",
+        "alternativeTitle": "Hitori no Shita: The Outcast",
+        "id": "hitori-no-shita-the-outcast-4472",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b359ee2595301f735606b6e52b4a2c2a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

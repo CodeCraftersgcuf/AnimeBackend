@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 12,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Perfect World Movie",
+        "alternativeTitle": "Wanmei Shijie Movie: Huo Zhi Huijin",
+        "id": "perfect-world-movie-19390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0f9bad9f93b563c1645bd55a8486bf0.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "36m"
+      },
+      {
+        "title": "The King's Avatar 3",
+        "alternativeTitle": "Quanzhi Gaoshou 3",
+        "id": "the-kings-avatar-3-18058",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c7167e187d06fd4abb3297abbbb720d.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 0,
+          "eps": 17
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Dead Dead Demons Dededede Destruction",
+        "alternativeTitle": "Dead Dead Demons Dededede Destruction (ONA)",
+        "id": "dead-dead-demons-dededede-destruction-19171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32f52183551e27fbf6ebb243f907a5d6.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 17,
+          "eps": 17
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "The Café Terrace and Its Goddesses Season 2",
+        "alternativeTitle": "Megami no Café Terrace 2nd Season",
+        "id": "the-cafe-terrace-and-its-goddesses-season-2-19244",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/824e8e4bd8fe5409440a63f566af8c4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Red Cat Ramen",
+        "alternativeTitle": "Ramen Akaneko",
+        "id": "red-cat-ramen-19213",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f9d2e22bff11ef541583f26e487e0d7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pseudo Harem",
+        "alternativeTitle": "Giji Harem",
+        "id": "pseudo-harem-19246",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c419bb45d8063ba9f18915a74fb449ae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I Parry Everything",
+        "alternativeTitle": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+        "id": "i-parry-everything-19229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/009a25ddb8db9e068e16effd7e93f30e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Twilight Out of Focus",
+        "alternativeTitle": "Tasogare Out Focus",
+        "id": "twilight-out-of-focus-19230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a146875f888e66953d75f67c0b4aa0b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Days with My Stepsister",
+        "alternativeTitle": "Gimai Seikatsu",
+        "id": "days-with-my-stepsister-19251",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41c04482b97e13ef9ad4d90698e4614f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Deer Friend Nokotan",
+        "alternativeTitle": "Shikanoko Nokonoko Koshitantan",
+        "id": "my-deer-friend-nokotan-19249",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5439875b4262583ec34720afd5e5f10.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Alya Sometimes Hides Her Feelings in Russian",
+        "alternativeTitle": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+        "id": "alya-sometimes-hides-her-feelings-in-russian-19254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b210daff9a85c7b6e42d82d578ee90b2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Whimsical Wish",
+        "alternativeTitle": "Guai Xiang Shou",
+        "id": "whimsical-wish-19271",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70bc1f021f29de9f760bbf7021969d67.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Purgatory Walkers",
+        "alternativeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+        "id": "purgatory-walkers-19184",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a340af016413e4e3215de27f101064fd.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "A Journey Through Another World: Raising Kids While Adventuring",
+        "alternativeTitle": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+        "id": "a-journey-through-another-world-raising-kids-while-adventuring-19227",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21df7271be7ffee5518ddfa5cd749e62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yao-Chinese Folktales",
+        "alternativeTitle": "Zhongguo Qi Tan",
+        "id": "yaochinese-folktales-18270",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea182b6ba035449ef4546ff6eacd2223.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Shoshimin: How to Become Ordinary",
+        "alternativeTitle": "Shoushimin Series",
+        "id": "shoshimin-how-to-become-ordinary-19242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6620301bb1293a25e514876d3ae4aaf6.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Wife Has No Emotion",
+        "alternativeTitle": "Boku no Tsuma wa Kanjou ga Nai",
+        "id": "my-wife-has-no-emotion-19231",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3c297a2d497a575bb71997f7ac70981.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Nobody's Way Up to an Exploration Hero LV",
+        "alternativeTitle": "Mob kara Hajimaru Tansaku Eiyuutan",
+        "id": "a-nobodys-way-up-to-an-exploration-hero-lv-19223",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6b6d4a43555afa74323871b9dcf107e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mom, I'm Sorry",
+        "alternativeTitle": "Xiehou ta de Shaonu Shidai",
+        "id": "mom-im-sorry-19166",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a2d850b6623731483ad46c1d0d1d711.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "TV",
+        "duration": "17m"
+      },
+      {
+        "title": "The Charm of Soul Pets",
+        "alternativeTitle": "Huan Chong Shi",
+        "id": "the-charm-of-soul-pets-19317",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c09074197a5e7c6ce2191147d8b68870.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Bye Bye, Earth",
+        "alternativeTitle": "Bye Bye, Earth",
+        "id": "bye-bye-earth-19226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60ac5f9f6acd6b0e6ed0dc4c14be737e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Captain Kuppa",
+        "alternativeTitle": "Sabaku no Kaizoku! Captain Kuppa",
+        "id": "captain-kuppa-11352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54a508b91dfb45cf97343263d3d282c3.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Strongest Magician in the Demon Lord's Army Was a Human",
+        "alternativeTitle": "Maougun Saikyou no Majutsushi wa Ningen datta",
+        "id": "the-strongest-magician-in-the-demon-lords-army-was-a-human-19238",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/077bf2dc18980271dbff7ead6694ecbc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Legend of Ancient Soul",
+        "alternativeTitle": "Shen Qi Huan Qi Tan",
+        "id": "the-legend-of-ancient-soul-11506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b32beddbc5b627165c17ba26107260a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "The Elusive Samurai: Interlude (1333-1334) \"History\"",
+        "alternativeTitle": "Nige Jouzu no Wakagimi: Makuai (1333-nen - 1334-nen) \"Rekishi\"",
+        "id": "the-elusive-samurai-interlude-1333-1334-history-19315",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c8794d5c98c3e9609837055cf39bb007.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Code Geass: Rozé of the Recapture",
+        "alternativeTitle": "Code Geass: Dakkan no Rozé",
+        "id": "code-geass-roze-of-the-recapture-19084",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fde7a73e34689647f794a1646b9bfa02.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokémon: Paldean Winds",
+        "alternativeTitle": "Houkago no Breath",
+        "id": "pokemon-paldean-winds-19313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b53e089897780ac10497a413ac24f05.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Fushigiboshi no☆Futagohime Gyu!",
+        "alternativeTitle": "Fushigiboshi no☆Futagohime Gyu!",
+        "id": "fushigiboshi-nofutagohime-gyu-3172",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ad6d72c08b80b28cfdff31745c14045.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Relative Worlds",
+        "alternativeTitle": "Ashita Sekai ga Owaru toshitemo",
+        "id": "the-relative-worlds-6141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91bb533d689a24d44cf6919d37d3fd2d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Legend of Lotus Sword Fairy",
+        "alternativeTitle": "Qing Lian Jian Xian Chuan",
+        "id": "legend-of-lotus-sword-fairy-19312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28fa3401ff456de409d41e8956b3994a.jpg",
+        "episodes": {
+          "sub": 54,
+          "dub": 0,
+          "eps": 54
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Sword Saint of The Ten Realms",
+        "alternativeTitle": "Shi Fang Jian Sheng",
+        "id": "sword-saint-of-the-ten-realms-19311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc7c5673a4ce4bfefa73feaa29cc43c.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "The Rise of the Weak",
+        "alternativeTitle": "Ni Tian Zhan Ji",
+        "id": "the-rise-of-the-weak-19310",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58c6011278691207d5c42986a78a76d3.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Bridge: My Little Friends",
+        "alternativeTitle": "Bridge: My Little Friends",
+        "id": "bridge-my-little-friends-19309",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32f91cf49f7c3d7aacbaa97b4218996a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Head Start at Birth",
+        "alternativeTitle": "0-saiji Start Dash Monogatari",
+        "id": "head-start-at-birth-19207",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fcd6ba7881014b8213af4c05e8d0a29.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Dorami-chan: Hello Kyouryuu Kids!!",
+        "alternativeTitle": "Dorami-chan: Hello Kyouryuu Kids!!",
+        "id": "dorami-chan-hello-kyouryuu-kids-13457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b2367f758d807a16c46dbc6d6e18865.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "One Piece: The Log of the Turbulent Revolution - The Revolutionary Army Maneuvers in Secret!",
+        "alternativeTitle": "One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!",
+        "id": "one-piece-the-log-of-the-turbulent-revolution-the-revolutionary-army-maneuvers-in-secret-19308",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a651dbea6b15d54dd638ff35423b6a84.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Big Talk Youth Tour",
+        "alternativeTitle": "Dahua Zhi Shaonian You",
+        "id": "big-talk-youth-tour-13357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1733d8c632e293f1aa4439ecbd53052.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Monogatari Series - Off & Monster Season: Specials",
+        "alternativeTitle": "Monogatari Series: Off & Monster Season SP",
+        "id": "monogatari-series-off-monster-season-specials-19307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90b4f8dec04ed0feaf961dfcc33d5c4c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "A Moment but Forever",
+        "alternativeTitle": "Nian Wushuang",
+        "id": "a-moment-but-forever-19296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bf93b407f74f72a2fef1f75c6bb0408.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "NieR:Automata Ver1.1a: Specials",
+        "alternativeTitle": "NieR:Automata Ver1.1a Part 2 SP",
+        "id": "nierautomata-ver11a-specials-19305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0dbd5e2edc3d49795a17f4b31769f742.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      }
+    ]
+  }
+}

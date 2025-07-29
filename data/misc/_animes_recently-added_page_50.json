@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 50,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Gilgamesh",
+        "alternativeTitle": "Gilgamesh",
+        "id": "gilgamesh-5022",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/357c3e4b004d3e008f789e1137eda77d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ginga Densetsu Weed",
+        "alternativeTitle": "Ginga Densetsu Weed",
+        "id": "ginga-densetsu-weed-2631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd6b4e1710e6396c3b82e09cd0e778dc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Koutetsu Jeeg",
+        "alternativeTitle": "Koutetsu Jeeg",
+        "id": "koutetsu-jeeg-3567",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ec7473df0bef35734762d659298a953.jpg",
+        "episodes": {
+          "sub": 46,
+          "dub": 0,
+          "eps": 46
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Tokyo Tribe 2",
+        "alternativeTitle": "Tokyo Tribe 2",
+        "id": "tokyo-tribe-2-4663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7c9b56609987c0ef53dc551898cf891.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "Dino Mech Gaiking",
+        "alternativeTitle": "Daikuu Maryuu Gaiking",
+        "id": "dino-mech-gaiking-4980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/469311f063b64ed604fd6dfa45757bf5.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gallery Fake",
+        "alternativeTitle": "Gallery Fake",
+        "id": "gallery-fake-1570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e7d09377b85d602010aa63ab423d8ed.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 37
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Beast Claw",
+        "alternativeTitle": "Kemonozume",
+        "id": "the-beast-claw-1892",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8648f94b450ce3e65db62c6a8704509e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gaiking: Legend of Daiku-Maryu",
+        "alternativeTitle": "Gaiking: Legend of Daiku-Maryu",
+        "id": "gaiking-legend-of-daiku-maryu-3059",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e12aace380667603a0efbc31ff4c094d.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Gaist Crusher",
+        "alternativeTitle": "Gaist Crusher",
+        "id": "gaist-crusher-8189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abe17f57363f4ded24d81abe679f774c.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Getter Robo G",
+        "alternativeTitle": "Getter Robo G",
+        "id": "getter-robo-g-5658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9e594aeffdf5976c03cc8ecb74d65b1.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gakuen Heaven",
+        "alternativeTitle": "Gakuen Heaven",
+        "id": "gakuen-heaven-5408",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4938060f60fe8cc5094eb56c83bcb352.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Fireball Gebaude Baude",
+        "alternativeTitle": "Gebäude Bäude",
+        "id": "fireball-gebaude-baude-17267",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a5ca28d34276f926d0eddd6c5f9958c.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Galactic Cyclone Braiger",
+        "alternativeTitle": "Ginga Senpuu Braiger",
+        "id": "galactic-cyclone-braiger-4892",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53c68413ed79a300a3e0e8a4451008f5.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "New Getter Robo",
+        "alternativeTitle": "Shin Getter Robo",
+        "id": "new-getter-robo-2084",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a5a953a0feebfed4fc5cbedc684506c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Fireball Humorous",
+        "alternativeTitle": "Fireball Humorous",
+        "id": "fireball-humorous-8790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f793b758364c63524cfae83c01caf93.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Fireball Charming",
+        "alternativeTitle": "Fireball Charming",
+        "id": "fireball-charming-4305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/800485ce6a06a6f5bf04e75a0f2ddc08.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Robotech: The New Generation",
+        "alternativeTitle": "Kikou Souseiki Mospeada",
+        "id": "robotech-the-new-generation-3238",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/619fdfa62298c78d74a5f5102ba0f12e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fireball",
+        "alternativeTitle": "Fireball",
+        "id": "fireball-4795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2b56bb3d58d6d35277d53738962d512.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "The Familiar of Zero: Knight of the Twin Moons",
+        "alternativeTitle": "Zero no Tsukaima: Futatsuki no Kishi",
+        "id": "the-familiar-of-zero-knight-of-the-twin-moons-1534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a430d8f10c50d5d3f5923e3c39c06408.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ghost Slayers Ayashi",
+        "alternativeTitle": "Tenpou Ibun: Ayakashi Ayashi",
+        "id": "ghost-slayers-ayashi-3931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e4d22880f9ba024a67b6c44aa13ae45.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 25,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Trese",
+        "alternativeTitle": "Trese",
+        "id": "trese-17877",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c30d26daf72a79689a351cec998dfa48.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Kimi ni Todoke: From Me to You",
+        "alternativeTitle": "Kimi ni Todoke",
+        "id": "kimi-ni-todoke-from-me-to-you-482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1a1df9baf756b8926a64430ed2ff0ca.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Record of Ragnarok",
+        "alternativeTitle": "Shuumatsu no Walküre",
+        "id": "record-of-ragnarok-17390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8dae295de544d4f81ec600ae126909cb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Gakuen Utopia Manabi Straight!",
+        "alternativeTitle": "Gakuen Utopia Manabi Straight!",
+        "id": "gakuen-utopia-manabi-straight-2413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9e03da2bee9e8cb2ec0202e8f8fedba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "009-1",
+        "alternativeTitle": "009-1",
+        "id": "009-1-6880",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cb71cdfad7874c5223c16f15e732421.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Qwaser of Stigmata II",
+        "alternativeTitle": "Seikon no Qwaser II",
+        "id": "the-qwaser-of-stigmata-ii-6216",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5ca434cabf01e94f4dcd98eb4475f34.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Qwaser of Stigmata",
+        "alternativeTitle": "Seikon no Qwaser",
+        "id": "the-qwaser-of-stigmata-5820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74b1dd6dfa5f7f09a37d1844edcd125f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saekano: How to Raise a Boring Girlfriend .flat",
+        "alternativeTitle": "Saenai Heroine no Sodatekata ♭",
+        "id": "saekano-how-to-raise-a-boring-girlfriend-flat-827",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6aab99eaff772d84beeacc70c51a6b72.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Kimi ni Todoke - From Me To You Season 2 – A Crush",
+        "alternativeTitle": "Kimi ni Todoke 2nd Season: Kataomoi",
+        "id": "kimi-ni-todoke-from-me-to-you-season-2-a-crush-2727",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9917a62ff2eb99fb44f985962348e2f5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Kimi ni Todoke: From Me To You 2",
+        "alternativeTitle": "Kimi ni Todoke 2nd Season",
+        "id": "kimi-ni-todoke-from-me-to-you-2-486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/596302f03f4a001bdfde68c592bf9604.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Familiar of Zero: Rondo of Princesses",
+        "alternativeTitle": "Zero no Tsukaima: Princesses no Rondo",
+        "id": "the-familiar-of-zero-rondo-of-princesses-1858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aea52ce6d8659cb473cf28e6e2f22c0d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kobato.",
+        "alternativeTitle": "Kobato.",
+        "id": "kobato-544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4264448ff6c4dfa86e1ae2553ddbd029.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Okami-San and Her Seven Companions",
+        "alternativeTitle": "Ookami-san to Shichinin no Nakama-tachi",
+        "id": "okami-san-and-her-seven-companions-2596",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6050db02b0874bf5786366de0be793c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Candy Candy",
+        "alternativeTitle": "Candy Candy",
+        "id": "candy-candy-1550",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8de4895266c559acb3916da3654ab220.jpg",
+        "episodes": {
+          "sub": 115,
+          "dub": 0,
+          "eps": 115
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Candy Boy: EX01 - Mirai Yohouzu",
+        "alternativeTitle": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+        "id": "candy-boy-ex01-mirai-yohouzu-4115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/093ee0ae8629cd86c14a3a8d34eb9695.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "7m"
+      },
+      {
+        "title": "Candy Boy (ONA): Side Story For Archive",
+        "alternativeTitle": "Candy☆Boy: Side Story For Archive",
+        "id": "candy-boy-ona-side-story-for-archive-4116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06642bb4898e9b14aefc48f4281fbab7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+        "alternativeTitle": "Candy Boy: Nonchalant Talk of the Certain Twin Sisters in Daily Life",
+        "id": "candy-boy-nonchalant-talk-of-the-certain-twin-sisters-in-daily-life-3979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/593df5ad9d276e4ac5160c15dedb32fc.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Candy Boy: EX02 - Theory of Happiness Sharing",
+        "alternativeTitle": "Candy Boy: EX02 - Shiawase Kyouyuu Riron",
+        "id": "candy-boy-ex02-theory-of-happiness-sharing-4274",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f656cc31a1000b13a9376a4f5cdb2dd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Saekano: How to Raise a Boring Girlfriend .flat - Fan Service of Love and Pure heart",
+        "alternativeTitle": "Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai",
+        "id": "saekano-how-to-raise-a-boring-girlfriend-flat-fan-service-of-love-and-pure-heart-2173",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03d6a7950b5b2c98caeb31d2e0478451.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Soul Land: 2nd Season",
+        "alternativeTitle": "Douluo Dalu: Jingying Sai",
+        "id": "soul-land-2nd-season-386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd4cbfbbae123185246046309426a733.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "20m"
+      }
+    ]
+  }
+}

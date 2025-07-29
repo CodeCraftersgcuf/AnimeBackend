@@ -1,0 +1,4870 @@
+{
+  "success": true,
+  "data": {
+    "name": "Kana Hanazawa",
+    "type": "people",
+    "japanese": "花澤 香菜",
+    "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/400x400/100/62af5e41fec00ab73933f9a474c241c6.jpg",
+    "bio": "Hometown: Tokyo, Japan<br>Height: 156 cm<br>Blood type: AB<br><br>Kana Hanazawa used to be a junior idol in Akiba where hundreds of people came to watch her, which is how she got her breakthrough for her acting career in commercials before becoming a voice actor.<br><br>The Office Osawa talent agency represents her.<br><br>Married to the voice actor Kensho Ono.<br><br>Radio page: http://www.joqr.co.jp/blog/hanazawa/<br>Twitter (staff): @hanazawa_staff<br>Twitter (radio): @hitokana_qr<br>Youtube: @kanahanazawaSMEJ",
+    "voiceActingRoles": [
+      {
+        "anime": {
+          "title": "Steins;Gate",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/6835ff30fa46da5612e3adc81f51724e.jpg",
+          "id": "steinsgate-3",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mayuri Shiina",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ec2bfc992c73354fbaf8a9c77f53fb69.jpg",
+          "id": "character:mayuri-shiina-151",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "March Comes In Like A Lion 2nd Season",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8a7f6d658709105486e07b3ebdd5b273.jpg",
+          "id": "march-comes-in-like-a-lion-2nd-season-9",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Hinata Kawamoto",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6f35418d1392a01ce6c7ec73d0f02fec.jpg",
+          "id": "character:hinata-kawamoto-576",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Your Name",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/16eec56baf8f3fcc6430607f58ce3d12.jpg",
+          "id": "your-name-10",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Yukari Yukino",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67c9662088187b23e0f8024bf451b099.jpg",
+          "id": "character:yukari-yukino-1589",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Owarimonogatari Second Season",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fd6209d6f7a4c36fa0a6c7504102a309.jpg",
+          "id": "owarimonogatari-second-season-16",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nadeko Sengoku",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dedc389181951d8d25823bffe11d95e.jpg",
+          "id": "character:nadeko-sengoku-442",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Monogatari Series: Second Season",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5cc1697af64c1f7dc2d6ac6110afa41d.jpg",
+          "id": "monogatari-series-second-season-30",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nadeko Sengoku",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dedc389181951d8d25823bffe11d95e.jpg",
+          "id": "character:nadeko-sengoku-442",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Demon Slayer: Kimetsu no Yaiba",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/30df93feaa422101659e14d0a2a2f582.jpg",
+          "id": "demon-slayer-kimetsu-no-yaiba-47",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mitsuri Kanroji",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/360dbe7939f13aa80f118a97fcf38016.jpg",
+          "id": "character:mitsuri-kanroji-1123",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "A Place Further Than The Universe",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e63e96b0a804ae9663a002662414e383.jpg",
+          "id": "a-place-further-than-the-universe-73",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Shirase Kobuchizawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3add026b1b69713540caba92aba1be6c.jpg",
+          "id": "character:shirase-kobuchizawa-1092",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Steins;Gate 0",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/72322970318a3c89f4b7d2193c279c6f.jpg",
+          "id": "steinsgate-0-92",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mayuri Shiina",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ec2bfc992c73354fbaf8a9c77f53fb69.jpg",
+          "id": "character:mayuri-shiina-151",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Steins;Gate: The Movie − Load Region of Déjà Vu",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1c947d2c7a7728257c2bb1c4ef1417d9.jpg",
+          "id": "steinsgate-the-movie-load-region-of-deja-vu-95",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Mayuri Shiina",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ec2bfc992c73354fbaf8a9c77f53fb69.jpg",
+          "id": "character:mayuri-shiina-151",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Owarimonogatari",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f25630911145108fd5c2bff98cd737de.jpg",
+          "id": "owarimonogatari-109",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nadeko Sengoku",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dedc389181951d8d25823bffe11d95e.jpg",
+          "id": "character:nadeko-sengoku-442",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Weathering With You",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/37eb9509a2ae0010f64b0170a03b5a13.jpg",
+          "id": "weathering-with-you-111",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Kana Sakura",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d277382f26c1bb788fbe91e4b66cf7f7.jpg",
+          "id": "character:kana-sakura-38143",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "March comes in like a lion",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e180b296778df8a296b4532d11058183.jpg",
+          "id": "march-comes-in-like-a-lion-119",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Hinata Kawamoto",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6f35418d1392a01ce6c7ec73d0f02fec.jpg",
+          "id": "character:hinata-kawamoto-576",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Parasyte -the maxim-",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/076dd094add6f1d9c8bfa1a010af8487.jpg",
+          "id": "parasyte-the-maxim-136",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Satomi Murano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8493b6458418fd6cac22210eb1b7509.jpg",
+          "id": "character:satomi-murano-2772",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Zoku Owarimonogatari",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/dd115fb45b5ccd15b58e8d5c2c5c2831.jpg",
+          "id": "zoku-owarimonogatari-148",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Nadeko Sengoku",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dedc389181951d8d25823bffe11d95e.jpg",
+          "id": "character:nadeko-sengoku-442",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Psycho-Pass",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/beb3713889a579eb4d3f088ee704c565.jpg",
+          "id": "psycho-pass-158",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Akane Tsunemori",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/39242c4df779753e3c83b09a6f0e8221.jpg",
+          "id": "character:akane-tsunemori-271",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "From the New World",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/9fcd74153bcfc4b4309989ce998235d0.jpg",
+          "id": "from-the-new-world-169",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Maria Akizuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/78c3f2af6ceb4b72a6954a9b7c56ed70.jpg",
+          "id": "character:maria-akizuki-2232",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Steins;Gate: Egoistic Poriomania",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b064bb424f0991f53f650f2dea4155fd.jpg",
+          "id": "steinsgate-egoistic-poriomania-172",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Mayuri Shiina",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ec2bfc992c73354fbaf8a9c77f53fb69.jpg",
+          "id": "character:mayuri-shiina-151",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Bakemonogatari (The Monogatari Series)",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1a0ae1b29d8d492637a254480a6b9e69.jpg",
+          "id": "bakemonogatari-the-monogatari-series-174",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nadeko Sengoku",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dedc389181951d8d25823bffe11d95e.jpg",
+          "id": "character:nadeko-sengoku-442",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Magi: The Kingdom of Magic",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f1709f2137aeed22d56195face9a2c10.jpg",
+          "id": "magi-the-kingdom-of-magic-208",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kougyoku Ren",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ecdc5347933ead512bcfd00936d15a72.jpg",
+          "id": "character:kougyoku-ren-1458",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/28f672599958bfcc823a93b024696d47.jpg",
+          "id": "steinsgate-kyoukaimenjou-no-missing-link-divide-by-zero-240",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Mayuri Shiina",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ec2bfc992c73354fbaf8a9c77f53fb69.jpg",
+          "id": "character:mayuri-shiina-151",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "SKET Dance",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fb1513537e7bf8412f273aa2e123926a.jpg",
+          "id": "sket-dance-243",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Saaya Agata",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2894bb7514d387df69b400c1e5149fcd.jpg",
+          "id": "character:saaya-agata-10087",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Little Busters! ~Refrain~",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c1126e3c76482cf8948b674fb98e50bd.jpg",
+          "id": "little-busters-refrain-256",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mutsumi Suginami",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/16940afdd562c7c841ac9ed968f5d3f8.jpg",
+          "id": "character:mutsumi-suginami-34320",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Night Is Short, Walk on Girl",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/18c259376e345dfab7aa763986c0ca2f.jpg",
+          "id": "night-is-short-walk-on-girl-267",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Kurokami no Otome",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/34760b164d0eebcc09e8659ce6e62a26.jpg",
+          "id": "character:kurokami-no-otome-3960",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Bungo Stray Dogs 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b585220a97d25a8d40ec83c763daf3fe.jpg",
+          "id": "bungo-stray-dogs-2-288",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Lucy Maud Montgomery",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb75a42d7670989b71c6e55ab5ce2875.jpg",
+          "id": "character:lucy-maud-montgomery-2241",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Food Wars! The Third Plate",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f3c916f408e9755523e5116ffe13c9b0.jpg",
+          "id": "food-wars-the-third-plate-295",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nene Kinokuni",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fbd3f7221793c4f69f79f58ba1379953.jpg",
+          "id": "character:nene-kinokuni-10389",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Durarara!!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fe8a0297310f4b6d8f2aab3bbf01f005.jpg",
+          "id": "durarara-303",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Anri Sonohara",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d205c0dfb8b388ee4fe92e385e5fee62.jpg",
+          "id": "character:anri-sonohara-2077",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Girls' Last Tour",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d570f46fb3919f48b4761f1a256189d8.jpg",
+          "id": "girls-last-tour-318",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nuko",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/750024e0dd9929e52b7302bb13d2ac55.jpg",
+          "id": "character:nuko-4680",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Monogatari Series",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/66c8ef7dca0995ff79af5998c8bc7d90.jpg",
+          "id": "the-monogatari-series-319",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nadeko Sengoku",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dedc389181951d8d25823bffe11d95e.jpg",
+          "id": "character:nadeko-sengoku-442",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Angel Beats!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d9432a1c947b1fe6da1d7c9a3c324527.jpg",
+          "id": "angel-beats-321",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kanade Tachibana",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cc74500138872b7692e3a68968387954.jpg",
+          "id": "character:kanade-tachibana-92",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Bungou Stray Dogs 3rd Season",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ed273e90615f1ae97a2f1519639cd7ff.jpg",
+          "id": "bungou-stray-dogs-3rd-season-339",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Lucy Maud Montgomery",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb75a42d7670989b71c6e55ab5ce2875.jpg",
+          "id": "character:lucy-maud-montgomery-2241",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Food Wars! The Third Plate: Totsuki Train Arc",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c5150f459d0c6ca563da22c55a18e5fb.jpg",
+          "id": "food-wars-the-third-plate-totsuki-train-arc-362",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nene Kinokuni",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fbd3f7221793c4f69f79f58ba1379953.jpg",
+          "id": "character:nene-kinokuni-10389",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Princess Jellyfish",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4cb0b4fe02607afe97b093d23c19f2a8.jpg",
+          "id": "princess-jellyfish-371",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Tsukimi Kurashita",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a0b152f5c039db300d175653a0832811.jpg",
+          "id": "character:tsukimi-kurashita-1473",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Durarara!! x2 Ketsu",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/08fcdab3d6b421db6756d69e17c2fffd.jpg",
+          "id": "durarara-x2-ketsu-388",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Anri Sonohara",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d205c0dfb8b388ee4fe92e385e5fee62.jpg",
+          "id": "character:anri-sonohara-2077",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "A Lull in the Sea",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1484f38d8a9c7065c9dffc5087285670.jpg",
+          "id": "a-lull-in-the-sea-395",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Manaka Mukaido",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ddbc57cd073a8c3927e1096bdf4433de.jpg",
+          "id": "character:manaka-mukaido-1502",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The World God Only Knows: Goddesses",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7d41e6b716f53055eefef213f0470da0.jpg",
+          "id": "the-world-god-only-knows-goddesses-399",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Minerva",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9fc912d4c25ed769b17f476115f12094.jpg",
+          "id": "character:minerva-14321",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The World God Only Knows: Goddesses",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7d41e6b716f53055eefef213f0470da0.jpg",
+          "id": "the-world-god-only-knows-goddesses-399",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Shiori Shiomiya",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bd4193d7a8b49bce9756785ed73a723f.jpg",
+          "id": "character:shiori-shiomiya-1592",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Garden of Words",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fd2425b4fb8fe7aec860e4706d981392.jpg",
+          "id": "the-garden-of-words-414",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Yukari Yukino",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/67c9662088187b23e0f8024bf451b099.jpg",
+          "id": "character:yukari-yukino-1589",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Magi: The Labyrinth of Magic",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/119db3171acab63d95dc40a3cb8aeee9.jpg",
+          "id": "magi-the-labyrinth-of-magic-425",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kougyoku Ren",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ecdc5347933ead512bcfd00936d15a72.jpg",
+          "id": "character:kougyoku-ren-1458",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Class President is a Maid!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f225b0927a3a1304240904b5c010abe5.jpg",
+          "id": "class-president-is-a-maid-437",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Sakura Hanazono",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1661b9e056da0ef0c817181ae05108f3.jpg",
+          "id": "character:sakura-hanazono-8282",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "A Certain Scientific Railgun S",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f678ec59bf69fef2b8d0d1dd917967d2.jpg",
+          "id": "a-certain-scientific-railgun-s-453",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Erii Haruue",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9449e269583a52c23467ae10dd8ee0a6.jpg",
+          "id": "character:erii-haruue-30515",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Durarara!! x2 Shou",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b55f592809c37d3231d972ae232ab9df.jpg",
+          "id": "durarara-x2-shou-478",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Anri Sonohara",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d205c0dfb8b388ee4fe92e385e5fee62.jpg",
+          "id": "character:anri-sonohara-2077",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Durarara!! x2 Ten",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7ca63c473c8b7715d5fb2a754ed61a18.jpg",
+          "id": "durarara-x2-ten-484",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Anri Sonohara",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d205c0dfb8b388ee4fe92e385e5fee62.jpg",
+          "id": "character:anri-sonohara-2077",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Blast of Tempest",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ade8f75a140b5309ee0e16be853fed12.jpg",
+          "id": "blast-of-tempest-506",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Aika Fuwa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f249c2187e3821762be52f1351732c08.jpg",
+          "id": "character:aika-fuwa-638",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kobato.",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4264448ff6c4dfa86e1ae2553ddbd029.jpg",
+          "id": "kobato-544",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kobato Hanato",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/adc117e0a231b1f13adbd8a854ef1f44.jpg",
+          "id": "character:kobato-hanato-1010",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/62992497b20f6ed077ffa6d0d9ec846f.jpg",
+          "id": "sket-dance-imouto-no-nayami-ni-nayamu-ani-ni-nayamu-imouto-to-sono-nakama-tachi-575",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Saaya Agata",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2894bb7514d387df69b400c1e5149fcd.jpg",
+          "id": "character:saaya-agata-10087",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ushio & Tora: 2nd Season",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c217c55830751f2cf1f89f5b3b55ce82.jpg",
+          "id": "ushio-tora-2nd-season-576",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Jiemei",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8df1522fc6da7c1f08002d681ff4e20c.jpg",
+          "id": "character:jiemei-116592",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Polar Bear Cafe",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1e41a96e9987a64efbd6f5cf76d15d3d.jpg",
+          "id": "polar-bear-cafe-607",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mei Mei Panda",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4f68ce7fb45d59ea8a191d99e8301b57.jpg",
+          "id": "character:mei-mei-panda-20987",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Irregular at Magic High School: Visitor Arc",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b72b138f65d03a6088ca4ac5ef1f0881.jpg",
+          "id": "the-irregular-at-magic-high-school-visitor-arc-631",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mayumi Saegusa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3b34c5ba8623ccc31895919c9e044456.jpg",
+          "id": "character:mayumi-saegusa-947",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Durarara!! Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1e1b2d149ad801fbc496bb3b542b84cd.jpg",
+          "id": "durarara-specials-644",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Anri Sonohara",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d205c0dfb8b388ee4fe92e385e5fee62.jpg",
+          "id": "character:anri-sonohara-2077",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Psycho-Pass 3: First Inspector",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e248bb03056d9981aa068872870cc534.jpg",
+          "id": "psycho-pass-3-first-inspector-657",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Akane Tsunemori",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/39242c4df779753e3c83b09a6f0e8221.jpg",
+          "id": "character:akane-tsunemori-271",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Space Dandy",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c83268a9efdb38c5ab76d3aaaa45c38d.jpg",
+          "id": "space-dandy-687",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Adélie",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/24e53d97e1d30791bacb19bfb26ee2b1.jpg",
+          "id": "character:adelie-5809",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Broken Blade 4",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a8ab2701f728ca26e96c9776bc479e8c.jpg",
+          "id": "broken-blade-4-689",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Cleo Zaubraff",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb4c043582c2238877d78bc85424dd3b.jpg",
+          "id": "character:cleo-zaubraff-14415",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Broken Blade 5",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f40e570e989f6a85ad02b93e0e56f6f7.jpg",
+          "id": "broken-blade-5-721",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Cleo Zaubraff",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb4c043582c2238877d78bc85424dd3b.jpg",
+          "id": "character:cleo-zaubraff-14415",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Last Exile",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/25345f369e093de5f4539a16ca4ba9db.jpg",
+          "id": "last-exile-772",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Holly Mad-thane",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3e8b7158eea0c9a2d85fa32d413dd3ee.jpg",
+          "id": "character:holly-mad-thane-40405",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Broken Blade 3",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/76e18d3145946b3aad73737476eb0c9e.jpg",
+          "id": "broken-blade-3-777",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Cleo Zaubraff",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb4c043582c2238877d78bc85424dd3b.jpg",
+          "id": "character:cleo-zaubraff-14415",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Tokyo Ghoul",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a6ffd8294e7a5d540d7c462e94400189.jpg",
+          "id": "tokyo-ghoul-790",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Rize Kamishiro",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/caafe3fb290db888f3ca868b4ee54765.jpg",
+          "id": "character:rize-kamishiro-1197",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Food Wars! The Fourth Plate",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/940afa3742dc3f702e8103292e79075c.jpg",
+          "id": "food-wars-the-fourth-plate-835",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nene Kinokuni",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fbd3f7221793c4f69f79f58ba1379953.jpg",
+          "id": "character:nene-kinokuni-10389",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Fairy Tail Series 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0ec2ba92b40474a88d1fa3baca2d7b37.jpg",
+          "id": "fairy-tail-series-2-847",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Zera",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8a5445a9bbc13d951bac32111f515b23.jpg",
+          "id": "character:zera-8651",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Bungo Stray Dogs",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/09a2bf79700f11a39d13b70d321ddb8a.jpg",
+          "id": "bungo-stray-dogs-858",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Lucy Maud Montgomery",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cb75a42d7670989b71c6e55ab5ce2875.jpg",
+          "id": "character:lucy-maud-montgomery-2241",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Poco's Udon World",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4f5bfaf991f66f34b305ca2346610cd9.jpg",
+          "id": "pocos-udon-world-883",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Sae Fujiyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e01ebd0c154bf81ab61783303d3fee47.jpg",
+          "id": "character:sae-fujiyama-26862",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The World God Only Knows",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fa00c5b5c2a48c45121c5d7ec400ab36.jpg",
+          "id": "the-world-god-only-knows-900",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Shiori Shiomiya",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bd4193d7a8b49bce9756785ed73a723f.jpg",
+          "id": "character:shiori-shiomiya-1592",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Psycho-Pass: The Movie",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7c7d5e37eb2ae7880f443dca89de95c5.jpg",
+          "id": "psycho-pass-the-movie-904",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Akane Tsunemori",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/39242c4df779753e3c83b09a6f0e8221.jpg",
+          "id": "character:akane-tsunemori-271",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Broken Blade 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5e69905dcf46e6f8934db182cfe70d77.jpg",
+          "id": "broken-blade-2-918",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Cleo Zaubraff",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb4c043582c2238877d78bc85424dd3b.jpg",
+          "id": "character:cleo-zaubraff-14415",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Good Luck Girl!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ec3c1075d8aaf7c4ed1bc6bef4a2c2b3.jpg",
+          "id": "good-luck-girl-926",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ichiko Sakura",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/70473f80c7fe713b1bbc1fb3ac7bb55a.jpg",
+          "id": "character:ichiko-sakura-3152",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Kawai Complex Guide to Manors and Hostel Behavior",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2597e2036d6b1d6e93517a94c89049d2.jpg",
+          "id": "the-kawai-complex-guide-to-manors-and-hostel-behavior-927",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ritsu Kawai",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/34d50307448ae4337edc407408f23bb0.jpg",
+          "id": "character:ritsu-kawai-955",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "PandoraHearts",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4950028fdb4f5d19ce283adb5c42a800.jpg",
+          "id": "pandorahearts-937",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Sharon Rainsworth",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a270565de3baddba2adea2062839d048.jpg",
+          "id": "character:sharon-rainsworth-4299",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Prison School",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/31e74486df1ea17d7a4e0963124e5701.jpg",
+          "id": "prison-school-938",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Hana Midorikawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dba5ab27e6a3755ecb99c06b5384f017.jpg",
+          "id": "character:hana-midorikawa-668",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "A Certain Scientific Railgun",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ceef972446029b518df43e3e5a52bc76.jpg",
+          "id": "a-certain-scientific-railgun-940",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Erii Haruue",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9449e269583a52c23467ae10dd8ee0a6.jpg",
+          "id": "character:erii-haruue-30515",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Broken Blade 6",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/581289ca634cdb2b4244566028ec4a10.jpg",
+          "id": "broken-blade-6-972",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Cleo Zaubraff",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb4c043582c2238877d78bc85424dd3b.jpg",
+          "id": "character:cleo-zaubraff-14415",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kanojo to Kanojo no Neko: Everything Flows",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e1a4c914daf0132cbd052ba473aeb954.jpg",
+          "id": "kanojo-to-kanojo-no-neko-everything-flows-985",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Miyu",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b5d37b99438b75debeb1245c52f2e18e.jpg",
+          "id": "character:miyu-11849",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Tsuredure Children",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7d4c825b09dd114fee1cd8b57bbcf040.jpg",
+          "id": "tsuredure-children-1002",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yuki Minagawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9a838afd1c5cc2cba4964ef7b67a9f0d.jpg",
+          "id": "character:yuki-minagawa-2775",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Koyomimonogatari",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2abc989b548874635f373c7232759d23.jpg",
+          "id": "koyomimonogatari-1026",
+          "typeAndYear": "ONA, 2020"
+        },
+        "character": {
+          "name": "Nadeko Sengoku",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4dedc389181951d8d25823bffe11d95e.jpg",
+          "id": "character:nadeko-sengoku-442",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Wandering Witch: The Journey of Elaina",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/70c4669b662d78bc5fb679d06bf2f801.jpg",
+          "id": "wandering-witch-the-journey-of-elaina-1064",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Flan",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/24fdc89d86ec901c4f04a428111d3051.jpg",
+          "id": "character:flan-11884",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Bokura wa Minna Kawai-sou: Hajimete no",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/285aab25e7df01f38dd9370a2b5af8d2.jpg",
+          "id": "bokura-wa-minna-kawai-sou-hajimete-no-1069",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Ritsu Kawai",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/34d50307448ae4337edc407408f23bb0.jpg",
+          "id": "character:ritsu-kawai-955",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Broken Blade",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b7372cf944f4a343a7b1878ced6f7b40.jpg",
+          "id": "broken-blade-1070",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Cleo Zaubraff",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb4c043582c2238877d78bc85424dd3b.jpg",
+          "id": "character:cleo-zaubraff-14415",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Gabriel DropOut Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/571e7ad41865d979ba71e1bc9ed085c8.jpg",
+          "id": "gabriel-dropout-specials-1075",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Raphiel Shiraha Ainsworth",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b607d9a1c5eb60e522844f80d3ce4a4d.jpg",
+          "id": "character:raphiel-shiraha-ainsworth-1296",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Cells at Work!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/751f50f709beed180a1f462cfd6fa71c.jpg",
+          "id": "cells-at-work-1079",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Sekkekkyuu AE3803",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8a5fba8dc1b6b5b09d9edb3c76592b8.jpg",
+          "id": "character:sekkekkyuu-ae3803-2667",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Yamada-kun and the Seven Witches",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/cd12b6af8646176def3caafc477c2f91.jpg",
+          "id": "yamada-kun-and-the-seven-witches-1097",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mikoto Asuka",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ee0c94cc618aa2ded0cadeefd046da1c.jpg",
+          "id": "character:mikoto-asuka-15622",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Nisekoi: False Love",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/66a300d5b8f14a0adfcb8413f602d411.jpg",
+          "id": "nisekoi-false-love-1099",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kosaki Onodera",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b41f7b089b8cc5edb86789d80905451a.jpg",
+          "id": "character:kosaki-onodera-177",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Blue Exorcist The Movie",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1041e72fabe8d67a7ad9951cff47e75d.jpg",
+          "id": "blue-exorcist-the-movie-1106",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Shiemi Moriyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/734176025f32c529fb21071ac9bd9373.jpg",
+          "id": "character:shiemi-moriyama-1940",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Major 2nd (TV) 2nd Season",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4bd2fb3f3d569c173abbc257d790afac.jpg",
+          "id": "major-2nd-tv-2nd-season-1127",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mutsuko Sakura",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68f7a1286a2ab4a22e651ccd6a1c108f.jpg",
+          "id": "character:mutsuko-sakura-10391",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Yuki Yuna is a Hero: The Washio Sumi Chapter",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c664eaf35a5ef779ceff5b71925170f0.jpg",
+          "id": "yuki-yuna-is-a-hero-the-washio-sumi-chapter-1146",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Sonoko Nogi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d634a6d354ecf989a30d4a46c0df921d.jpg",
+          "id": "character:sonoko-nogi-3616",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Yuki Yuna is a Hero: The Hero Chapter",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/bdaf0a753546d195e686f944b169e14d.jpg",
+          "id": "yuki-yuna-is-a-hero-the-hero-chapter-1147",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Sonoko Nogi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d634a6d354ecf989a30d4a46c0df921d.jpg",
+          "id": "character:sonoko-nogi-3616",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Angel Beats! Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1fcf01406d5fb5e14b7a886e3344df66.jpg",
+          "id": "angel-beats-specials-1162",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Kanade Tachibana",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cc74500138872b7692e3a68968387954.jpg",
+          "id": "character:kanade-tachibana-92",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "THE IDOLM@STER",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5ac2b48768014cc96fe75d7f3d70d009.jpg",
+          "id": "the-idolmster-1186",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Eri Mizutani",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6d789b167633c52e1e4709cb5c642c4.jpg",
+          "id": "character:eri-mizutani-18881",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Blue Exorcist",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ce4ef643080aa2d5c66ef10321b14c09.jpg",
+          "id": "blue-exorcist-1198",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Shiemi Moriyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/734176025f32c529fb21071ac9bd9373.jpg",
+          "id": "character:shiemi-moriyama-1940",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Inu X Boku Secret Service Special",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/55e49e870854b5d9de807e844c9cf80a.jpg",
+          "id": "inu-x-boku-secret-service-special-1221",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Karuta Roromiya",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4e45971a5a108cd382b56fa2c2e90f04.jpg",
+          "id": "character:karuta-roromiya-1115",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Orange",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/98a953ed53cc03cdd46950ade51237d4.jpg",
+          "id": "orange-1229",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Naho Takamiya",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e0b7bb4cdc427cdd344aca975674e2a2.jpg",
+          "id": "character:naho-takamiya-2076",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "To LOVE-Ru Darkness OVA",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fd069c0b1a47b7626f75eb49dd743fcb.jpg",
+          "id": "to-love-ru-darkness-ova-1236",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Mikan Yuuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56d9a2ff0ce1c771e230d2e1a72dcdf3.jpg",
+          "id": "character:mikan-yuuki-1304",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ushio and Tora",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/da2bc3526c8c60b7bbd9d0a671fecdde.jpg",
+          "id": "ushio-and-tora-1252",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Jiemei",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8df1522fc6da7c1f08002d681ff4e20c.jpg",
+          "id": "character:jiemei-116592",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "D-Frag!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b7c0f11d6811590fe24fcc48cc138dcb.jpg",
+          "id": "d-frag-1268",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Roka Shibasaki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/31bf427a981d9fe0667464e1f3012c0a.jpg",
+          "id": "character:roka-shibasaki-1578",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Tonari no Seki-kun: The Master of Killing Time",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/303864337eded7232da64a6dc0c9f767.jpg",
+          "id": "tonari-no-seki-kun-the-master-of-killing-time-1290",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Rumi Yokoi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/91e813b18c4a4158cdc4a3dc98fcfd66.jpg",
+          "id": "character:rumi-yokoi-3824",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Fairy Tail Final Series",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/3d876e1c356745d40d55f5c033626d14.jpg",
+          "id": "fairy-tail-final-series-1315",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Zera",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8a5445a9bbc13d951bac32111f515b23.jpg",
+          "id": "character:zera-8651",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Akame ga Kill!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/dfd6b4cb63f4ca2acbee3b55a7c29afb.jpg",
+          "id": "akame-ga-kill-1329",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Seryuu Ubiquitous",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b0bfb1412a343da0cf5a79d4157dbaa3.jpg",
+          "id": "character:seryuu-ubiquitous-3499",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Danganronpa 3: The End of Hope's Peak High School - Hope Arc",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/01cab2c67b74836f0880fd8018a54203.jpg",
+          "id": "danganronpa-3-the-end-of-hopes-peak-high-school-hope-arc-1331",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Chiaki Nanami",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e1a5c124e8bf6c99c4055a026be39157.jpg",
+          "id": "character:chiaki-nanami-299",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Irregular at Magic High School",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/54902363e8212b4bfc2913fb9dd2fbc3.jpg",
+          "id": "the-irregular-at-magic-high-school-1344",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mayumi Saegusa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3b34c5ba8623ccc31895919c9e044456.jpg",
+          "id": "character:mayumi-saegusa-947",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "My Little Monster",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d10e102789431df0d4b3af5baeed6017.jpg",
+          "id": "my-little-monster-1354",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Chizuru Ooshima",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4fe30defb8fb9958eff03c1ed94cc507.jpg",
+          "id": "character:chizuru-ooshima-7762",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "World Trigger",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1bd36737214ea433c9c182685062d8dd.jpg",
+          "id": "world-trigger-1356",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ai Kitora",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/74d8460d3bfb524a8492b8979f05f0cb.jpg",
+          "id": "character:ai-kitora-15540",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Psycho-Pass 3",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7f6dbd24f89d9bbea095ee7a0ef8a6be.jpg",
+          "id": "psycho-pass-3-1360",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Akane Tsunemori",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/39242c4df779753e3c83b09a6f0e8221.jpg",
+          "id": "character:akane-tsunemori-271",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Tokyo Ravens",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/9d3793dc05cf5cce66b3a5ac1d83a2aa.jpg",
+          "id": "tokyo-ravens-1366",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Natsume Tsuchimikado",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2d3e43d7cbbe2fc416f650a01b0872fc.jpg",
+          "id": "character:natsume-tsuchimikado-2213",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Quintessential Quintuplets",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4dd401a5f1ec512cf058bb7f89c878fb.jpg",
+          "id": "the-quintessential-quintuplets-1368",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ichika Nakano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/23837069061aa51de8812877e6eaa8de.jpg",
+          "id": "character:ichika-nakano-948",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Food Wars! The Second Plate OVA",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e604f0771821bad9f1dc2c6040497157.jpg",
+          "id": "food-wars-the-second-plate-ova-1407",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Nene Kinokuni",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/fbd3f7221793c4f69f79f58ba1379953.jpg",
+          "id": "character:nene-kinokuni-10389",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Guilty Crown",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/75a19d5a15602d767a34dc98811be3ba.jpg",
+          "id": "guilty-crown-1436",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yahiro Samukawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6ed448f3149962691c1d31d7083be46e.jpg",
+          "id": "character:yahiro-samukawa-24125",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Guilty Crown",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/75a19d5a15602d767a34dc98811be3ba.jpg",
+          "id": "guilty-crown-1436",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ayase Shinomiya",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c4ad1fc0b98c7f7aafb4fdfa5284c8ba.jpg",
+          "id": "character:ayase-shinomiya-2104",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Little Busters!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ce95ae56189970967888b978846d192c.jpg",
+          "id": "little-busters-1466",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mutsumi Suginami",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/16940afdd562c7c841ac9ed968f5d3f8.jpg",
+          "id": "character:mutsumi-suginami-34320",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "To LOVE Ru Darkness",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7d9a247977b4d5881fa6a24f88eecf8f.jpg",
+          "id": "to-love-ru-darkness-1477",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mikan Yuuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56d9a2ff0ce1c771e230d2e1a72dcdf3.jpg",
+          "id": "character:mikan-yuuki-1304",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "To LOVE Ru Darkness 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0a45c811208689afb7ba358d70d8199d.jpg",
+          "id": "to-love-ru-darkness-2-1488",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mikan Yuuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56d9a2ff0ce1c771e230d2e1a72dcdf3.jpg",
+          "id": "character:mikan-yuuki-1304",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Danganronpa 3: The End of Hope's Peak High School - Despair Arc",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ae1e2088b31fece73c76531064225127.jpg",
+          "id": "danganronpa-3-the-end-of-hopes-peak-high-school-despair-arc-1495",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Chiaki Nanami",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e1a5c124e8bf6c99c4055a026be39157.jpg",
+          "id": "character:chiaki-nanami-299",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Major 2nd (TV)",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2d12dabddfd0cd81204be8930baffaed.jpg",
+          "id": "major-2nd-tv-1510",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mutsuko Sakura",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68f7a1286a2ab4a22e651ccd6a1c108f.jpg",
+          "id": "character:mutsuko-sakura-10391",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Aura: Koga Maryuin's Last War",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/58a765525d97a3e0ab57b2ee6276a343.jpg",
+          "id": "aura-koga-maryuins-last-war-1549",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Ryouko Satou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7ff5dae462f15126535ef48e6491d1ff.jpg",
+          "id": "character:ryouko-satou-9184",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Gabriel DropOut",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7f6082f719cd12aca86cb52a92338241.jpg",
+          "id": "gabriel-dropout-1552",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Raphiel Shiraha Ainsworth",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b607d9a1c5eb60e522844f80d3ce4a4d.jpg",
+          "id": "character:raphiel-shiraha-ainsworth-1296",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Irregular at Magic High School The Movie - The Girl Who Summons The Stars",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b966ed5da64220c62424e2b523bc767e.jpg",
+          "id": "the-irregular-at-magic-high-school-the-movie-the-girl-who-summons-the-stars-1560",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Mayumi Saegusa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3b34c5ba8623ccc31895919c9e044456.jpg",
+          "id": "character:mayumi-saegusa-947",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2892d420b206e78cbf2f8be7c35db80b.jpg",
+          "id": "psycho-pass-sinners-of-the-system-case2-first-guardian-1585",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Akane Tsunemori",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/39242c4df779753e3c83b09a6f0e8221.jpg",
+          "id": "character:akane-tsunemori-271",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Zakuro",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/45a72314dae4bc86994ea02f256e41fa.jpg",
+          "id": "zakuro-1596",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Susukihotaru",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/47f3ffc3c01976acb143c87e921954c6.jpg",
+          "id": "character:susukihotaru-7500",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Prison School: Mad Wax",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f54619652cac17d6c98625db45cc99ac.jpg",
+          "id": "prison-school-mad-wax-1600",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Hana Midorikawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/dba5ab27e6a3755ecb99c06b5384f017.jpg",
+          "id": "character:hana-midorikawa-668",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Darker than Black: Gemini of the Meteor",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8b3e3d186a056f52553297d722b297a7.jpg",
+          "id": "darker-than-black-gemini-of-the-meteor-1614",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Suou Pavlichenko",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a46d6956e24291c6cf2d6beaa64dfe57.jpg",
+          "id": "character:suou-pavlichenko-2026",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Inu X Boku Secret Service",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/148102a5a0b865c69e801c583886f561.jpg",
+          "id": "inu-x-boku-secret-service-1619",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Karuta Roromiya",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4e45971a5a108cd382b56fa2c2e90f04.jpg",
+          "id": "character:karuta-roromiya-1115",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Blue Exorcist: Kyoto Saga",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7c67b220676a2273832fcfe4bbde55c2.jpg",
+          "id": "blue-exorcist-kyoto-saga-1628",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Shiemi Moriyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/734176025f32c529fb21071ac9bd9373.jpg",
+          "id": "character:shiemi-moriyama-1940",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b054f944bd515be6d0b34195d193faaf.jpg",
+          "id": "yamada-kun-to-7-nin-no-majo-mou-hitotsu-no-suzaku-sai-1655",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Mikoto Asuka",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ee0c94cc618aa2ded0cadeefd046da1c.jpg",
+          "id": "character:mikoto-asuka-15622",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Yu☆Gi☆Oh! The Dark Side of Dimensions",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/aeb4121b092921aef38cf892f4482555.jpg",
+          "id": "yugioh-the-dark-side-of-dimensions-1722",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Sera",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7226b0616f27e18c8f41681c71ddc248.jpg",
+          "id": "character:sera-23520",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Orange: Mirai",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/011b5ea18017013c61cb5d420ac3d847.jpg",
+          "id": "orange-mirai-1724",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Naho Takamiya",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e0b7bb4cdc427cdd344aca975674e2a2.jpg",
+          "id": "character:naho-takamiya-2076",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "My Little Sister Can't Be This Cute: Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5fbecc9ec6fa423ac306147ee24f2453.jpg",
+          "id": "my-little-sister-cant-be-this-cute-specials-1725",
+          "typeAndYear": "ONA, 2020"
+        },
+        "character": {
+          "name": "Ruri Gokou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7787ae1512c022f48758131c34f4d802.jpg",
+          "id": "character:ruri-gokou-232",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Psycho-Pass 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e11304ee40b00691163cb7e9c2f5d709.jpg",
+          "id": "psycho-pass-2-1774",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Akane Tsunemori",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/39242c4df779753e3c83b09a6f0e8221.jpg",
+          "id": "character:akane-tsunemori-271",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Saki: The Nationals",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4a35ab52ebc626875f483d543b3fe1d6.jpg",
+          "id": "saki-the-nationals-1776",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kuro Matsumi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e0a884e66cbd507e69059d2e6e4ce9ae.jpg",
+          "id": "character:kuro-matsumi-11021",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Nisekoi OVA",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1919247296c9b0d5603faac21e59a245.jpg",
+          "id": "nisekoi-ova-1790",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Kosaki Onodera",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b41f7b089b8cc5edb86789d80905451a.jpg",
+          "id": "character:kosaki-onodera-177",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Senryu Girl",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2e878b3c9a2fda4b622d8e80387570e8.jpg",
+          "id": "senryu-girl-1796",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nanako Yukishiro",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/43405a9849015f8d050dcbe43ba8a099.jpg",
+          "id": "character:nanako-yukishiro-1918",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "\"Bungaku Shoujo\" Movie",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5c856ead9e5043c296d699c595fe2174.jpg",
+          "id": "bungaku-shoujo-movie-1802",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Tooko Amano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3380e04567fbc3469b536c4e9bdd8a46.jpg",
+          "id": "character:tooko-amano-3666",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Haganai: I don't have many friends NEXT",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2bb3dfe6da05cdedd70033aba977671e.jpg",
+          "id": "haganai-i-dont-have-many-friends-next-1804",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kobato Hasegawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a073802af2c3b88daa1f4934a2a88bb9.jpg",
+          "id": "character:kobato-hasegawa-917",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Steins;Gate: Soumei Eichi no Cognitive Computing",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/507b4a334919d1f9f15cc6ee318a8546.jpg",
+          "id": "steinsgate-soumei-eichi-no-cognitive-computing-1850",
+          "typeAndYear": "ONA, 2020"
+        },
+        "character": {
+          "name": "Mayuri Shiina",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ec2bfc992c73354fbaf8a9c77f53fb69.jpg",
+          "id": "character:mayuri-shiina-151",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Nisekoi: False Love",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/996d060a3268c360ace3fe6415309fe9.jpg",
+          "id": "nisekoi-false-love-1859",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kosaki Onodera",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b41f7b089b8cc5edb86789d80905451a.jpg",
+          "id": "character:kosaki-onodera-177",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sekirei: Pure Engagement",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/3036e93bb1fe5ef63ba1736d11488335.jpg",
+          "id": "sekirei-pure-engagement-1942",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kusano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb59d648067bb593887346acbb74ad68.jpg",
+          "id": "character:kusano-3464",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sketchbook ~full color's~",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/6d63333f02d2ca7c889ad406e7c21939.jpg",
+          "id": "sketchbook-full-colors-1945",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Sora Kajiwara",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a7e985ce4a75bdb86693ad5d1bcc55ad.jpg",
+          "id": "character:sora-kajiwara-4858",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Yuki Yuna is a Hero",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0c945e6fdca9672097a846b8a78e48b6.jpg",
+          "id": "yuki-yuna-is-a-hero-1955",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Sonoko Nogi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d634a6d354ecf989a30d4a46c0df921d.jpg",
+          "id": "character:sonoko-nogi-3616",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "D-Frag!*",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4a9c536cdd09022734c2b7463b7afafd.jpg",
+          "id": "d-frag-1980",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Roka Shibasaki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/31bf427a981d9fe0667464e1f3012c0a.jpg",
+          "id": "character:roka-shibasaki-1578",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Pandora Hearts Omake",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a60e49164e08219cde29e989ffa82f19.jpg",
+          "id": "pandora-hearts-omake-1993",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Sharon Rainsworth",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a270565de3baddba2adea2062839d048.jpg",
+          "id": "character:sharon-rainsworth-4299",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sagrada Reset",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b1c59a5117630fc159868ead2d918b8a.jpg",
+          "id": "sagrada-reset-1997",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Misora Haruki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b3e1d8eebe84ae602d36a20c1c7a181d.jpg",
+          "id": "character:misora-haruki-6205",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Motto To LOVE Ru",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/69b95c9e9c357663d4924a0df177953c.jpg",
+          "id": "motto-to-love-ru-2042",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mikan Yuuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56d9a2ff0ce1c771e230d2e1a72dcdf3.jpg",
+          "id": "character:mikan-yuuki-1304",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Zegapain",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f18769808ec0c8d81baf04924259c615.jpg",
+          "id": "zegapain-2092",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ryouko Kaminagi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6e958956ae906bbfe4848a47c8797863.jpg",
+          "id": "character:ryouko-kaminagi-10248",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Pokemon Journeys: The Series",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/31832ab802714689c70d25afff794179.jpg",
+          "id": "pokemon-journeys-the-series-2098",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Koharu Sakuragi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/771636c6b05976516261d013a8a5686a.jpg",
+          "id": "character:koharu-sakuragi-16509",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "\"Bungaku Shoujo\" Memoire",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ecbd6f5adeafe00f25fd1031504d2a8c.jpg",
+          "id": "bungaku-shoujo-memoire-2108",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Tooko Amano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3380e04567fbc3469b536c4e9bdd8a46.jpg",
+          "id": "character:tooko-amano-3666",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kannagi: Crazy Shrine Maidens",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5c1766b54c24ccb168a0b8d2cb3fad70.jpg",
+          "id": "kannagi-crazy-shrine-maidens-2163",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Zange",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/94dfde3c943d3f2d790264a61bffe483.jpg",
+          "id": "character:zange-6995",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Mayo Chiki!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ef4829d91702bc068f70764ca568f467.jpg",
+          "id": "mayo-chiki-2167",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kureha Sakamachi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ff463d1f310e73b06e2c2058298eb48d.jpg",
+          "id": "character:kureha-sakamachi-8607",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Saki Episode of Side A",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/eac102675637f70b17d93e8df89963cf.jpg",
+          "id": "saki-episode-of-side-a-2174",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kuro Matsumi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e0a884e66cbd507e69059d2e6e4ce9ae.jpg",
+          "id": "character:kuro-matsumi-11021",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Potemayo Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d416ade4e87fcd8152fb50a041fd5aef.jpg",
+          "id": "potemayo-specials-2188",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Potemayo",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/11637.jpg",
+          "id": "character:potemayo-7862",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Strike Witches 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8280a657730958a2577b19bdcd6287e6.jpg",
+          "id": "strike-witches-2-2196",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Amaki Suwa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/227cc27636053bb4c6e331eb5f8fa484.jpg",
+          "id": "character:amaki-suwa-120127",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "To LOVE-Ru OVA",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ba01be9991c8b452baec4d73863e03b2.jpg",
+          "id": "to-love-ru-ova-2200",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Mikan Yuuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56d9a2ff0ce1c771e230d2e1a72dcdf3.jpg",
+          "id": "character:mikan-yuuki-1304",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ground Control to Psychoelectric Girl: Special",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d8666c752aeca88f157a923c94244be2.jpg",
+          "id": "ground-control-to-psychoelectric-girl-special-2209",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Hanazawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e863842f3c91535f3e7613f2fb24d781.jpg",
+          "id": "character:hanazawa-47359",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Blue Exorcist: Runaway Kuro",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f80cbf2fae7333337a7ff48b59e2bf86.jpg",
+          "id": "blue-exorcist-runaway-kuro-2234",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Shiemi Moriyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/734176025f32c529fb21071ac9bd9373.jpg",
+          "id": "character:shiemi-moriyama-1940",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Haganai: I don't have many friends",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/cd99ca099fb2071f954dd7de93a1c160.jpg",
+          "id": "haganai-i-dont-have-many-friends-2286",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kobato Hasegawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a073802af2c3b88daa1f4934a2a88bb9.jpg",
+          "id": "character:kobato-hasegawa-917",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7f5651fc95c664a126439d37b911e068.jpg",
+          "id": "buddy-complex-kanketsu-hen-ano-sora-ni-kaeru-mirai-de-2288",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Mayuka Nasu",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4fc9981c61dab7f976a40a4dd8494f3a.jpg",
+          "id": "character:mayuka-nasu-18755",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Gatchaman Crowds Insight",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8f456507d36f6da455ed0e75c0e5a74b.jpg",
+          "id": "gatchaman-crowds-insight-2294",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Gelsadra",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/97530d7fbf9f20fd91f27cee2ce468ae.jpg",
+          "id": "character:gelsadra-24641",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Cells at Work Special",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b142611f8725dc5b9a6c711346013f76.jpg",
+          "id": "cells-at-work-special-2297",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Sekkekkyuu AE3803",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8a5fba8dc1b6b5b09d9edb3c76592b8.jpg",
+          "id": "character:sekkekkyuu-ae3803-2667",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Broken Blade",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2a319e993e5d1d2fc1f8be1c57b954a5.jpg",
+          "id": "broken-blade-2313",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Cleo Zaubraff",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb4c043582c2238877d78bc85424dd3b.jpg",
+          "id": "character:cleo-zaubraff-14415",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Hifuu Club Activity Record: The Sealed Esoteric History",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/295167d642d2a9477d4193b33c5f78c9.jpg",
+          "id": "hifuu-club-activity-record-the-sealed-esoteric-history-2328",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Maribel Hearn",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/da551110522c4077dbd76f9fe8797fc6.jpg",
+          "id": "character:maribel-hearn-21612",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Potemayo",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1ad16a058b19e7dd25bb133874fecdf8.jpg",
+          "id": "potemayo-2352",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Potemayo",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/7/11637.jpg",
+          "id": "character:potemayo-7862",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Rewrite: Moon and Terra",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e8f24f7a213ad9e89e04a18703a649b0.jpg",
+          "id": "rewrite-moon-and-terra-2367",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kagari",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ba39744e66586ee353f4917d65f397a8.jpg",
+          "id": "character:kagari-3650",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Diary of a Crazed Family",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ee02d0e0a7e07106b957bca17ed825bc.jpg",
+          "id": "the-diary-of-a-crazed-family-2421",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yuuka Midarezaki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/50c9439b9f9750721e3ffcd4282ac3c0.jpg",
+          "id": "character:yuuka-midarezaki-16026",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Mix",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/dbda9df6530a5814a29729ebcffd1dad.jpg",
+          "id": "mix-2426",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Haruka Ooyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a999846d0ce9beb3ec4d7607fe9e91b8.jpg",
+          "id": "character:haruka-ooyama-26920",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Mystic Archives of Dantalian",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d4c737e41eb540753f11f917359ac046.jpg",
+          "id": "the-mystic-archives-of-dantalian-2479",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Hugh Anthony Disward",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb9db3357f2914e3f856feae369e8516.jpg",
+          "id": "character:hugh-anthony-disward-4797",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Layton Mystery Tanteisha: Katri no Nazotoki File",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/37a8a791f9a2d55233684dbeb087f7f9.jpg",
+          "id": "layton-mystery-tanteisha-katri-no-nazotoki-file-2525",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Katrielle Layton",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/820ff1a74544db1c42f35d12a8e5fe22.jpg",
+          "id": "character:katrielle-layton-6911",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sekirei: Pure Engagement Episode 0",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5d7ead6c082ab2c514922ff0c3e3becf.jpg",
+          "id": "sekirei-pure-engagement-episode-0-2540",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Kusano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb59d648067bb593887346acbb74ad68.jpg",
+          "id": "character:kusano-3464",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Basquash!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7519248c852f3ea3dec7942f19fdd756.jpg",
+          "id": "basquash-2550",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Coco JD",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/af6d368ec354f1bd6cdd4705bf469265.jpg",
+          "id": "character:coco-jd-25257",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Cencoroll Connect",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/24d3ca1dbca794d89da51501febbdbed.jpg",
+          "id": "cencoroll-connect-2552",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Yuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2fa3178b8c4cded5c81f77c533bdd656.jpg",
+          "id": "character:yuki-12345",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Deadman Wonderland",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/463cae4894e4da8daad20853db8d8ece.jpg",
+          "id": "deadman-wonderland-2555",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Shiro",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4af611056a5a736a660b31c92aecd55b.jpg",
+          "id": "character:shiro-287",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Tower of Druaga: The Sword of Uruk",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c942ac5f824dd96d2ba92517d80cbb01.jpg",
+          "id": "tower-of-druaga-the-sword-of-uruk-2557",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Henaro",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9ef22ec1e987ea08f98551319043952e.jpg",
+          "id": "character:henaro-41176",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Troubled Life of Miss Kotoura",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/964e7f1bc0c86a14b04e8acedb7e6a19.jpg",
+          "id": "the-troubled-life-of-miss-kotoura-2565",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yuriko Mifune",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1cf9e27ec26d88d1a00f556908aa99d8.jpg",
+          "id": "character:yuriko-mifune-14067",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Castle Town Dandelion",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/91db03ca72b99c74fca7acab6c3ec74b.jpg",
+          "id": "castle-town-dandelion-2636",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Akane Sakurada",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/37668b8974f9fa124b1a877979bad6d9.jpg",
+          "id": "character:akane-sakurada-3114",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Cencoroll",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/6daa27eceb7d7ada63a2bee86cb1dc62.jpg",
+          "id": "cencoroll-2651",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Yuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2fa3178b8c4cded5c81f77c533bdd656.jpg",
+          "id": "character:yuki-12345",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Nanana's Buried Treasure",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0966b9f5d74469d2e94fe08525acd54e.jpg",
+          "id": "nananas-buried-treasure-2696",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Daruku Hoshino",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f995ac0076667a3fac6f5cb4709ba225.jpg",
+          "id": "character:daruku-hoshino-5935",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Blood-C: The Last Dark",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5c7517e433895274b3b03a86efb0b2d1.jpg",
+          "id": "blood-c-the-last-dark-2715",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Hiro Tsukiyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7625eefb7e8938308dd89e514c1d54ba.jpg",
+          "id": "character:hiro-tsukiyama-31744",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "RIN-NE 2nd Season",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e15ed299df09ef06895f9e232c5ebded.jpg",
+          "id": "rin-ne-2nd-season-2756",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Chibi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/054749613b883d559810a3d9d6f135f6.jpg",
+          "id": "character:chibi-80017",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": ".hack//Quantum",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d18e2bde7a7282f6146d3ec43c4074bb.jpg",
+          "id": "hackquantum-2790",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Sakuya",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3d11c891fc9b9d05a3b14ecd4275622b.jpg",
+          "id": "character:sakuya-9510",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Buddy Complex",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/be9199c27c733ff09db18ec1e0bd1d3a.jpg",
+          "id": "buddy-complex-2792",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mayuka Nasu",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4fc9981c61dab7f976a40a4dd8494f3a.jpg",
+          "id": "character:mayuka-nasu-18755",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ground Control to Psychoelectric Girl",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c1a37ad123b91935191cf385e52f9763.jpg",
+          "id": "ground-control-to-psychoelectric-girl-2795",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Hanazawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e863842f3c91535f3e7613f2fb24d781.jpg",
+          "id": "character:hanazawa-47359",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Unbreakable Machine-Doll",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b770030e0dc49dfb7c4e76eb5e3214ae.jpg",
+          "id": "unbreakable-machine-doll-2829",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nadeshiko Akabane",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f6030f9a19588d6ae534d7cc49c4a5c3.jpg",
+          "id": "character:nadeshiko-akabane-34122",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Unbreakable Machine-Doll",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b770030e0dc49dfb7c4e76eb5e3214ae.jpg",
+          "id": "unbreakable-machine-doll-2829",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Hotaru",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/00142f525e4a62418e05c9a6430ed840.jpg",
+          "id": "character:hotaru-24471",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Bodacious Space Pirates",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/66babc10f6d9432ecfd135fa69155d20.jpg",
+          "id": "bodacious-space-pirates-2834",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Chiaki Kurihara",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9b753fc6294290eba33e1d7c65e996f2.jpg",
+          "id": "character:chiaki-kurihara-9692",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sweet Blue Flowers",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ad2e75b629403cbe873c9da65770efe8.jpg",
+          "id": "sweet-blue-flowers-2862",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Le Petit Prince",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/21d1fc18f6b5685a2f7f154a96904051.jpg",
+          "id": "character:le-petit-prince-42714",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Blame! Movie",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/6a333355c1f9fc296c978ee29b1f1929.jpg",
+          "id": "blame-movie-2863",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Cibo",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/671be4f7a09997000aff32cb17344ac8.jpg",
+          "id": "character:cibo-2900",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Gunslinger Girl: Il Teatrino",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/cb88101eda4306aa3792651f1e68aa05.jpg",
+          "id": "gunslinger-girl-il-teatrino-2880",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Angelica",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/486989a14222efeda29fdf99a05a0f0e.jpg",
+          "id": "character:angelica-11906",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Maria the Virgin Witch",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a9b5323bd9bf1e17788338969dc698e7.jpg",
+          "id": "maria-the-virgin-witch-2886",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ezekiel",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b832b6a8e4d5a31c41c0c0bba21e0221.jpg",
+          "id": "character:ezekiel-13251",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ao no Exorcist: Kyoto Fujouou-hen OVA",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/adc8976d67ec05a0c7f413bd384ad451.jpg",
+          "id": "ao-no-exorcist-kyoto-fujouou-hen-ova-2896",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Shiemi Moriyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/734176025f32c529fb21071ac9bd9373.jpg",
+          "id": "character:shiemi-moriyama-1940",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Aquarion Evol",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/894fed76bbe61961af0959e1634aedf1.jpg",
+          "id": "aquarion-evol-2897",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Zessica Wong",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5ac227f690372199c69a6635f1fcc061.jpg",
+          "id": "character:zessica-wong-5603",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sekirei",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a1302c0755b495809fcf6719b488eccc.jpg",
+          "id": "sekirei-2936",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kusano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb59d648067bb593887346acbb74ad68.jpg",
+          "id": "character:kusano-3464",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "My Little Sister Can't Be This Cute",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ab4fcf78e119aad17614b5f21dcca1b5.jpg",
+          "id": "my-little-sister-cant-be-this-cute-2947",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ruri Gokou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7787ae1512c022f48758131c34f4d802.jpg",
+          "id": "character:ruri-gokou-232",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "My Little Sister Can't Be This Cute",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ab4fcf78e119aad17614b5f21dcca1b5.jpg",
+          "id": "my-little-sister-cant-be-this-cute-2947",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Hinata Gokou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/37061e6a990950eb2be6428b929049df.jpg",
+          "id": "character:hinata-gokou-19204",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Case Files of Jeweler Richard",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/481273a580a6c9637076b240e391caa3.jpg",
+          "id": "the-case-files-of-jeweler-richard-2980",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Shouko Tanimoto",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3122a94c937bdf4d328f121084755c08.jpg",
+          "id": "character:shouko-tanimoto-27584",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Bodacious Space Pirates the Movie: Abyss of Hyperspace",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/11492d0768672d3e215b2a98072fe368.jpg",
+          "id": "bodacious-space-pirates-the-movie-abyss-of-hyperspace-3013",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Chiaki Kurihara",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9b753fc6294290eba33e1d7c65e996f2.jpg",
+          "id": "character:chiaki-kurihara-9692",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ro-Kyu-Bu! SS",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/34bca5fc080c8383a664b7e9b4a43ec8.jpg",
+          "id": "ro-kyu-bu-ss-3033",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Tomoka Minato",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8285c36c24d1d46ee85042f3adff9833.jpg",
+          "id": "character:tomoka-minato-3427",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ae982dc47446214e4459b480e8202e0d.jpg",
+          "id": "steinsgate-0-kesshou-takei-no-valentine-bittersweet-intermedio-3040",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Mayuri Shiina",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ec2bfc992c73354fbaf8a9c77f53fb69.jpg",
+          "id": "character:mayuri-shiina-151",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Black★Rock Shooter (OVA)",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/eb2ae241ddb3ffed6f22fc325ecd16ef.jpg",
+          "id": "blackrock-shooter-ova-3051",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Black★Rock Shooter",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cf5a76e1df3f18ff10424ad2a56e027a.jpg",
+          "id": "character:blackrock-shooter-593",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Black★Rock Shooter (OVA)",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/eb2ae241ddb3ffed6f22fc325ecd16ef.jpg",
+          "id": "blackrock-shooter-ova-3051",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Mato Kuroi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb003cc3065edff86a08291cd0ff073f.jpg",
+          "id": "character:mato-kuroi-2761",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Dog Days 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a998e04676efa06764ec19c05236220a.jpg",
+          "id": "dog-days-3056",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Noir VinoCacao",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/186d06920c66467cb3629258d751946f.jpg",
+          "id": "character:noir-vinocacao-8510",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sing \"Yesterday\" for Me",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/6cc56ae3722488155d336de22a32d4ba.jpg",
+          "id": "sing-yesterday-for-me-3112",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Shinako Morinome",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a23d26d89627fd5cff91a05ef7bd8ad3.jpg",
+          "id": "character:shinako-morinome-965",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0d38bceed7cf19dc3191e8ad1959f20a.jpg",
+          "id": "psycho-pass-sinners-of-the-system-case1-tsumi-to-bachi-3119",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Akane Tsunemori",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/39242c4df779753e3c83b09a6f0e8221.jpg",
+          "id": "character:akane-tsunemori-271",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ao no Exorcist: Ura Ex",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/113f196d02ab9d504c9dfd73b0b217bb.jpg",
+          "id": "ao-no-exorcist-ura-ex-3139",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Shiemi Moriyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/734176025f32c529fb21071ac9bd9373.jpg",
+          "id": "character:shiemi-moriyama-1940",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Haganai: A Round-Robin Story's Ending Is Way Extreme",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/9f42c67b20eb8db5bcb6e74b5620f3f1.jpg",
+          "id": "haganai-a-round-robin-storys-ending-is-way-extreme-3141",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Kobato Hasegawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a073802af2c3b88daa1f4934a2a88bb9.jpg",
+          "id": "character:kobato-hasegawa-917",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Boogiepop and Others",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4ba3c4230a9b4f2a8208f60187270272.jpg",
+          "id": "boogiepop-and-others-3142",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Suiko Minahoshi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cf5d9458c1317a32acd8b7e0149a81ab.jpg",
+          "id": "character:suiko-minahoshi-25134",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Last Exile: Fam, the Silver Wing",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d989264b79773194ce894febc679e10a.jpg",
+          "id": "last-exile-fam-the-silver-wing-3183",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Alvis E. Hamilton",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2e2f7df015f32cce41a86e3ad1ae69a9.jpg",
+          "id": "character:alvis-e-hamilton-8060",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "MEKAKUCITY ACTORS",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/da08fbd818fd1e7e65222c66cd0ba427.jpg",
+          "id": "mekakucity-actors-3185",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mari Kozakura",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/92c13037ed7852a59638c25ab17a6bb9.jpg",
+          "id": "character:mari-kozakura-2719",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "My Little Sister Can't Be This Cute 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/92cdc9832fab7ed9c6039c7ff3e14744.jpg",
+          "id": "my-little-sister-cant-be-this-cute-2-3189",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ruri Gokou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7787ae1512c022f48758131c34f4d802.jpg",
+          "id": "character:ruri-gokou-232",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "My Little Sister Can't Be This Cute 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/92cdc9832fab7ed9c6039c7ff3e14744.jpg",
+          "id": "my-little-sister-cant-be-this-cute-2-3189",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Hinata Gokou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/37061e6a990950eb2be6428b929049df.jpg",
+          "id": "character:hinata-gokou-19204",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "World Conquest Zvezda Plot",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/83576b74941826f80ff3855e0c734918.jpg",
+          "id": "world-conquest-zvezda-plot-3194",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Natalia Vasylchenko",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/46de0daa60d75a26ec3e5358c9137e1d.jpg",
+          "id": "character:natalia-vasylchenko-8572",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "At The Mercy of The Sky",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e944a76870f57a1ca36f48eded5d1ddd.jpg",
+          "id": "at-the-mercy-of-the-sky-3196",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yukie An",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d3c9436e4a023e2e21007e9c4fcc9b76.jpg",
+          "id": "character:yukie-an-73678",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Princess Connect! Re:Dive",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c2caec3fa4c97ea00507fba899463b7f.jpg",
+          "id": "princess-connect-redive-3207",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Aoi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/57beee03acfbd6d23a8bdd9004792835.jpg",
+          "id": "character:aoi-17575",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sekirei: Hajimete no Otsukai",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d8a0d2ba9aa2ff47b17f53f091779ab3.jpg",
+          "id": "sekirei-hajimete-no-otsukai-3210",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Kusano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/eb59d648067bb593887346acbb74ad68.jpg",
+          "id": "character:kusano-3464",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "To LOVE Ru",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0eea1dae4acda57e8a8cfb4f7ec17e20.jpg",
+          "id": "to-love-ru-3211",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mikan Yuuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/56d9a2ff0ce1c771e230d2e1a72dcdf3.jpg",
+          "id": "character:mikan-yuuki-1304",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Campione!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e0e181d726052f107d8fa67919401ed5.jpg",
+          "id": "campione-3224",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yuri Mariya",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d61b79a859ba8540485a1007d1756815.jpg",
+          "id": "character:yuri-mariya-8727",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kannagi: Moshimo Kannagi ga Attara...",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/271029b56a916ac2d9ccfced2040d4a9.jpg",
+          "id": "kannagi-moshimo-kannagi-ga-attara-3236",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Zange",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/94dfde3c943d3f2d790264a61bffe483.jpg",
+          "id": "character:zange-6995",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Drifting Dragons",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fdec431fe617bd9e111193bf63e260b1.jpg",
+          "id": "drifting-dragons-3242",
+          "typeAndYear": "ONA, 2020"
+        },
+        "character": {
+          "name": "Vanabelle",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0c4fe3f9a99806b00ee03c110ac34d62.jpg",
+          "id": "character:vanabelle-13248",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Occult Academy",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/80ffe2ff43dd1ca5852c1a1f14fed76b.jpg",
+          "id": "occult-academy-3292",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kozue Naruse",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/73a48997a287dba9b298810e30803d55.jpg",
+          "id": "character:kozue-naruse-34883",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/faae4fadb51503c85bf864584de1284d.jpg",
+          "id": "watamote-no-matter-how-i-look-at-it-its-you-guys-fault-im-unpopular-3326",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yuu Naruse",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cada700ad1ff5a72d3aae416ee161f9a.jpg",
+          "id": "character:yuu-naruse-9620",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Gleipnir",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/af53ff68b87e37e2faa4f73043cac3b1.jpg",
+          "id": "gleipnir-3377",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Erena Aoki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5e0efab8a9bd2d4da631eb32b6d9f3f1.jpg",
+          "id": "character:erena-aoki-6812",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kamisama Dolls",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/953b55c12d6ea9d1696fb4d549bc9567.jpg",
+          "id": "kamisama-dolls-3424",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mahiru Hyuuga",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/264fd4401bda30332d5ab46074e3a21f.jpg",
+          "id": "character:mahiru-hyuuga-19695",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/68b3126e4bc5be8bacb7c7e396fa7008.jpg",
+          "id": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-motenaishi-nazomeite-miru-3483",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Yuu Naruse",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cada700ad1ff5a72d3aae416ee161f9a.jpg",
+          "id": "character:yuu-naruse-9620",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Hyperdimension Neptunia",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e9fe317574bce188a01abc28460f0ba2.jpg",
+          "id": "hyperdimension-neptunia-3517",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Pururut",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b2331f8a0535cef1a6e68c2febd50918.jpg",
+          "id": "character:pururut-1739",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "King of Thorn",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/19f0b9125f5d2701f0b8f7e1524b97ef.jpg",
+          "id": "king-of-thorn-3523",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Kasumi Ishiki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/546ab90ed6b19f16bafa820ca016f7b1.jpg",
+          "id": "character:kasumi-ishiki-15133",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Psychic School Wars",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8ffda4f9b1e176e7eb462334a2a1cf97.jpg",
+          "id": "psychic-school-wars-3530",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Kahori Harukawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0d7810eb038b8ce0f76e7ee6b4a611ba.jpg",
+          "id": "character:kahori-harukawa-14121",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Strike Witches",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/6a70881e64c876c9115b7110df20a272.jpg",
+          "id": "strike-witches-3540",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Amaki Suwa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/227cc27636053bb4c6e331eb5f8fa484.jpg",
+          "id": "character:amaki-suwa-120127",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Gunslinger Girl: Il Teatrino OVA",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8d3500e63be6a4cd952793750313ef34.jpg",
+          "id": "gunslinger-girl-il-teatrino-ova-3563",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Angelica",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/486989a14222efeda29fdf99a05a0f0e.jpg",
+          "id": "character:angelica-11906",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Dog Days",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8dfb11306916644dcaebc3c0087ce088.jpg",
+          "id": "dog-days-3583",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Noir VinoCacao",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/186d06920c66467cb3629258d751946f.jpg",
+          "id": "character:noir-vinocacao-8510",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Dog Days''",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/552cbc375682749074f9b4803aa4fd84.jpg",
+          "id": "dog-days-3584",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Noir VinoCacao",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/186d06920c66467cb3629258d751946f.jpg",
+          "id": "character:noir-vinocacao-8510",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Wake Up, Girls!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ab5854a42cba265984793fb0ed8b74c0.jpg",
+          "id": "wake-up-girls-3613",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Anna",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4163f85757994253a93e22193bfdccc3.jpg",
+          "id": "character:anna-88363",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Magical Witch Punie-Chan",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d27d457a592e1bed565a69c1e508c7f2.jpg",
+          "id": "magical-witch-punie-chan-3640",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Potaru Tanaka",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4bb9df58b830c28908f817ffefbbad97.jpg",
+          "id": "character:potaru-tanaka-117247",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "IS: Infinite Stratos 2 - World Purge",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1945e6e62caa6e6104f413815e6adaf7.jpg",
+          "id": "is-infinite-stratos-2-world-purge-3669",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Charlotte Dunois",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6bf2e5424fbc642050eb95fa88998322.jpg",
+          "id": "character:charlotte-dunois-619",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Yamada's First Time: B Gata H Kei",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1ab53cf417fa1ae6332f698f39844b8b.jpg",
+          "id": "yamadas-first-time-b-gata-h-kei-3702",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mayu Miyano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d976fda36f08037bcfc0dcd91fc9fd23.jpg",
+          "id": "character:mayu-miyano-13229",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Yamada's First Time: B Gata H Kei",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1ab53cf417fa1ae6332f698f39844b8b.jpg",
+          "id": "yamadas-first-time-b-gata-h-kei-3702",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Miyano no Ero-gami",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/90a954bca27423705b0ae5d5e96cb932.jpg",
+          "id": "character:miyano-no-ero-gami-28402",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Fractale",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0c3c1d9ddb4bf0c99e86726b757f0315.jpg",
+          "id": "fractale-3711",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nessa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/446d01dd718ae25b02ec27496f830bcb.jpg",
+          "id": "character:nessa-6623",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Blassreiter",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fbcf3de8e5c9180029815dd5b1d645ed.jpg",
+          "id": "blassreiter-3785",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Elea",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/75008995c192a6832e7786f1d64391f1.jpg",
+          "id": "character:elea-18588",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Aesthetica of a Rogue Hero",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e46274087ed105037ffe754fb42daa7d.jpg",
+          "id": "aesthetica-of-a-rogue-hero-3795",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kuzuha Doumoto",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f7954ae998c6f9a6d4eefbc428183b02.jpg",
+          "id": "character:kuzuha-doumoto-9154",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "IS: Infinite Stratos 2: Long Vacation Edition - The Memories of One Summer",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2d10cf58ad5ab8c250a49af633da7d5c.jpg",
+          "id": "is-infinite-stratos-2-long-vacation-edition-the-memories-of-one-summer-3798",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Charlotte Dunois",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6bf2e5424fbc642050eb95fa88998322.jpg",
+          "id": "character:charlotte-dunois-619",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Freezing",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e251074ee9e14864b4986dc0eecbc41a.jpg",
+          "id": "freezing-3816",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Rana Linchen",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/83e025c777e477c1375224eaf9c57d97.jpg",
+          "id": "character:rana-linchen-5635",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "IS: Infinite Stratos: A Sextet Yearns to Be in Love",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5a471bea5cdbc51383c73425bcd6fa79.jpg",
+          "id": "is-infinite-stratos-a-sextet-yearns-to-be-in-love-3827",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Charlotte Dunois",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6bf2e5424fbc642050eb95fa88998322.jpg",
+          "id": "character:charlotte-dunois-619",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Prince of Stride: Alternative",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/90b91e7d3dfc1e9543881f7aab56e7f7.jpg",
+          "id": "prince-of-stride-alternative-3849",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nana Sakurai",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/08918b1ed721959af812c853ddf12af1.jpg",
+          "id": "character:nana-sakurai-20447",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Empire of Corpses",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b51d9e4fae492dd6d04d061233ef4978.jpg",
+          "id": "the-empire-of-corpses-3854",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Hadaly Lilith",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/28e060a2ae736e0e5beab47de740b5ca.jpg",
+          "id": "character:hadaly-lilith-11896",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Happy Sugar Life",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b06c63011e8edf938b4486539cfee872.jpg",
+          "id": "happy-sugar-life-3874",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Satou Matsuzaka",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/09c3fb79194fcaff437e8f741855b501.jpg",
+          "id": "character:satou-matsuzaka-1078",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/59ce9282ff53efcd1777584ee1a06579.jpg",
+          "id": "bungaku-shoujo-kyou-no-oyatsu-hatsukoi-3885",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Tooko Amano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3380e04567fbc3469b536c4e9bdd8a46.jpg",
+          "id": "character:tooko-amano-3666",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Uchitama?! Have you seen my Tama?",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/9a9656738b9f0caee9c736180401482e.jpg",
+          "id": "uchitama-have-you-seen-my-tama-3944",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Momo Hanasaki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c2f6388a8d09af90e408aacd75eb1eba.jpg",
+          "id": "character:momo-hanasaki-24356",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Zetman",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0aa69ff04dbf8fabc062c7180ad1a1e4.jpg",
+          "id": "zetman-3951",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Konoha Amagi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4fd272acbe16def3d5bc39ac353eac3a.jpg",
+          "id": "character:konoha-amagi-20135",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ultimate Otaku Teacher",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c3663bc445e84de5f1b6725f7ed4293a.jpg",
+          "id": "ultimate-otaku-teacher-3961",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Reiko Mukyou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/458bfd8b75b96403d481eb63df6eaa05.jpg",
+          "id": "character:reiko-mukyou-33607",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Black Rock Shooter",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fda244829c8c02864b952baeed4c7843.jpg",
+          "id": "black-rock-shooter-4114",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Black★Rock Shooter",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/cf5a76e1df3f18ff10424ad2a56e027a.jpg",
+          "id": "character:blackrock-shooter-593",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Black Rock Shooter",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fda244829c8c02864b952baeed4c7843.jpg",
+          "id": "black-rock-shooter-4114",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mato Kuroi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bb003cc3065edff86a08291cd0ff073f.jpg",
+          "id": "character:mato-kuroi-2761",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ro-Kyu-Bu ~ Fast Break!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/9e06d7f60f822c2e1770dcccf86e5080.jpg",
+          "id": "ro-kyu-bu-fast-break-4165",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Tomoka Minato",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8285c36c24d1d46ee85042f3adff9833.jpg",
+          "id": "character:tomoka-minato-3427",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Freezing Vibration",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a4b87f2f2a64b4d960da94b7f809d2ff.jpg",
+          "id": "freezing-vibration-4198",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Rana Linchen",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/83e025c777e477c1375224eaf9c57d97.jpg",
+          "id": "character:rana-linchen-5635",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kobato.: Hajimete no Kobato.",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a70ce2426c8305b1c6808070d6225e72.jpg",
+          "id": "kobato-hajimete-no-kobato-4226",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Kobato Hanato",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/adc117e0a231b1f13adbd8a854ef1f44.jpg",
+          "id": "character:kobato-hanato-1010",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "No-Rin",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1f3a0433eeaedc6fe87d2524baa9323c.jpg",
+          "id": "no-rin-4235",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Minori Nakazawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/986653b43a1fae81a4212c660a67d525.jpg",
+          "id": "character:minori-nakazawa-9381",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Teekyu 3",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/efa088f5af0939792b6b76ee7c5aa179.jpg",
+          "id": "teekyu-3-4347",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Samurai Harem",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/98d9414b2c95d151ba863cdb599c9152.jpg",
+          "id": "samurai-harem-4352",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kagome Ikaruga",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bf03119e8a2fa70d0de2720d50f0bd5d.jpg",
+          "id": "character:kagome-ikaruga-11046",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Cat Planet Cuties: Come Drop By",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0656f7464557c82bda0370ee2be0b973.jpg",
+          "id": "cat-planet-cuties-come-drop-by-4379",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Aoi Futaba",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6086c8c89d154dd3f94878e78261c2ba.jpg",
+          "id": "character:aoi-futaba-5726",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Infinite Stratos",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/3b859e28854e5953bea21e236451a9e9.jpg",
+          "id": "infinite-stratos-4398",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Charlotte Dunois",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6bf2e5424fbc642050eb95fa88998322.jpg",
+          "id": "character:charlotte-dunois-619",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Unbreakable Machine-Doll Special",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ff9bc076c19f7778964cffe562322f5f.jpg",
+          "id": "unbreakable-machine-doll-special-4480",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Nadeshiko Akabane",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f6030f9a19588d6ae534d7cc49c4a5c3.jpg",
+          "id": "character:nadeshiko-akabane-34122",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Izetta: The Last Witch",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/694906f31958b27adcf10dbac9ef7834.jpg",
+          "id": "izetta-the-last-witch-4503",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Elvira Friedmann",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4804e4a81c15f626ee4a8b34a825bd24.jpg",
+          "id": "character:elvira-friedmann-88623",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Fate/Prototype",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/3b022d81e6e5a7828f1e3e2b4196a14c.jpg",
+          "id": "fateprototype-4555",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Ayaka Sajou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b4ba4038cd1090582e56487ca4e5d861.jpg",
+          "id": "character:ayaka-sajou-10712",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b62e5f81a77d9d2c4bae784b95203428.jpg",
+          "id": "kanojo-ga-flag-wo-oraretara-christmas-sonna-mono-ga-boku-ni-tsuuyou-suru-to-omou-no-ka-4563",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Megumu Touzokuyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1eeb08e805f927d5c1ae51bf55ef5e41.jpg",
+          "id": "character:megumu-touzokuyama-7260",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Teekyu 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/47983879c62caa9741e46e7e1577ea53.jpg",
+          "id": "teekyu-2-4584",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Teekyu 4",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2c6d39b3c46ab7be1a2828c80263e8ff.jpg",
+          "id": "teekyu-4-4603",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Teekyu 5",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/fd11483a739a637e857839f7cbe42bc3.jpg",
+          "id": "teekyu-5-4681",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Godzilla: City on the Edge of Battle",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c0eab3d90f8a99509ee9a67b26d50e1f.jpg",
+          "id": "godzilla-city-on-the-edge-of-battle-4704",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Yuuko Tani",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/70d3672420f42ec472415d4b881e82cb.jpg",
+          "id": "character:yuuko-tani-24259",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Granblue Fantasy The Animation",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b4eacb9cba562276e2866e39dd6371b0.jpg",
+          "id": "granblue-fantasy-the-animation-4705",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Zeta",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4245ed13c6cf41a67f2944f9e6536993.jpg",
+          "id": "character:zeta-17018",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Magia Record: Puella Magi Madoka Magica Side Story",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b4d925c9f3174e219c6db15817b4b21b.jpg",
+          "id": "magia-record-puella-magi-madoka-magica-side-story-4716",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kuroe",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/629a0d8163227a171edfb81ed7d83fa3.jpg",
+          "id": "character:kuroe-16868",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Rewrite",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/171b98367fb16dd44bbbd4e784e3cad1.jpg",
+          "id": "rewrite-4775",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kagari",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ba39744e66586ee353f4917d65f397a8.jpg",
+          "id": "character:kagari-3650",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Teekyu 7",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ec7fa693b0f7c09d28201a5c3e6e8c30.jpg",
+          "id": "teekyu-7-4857",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sasami-san@Ganbaranai",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/dedfdd821c988f2fa34cd5e12497513b.jpg",
+          "id": "sasami-sanganbaranai-4868",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kagami Yagami",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5e8d505d9a13099646ae7b9b7a3a0c8b.jpg",
+          "id": "character:kagami-yagami-6356",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Teekyu 8",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/41f8ca57ec04444217fc853818b501cf.jpg",
+          "id": "teekyu-8-4873",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Megane na Kanojo",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e30e0c5e4b0faa55a20df822365621cd.jpg",
+          "id": "megane-na-kanojo-4905",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Chiaki Kuramoto",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a6342b6653aa63c931d1f4a6b0945e2e.jpg",
+          "id": "character:chiaki-kuramoto-40936",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Morita-san wa Mukuchi. 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1ac5f5a05a86441f0fc4af9d5425a089.jpg",
+          "id": "morita-san-wa-mukuchi-2-4910",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mayu Morita",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8080bb7a5ffb78a3b980fca443b57c7b.jpg",
+          "id": "character:mayu-morita-9188",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Cat Planet Cuties",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5dd80c796f3f1031dd01b8cba435d1f3.jpg",
+          "id": "cat-planet-cuties-4916",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Aoi Futaba",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6086c8c89d154dd3f94878e78261c2ba.jpg",
+          "id": "character:aoi-futaba-5726",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Go! Princess Precure Movie: Go! Go!! Gouka 3-bondate!!!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/69b0e72354ed221612689ef3f96c8cf7.jpg",
+          "id": "go-princess-precure-movie-go-go-gouka-3-bondate-4930",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Pumplulu Princess",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d99561aff735b292d7ef8790b3fe126b.jpg",
+          "id": "character:pumplulu-princess-94113",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Angel's 3Piece!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2073932fa4aed6239ecb4eb94efee46f.jpg",
+          "id": "angels-3piece-4947",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Koume Ogi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/aa940506e4a7dfe90145d134c280efb9.jpg",
+          "id": "character:koume-ogi-18341",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Yesterday wo Utatte: Haishin-ban Episode",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d02ec33e4d40f5c101fce1dbb028029c.jpg",
+          "id": "yesterday-wo-utatte-haishin-ban-episode-4954",
+          "typeAndYear": "ONA, 2020"
+        },
+        "character": {
+          "name": "Shinako Morinome",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a23d26d89627fd5cff91a05ef7bd8ad3.jpg",
+          "id": "character:shinako-morinome-965",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ladies versus Butlers!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/045327b3f8fb4b54b09c31bef617eac7.jpg",
+          "id": "ladies-versus-butlers-4998",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ayse Khadim",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7822a060255179b901cd082028538c58.jpg",
+          "id": "character:ayse-khadim-15332",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Mobile Suit Gundam AGE: Memory of Eden",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8726917b5e3074c1d2af0b0321450c49.jpg",
+          "id": "mobile-suit-gundam-age-memory-of-eden-5034",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Romary Stone",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9980c0eda5d1928f0189228053da72c6.jpg",
+          "id": "character:romary-stone-35019",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Mushi-Uta",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d93829b346bde3ec1da005976715f576.jpg",
+          "id": "mushi-uta-5037",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Shiika Anmoto",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/93d9daed346f91dc7aa95c298716c8f4.jpg",
+          "id": "character:shiika-anmoto-12020",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Nagareboshi Lens",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/910ad7fc652af5b6e94e9b92c6c3a8f9.jpg",
+          "id": "nagareboshi-lens-5038",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Risa Hanakago",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9050dda00cd3d1bc905d0ba330be08a1.jpg",
+          "id": "character:risa-hanakago-17202",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Persona 4 the Golden ANIMATION",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/3d79e5be1b5ce903d49d028c21757b75.jpg",
+          "id": "persona-4-the-golden-animation-5062",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marie",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b914a4461f3ffa4044dda4af666f6bce.jpg",
+          "id": "character:marie-5417",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Lapis Re:LiGHTs",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/3ffe7d355dfa12eecdf3efc50f719fa0.jpg",
+          "id": "lapis-relights-5137",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Eliza",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b2395a340f66ab904939c9a9e947a41f.jpg",
+          "id": "character:eliza-35697",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Teekyu 6",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/5a3f76a5b823039c2362652f95ec3413.jpg",
+          "id": "teekyu-6-5156",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Freezing Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/6d0eb5c59cdb389a20cdc659a91eb8bf.jpg",
+          "id": "freezing-specials-5214",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Rana Linchen",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/83e025c777e477c1375224eaf9c57d97.jpg",
+          "id": "character:rana-linchen-5635",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Cagaster of an Insect Cage",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ce3783fbc0521bb3c77d35ce8890fe1a.jpg",
+          "id": "cagaster-of-an-insect-cage-5229",
+          "typeAndYear": "ONA, 2020"
+        },
+        "character": {
+          "name": "Ilie",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/892362c34147902cdb1d9242ea3499f8.jpg",
+          "id": "character:ilie-16665",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Teekyu",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/43eba077fc4dbf89b810a6ad3f8a7ff3.jpg",
+          "id": "teekyu-5239",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Teekyu 9",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/99102670ee39cb93278dfeeb9154550f.jpg",
+          "id": "teekyu-9-5240",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ojisan and Marshmallow",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0ac729aae6e1d20e07fde44de718fbed.jpg",
+          "id": "ojisan-and-marshmallow-5251",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mio5",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e4e92cf41a380acae5902d83b0352995.jpg",
+          "id": "character:mio5-26009",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Aesthetica of a Rogue Hero Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ceb3a82385c5d2294b84e8ea526df5b2.jpg",
+          "id": "aesthetica-of-a-rogue-hero-specials-5287",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Kuzuha Doumoto",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/f7954ae998c6f9a6d4eefbc428183b02.jpg",
+          "id": "character:kuzuha-doumoto-9154",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kemeko Deluxe!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ca74dbb83848303091ce32988a94fe38.jpg",
+          "id": "kemeko-deluxe-5296",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Riko Androids",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/ad97fc7ffa7335d80fba5ed35e34b360.jpg",
+          "id": "character:riko-androids-117788",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Love and Lies",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0b4df24344a1f57bb5b244242218c370.jpg",
+          "id": "love-and-lies-5299",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Misaki Takasaki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9109e2368ecbcafb8a91b0bd0837ec87.jpg",
+          "id": "character:misaki-takasaki-846",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Infinite Stratos 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c139455bc1480a2f35a7b0dc5ba6f4b3.jpg",
+          "id": "infinite-stratos-2-5324",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Charlotte Dunois",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6bf2e5424fbc642050eb95fa88998322.jpg",
+          "id": "character:charlotte-dunois-619",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Granblue Fantasy The Animation Season 2 Extras",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8db90af258e57c18e7414e2b00924bd1.jpg",
+          "id": "granblue-fantasy-the-animation-season-2-extras-5410",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Zeta",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4245ed13c6cf41a67f2944f9e6536993.jpg",
+          "id": "character:zeta-17018",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Eromanga Sensei",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e601d1b12c1f13b07ac2db009fda56e1.jpg",
+          "id": "eromanga-sensei-5486",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Hinata Gokou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/37061e6a990950eb2be6428b929049df.jpg",
+          "id": "character:hinata-gokou-19204",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Eromanga Sensei",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e601d1b12c1f13b07ac2db009fda56e1.jpg",
+          "id": "eromanga-sensei-5486",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ruri Gokou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7787ae1512c022f48758131c34f4d802.jpg",
+          "id": "character:ruri-gokou-232",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Godzilla: Planet of the Monsters",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f885becac325ce98fc0751c269a3d151.jpg",
+          "id": "godzilla-planet-of-the-monsters-5490",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Yuuko Tani",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/70d3672420f42ec472415d4b881e82cb.jpg",
+          "id": "character:yuuko-tani-24259",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Phantasy Star Online 2: Episode Oracle",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8cb95740564527bdac1d086c700ead54.jpg",
+          "id": "phantasy-star-online-2-episode-oracle-5509",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8a28d3cb4aa7231acbf04f75f9645b30.jpg",
+          "id": "character:lisa-42282",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Phantasy Star Online 2: Episode Oracle",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8cb95740564527bdac1d086c700ead54.jpg",
+          "id": "phantasy-star-online-2-episode-oracle-5509",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Melfonseana",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/25c97f39338c79cedc3b23fac6f4d6b0.jpg",
+          "id": "character:melfonseana-50942",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Dragonar Academy",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/34383ccdd826863738142948befb58f7.jpg",
+          "id": "dragonar-academy-5515",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Jessica Valentine",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/e9b2dc62590d132ac47a2061683f34c8.jpg",
+          "id": "character:jessica-valentine-52433",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Occult Academy Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/9aae297b5816b8515b3a079e8f520648.jpg",
+          "id": "occult-academy-specials-5538",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Kozue Naruse",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/73a48997a287dba9b298810e30803d55.jpg",
+          "id": "character:kozue-naruse-34883",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Morita-san wa Mukuchi.",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/99fed0719bf499d4152b84b5f6c87b95.jpg",
+          "id": "morita-san-wa-mukuchi-5604",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mayu Morita",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8080bb7a5ffb78a3b980fca443b57c7b.jpg",
+          "id": "character:mayu-morita-9188",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Okko's Inn",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a6d1422234432a0d970009b4f69eee69.jpg",
+          "id": "okkos-inn-5628",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Erika Inada",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7467aecc52ab744a1356d5a38059ef3a.jpg",
+          "id": "character:erika-inada-107124",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Freezing Vibration Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/07689c158fc47e8447e6064baff0fdfa.jpg",
+          "id": "freezing-vibration-specials-5656",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Rana Linchen",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/83e025c777e477c1375224eaf9c57d97.jpg",
+          "id": "character:rana-linchen-5635",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Infini-T Force",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/301493af43880be16bb86e0c817923d5.jpg",
+          "id": "infini-t-force-5661",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Belle Lynn",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6932548bd188ef10edaec0feb430c3f2.jpg",
+          "id": "character:belle-lynn-44252",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Last Exile: Fam, the Silver Wing Recaps",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0b8b26703a1a506dd8b94b8548b6ca8a.jpg",
+          "id": "last-exile-fam-the-silver-wing-recaps-5790",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Alvis E. Hamilton",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2e2f7df015f32cce41a86e3ad1ae69a9.jpg",
+          "id": "character:alvis-e-hamilton-8060",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Mobile Suit Gundam AGE",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1f20830910ce1733fd087f3970cf2e8f.jpg",
+          "id": "mobile-suit-gundam-age-5793",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Romary Stone",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9980c0eda5d1928f0189228053da72c6.jpg",
+          "id": "character:romary-stone-35019",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Qwaser of Stigmata",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/74b1dd6dfa5f7f09a37d1844edcd125f.jpg",
+          "id": "the-qwaser-of-stigmata-5820",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Fumika Mitarai",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/97f59c779c0448ca383f5bc86ccc32c8.jpg",
+          "id": "character:fumika-mitarai-12645",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Coppelion",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1819d3c40b9fdc999d537162c648d3c8.jpg",
+          "id": "coppelion-5839",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Aoi Fukasaku",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8f76098337cf29c31453018a273a6ad9.jpg",
+          "id": "character:aoi-fukasaku-13797",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "If Her Flag Breaks",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/913d2e72a066859676fc292cb620840c.jpg",
+          "id": "if-her-flag-breaks-5965",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Megumu Touzokuyama",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/1eeb08e805f927d5c1ae51bf55ef5e41.jpg",
+          "id": "character:megumu-touzokuyama-7260",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "My Little Sister Can't Be This Cute 2 Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4ae53bd226cdcf5454a38e70eb576623.jpg",
+          "id": "my-little-sister-cant-be-this-cute-2-specials-6031",
+          "typeAndYear": "ONA, 2020"
+        },
+        "character": {
+          "name": "Hinata Gokou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/37061e6a990950eb2be6428b929049df.jpg",
+          "id": "character:hinata-gokou-19204",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "My Little Sister Can't Be This Cute 2 Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4ae53bd226cdcf5454a38e70eb576623.jpg",
+          "id": "my-little-sister-cant-be-this-cute-2-specials-6031",
+          "typeAndYear": "ONA, 2020"
+        },
+        "character": {
+          "name": "Ruri Gokou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7787ae1512c022f48758131c34f4d802.jpg",
+          "id": "character:ruri-gokou-232",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sengoku Collection",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4c30c275ffd21aaa147fcbcbbb4fba69.jpg",
+          "id": "sengoku-collection-6035",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ieyasu Tokugawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/551878e21dac728aee2f8d619fb1a712.jpg",
+          "id": "character:ieyasu-tokugawa-19531",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Takamiya Nasuno Desu!: Teekyuu Spin-off",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f785404175119090bd247b8a970df43f.jpg",
+          "id": "takamiya-nasuno-desu-teekyuu-spin-off-6038",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Anime-Gataris",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/34285b893f9414d1262a9886c2375d72.jpg",
+          "id": "anime-gataris-6078",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Bei Bei Yang",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/06d6315026058f37eab236b348a5a53b.jpg",
+          "id": "character:bei-bei-yang-24905",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Phantom in the Twilight",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f815668c858631ce27194abeedfb8596.jpg",
+          "id": "phantom-in-the-twilight-6106",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Baileu Ton",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/9dec7528e7cf9af33002ca6648f41b6a.jpg",
+          "id": "character:baileu-ton-30000",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Qwaser of Stigmata: Portrait of the Empress",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4e64c0c372fe5aea56eb2aea6568403e.jpg",
+          "id": "the-qwaser-of-stigmata-portrait-of-the-empress-6130",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Fumika Mitarai",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/97f59c779c0448ca383f5bc86ccc32c8.jpg",
+          "id": "character:fumika-mitarai-12645",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Qwaser of Stigmata II",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/e5ca434cabf01e94f4dcd98eb4475f34.jpg",
+          "id": "the-qwaser-of-stigmata-ii-6216",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Fumika Mitarai",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/97f59c779c0448ca383f5bc86ccc32c8.jpg",
+          "id": "character:fumika-mitarai-12645",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ladies versus Butlers! Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/6d83179ec8e296456b86faad6fb1195c.jpg",
+          "id": "ladies-versus-butlers-specials-6348",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Ayse Khadim",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/7822a060255179b901cd082028538c58.jpg",
+          "id": "character:ayse-khadim-15332",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2fc08f207ec0f91a36fa2957a3d933b3.jpg",
+          "id": "shoujo-tachi-wa-kouya-wo-mezasu-iubeki-monokashira-6409",
+          "typeAndYear": "OVA, 2020"
+        },
+        "character": {
+          "name": "Yuuka Kobayakawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b6d422b178019d617dbc0b11fbfa2a94.jpg",
+          "id": "character:yuuka-kobayakawa-16025",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Last Hope",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/dbb2ab072537cd0d3ee5ab12c54998c7.jpg",
+          "id": "last-hope-6460",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Quinny You",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5dd6a169457bbc7e8836e03313096a1f.jpg",
+          "id": "character:quinny-you-22048",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Girls Beyond the Wasteland",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/cac40422b29b234e6530779640a8d036.jpg",
+          "id": "girls-beyond-the-wasteland-6564",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yuuka Kobayakawa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b6d422b178019d617dbc0b11fbfa2a94.jpg",
+          "id": "character:yuuka-kobayakawa-16025",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The irregular at magic high school: Get to Know Magic Studies!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1346fe349e2c5ab6a7b6a05f117d596b.jpg",
+          "id": "the-irregular-at-magic-high-school-get-to-know-magic-studies-6572",
+          "typeAndYear": "ONA, 2020"
+        },
+        "character": {
+          "name": "Mayumi Saegusa",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3b34c5ba8623ccc31895919c9e044456.jpg",
+          "id": "character:mayumi-saegusa-947",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Tokyo Ghoul:re 2nd Season",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1018175f05592c650c69c9c6e06b455b.jpg",
+          "id": "tokyo-ghoulre-2nd-season-6585",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Rize Kamishiro",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/caafe3fb290db888f3ca868b4ee54765.jpg",
+          "id": "character:rize-kamishiro-1197",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Leviathan: The Last Defense",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/2d01cd7bc2688ca3a5208dfb5ffc4342.jpg",
+          "id": "leviathan-the-last-defense-6663",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Syrup",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c4cea9a54a10cf461e6e675e0311f940.jpg",
+          "id": "character:syrup-48844",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Otome Youkai Zakuro Picture Drama",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/dd397175317484a78d9c14718879693b.jpg",
+          "id": "otome-youkai-zakuro-picture-drama-6668",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Susukihotaru",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/47f3ffc3c01976acb143c87e921954c6.jpg",
+          "id": "character:susukihotaru-7500",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Getsumen To Heiki Mina",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ae1163e1b70c0c7d1692aa1ed39e58bc.jpg",
+          "id": "getsumen-to-heiki-mina-6701",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Nakoru Hazemi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a28d7feebe25a9c9d842d56e17eaefaa.jpg",
+          "id": "character:nakoru-hazemi-47378",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Juuou Mujin no Fafnir",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/aabe736e4b997dbce121121c6f99878c.jpg",
+          "id": "juuou-mujin-no-fafnir-6811",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Firill Crest",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/37436d8bc50b07758c2276fbc5cc0129.jpg",
+          "id": "character:firill-crest-12220",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Beatless",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/44687814cbcde28b84367ef0b4685291.jpg",
+          "id": "beatless-7180",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Mika Tsutsumi",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/0bdc9955546c3f6941e77c7f3b2c5ccd.jpg",
+          "id": "character:mika-tsutsumi-46639",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Fireworks, Should We See It from the Side or the Bottom?",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4444cf9b7bbcd65c5e261276fc8b9a6e.jpg",
+          "id": "fireworks-should-we-see-it-from-the-side-or-the-bottom-7304",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Haruko Miura",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4241531df01ef36ca56551bce98c606e.jpg",
+          "id": "character:haruko-miura-28552",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "With a Dog AND a Cat, Every Day is Fun",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a65d3bec652df190bee9d7b139462bc5.jpg",
+          "id": "with-a-dog-and-a-cat-every-day-is-fun-7438",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Inu-kun",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/6df1e52edb95580e381a1eb7d4f5e01e.jpg",
+          "id": "character:inu-kun-33069",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Ange Vierge",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ffea14c8f8528dd8675c3c17892a7c13.jpg",
+          "id": "ange-vierge-7848",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Code Ω46 Xenia",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/bbdee4a490cf385b2e7686cd69a3f37b.jpg",
+          "id": "character:code-w46-xenia-27612",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kamisama Dolls Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/ef246455b5715f73f313baf80594ea7b.jpg",
+          "id": "kamisama-dolls-specials-8250",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Mahiru Hyuuga",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/264fd4401bda30332d5ab46074e3a21f.jpg",
+          "id": "character:mahiru-hyuuga-19695",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Wanna Be the Strongest in the World",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4f008e42d00c9b5af3fbd9b1c996cbb4.jpg",
+          "id": "wanna-be-the-strongest-in-the-world-8522",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Juri Sanada",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4efc9cb75add0539a7a9d12b2f23c9f3.jpg",
+          "id": "character:juri-sanada-49662",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Usakame",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/c9e49b454b67a75a17b3237320f494dc.jpg",
+          "id": "usakame-8598",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Marimo Bandou",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/5617019c4fb569ecf8ef34f45975f130.jpg",
+          "id": "character:marimo-bandou-6904",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sekai de Ichiban Tsuyoku Naritai! Specials",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/21d9f62c92a0174774a995d64f3fe4d0.jpg",
+          "id": "sekai-de-ichiban-tsuyoku-naritai-specials-8697",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Juri Sanada",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4efc9cb75add0539a7a9d12b2f23c9f3.jpg",
+          "id": "character:juri-sanada-49662",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Happy-Go-Lucky Days",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/b0f7f649a79c19dac5ed20598b696518.jpg",
+          "id": "happy-go-lucky-days-8850",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Ecchan",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/35bc7b447a8dcad35071c3f58320fd56.jpg",
+          "id": "character:ecchan-79586",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Schoolgirl Strikers: Animation Channel",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/79c27dc60be50fcd843a2349c31df5ef.jpg",
+          "id": "schoolgirl-strikers-animation-channel-8862",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yuumi Sajima",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/2604d3122d74cfe02cecf05af0b0ad1a.jpg",
+          "id": "character:yuumi-sajima-20130",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Princess Jellyfish: Go, Sisterhood Explorers!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/60831b9396d5d8b1f72dd92aae37f9e4.jpg",
+          "id": "princess-jellyfish-go-sisterhood-explorers-9057",
+          "typeAndYear": "Special, 2020"
+        },
+        "character": {
+          "name": "Tsukimi Kurashita",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/a0b152f5c039db300d175653a0832811.jpg",
+          "id": "character:tsukimi-kurashita-1473",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "AFTERLOST",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/3e5003c2eec1c169b361238570b8039c.jpg",
+          "id": "afterlost-9475",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/3f25310a6a5f82fbecf5f1d4177e17a5.jpg",
+          "id": "character:yuki-21927",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Cutie Honey Universe",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/4e66646f547b16ae47907f56a41d3db5.jpg",
+          "id": "cutie-honey-universe-9546",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Honey Kisaragi",
+          "imageUrl": "https://cdn.myanimelist.net/images/characters/10/373499.jpg",
+          "id": "character:honey-kisaragi-3667",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Listeners",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1c0adbb5f9db012dff6b5d78185b7476.jpg",
+          "id": "listeners-9595",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Roz",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/b8bbc55e1d0f50315bd4d80ca420cd5b.jpg",
+          "id": "character:roz-54262",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Aragne: Sign of Vermillion",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/0a52621f3a39c8add7a1504567e09afa.jpg",
+          "id": "aragne-sign-of-vermillion-9933",
+          "typeAndYear": "Movie, 2020"
+        },
+        "character": {
+          "name": "Rin",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4f4f473b25a12da0d8676ad1565b67b6.jpg",
+          "id": "character:rin-49538",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Seven Knights Revolution: The Hero's Successor",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/d9ea71694386e8955063813cdd6e5312.jpg",
+          "id": "seven-knights-revolution-the-heros-successor-17496",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ellen",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/faf8ab702c142ea5b34023218eb090d6.jpg",
+          "id": "character:ellen-129278",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Guraburu!",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/bd20cc185233d3dd8ac8ea6b8417e830.jpg",
+          "id": "guraburu-13831",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Zeta",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/4245ed13c6cf41a67f2944f9e6536993.jpg",
+          "id": "character:zeta-17018",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kiyo in Kyoto: From the Maiko House",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/a2419bfa7757a052066f31cfb8df6c7f.jpg",
+          "id": "kiyo-in-kyoto-from-the-maiko-house-15789",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kiyo  Nozuki",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8e975235a720a65b737ddb7cce28b201.jpg",
+          "id": "character:kiyo-nozuki-41148",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "It's Too Sick to Call this Love, Koikimo",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1b41fd4634ecb470b6de2cfc96710146.jpg",
+          "id": "its-too-sick-to-call-this-love-koikimo-15768",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Arie Matsushima",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/68d60d08f416d74960c17a4c5b5f1d04.jpg",
+          "id": "character:arie-matsushima-66662",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Kemono Jihen",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/1c0311ccf3de7d04a82648f7ef3a68e8.jpg",
+          "id": "kemono-jihen-15761",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Yoko Inari",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d8cf5aa73b3a1b71c5a698511130a80a.jpg",
+          "id": "character:yoko-inari-68430",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Cells at Work! 2nd Season",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/aed17a19cbfc328b4c6a0f0f824e356b.jpg",
+          "id": "cells-at-work-2nd-season-15725",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Sekkekkyuu AE3803",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/c8a5fba8dc1b6b5b09d9edb3c76592b8.jpg",
+          "id": "character:sekkekkyuu-ae3803-2667",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Gekidol",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/880078596b2f6901cb5649e2b0633c0f.jpg",
+          "id": "gekidol-15710",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Kaoru Sakakibara",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/d7fa16b7ed422ead5ba131a12e7c33ba.jpg",
+          "id": "character:kaoru-sakakibara-96382",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "The Quintessential Quintuplets 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/7db11c095d9406b85e3817a492beb449.png",
+          "id": "the-quintessential-quintuplets-2-15631",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ichika Nakano",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/23837069061aa51de8812877e6eaa8de.jpg",
+          "id": "character:ichika-nakano-948",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "World Trigger 2",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/8a3d99f7608f799238ff3021400fb747.jpg",
+          "id": "world-trigger-2-15606",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Ai Kitora",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/74d8460d3bfb524a8492b8979f05f0cb.jpg",
+          "id": "character:ai-kitora-15540",
+          "role": "Supporting"
+        }
+      },
+      {
+        "anime": {
+          "title": "Sakugan Labyrinth Marker",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/87eb0f3c79b21aaa2b3bc50870ae2e00.jpg",
+          "id": "sakugan-labyrinth-marker-15533",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "Zacrettu",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/8ad207c5df87209df0407e144599c98f.jpg",
+          "id": "character:zacrettu-129861",
+          "role": "Main"
+        }
+      },
+      {
+        "anime": {
+          "title": "Case File nº221: Kabukicho",
+          "poster": "https://cdn.noitatnemucod.net/thumbnail/200x300/100/f95e4eece0f3b0739304af9c0100448d.jpg",
+          "id": "case-file-no221-kabukicho-3878",
+          "typeAndYear": "TV, 2020"
+        },
+        "character": {
+          "name": "",
+          "imageUrl": "https://cdn.noitatnemucod.net/thumbnail/100x100/100/96ecf2c38f208f92509f7ac17edd9fcd.jpg",
+          "id": "character:moran-alexandra-89952",
+          "role": "Supporting"
+        }
+      }
+    ]
+  }
+}

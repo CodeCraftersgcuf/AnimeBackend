@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 103,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Birdy the Mighty",
+        "alternativeTitle": "Tetsuwan Birdy",
+        "id": "birdy-the-mighty-3107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09fd690406d0e751b55f3db8b60b404b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Yesterday wo Utatte: Haishin-ban Episode",
+        "alternativeTitle": "Yesterday wo Utatte: Haishin-ban Episode",
+        "id": "yesterday-wo-utatte-haishin-ban-episode-4954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d02ec33e4d40f5c101fce1dbb028029c.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Shonan Junai Gumi!",
+        "alternativeTitle": "Shonan Junai Gumi!",
+        "id": "shonan-junai-gumi-1604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fa4f0f722a1907ef3bbd4f64e0f0491.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Binbou Shimai Monogatari",
+        "alternativeTitle": "Binbou Shimai Monogatari",
+        "id": "binbou-shimai-monogatari-4042",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43a729662df74e2aaf5fd15d06b1cc04.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Martial Universe  3rd Season",
+        "alternativeTitle": "Wu Dong Qian Kun 3rd Season",
+        "id": "martial-universe-3rd-season-18043",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b896d66d275203e9d49ef0a8fa5ecf19.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Ascendance of a Bookworm Season 3 Recap",
+        "alternativeTitle": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season Recap",
+        "id": "ascendance-of-a-bookworm-season-3-recap-18053",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a32693ab06967141bfdc0e24cb869ccc.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "The World of Narue",
+        "alternativeTitle": "Narue no Sekai",
+        "id": "the-world-of-narue-5334",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d82c812dac8a811e98d021da9615803.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bullbuster",
+        "alternativeTitle": "Bullbuster",
+        "id": "bullbuster-18613",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e081c2760ebabbb28299e33bc452fee8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Baka to Test to Shoukanjuu Mini Anime",
+        "alternativeTitle": "Baka to Test to Shoukanjuu Mini Anime",
+        "id": "baka-to-test-to-shoukanjuu-mini-anime-4611",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06b15f15daf520a2a676c50c719d6756.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Detective Conan Movie 09: Strategy Above the Depths",
+        "alternativeTitle": "Detective Conan Movie 09: Strategy Above the Depths",
+        "id": "detective-conan-movie-09-strategy-above-the-depths-733",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b851cd6b1cdee4846d4420c950b335b6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Kenzen Robo Daimidaler Specials",
+        "alternativeTitle": "Kenzen Robo Daimidaler Specials",
+        "id": "kenzen-robo-daimidaler-specials-7333",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17f4f4b93030c0df99fde0791c913626.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Hey! Tonbo",
+        "alternativeTitle": "Ooi! Tonbo",
+        "id": "hey-tonbo-19098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21c48a748f0ca4739b991d4d78976104.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Astro Note",
+        "alternativeTitle": "Astro Note",
+        "id": "astro-note-19113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08b233c5dd862dbac0d22fba0f7a55cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lupin III: Part II",
+        "alternativeTitle": "Lupin III: Part II",
+        "id": "lupin-iii-part-ii-823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a36fa0cfc83e12723aa518ccf3a3a90.jpg",
+        "episodes": {
+          "sub": 155,
+          "dub": 79,
+          "eps": 155
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ichigo 100% Original DVD Animation",
+        "alternativeTitle": "Ichigo 100% OVA",
+        "id": "ichigo-100-original-dvd-animation-3906",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65d5d2eae070ee5fa51a5f8a776efe65.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Buzzer Beater",
+        "alternativeTitle": "Buzzer Beater",
+        "id": "buzzer-beater-5395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/941c8ca56b38818a6781c5a97fa6223f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Vazzrock The Animation",
+        "alternativeTitle": "Vazzrock The Animation",
+        "id": "vazzrock-the-animation-17288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7580bc6ce08c6209d9936944cb45824.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mezzo DSA",
+        "alternativeTitle": "Mezzo DSA",
+        "id": "mezzo-dsa-4906",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b54d51ba6af799e1caf803d7553fd10.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ultraman Final",
+        "alternativeTitle": "Ultraman Final",
+        "id": "ultraman-final-18381",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7e8afc55bb1884f62c03c9a62fa7f4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Shadowverse (TV)",
+        "alternativeTitle": "Shadowverse (TV)",
+        "id": "shadowverse-tv-10066",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/685eac2b09756ad779720297956a66c7.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Everlasting God Of Sword",
+        "alternativeTitle": "Wangu Jian Shen",
+        "id": "everlasting-god-of-sword-18496",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6c4720e9dce3653c0182fb7c541fd82.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Neuro: Supernatural Detective",
+        "alternativeTitle": "Majin Tantei Nougami Neuro",
+        "id": "neuro-supernatural-detective-1213",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49e473b3b4e8c16874e7b8e757a1af21.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?",
+        "alternativeTitle": "Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?",
+        "id": "kanojo-ga-flag-wo-oraretara-christmas-sonna-mono-ga-boku-ni-tsuuyou-suru-to-omou-no-ka-4563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b62e5f81a77d9d2c4bae784b95203428.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Onmyouji",
+        "alternativeTitle": "Onmyouji",
+        "id": "onmyouji-18626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0f94bdf2422873e7fe40d7967266a5e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "26m"
+      },
+      {
+        "title": "Are You Ok",
+        "alternativeTitle": "You Yao",
+        "id": "are-you-ok-12616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d36007de4f41d479ed36fcea62e5c785.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Locodol",
+        "alternativeTitle": "Futsuu no Joshikousei ga [Locodol] Yattemita.",
+        "id": "locodol-3987",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c89278eedc83f7c05654a8ca265691c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shadow Skill: Eigi",
+        "alternativeTitle": "Shadow Skill: Eigi",
+        "id": "shadow-skill-eigi-3101",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c8437bf6d75fa9664d1bfc1de88ea2c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Samurai 7",
+        "alternativeTitle": "Samurai 7",
+        "id": "samurai-7-1586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d085a58668c74337b52e07f959c2d701.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Detective Conan Movie 15: Quarter of Silence",
+        "alternativeTitle": "Detective Conan Movie 15: Quarter of Silence",
+        "id": "detective-conan-movie-15-quarter-of-silence-476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a7f3fad95a7df626bd5c980e31b70b1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Love Live! Superstar!! 2nd Season",
+        "alternativeTitle": "Love Live! Superstar!! 2nd Season",
+        "id": "love-live-superstar-2nd-season-18092",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cea9eab59b4a75833aee9b44fa23c6af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/kaleid liner Prisma☆Illya Specials",
+        "alternativeTitle": "Fate/kaleid liner Prisma☆Illya Specials",
+        "id": "fatekaleid-liner-prismaillya-specials-4385",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a16d77e457c4ce331be835f6a1ea5f8.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Musashino!",
+        "alternativeTitle": "Musashino!",
+        "id": "musashino-15819",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5797b9bc9c862a150745542d9aaad808.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ensemble Stars! Recap Special",
+        "alternativeTitle": "Ensemble Stars! Recap Special",
+        "id": "ensemble-stars-recap-special-7932",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db639418d77e55239171a8799baccbca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Summer Storm! Open for Business",
+        "alternativeTitle": "Natsu no Arashi! Akinaichuu",
+        "id": "summer-storm-open-for-business-2231",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56bd36e5f08be4bc72a139e83bdaa5a9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ro-Kyu-Bu ~ Fast Break!",
+        "alternativeTitle": "Ro-Kyu-Bu!",
+        "id": "ro-kyu-bu-fast-break-4165",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e06d7f60f822c2e1770dcccf86e5080.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bakugan: Battle Planet",
+        "alternativeTitle": "Bakugan: Battle Planet",
+        "id": "bakugan-battle-planet-9048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a06beafa6502ee467e31ac9b6b59ef4d.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hentai Ouji to Warawanai Neko.: Henneko BBS",
+        "alternativeTitle": "Hentai Ouji to Warawanai Neko.: Henneko BBS",
+        "id": "hentai-ouji-to-warawanai-neko-henneko-bbs-4640",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a42a808306dd0167639b91cfcde30343.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "The Magnificent Kotobuki",
+        "alternativeTitle": "Kouya no Kotobuki Hikoutai",
+        "id": "the-magnificent-kotobuki-4130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f2345cb95a2188a5cbb741e4c2f7838.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King of Thorn",
+        "alternativeTitle": "Ibara no Ou",
+        "id": "king-of-thorn-3523",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19f0b9125f5d2701f0b8f7e1524b97ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+        "alternativeTitle": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai",
+        "id": "ginga-eiyuu-densetsu-waga-yuku-wa-hoshi-no-taikai-591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a80ea05bd6cde30042b70d7fba1274f8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      }
+    ]
+  }
+}

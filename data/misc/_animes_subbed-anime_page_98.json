@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 98,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Happy Happy Clover",
+        "alternativeTitle": "Happy Happy Clover",
+        "id": "happy-happy-clover-6703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e150a4123305d406cd93d01a8b3501e9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Getsumen To Heiki Mina",
+        "alternativeTitle": "Getsumen To Heiki Mina",
+        "id": "getsumen-to-heiki-mina-6701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae1163e1b70c0c7d1692aa1ed39e58bc.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Geobreeders: (File-X) Get Back The Kitty",
+        "alternativeTitle": "Geobreeders: File-X Chibi Neko Dakkan",
+        "id": "geobreeders-file-x-get-back-the-kitty-6700",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/695ad3f8e9408b707d699c374a9d5d78.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ryu the Primitive Boy",
+        "alternativeTitle": "Genshi Shounen Ryuu",
+        "id": "ryu-the-primitive-boy-6699",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/802e023ba1fb9cf8a440715e93e68eb2.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fireball (Special)",
+        "alternativeTitle": "Fireball Special",
+        "id": "fireball-special-6698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d56ca5da9698ebc1684fa67505bcb4da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Misaki Chronicle: Divergence Eve",
+        "alternativeTitle": "Divergence Eve 2: Misaki Chronicles",
+        "id": "misaki-chronicle-divergence-eve-6697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04eb87dbac2ca1202b95de5e06a0f25e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cinderella Boy",
+        "alternativeTitle": "Cinderella Boy",
+        "id": "cinderella-boy-6692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2da3e72ad3894fb39cd0966c3dc5d3c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Cardfight!! Vanguard: High School Arc Cont.",
+        "alternativeTitle": "Cardfight!! Vanguard: Zoku Koukousei-hen",
+        "id": "cardfight-vanguard-high-school-arc-cont-6689",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03f3cb4ec23d4f26a9ebf3dd89598382.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Girlfriend is Shobitch",
+        "alternativeTitle": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+        "id": "my-girlfriend-is-shobitch-6688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d62b1f954ebf3fed312a99b8cf7e05c1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Azur Lane",
+        "alternativeTitle": "Azur Lane",
+        "id": "azur-lane-6687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7aaa1c3656b720bafbb3e0024fa239cd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "YuruYuri: For Whatever Reason, Never Ending, Heart Throbbing, Pitter-patter, Paradox Eternal",
+        "alternativeTitle": "Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal",
+        "id": "yuruyuri-for-whatever-reason-never-ending-heart-throbbing-pitter-patter-paradox-eternal-6684",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e39596ffb28a11bfaba4d50fed8adbe4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Sky of Connection",
+        "alternativeTitle": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+        "id": "sky-of-connection-6683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8380af552adcb0f577802a9d6611152c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Tatami Galaxy Specials",
+        "alternativeTitle": "Yojouhan Shinwa Taikei Specials",
+        "id": "the-tatami-galaxy-specials-6682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6dc611a3176498f4a63b22f130f59dcc.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Senran Kagura: Shinovi Master",
+        "alternativeTitle": "Senran Kagura Shinovi Master: Tokyo Youma-hen",
+        "id": "senran-kagura-shinovi-master-6674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3081700adf482758e63290f4eb53d5c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rinne no Lagrange Season 2 Specials",
+        "alternativeTitle": "Rinne no Lagrange Season 2 Specials",
+        "id": "rinne-no-lagrange-season-2-specials-6672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e6f153a02e5b582e1be132ac3d78092.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Ground Defense Force! Mao-chan",
+        "alternativeTitle": "Rikujou Bouei-tai Mao-chan",
+        "id": "ground-defense-force-mao-chan-6671",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d31e66333e199d735fa117f8057f4ec3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Puchitto Gargantia",
+        "alternativeTitle": "Puchitto Gargantia",
+        "id": "puchitto-gargantia-6670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24d09dd87551c41d9ebfae2d1ae21265.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Popotan",
+        "alternativeTitle": "Popotan",
+        "id": "popotan-6669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34430083a3acd5a3e98ebc9396d94a62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Otome Youkai Zakuro Picture Drama",
+        "alternativeTitle": "Otome Youkai Zakuro Picture Drama",
+        "id": "otome-youkai-zakuro-picture-drama-6668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd397175317484a78d9c14718879693b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Nozomi Witches",
+        "alternativeTitle": "Nozomi Witches",
+        "id": "nozomi-witches-6667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7b568d8ef4c861d144a022fd695a857.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Leviathan: The Last Defense",
+        "alternativeTitle": "Zettai Bouei Leviathan",
+        "id": "leviathan-the-last-defense-6663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d01cd7bc2688ca3a5208dfb5ffc4342.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Wo Kai Dongwuyuan Naxie Nian",
+        "alternativeTitle": "Wo Kai Dongwuyuan Naxie Nian",
+        "id": "wo-kai-dongwuyuan-naxie-nian-6661",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e5e04b1a693d0fd9be1113cbe8906c2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "On A Paper Crane: Tomoko's Adventure",
+        "alternativeTitle": "Tsuru ni Notte: Tomoko no Bouken",
+        "id": "on-a-paper-crane-tomokos-adventure-6659",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a67eef3876fadf5d624f4e0363e97d9f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "27m"
+      },
+      {
+        "title": "Blessing of the Campanella",
+        "alternativeTitle": "Shukufuku no Campanella",
+        "id": "blessing-of-the-campanella-6656",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/643e2582b3abc244062c5b18fa0d118c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Seiren",
+        "alternativeTitle": "Seiren",
+        "id": "seiren-6653",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31c367f90c01e96a92b9b247b917565a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I Don't Like You at All, Big Brother!! Special",
+        "alternativeTitle": "Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!! Special",
+        "id": "i-dont-like-you-at-all-big-brother-special-6647",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aba30597b838e93f2f7d26624ba2bdb9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Mighty Space Miners",
+        "alternativeTitle": "Oira Uchuu no Tankoufu",
+        "id": "mighty-space-miners-6646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/865f29e8e72e69427b5edbe90b6385d8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Dawn of the World",
+        "alternativeTitle": "Mo Ri Shu Guang",
+        "id": "dawn-of-the-world-6645",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7325f7eb8e15dcf69701b1b0170ffb07.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "Memories Off 2nd",
+        "alternativeTitle": "Memories Off 2nd",
+        "id": "memories-off-2nd-6643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2a5e50920203da86dfbc14cf25b94c5.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Machine Robo: Revenge of Cronos",
+        "alternativeTitle": "Machine Robo: Cronos no Dai Gyakushuu",
+        "id": "machine-robo-revenge-of-cronos-6639",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b64dba834f3aa7a6a24468358713b9c.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 0,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Koutetsu Sangokushi",
+        "alternativeTitle": "Koutetsu Sangokushi",
+        "id": "koutetsu-sangokushi-6635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1646630e87aa60102c055eb66e646103.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King of Fighters: Another Day",
+        "alternativeTitle": "King of Fighters: Another Day",
+        "id": "king-of-fighters-another-day-6633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09587de5acff2f816d90b9456b1a7e08.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Flint the Time Detective",
+        "alternativeTitle": "Jikuu Tantei Genshi-kun",
+        "id": "flint-the-time-detective-6631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21189e4c4b098a96a4eb5ff6cd5a42a4.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Galactic Patrol Lensman",
+        "alternativeTitle": "Galactic Patrol Lensman",
+        "id": "galactic-patrol-lensman-6628",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c3dd419ecddc3ca855e7b181d33f3e2.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

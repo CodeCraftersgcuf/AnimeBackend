@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 80,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "A Dark Rabbit has Seven Lives",
+        "alternativeTitle": "Itsuka Tenma no Kuro Usagi",
+        "id": "a-dark-rabbit-has-seven-lives-5185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04b3f3016fb22cf12691d0f51ce36f7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Puni Puni Poemy",
+        "alternativeTitle": "Puni Puni☆Poemii",
+        "id": "puni-puni-poemy-5441",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/350720224c60fd9a587fa3f6b7a53652.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Nozoki Ana",
+        "alternativeTitle": "Nozoki Ana",
+        "id": "nozoki-ana-5697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c0ad89d65666e28c2380bdccecb0776.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "55m"
+      },
+      {
+        "title": "Aquarian Age: Sign for Evolution",
+        "alternativeTitle": "Aquarian Age: Sign for Evolution",
+        "id": "aquarian-age-sign-for-evolution-7489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c509206e81e29779a7d6f0baee1a05f1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The World of Hans Christian Andersen",
+        "alternativeTitle": "Andersen Monogatari",
+        "id": "the-world-of-hans-christian-andersen-8257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd921ed79c48d9bee6524c6d4ea0e51d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
+        "alternativeTitle": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
+        "id": "juuza-engi-engetsu-sangokuden-gaiden-youzhou-genya-8513",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0f0cfbc1cee3fc3025af84e7583b638.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Inferno Cop: Fact Files",
+        "alternativeTitle": "Inferno Cop: Fact Files",
+        "id": "inferno-cop-fact-files-9537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c16283478882696aa95b1267eb426b0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "A.F",
+        "alternativeTitle": "A.F",
+        "id": "af-10561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30c87967e54b35493af6c84e6b08b838.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Sugar Bunnies Chocolate!",
+        "alternativeTitle": "Sugar Bunnies Chocolate!",
+        "id": "sugar-bunnies-chocolate-11841",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e659db9c2c75b95abb8355b1cc148778.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "8m"
+      },
+      {
+        "title": "D4DJ First Mix",
+        "alternativeTitle": "D4DJ: First Mix",
+        "id": "d4dj-first-mix-15681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ea841f5056538c5d50ae2e030e0f832.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Munou na Nana Mini Anime: Yaminabe Party",
+        "alternativeTitle": "Munou na Nana Mini Anime",
+        "id": "munou-na-nana-mini-anime-yaminabe-party-17217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02a0c5032c252bf97b154ac0579db2fc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Memory of Chang'an 2nd Season",
+        "alternativeTitle": "Shi Yi Chang An: Mingyue Jishi You Er",
+        "id": "memory-of-changan-2nd-season-17729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7003e3734d99cf6a0d48c1966e1d4297.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Everlasting God Of Sword",
+        "alternativeTitle": "Wangu Jian Shen (2022)",
+        "id": "everlasting-god-of-sword-18497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88288066cb593bd50fddc82f881d789c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "A Record of a Mortal's Journey to Immortality Season 2",
+        "alternativeTitle": "Fanren Xiu Xian Chuan 2nd Season",
+        "id": "a-record-of-a-mortals-journey-to-immortality-season-2-19009",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/717465545c01ffe01efb2f76db633636.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Silent House",
+        "alternativeTitle": "Ya She",
+        "id": "silent-house-19521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99607db327aff8feb93e702ab255e566.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Bakuman.",
+        "alternativeTitle": "Bakuman. 3rd Season",
+        "id": "bakuman-66",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5179e495d2f1bae93d74357672c6d3d4.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Hero Academia",
+        "alternativeTitle": "Boku no Hero Academia",
+        "id": "my-hero-academia-322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1ae1f3d3324e24dfdfa64e4c2e687f8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yuru Yuri-san High!: 3rd Season",
+        "alternativeTitle": "Yuru Yuri San☆Hai!",
+        "id": "yuru-yuri-san-high-3rd-season-578",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80261658036bd3338389e3ab0ea5ef8f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Saint Seiya: Knights of the Zodiac",
+        "alternativeTitle": "Saint Seiya",
+        "id": "saint-seiya-knights-of-the-zodiac-834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a0508625e4cbcf5916c08460d97d21.jpg",
+        "episodes": {
+          "sub": 114,
+          "dub": 114,
+          "eps": 114
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Romeo x Juliet",
+        "alternativeTitle": "Romeo x Juliet",
+        "id": "romeo-x-juliet-1090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61ae8064a9d1b65d98a620ea39acb666.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Senyuu. 2",
+        "alternativeTitle": "Senyuu. 2",
+        "id": "senyuu-2-1602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f759ae9516adb3259b1bc95eeb38db0c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "The Familiar of Zero: Rondo of Princesses",
+        "alternativeTitle": "Zero no Tsukaima: Princesses no Rondo",
+        "id": "the-familiar-of-zero-rondo-of-princesses-1858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aea52ce6d8659cb473cf28e6e2f22c0d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Adieu Galaxy Express 999",
+        "alternativeTitle": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+        "id": "adieu-galaxy-express-999-2370",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b650a26eae1dd2336f8b6b27ddaf0f74.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "Digimon Adventure tri. Future",
+        "alternativeTitle": "Digimon Adventure tri. 6: Bokura no Mirai",
+        "id": "digimon-adventure-tri-future-2626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4893c315a0f8ce204f8a28080aa04da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "All Out!!",
+        "alternativeTitle": "All Out!!",
+        "id": "all-out-3138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c302c65c62e68ce9b636d3f2109e7a81.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shin Getter Robo vs. Neo Getter Robo",
+        "alternativeTitle": "Shin Getter Robo tai Neo Getter Robo",
+        "id": "shin-getter-robo-vs-neo-getter-robo-3394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cb2ab8c1c1beb610f5012df87d6e49b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Android Kikaider",
+        "alternativeTitle": "Jinzou Ningen Kikaider The Animation",
+        "id": "android-kikaider-3650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/363bf0d7715f2eb263309b9389fc4535.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ichigo 100% Original DVD Animation",
+        "alternativeTitle": "Ichigo 100% OVA",
+        "id": "ichigo-100-original-dvd-animation-3906",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65d5d2eae070ee5fa51a5f8a776efe65.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Go! Princess Precure Movie: Go! Go!! Gouka 3-bondate!!!",
+        "alternativeTitle": "Go! Princess Precure Movie: Go! Go!! Gouka 3-bondate!!!",
+        "id": "go-princess-precure-movie-go-go-gouka-3-bondate-4930",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/69b0e72354ed221612689ef3f96c8cf7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "75m"
+      },
+      {
+        "title": "Guardian Ninja Mamoru",
+        "alternativeTitle": "Kage kara Mamoru!",
+        "id": "guardian-ninja-mamoru-5186",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61f3a0bb57a740581c75ef468a117bfe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Reideen",
+        "alternativeTitle": "Reideen",
+        "id": "reideen-5442",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed8faefd0d4d940d07d67af0dc6884dc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gall Force 1: Eternal Story",
+        "alternativeTitle": "Gall Force 1: Eternal Story",
+        "id": "gall-force-1-eternal-story-5954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c577cb0a1a0e15f534df82ca579e564b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "86m"
+      },
+      {
+        "title": "Shin Mashin Eiyuuden Wataru Majinzan",
+        "alternativeTitle": "Shin Mashin Eiyuuden Wataru Majinzan",
+        "id": "shin-mashin-eiyuuden-wataru-majinzan-7234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e030756c31694312029a77094b2cb970.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Arion",
+        "alternativeTitle": "Arion",
+        "id": "arion-7490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e1f81faf8255291b6edad8cf297987b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Welcome to the JAPARI PARK",
+        "alternativeTitle": "Youkoso Japari Park",
+        "id": "welcome-to-the-japari-park-9026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ece51ede80ec1c146460d5f47f8a9bf1.jpg",
+        "episodes": {
+          "sub": 36,
+          "dub": 0,
+          "eps": 36
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Date A Bullet: Nightmare or Queen",
+        "alternativeTitle": "Date A Bullet: Nightmare or Queen",
+        "id": "date-a-bullet-nightmare-or-queen-15682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40ea38b84eff29025d749ffcc629db7f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "29m"
+      },
+      {
+        "title": "Devour Eternity",
+        "alternativeTitle": "Tunshi Yongheng",
+        "id": "devour-eternity-19522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ff463e693b0475aba2461d1c7aabf6c.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Fate/Zero Season 2",
+        "alternativeTitle": "Fate/Zero 2nd Season",
+        "id": "fatezero-season-2-67",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4da992fefb1b9d2ee3e939403375a08e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Non Non Biyori",
+        "alternativeTitle": "Non Non Biyori",
+        "id": "non-non-biyori-579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d57f9932470751615d856fed77ac00b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Food Wars! The Fourth Plate",
+        "alternativeTitle": "Shokugeki no Souma: Shin no Sara",
+        "id": "food-wars-the-fourth-plate-835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/940afa3742dc3f702e8103292e79075c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

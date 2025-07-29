@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 19,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "A Bridge to the Starry Skies",
+        "alternativeTitle": "Hoshizora e Kakaru Hashi",
+        "id": "a-bridge-to-the-starry-skies-4364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f5db92f931c6ea61a1bac81df7f0aed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "A Dark Rabbit has Seven Lives",
+        "alternativeTitle": "Itsuka Tenma no Kuro Usagi",
+        "id": "a-dark-rabbit-has-seven-lives-5185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04b3f3016fb22cf12691d0f51ce36f7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+        "alternativeTitle": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+        "id": "boku-no-tonari-ni-ankoku-hakaishin-ga-imasu-5009",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32e78357f694055472d912b20a5d0a4a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ai-Mai-Mi",
+        "alternativeTitle": "Choboraunyopomi Gekijou Ai Mai Mii",
+        "id": "ai-mai-mi-8486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/779638d283a02ed5c788c60bcee73ab4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "AHO-GIRL",
+        "alternativeTitle": "Aho Girl",
+        "id": "aho-girl-3700",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90ab3a3ff0a6cc87f62a8067ef1863af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Active Raid",
+        "alternativeTitle": "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari",
+        "id": "active-raid-8361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76993d85c82a9b7d6b7b314e53d758f1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Actually, I am...",
+        "alternativeTitle": "Jitsu wa Watashi wa",
+        "id": "actually-i-am-3799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b420c4a6f2d747aaa2a073c93e770c4b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aldnoah.Zero",
+        "alternativeTitle": "Aldnoah.Zero",
+        "id": "aldnoahzero-1683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eee2f5b71e3f1de9f20a53b6fd93dec1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aldnoah.Zero 2nd Season",
+        "alternativeTitle": "Aldnoah.Zero 2nd Season",
+        "id": "aldnoahzero-2nd-season-3556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3169eb4934a495f795694172dbe035b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Akame ga Kill!",
+        "alternativeTitle": "Akame ga Kill!",
+        "id": "akame-ga-kill-1329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfd6b4cb63f4ca2acbee3b55a7c29afb.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Akashic Records of Bastard Magic Instructor",
+        "alternativeTitle": "Rokudenashi Majutsu Koushi to Akashic Records",
+        "id": "akashic-records-of-bastard-magic-instructor-2674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e3a434d11fcb53cc8fa5119ec8812b0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Active Raid Second",
+        "alternativeTitle": "Active Raid: Kidou Kyoushuushitsu Dai Hachi Gakari 2nd",
+        "id": "active-raid-second-6258",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c36b579011b88c09447b8bdc74f348c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sunday Without God: Memories",
+        "alternativeTitle": "Kamisama no Inai Nichiyoubi: Kioku",
+        "id": "sunday-without-god-memories-3908",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31fbebae97f3213923c11462c3a02722.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Angels of Death",
+        "alternativeTitle": "Satsuriku no Tenshi",
+        "id": "angels-of-death-4182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/213ca7cfccc1bed3ce9a97a19ac2131c.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Brothers Conflict OVA",
+        "alternativeTitle": "Brothers Conflict OVA",
+        "id": "brothers-conflict-ova-4816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20e9919d5fc023a85d913e41ed142804.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Angel Beats!",
+        "alternativeTitle": "Angel Beats!",
+        "id": "angel-beats-321",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9432a1c947b1fe6da1d7c9a3c324527.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Angel's 3Piece!",
+        "alternativeTitle": "Tenshi no 3P!",
+        "id": "angels-3piece-4947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2073932fa4aed6239ecb4eb94efee46f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ai-Mai-Mi Surgical Friends",
+        "alternativeTitle": "Choboraunyopomi Gekijou Dai San Maku Ai Mai Mii: Surgical Friends",
+        "id": "ai-mai-mi-surgical-friends-7519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afd82d153912bd2059eb2a3a17c9758b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ai-Mai-Mi Mousou Catastrophe",
+        "alternativeTitle": "Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe",
+        "id": "ai-mai-mi-mousou-catastrophe-8068",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd700460457f5067e9dc45ab661da789.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Aiura",
+        "alternativeTitle": "Aiura",
+        "id": "aiura-4784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66c723ad62ec6e6aee817600c5976d93.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Anime-Gataris",
+        "alternativeTitle": "Animegataris",
+        "id": "anime-gataris-6078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34285b893f9414d1262a9886c2375d72.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Anisava",
+        "alternativeTitle": "Anisava",
+        "id": "anisava-8941",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ab6b6b0bada731bb2450bc399444a4d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Sengoku Basara Two: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!",
+        "alternativeTitle": "Sengoku Basara Two: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!",
+        "id": "sengoku-basara-two-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii-2460",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef5920bdbef160e4a23f66d88fce111e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "26m"
+      },
+      {
+        "title": "Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!",
+        "alternativeTitle": "Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!",
+        "id": "sengoku-basara-setonai-no-gekitotsu-hi-wo-fuku-umi-no-daiyousai-fugaku-2782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f349ebae2fc3550292d702df08bf0ea9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Ange Vierge",
+        "alternativeTitle": "Ange Vierge",
+        "id": "ange-vierge-7848",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffea14c8f8528dd8675c3c17892a7c13.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Amazing Stranger",
+        "alternativeTitle": "Choukadou Girl ⅙",
+        "id": "amazing-stranger-7953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e210e8e74283be4d5b40d2a66b6c452.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Amagi Brilliant Park",
+        "alternativeTitle": "Amagi Brilliant Park",
+        "id": "amagi-brilliant-park-1452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2207409e2c327d626fe4563c92748f1a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Alice & Zoroku",
+        "alternativeTitle": "Alice to Zouroku",
+        "id": "alice-zoroku-3048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8635e70d2393a1f7513e110a9d86ba47.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Another",
+        "alternativeTitle": "Another",
+        "id": "another-1330",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7adb325bcfe1ab8376c0af800c0ab9e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "anohana: The Flower We Saw That Day",
+        "alternativeTitle": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "id": "anohana-the-flower-we-saw-that-day-115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06cae051e5171874535ce48ed89edf41.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Are You Lost?",
+        "alternativeTitle": "Sounan Desu ka?",
+        "id": "are-you-lost-5071",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e65f62f7126a2dbeace7171ff21b1e52.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Waiting in the Summer",
+        "alternativeTitle": "Ano Natsu de Matteru",
+        "id": "waiting-in-the-summer-1514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58b6ed7c0ed874b6290b320c538e760e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Anne-Happy",
+        "alternativeTitle": "Anne Happy♪",
+        "id": "anne-happy-3576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c24617fcc77c1a459fcb76b26095e17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Anime Kabibarasan",
+        "alternativeTitle": "Anime Kapibara-san",
+        "id": "anime-kabibarasan-15642",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e7da82438acb481ac0798f0b3244daa.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Anime de Training! Ex",
+        "alternativeTitle": "Anitore! EX",
+        "id": "anime-de-training-ex-9534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30ec450588f5634d8306936289c0c467.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Anime de Training! Xx",
+        "alternativeTitle": "Anitore! XX: Hitotsu Yane no Shita de",
+        "id": "anime-de-training-xx-9080",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fa39334efe698f4cbf45ac81a69c489.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Angolmois: Record of Mongol Invasion",
+        "alternativeTitle": "Angolmois: Genkou Kassenki",
+        "id": "angolmois-record-of-mongol-invasion-2893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/037bf32585f128c3ec069ff0ac615c78.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Anima Yell!",
+        "alternativeTitle": "Anima Yell!",
+        "id": "anima-yell-3727",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7138860e436efe72360fde5fc6bb32f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Devil Lady",
+        "alternativeTitle": "Devilman Lady",
+        "id": "the-devil-lady-4981",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afce8a88602d0e8c4125dc81ac9524f0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Allison & Lillia",
+        "alternativeTitle": "Allison to Lillia",
+        "id": "allison-lillia-2110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/350bc7a5688ae433fa251d81d461024a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

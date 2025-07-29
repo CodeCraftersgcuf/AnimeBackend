@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 24,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Gods' Game We Play",
+        "alternativeTitle": "Kami wa Game ni Ueteiru.",
+        "id": "gods-game-we-play-19110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e8eadbdb1bdda801ec2d8b4a5a8a9cc.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Garden of Words",
+        "alternativeTitle": "Kotonoha no Niwa",
+        "id": "the-garden-of-words-414",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd2425b4fb8fe7aec860e4706d981392.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "46m"
+      },
+      {
+        "title": "So, I Can't Play H!",
+        "alternativeTitle": "Dakara Boku wa, H ga Dekinai.",
+        "id": "so-i-cant-play-h-4923",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d53a3ab2a4d17128d4afdc2a1de76861.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Darwin's Game",
+        "alternativeTitle": "Darwin's Game",
+        "id": "darwins-game-2056",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1021769b2a62f1dc75d0a57761ceb019.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Plastic Memories",
+        "alternativeTitle": "Plastic Memories",
+        "id": "plastic-memories-605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9dd7bfe2020dbaf2cf80be205a1257a9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Angel Beats!",
+        "alternativeTitle": "Angel Beats!",
+        "id": "angel-beats-321",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9432a1c947b1fe6da1d7c9a3c324527.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Junji Ito Collection",
+        "alternativeTitle": "Itou Junji: Collection",
+        "id": "the-junji-ito-collection-7363",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3f66a2cf27d7217098a79b3041b32e6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Absolute Duo",
+        "alternativeTitle": "Absolute Duo",
+        "id": "absolute-duo-5554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a681ad2af60271bd3b1ae544b5b14265.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Unnamed Memory Season 2",
+        "alternativeTitle": "Unnamed Memory Act.2",
+        "id": "unnamed-memory-season-2-19440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/174abeeab8987269a33f3929cd4f1ceb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "RWBY: Ice Queendom",
+        "alternativeTitle": "RWBY: Hyousetsu Teikoku",
+        "id": "rwby-ice-queendom-18086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88c1a7efeaaa6cd8de3fedda1e5891ac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Devils' Line",
+        "alternativeTitle": "Devils Line",
+        "id": "devils-line-4440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d3d92861e381c8056b744e47718322c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Taboo Tattoo",
+        "alternativeTitle": "Taboo Tattoo",
+        "id": "taboo-tattoo-8594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31d6d62e8db3a204eebc9971ab6f15d2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Castlevania 2nd Season",
+        "alternativeTitle": "Castlevania 2nd Season",
+        "id": "castlevania-2nd-season-17871",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d080ff3e215e9a9c5561056c178df54e.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Love of Kill",
+        "alternativeTitle": "Koroshi Ai",
+        "id": "love-of-kill-17404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/27543b652a5b6bb9e4a57fd6470d41e1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Faraway Paladin: The Lord of Rust Mountains",
+        "alternativeTitle": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+        "id": "the-faraway-paladin-the-lord-of-rust-mountains-18576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b9ee25ecd4fd800f05f6b4b171d7ec6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "YU-NO: A girl who chants love at the bound of this world.",
+        "alternativeTitle": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO",
+        "id": "yu-no-a-girl-who-chants-love-at-the-bound-of-this-world-5328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/992b9a5f69eb74bf227a6918e729427e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "When Will Ayumu Make His Move?",
+        "alternativeTitle": "Soredemo Ayumu wa Yosetekuru",
+        "id": "when-will-ayumu-make-his-move-17444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aef2fb998beeb3bbb56f2ba93d8d5d11.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World's End Harem",
+        "alternativeTitle": "Shuumatsu no Harem",
+        "id": "worlds-end-harem-17959",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34b9a8ed656558d0d40f427f91a86325.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Swallowed Star 2nd Season",
+        "alternativeTitle": "Tunshi Xingkong 2nd Season",
+        "id": "swallowed-star-2nd-season-18018",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23cc8e120b74d5fc55050b0e88f00758.jpg",
+        "episodes": {
+          "sub": 154,
+          "dub": 0,
+          "eps": 154
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Tsukigakirei",
+        "alternativeTitle": "Tsuki ga Kirei",
+        "id": "tsukigakirei-296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b24223ef9734fdaa9e3cb6d2d81a145.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Girlfriend, Girlfriend Season 2",
+        "alternativeTitle": "Kanojo mo Kanojo Season 2",
+        "id": "girlfriend-girlfriend-season-2-18581",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddca778f736a037ecc8fcd1720e28e87.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/Apocrypha",
+        "alternativeTitle": "Fate/Apocrypha",
+        "id": "fateapocrypha-2907",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc8b7cb55357ca963a3f8d0cc36eb380.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Rising of the Shield Hero Season 4",
+        "alternativeTitle": "Tate no Yuusha no Nariagari Season 4",
+        "id": "the-rising-of-the-shield-hero-season-4-19790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f388247d0d1c9dfd45c9e704ebe031aa.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kakegurui××",
+        "alternativeTitle": "Kakegurui××",
+        "id": "kakegurui-1988",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c62121394e798b44fb0aadab6bbf15.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pluto",
+        "alternativeTitle": "Pluto",
+        "id": "pluto-15516",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bfb50c09c520277ca746ad050a8fe1.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "60m"
+      },
+      {
+        "title": "Mother of the Goddess' Dormitory",
+        "alternativeTitle": "Megami-ryou no Ryoubo-kun.",
+        "id": "mother-of-the-goddess-dormitory-15799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4baa39376c62b622a5bf42a2d4c597f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Flops",
+        "alternativeTitle": "Renai Flops",
+        "id": "love-flops-18173",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c08b4fd12e27ac4e1dc4e72af8e9568.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Restaurant to Another World",
+        "alternativeTitle": "Isekai Shokudou",
+        "id": "restaurant-to-another-world-2125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be512cf0058a31aef0a9c49750b0b9b8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Doctor Elise: The Royal Lady with the Lamp",
+        "alternativeTitle": "Gekai Elise",
+        "id": "doctor-elise-the-royal-lady-with-the-lamp-18823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee2fa15713a01db5268c9be11b1edeef.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Osamake: Romcom Where The Childhood Friend Won't Lose!",
+        "alternativeTitle": "Osananajimi ga Zettai ni Makenai Love Comedy",
+        "id": "osamake-romcom-where-the-childhood-friend-wont-lose-15508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95da570af4525b35fd2ec7b9cbd16bf9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Elfen Lied",
+        "alternativeTitle": "Elfen Lied",
+        "id": "elfen-lied-1313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89f91abd99e05a925a033adeb0b169f4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Aki-Sora: Yume no Naka",
+        "alternativeTitle": "Aki-Sora: Yume no Naka",
+        "id": "aki-sora-yume-no-naka-7487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c45a028d8a12ea6c0fa7727194c358f.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Orient Part 2",
+        "alternativeTitle": "Orient: Awajishima Gekitou-hen",
+        "id": "orient-part-2-18089",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1c4dcf2e30bb7370030606c01f4fc9b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Infinite Dendrogram",
+        "alternativeTitle": "Infinite Dendrogram",
+        "id": "infinite-dendrogram-7436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/295926ca2334663d3dbd0f53da1a14fd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Overlord: The Sacred Kingdom",
+        "alternativeTitle": "Overlord Movie 3: Sei Oukoku-hen",
+        "id": "overlord-the-sacred-kingdom-19262",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1fcb81c5bef326a089cdc6f2b054605.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "135m"
+      },
+      {
+        "title": "Studio Apartment, Good Lighting, Angel Included",
+        "alternativeTitle": "One Room, Hiatari Futsuu, Tenshi-tsuki.",
+        "id": "studio-apartment-good-lighting-angel-included-19118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4062457189c82116441b055eb07acec3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shaman King (2021)",
+        "alternativeTitle": "Shaman King (2021)",
+        "id": "shaman-king-2021-15541",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8e8ab94a56f1e3eb720f1b218ba1c4c.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "How heavy are the dumbbells you lift?",
+        "alternativeTitle": "Dumbbell Nan Kilo Moteru?",
+        "id": "how-heavy-are-the-dumbbells-you-lift-1879",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6f4137dce265a904e70da894e688ee7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shin Chan",
+        "alternativeTitle": "Crayon Shin-chan",
+        "id": "shin-chan-1058",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e823a4a4b8b1445deac56a7075aa8748.jpg",
+        "episodes": {
+          "sub": 78,
+          "dub": 78,
+          "eps": 78
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "Dragon Quest: Adventure of Dai (2020)",
+        "alternativeTitle": "Dragon Quest: Dai no Daibouken (2020)",
+        "id": "dragon-quest-adventure-of-dai-2020-2410",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/567e9a3ead04fec9a8ad1a0c5f363d43.jpg",
+        "episodes": {
+          "sub": 100,
+          "dub": 100,
+          "eps": 100
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

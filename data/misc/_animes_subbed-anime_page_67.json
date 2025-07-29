@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 67,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Okama Report",
+        "alternativeTitle": "Okama Hakusho",
+        "id": "okama-report-10888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc344f69f4b59297bfdf502b68501cb2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Ojamanga Yamada-kun (Movie)",
+        "alternativeTitle": "Ojamanga Yamada-kun (Movie)",
+        "id": "ojamanga-yamada-kun-movie-10867",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17b339a412795f6f623b680cb1e7d895.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "27m"
+      },
+      {
+        "title": "Ohayou! Spank (Movie)",
+        "alternativeTitle": "Ohayou! Spank (Movie)",
+        "id": "ohayou-spank-movie-10862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff5d3f12025051b2f4ccba47b5f0535c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Ogami Matsugorou",
+        "alternativeTitle": "Ogami Matsugorou",
+        "id": "ogami-matsugorou-10850",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d42790e74b157f3f6a7730b337b28f13.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Ninja Bugei-chou Pilot Film",
+        "alternativeTitle": "Ninja Bugei-chou Pilot Film",
+        "id": "ninja-bugei-chou-pilot-film-10741",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dea699a895c38950780b1447677b2e4c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Nijuushi no Hitomi",
+        "alternativeTitle": "Nijuushi no Hitomi",
+        "id": "nijuushi-no-hitomi-10726",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd5ca06329148860c2867fcb9ae6c87f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "70m"
+      },
+      {
+        "title": "Niji no Kanata e! Shoujo Diana Monogatari",
+        "alternativeTitle": "Niji no Kanata e! Shoujo Diana Monogatari",
+        "id": "niji-no-kanata-e-shoujo-diana-monogatari-10722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cf6958c45b1db27a1486bca7d90b803.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Ni Zhuan Ci Yuan: AI Jue Qi",
+        "alternativeTitle": "Ni Zhuan Ci Yuan: AI Jue Qi",
+        "id": "ni-zhuan-ci-yuan-ai-jue-qi-10711",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52f29c82f02859142fb3e03a0761b169.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "Stars Fall",
+        "alternativeTitle": "Ni Zai Xing Guang Shen Chu",
+        "id": "stars-fall-10710",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66dc664db8be4ade4abcf925d39425c8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Mars of Destruction",
+        "alternativeTitle": "Hametsu no Mars",
+        "id": "mars-of-destruction-10690",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd3d62d937899eca0bb0bb59c6cdfa40.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "19m"
+      },
+      {
+        "title": "Panzer Dragoon",
+        "alternativeTitle": "Panzer Dragoon",
+        "id": "panzer-dragoon-10672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6f68e611e580ebafabd55de3755bf78.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Ninja Collection",
+        "alternativeTitle": "Ninja Collection",
+        "id": "ninja-collection-10668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e96eaf0397fce54b17daf69a54a34f47.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Generation of Chaos",
+        "alternativeTitle": "Generation of Chaos",
+        "id": "generation-of-chaos-10663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70bfe1f090099d7f920e1ccc59d2cd1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Pupa",
+        "alternativeTitle": "Pupa",
+        "id": "pupa-10661",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5a406546d080ca549ff10967acc2625.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Angel's Drop",
+        "alternativeTitle": "Tenshi no Drop",
+        "id": "angels-drop-10659",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53b5dd127b7e241a5aec74b91a9035f6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Mahou Shoujo? Naria Girls",
+        "alternativeTitle": "Mahou Shoujo? Naria☆Girls",
+        "id": "mahou-shoujo-naria-girls-10647",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1babaa1460a39b3d70335f456cdd2249.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "8m"
+      },
+      {
+        "title": "Gibiate",
+        "alternativeTitle": "Gibiate",
+        "id": "gibiate-10637",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ab8bc86fc3938b1113d8b2b174657d9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Irresponsible Galaxy☆Tylor",
+        "alternativeTitle": "Musekinin Galaxy☆Tylor",
+        "id": "the-irresponsible-galaxytylor-10635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa335abc774739e6fe1a52fe8cc13b78.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Gondora",
+        "alternativeTitle": "Gondora",
+        "id": "gondora-10634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecbb5f8ec4640790dd58e0e6d5dfda99.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Adventures in Beauty Wonderland",
+        "alternativeTitle": "Adventures in Beauty Wonderland",
+        "id": "adventures-in-beauty-wonderland-10631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fce17ce962876e5a202e1e877c53de6a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "4m"
+      },
+      {
+        "title": "Battle of Clay",
+        "alternativeTitle": "Nendo no Tatakai (2019)",
+        "id": "battle-of-clay-10620",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52f54bfd9733dcb3b3a0e7379141d782.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Ladyspo",
+        "alternativeTitle": "Ladyspo",
+        "id": "ladyspo-10613",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be77bff2bf423d5bac698a258fb88758.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Idol Fighter Su-Chi-Pai",
+        "alternativeTitle": "Idol Fight Suchie-Pai 2",
+        "id": "idol-fighter-su-chi-pai-10600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/504dc8e960fd7fd7bcbc85ab787723d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ragnastrike Angels",
+        "alternativeTitle": "Ragnastrike Angels",
+        "id": "ragnastrike-angels-10598",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ee9c2340b8b6b3b87febfa0b2b3f441.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Kennel Tokorozawa",
+        "alternativeTitle": "Kennel Tokorozawa",
+        "id": "kennel-tokorozawa-10597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e237b5b66ce2b713aec074b3bc226da3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Generation of Chaos Next: Chikai no Pendant",
+        "alternativeTitle": "Generation of Chaos Next: Chikai no Pendant",
+        "id": "generation-of-chaos-next-chikai-no-pendant-10591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51bd0c606a71c8a46cd172c405e09d7b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Issho ni Sleeping: Sleeping with Hinako",
+        "alternativeTitle": "Issho ni Sleeping: Sleeping with Hinako",
+        "id": "issho-ni-sleeping-sleeping-with-hinako-10578",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94e824a0c885d9c4018f1530494b69d6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "49m"
+      },
+      {
+        "title": "Forest Fairy Five",
+        "alternativeTitle": "Forest Fairy Five",
+        "id": "forest-fairy-five-10577",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e9b7d2adcedbc1b7f589930e29faa53.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Eiken",
+        "alternativeTitle": "Eiken: Eikenbu yori Ai wo Komete",
+        "id": "eiken-10576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ef587de79381f6b90137e761f196f1b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Crane Game Girls",
+        "alternativeTitle": "Bishoujo Yuugi Unit Crane Game Girls",
+        "id": "crane-game-girls-10575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/591f81cb0dbf7a4e455e2be296aa0fff.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "A.F",
+        "alternativeTitle": "A.F",
+        "id": "af-10561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30c87967e54b35493af6c84e6b08b838.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Onyankopon",
+        "alternativeTitle": "Onyankopon",
+        "id": "onyankopon-10559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18d653e16b27a17d82e043a1372f981c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Glamorous Heroes",
+        "alternativeTitle": "Glamorous Heroes",
+        "id": "glamorous-heroes-10555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0990782269cb27f388cad15f54c26cbb.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "makuranodanshi",
+        "alternativeTitle": "Makura no Danshi",
+        "id": "makuranodanshi-10554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59f2db3cf0fc282d7c40eed094e0a0e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      }
+    ]
+  }
+}

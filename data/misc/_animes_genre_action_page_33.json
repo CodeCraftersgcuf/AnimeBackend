@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 33,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Wild Arms",
+        "alternativeTitle": "Wild Arms: Twilight Venom",
+        "id": "wild-arms-4974",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d82c19aa990d94509b59ef81a112a0a3.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Warlords of Sigrdrifa",
+        "alternativeTitle": "Senyoku no Sigrdrifa",
+        "id": "warlords-of-sigrdrifa-5261",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b78b0539df9ea06fb74a23702a26925.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wings of the World",
+        "alternativeTitle": "Wan Guo Zhi",
+        "id": "wings-of-the-world-12379",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edc6ddd6b871f5c599ed1d3f31bfb827.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Wangan Midnight",
+        "alternativeTitle": "Wangan Midnight",
+        "id": "wangan-midnight-1736",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cdead849640892e527d36f1bf7d7468b.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Witchblade",
+        "alternativeTitle": "Witchblade",
+        "id": "witchblade-2449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8a258a65453124cee9db59075676d33.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Xuan Yuan Sword Luminary",
+        "alternativeTitle": "Ken En Ken: Aoki Kagayaki",
+        "id": "xuan-yuan-sword-luminary-7780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/779b395ffe0f72147b5dfa311fe7d17f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Xue Ying Ling Zhu",
+        "alternativeTitle": "Xue Ying Ling Zhu",
+        "id": "xue-ying-ling-zhu-2850",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eaacd420e2dee3f9c86f10885e24f1b6.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Xue Ying Ling Zhu 2nd Season",
+        "alternativeTitle": "Xue Ying Ling Zhu 2nd Season",
+        "id": "xue-ying-ling-zhu-2nd-season-17457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d41a6033b961cd43bfb609fbfa564ebe.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Fena: Pirate Princess",
+        "alternativeTitle": "Kaizoku Oujo",
+        "id": "fena-pirate-princess-17888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d77b8f7ebe76236c26a2ffba239fd9ec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Getter Robo Arc",
+        "alternativeTitle": "Getter Robo Arc",
+        "id": "getter-robo-arc-17300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e58ca1268788614d3e2839d9ea22e40.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Scissor Seven Specials",
+        "alternativeTitle": "Cike Wu Liuqi Specials",
+        "id": "scissor-seven-specials-17925",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31807f183405ef8c2f9589665b8340e9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Yona of the Dawn",
+        "alternativeTitle": "Akatsuki no Yona",
+        "id": "yona-of-the-dawn-439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f25045ed5c1e81d9644ab11f1ffd485.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yozakura Quartet: Hana no Uta",
+        "alternativeTitle": "Yozakura Quartet: Hana no Uta",
+        "id": "yozakura-quartet-hana-no-uta-1544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa2461c94a8a6e28d4e3e5f2beb0f8c8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yu-Gi-Oh! Arc-V",
+        "alternativeTitle": "Yu☆Gi☆Oh! Arc-V",
+        "id": "yu-gi-oh-arc-v-4266",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/423796b3867825e7d136027279e24d4a.jpg",
+        "episodes": {
+          "sub": 148,
+          "dub": 99,
+          "eps": 148
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yu-Gi-Oh! GX",
+        "alternativeTitle": "Yu☆Gi☆Oh!: Duel Monsters GX",
+        "id": "yu-gi-oh-gx-2946",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fb1587e7e93befcf0909b66d42acfcb.jpg",
+        "episodes": {
+          "sub": 180,
+          "dub": 180,
+          "eps": 180
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yawara!",
+        "alternativeTitle": "Yawara!",
+        "id": "yawara-1607",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab076039028f601d8296137ef32c3f77.jpg",
+        "episodes": {
+          "sub": 124,
+          "dub": 0,
+          "eps": 124
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Yashahime: Princess Half-Demon",
+        "alternativeTitle": "Hanyou no Yashahime: Sengoku Otogizoushi",
+        "id": "yashahime-princess-half-demon-1131",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35f5d28908f3f2f6b6e5b43c3b6b264e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yumeria",
+        "alternativeTitle": "Yumeria",
+        "id": "yumeria-7484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89125890f4c56e27d459f93f81c0a03c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yes! Pretty Cure 5",
+        "alternativeTitle": "Yes! Precure 5",
+        "id": "yes-pretty-cure-5-3025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e61f6712a6f16fdd5c02fd63035786ab.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yes! Precure 5 GoGo!",
+        "alternativeTitle": "Yes! Precure 5 GoGo!",
+        "id": "yes-precure-5-gogo-3111",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8208a691499f48b5e0676645be13006d.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You're Under Arrest (1996)",
+        "alternativeTitle": "Taiho Shichau zo (TV)",
+        "id": "youre-under-arrest-1996-1476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/595740a16fc92fcdd1e3c21807a5b463.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You're Under Arrest: Fast & Furious",
+        "alternativeTitle": "Taiho Shichau zo: Second Season",
+        "id": "youre-under-arrest-fast-furious-1852",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e074c6ad64a063d93057149b0ece569.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You're Under Arrest: Full Throttle",
+        "alternativeTitle": "Taiho Shichau zo: Full Throttle",
+        "id": "youre-under-arrest-full-throttle-2702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8adf906cddc0d2a3d27e7d72d4044f82.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yamato 2520",
+        "alternativeTitle": "Yamato 2520",
+        "id": "yamato-2520-8537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62a1bd4109f8f6e460e43aac30b930f6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "57m"
+      },
+      {
+        "title": "Yozakura Quartet: Hoshi no Umi",
+        "alternativeTitle": "Yozakura Quartet: Hoshi no Umi",
+        "id": "yozakura-quartet-hoshi-no-umi-1856",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a237a3f166cca69b864369cf12a7c1c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Yozakura Quartet: Tsuki ni Naku",
+        "alternativeTitle": "Yozakura Quartet: Tsuki ni Naku",
+        "id": "yozakura-quartet-tsuki-ni-naku-1533",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e78fe0e037930efdaecda6a9831f80ed.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Zoku Touken Ranbu: Hanamaru",
+        "alternativeTitle": "Zoku Touken Ranbu: Hanamaru",
+        "id": "zoku-touken-ranbu-hanamaru-2283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce0e62409974bc322359a3ad793d1ea6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zombie-Loan",
+        "alternativeTitle": "Zombie-Loan",
+        "id": "zombie-loan-3952",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/748e105511a8c2e311231c8db164b7e1.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Zenki",
+        "alternativeTitle": "Kishin Douji Zenki",
+        "id": "zenki-3672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/585106d5d58bc7e3fcabf4e07aa65515.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zillion",
+        "alternativeTitle": "Akai Koudan Zillion",
+        "id": "zillion-5306",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/244061ee8eec0ee230b382e2b7858919.jpg",
+        "episodes": {
+          "sub": 31,
+          "dub": 0,
+          "eps": 31
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zoids",
+        "alternativeTitle": "Zoids",
+        "id": "zoids-1957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2794ea1274404aa715e5f92e744adbe6.jpg",
+        "episodes": {
+          "sub": 67,
+          "dub": 67,
+          "eps": 67
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "ZENONZARD THE ANIMATION",
+        "alternativeTitle": "Zenonzard The Animation",
+        "id": "zenonzard-the-animation-6878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da67dd37ea809e660f2ac5d81035dda0.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Zegapain",
+        "alternativeTitle": "Zegapain",
+        "id": "zegapain-2092",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f18769808ec0c8d81baf04924259c615.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Attack on Titan: Chronicle",
+        "alternativeTitle": "Shingeki no Kyojin: Chronicle",
+        "id": "attack-on-titan-chronicle-2600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3713cf887e4098f283fef5b0336e6083.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "121m"
+      }
+    ]
+  }
+}

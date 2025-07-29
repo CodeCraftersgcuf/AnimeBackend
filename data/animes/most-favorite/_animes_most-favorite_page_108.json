@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 108,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Neighborhood Stories",
+        "alternativeTitle": "Gokinjo Monogatari",
+        "id": "neighborhood-stories-1741",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/809439a8a70d2e341a9bf95366c60bca.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Blue Dragon: The Seven Dragons of the Heavens",
+        "alternativeTitle": "Blue Dragon: Tenkai no Shichi Ryuu",
+        "id": "blue-dragon-the-seven-dragons-of-the-heavens-5453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b78242ac4c108bd2c7b89233bfcfb618.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Battle Doll Angelic Layer",
+        "alternativeTitle": "Kidou Tenshi Angelic Layer",
+        "id": "battle-doll-angelic-layer-2519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a193eb7b662a138a1864cbc64a3dbab7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kibou no Chikara: Otona Precure '23",
+        "alternativeTitle": "Kibou no Chikara: Otona Precure '23",
+        "id": "kibou-no-chikara-otona-precure-23-18614",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/451f09be03718f2bb0ce7f730613581c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Yamishibai: Japanese Ghost Stories 7",
+        "alternativeTitle": "Yami Shibai 7",
+        "id": "yamishibai-japanese-ghost-stories-7-8285",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d91ea92c927dd07aa7b36f030d253c9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Bluer Than Indigo: Fate - Miyuki",
+        "alternativeTitle": "Ai Yori Aoshi: Enishi - Miyuki",
+        "id": "bluer-than-indigo-fate-miyuki-3783",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cec352d049ed2990dc06f25055c29091.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Alps no Shoujo Heidi",
+        "alternativeTitle": "Alps no Shoujo Heidi",
+        "id": "alps-no-shoujo-heidi-2402",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f318df5ad953d57718f174c2239bced.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "No Game No Life: Zero - Manner Movie",
+        "alternativeTitle": "No Game No Life: Zero - Manner Movie",
+        "id": "no-game-no-life-zero-manner-movie-4102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff8cb10273c4b5456d08d778fd90ce29.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "2m"
+      },
+      {
+        "title": "Cardfight!! Vanguard: Divinez",
+        "alternativeTitle": "Cardfight!! Vanguard: Divinez",
+        "id": "cardfight-vanguard-divinez-18730",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fb6d5adf8282981ef9311afbb9144af.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wushen Zhuzai",
+        "alternativeTitle": "Wushen Zhuzai",
+        "id": "wushen-zhuzai-4037",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd7927e81e521af7fb95ed010d6f3fcf.jpg",
+        "episodes": {
+          "sub": 562,
+          "dub": 0,
+          "eps": 562
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Mermaid Melody Pichi Pichi Pitch Pure",
+        "alternativeTitle": "Mermaid Melody Pichi Pichi Pitch Pure",
+        "id": "mermaid-melody-pichi-pichi-pitch-pure-3250",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1358848b586bc90ebfbf987f85a5acc.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Girls & Panzer: Taiyaki War!",
+        "alternativeTitle": "Girls & Panzer: Taiyaki War!",
+        "id": "girls-panzer-taiyaki-war-2910",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71fa74cad9bc3059adfa28c29ca13328.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Artiswitch",
+        "alternativeTitle": "Artiswitch",
+        "id": "artiswitch-18063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c442e9912c8a617c7e4942663f06c30.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Yozakura Quartet: Tsuki ni Naku",
+        "alternativeTitle": "Yozakura Quartet: Tsuki ni Naku",
+        "id": "yozakura-quartet-tsuki-ni-naku-1533",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e78fe0e037930efdaecda6a9831f80ed.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Detective Conan: The Sunflowers of Inferno",
+        "alternativeTitle": "Detective Conan Movie 19: The Hellfire Sunflowers",
+        "id": "detective-conan-the-sunflowers-of-inferno-952",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e06fc6d0d886e8a03b85b4969df3c6c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      },
+      {
+        "title": "Detective Conan Movie 12: Full Score of Fear",
+        "alternativeTitle": "Detective Conan Movie 12: Full Score of Fear",
+        "id": "detective-conan-movie-12-full-score-of-fear-734",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35c75bbca834891b9ce95fc2b5c29556.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "116m"
+      },
+      {
+        "title": "Legend of Exorcism 2nd Season",
+        "alternativeTitle": "Tian Bao Fuyao Lu 2nd Season",
+        "id": "legend-of-exorcism-2nd-season-3625",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/611ef2062d4387ff9d1a36605ce2a305.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Detective Conan Movie 17: Private Eye in the Distant Sea",
+        "alternativeTitle": "Detective Conan Movie 17: Private Eye in the Distant Sea",
+        "id": "detective-conan-movie-17-private-eye-in-the-distant-sea-951",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9567bccba896776d71add5a01dc7cb97.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Kino's Journey: Tower Country",
+        "alternativeTitle": "Kino no Tabi: The Beautiful World - Tou no Kuni - Free Lance",
+        "id": "kinos-journey-tower-country-1265",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b52963a3eb0b130b051954b38e8ec59.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "14m"
+      },
+      {
+        "title": "Ride Back",
+        "alternativeTitle": "RideBack",
+        "id": "ride-back-2353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/072910b80247ff910a15e01eeda511a9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Last Exile: Fam, the Silver Wing",
+        "alternativeTitle": "Last Exile: Ginyoku no Fam",
+        "id": "last-exile-fam-the-silver-wing-3183",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d989264b79773194ce894febc679e10a.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 21,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mars of Destruction",
+        "alternativeTitle": "Hametsu no Mars",
+        "id": "mars-of-destruction-10690",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd3d62d937899eca0bb0bb59c6cdfa40.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "19m"
+      },
+      {
+        "title": "Anime de Training! Ex",
+        "alternativeTitle": "Anitore! EX",
+        "id": "anime-de-training-ex-9534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30ec450588f5634d8306936289c0c467.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Kamisama Kazoku",
+        "alternativeTitle": "Kamisama Kazoku",
+        "id": "kamisama-kazoku-2916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/947cbb6246951a74361fe3ed0454c4ad.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Obsolete",
+        "alternativeTitle": "Obsolete",
+        "id": "obsolete-9010",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f835fb84b5c36e4742a86b8f898f99dc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "You're Under Arrest: Diverting Traffic at the Beach",
+        "alternativeTitle": "Taiho Shichau zo: Nagisa no Koutsuu Yuudou",
+        "id": "youre-under-arrest-diverting-traffic-at-the-beach-3198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb0d5e9392974d4371b041a35a67b3c6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Devilman: The Demon Bird",
+        "alternativeTitle": "Devilman: Yochou Sirene-hen",
+        "id": "devilman-the-demon-bird-3494",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d73c3c1ce925ae0cd4d0335f3857c7dd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "57m"
+      },
+      {
+        "title": "Needless+: The Secret of Saint Lily Academy",
+        "alternativeTitle": "Needless+: Saint Lily Gakuen no Himitsu",
+        "id": "needless-saint-lily-gakuen-no-himitsu-4539",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30105842071f70c7a8c1e9309c4d855c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Candy Boy (ONA): Side Story For Archive",
+        "alternativeTitle": "Candy☆Boy: Side Story For Archive",
+        "id": "candy-boy-ona-side-story-for-archive-4116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06642bb4898e9b14aefc48f4281fbab7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Medabots",
+        "alternativeTitle": "Medarot",
+        "id": "medabots-3360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c1c9ec7e1779b3b5a3647ae199a80a0.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Detective Conan Movie 25: The Bride of Halloween",
+        "alternativeTitle": "Detective Conan Movie 25: Halloween no Hanayome",
+        "id": "detective-conan-movie-25-the-bride-of-halloween-18225",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f853b563b758977252bcfc34c7b34f0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Air Gear: Special Trick",
+        "alternativeTitle": "Air Gear Special",
+        "id": "air-gear-special-trick-2233",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/214d83bdad97f311c2ea6c01369c25d4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Strawberry Marshmallow Encore",
+        "alternativeTitle": "Ichigo Mashimaro Encore",
+        "id": "strawberry-marshmallow-encore-1013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e8df5ede15c43bfe546e128a981a2ed.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Star Blazers: The Quest for Iscandar",
+        "alternativeTitle": "Uchuu Senkan Yamato",
+        "id": "star-blazers-the-quest-for-iscandar-1291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bde596b6ecac68a2ada548fb6ebdd32.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ronja Rövardotter",
+        "alternativeTitle": "Sanzoku no Musume Ronja",
+        "id": "ronja-rovardotter-2935",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c276432a3522e4affd6ea346a51922c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Detective Conan Movie 11: Jolly Roger in the Deep Azure",
+        "alternativeTitle": "Detective Conan Movie 11: Jolly Roger in the Deep Azure",
+        "id": "detective-conan-movie-11-jolly-roger-in-the-deep-azure-1568",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cf93be0a04530d6e4301dd70e647552.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Mobile Suit Gundam: Requiem for Vengeance",
+        "alternativeTitle": "Kidou Senshi Gundam: Fukushuu no Requiem",
+        "id": "mobile-suit-gundam-requiem-for-vengeance-19386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9c7b065fcab7e02f14e6995b9bd836d.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "30m"
+      },
+      {
+        "title": "Beyond the Heavens",
+        "alternativeTitle": "Souten Kouro",
+        "id": "beyond-the-heavens-2361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a33a22dff9eecd63673b6dcb6f7244a5.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "M3: Sono Kuroki Hagane",
+        "alternativeTitle": "M3: Sono Kuroki Hagane",
+        "id": "m3-sono-kuroki-hagane-5225",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4227849e179bf35b16bf82163dfd0ef.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kenkou Zenrakei Suieibu Umishou",
+        "alternativeTitle": "Kenkou Zenrakei Suieibu Umishou",
+        "id": "kenkou-zenrakei-suieibu-umishou-2917",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11b9163fac2ca01a1f35bfd1bab372d4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

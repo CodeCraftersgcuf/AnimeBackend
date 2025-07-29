@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 123,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Fumiko's Confession",
+        "alternativeTitle": "Fumiko no Kokuhaku",
+        "id": "fumikos-confession-4928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef9b3c5b485653fcd69f28fe8bd4c1ea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Dragon Ball Z: The World's Strongest",
+        "alternativeTitle": "Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu",
+        "id": "dragon-ball-z-the-worlds-strongest-4924",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c86c5c0406609af031978d9931905bd9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "58m"
+      },
+      {
+        "title": "So, I Can't Play H!",
+        "alternativeTitle": "Dakara Boku wa, H ga Dekinai.",
+        "id": "so-i-cant-play-h-4923",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d53a3ab2a4d17128d4afdc2a1de76861.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!",
+        "alternativeTitle": "Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!",
+        "id": "crayon-shin-chan-movie-14-densetsu-wo-yobu-odore-amigo-4922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b06b58580235bc61f1f37d302b5296ae.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "C³ - CubexCursedxCurious",
+        "alternativeTitle": "C³",
+        "id": "c3-cubexcursedxcurious-4921",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b252ab52e02fd2e5055ab3fc55cd944d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyblade V-Force",
+        "alternativeTitle": "Bakuten Shoot Beyblade 2002",
+        "id": "beyblade-v-force-4918",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e24b15e5104b43e4a28cda0d3f1cbfaf.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "Cat Planet Cuties",
+        "alternativeTitle": "Asobi ni Iku yo!",
+        "id": "cat-planet-cuties-4916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dd80c796f3f1031dd01b8cba435d1f3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wedding Peach DX",
+        "alternativeTitle": "Ai Tenshi Densetsu Wedding Peach DX",
+        "id": "wedding-peach-dx-4913",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baf0d985bb3574bdf481e0f81f9a3170.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Accel World: Infinite∞Burst",
+        "alternativeTitle": "Accel World: Infinite∞Burst",
+        "id": "accel-world-infiniteburst-4912",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa6fc57be777de20b4d328826c7e5c44.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Cat God: Ohanami Ghostbusters",
+        "alternativeTitle": "Nekogami Yaoyorozu: Ohanami Ghostbusters",
+        "id": "cat-god-ohanami-ghostbusters-4911",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76f834749d14735afa54e8a54a58c032.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Morita-san wa Mukuchi. 2",
+        "alternativeTitle": "Morita-san wa Mukuchi. 2",
+        "id": "morita-san-wa-mukuchi-2-4910",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ac5f5a05a86441f0fc4af9d5425a089.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
+        "alternativeTitle": "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+        "id": "mobile-suit-gundam-0083-the-afterglow-of-zeon-4909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/703580c3d5c2860e64c6e5040f34f944.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Mezzo DSA",
+        "alternativeTitle": "Mezzo DSA",
+        "id": "mezzo-dsa-4906",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b54d51ba6af799e1caf803d7553fd10.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Megane na Kanojo",
+        "alternativeTitle": "Megane na Kanojo",
+        "id": "megane-na-kanojo-4905",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e30e0c5e4b0faa55a20df822365621cd.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "14m"
+      },
+      {
+        "title": "Protect Me, Heavenly Moon Guardian!",
+        "alternativeTitle": "Mamotte Shugogetten!",
+        "id": "protect-me-heavenly-moon-guardian-4904",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2b1e8bea22a1c31670d2482c536a0f5.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Majin Bone",
+        "alternativeTitle": "Majin Bone",
+        "id": "majin-bone-4903",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb75f5f051f785f76818236cc73611d8.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Ling Yu 3rd Season",
+        "alternativeTitle": "Ling Yu 3rd Season",
+        "id": "ling-yu-3rd-season-4901",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c86b61c77ab2f55ef94cfe236fcf11f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Metal Armor Dragonar",
+        "alternativeTitle": "Kikou Senki Dragonar",
+        "id": "metal-armor-dragonar-4900",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1718d8ca0ca46835c4d9b11d20f880b.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Girl Meets Girl",
+        "alternativeTitle": "Kashimashi: Girl Meets Girl",
+        "id": "girl-meets-girl-4899",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22a07ae77fb9dd3e917d5d6c646616b2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nightsong of Splendor",
+        "alternativeTitle": "Kasei Yakyoku",
+        "id": "nightsong-of-splendor-4898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4585bf6f8e13f375a033af00f3ab4951.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Strawberry 100%",
+        "alternativeTitle": "Ichigo 100%",
+        "id": "strawberry-100-4897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d97d5e3731b85a79130e94350f88207.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Honoo no Tenkousei",
+        "alternativeTitle": "Honoo no Tenkousei",
+        "id": "honoo-no-tenkousei-4896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33ffb8d3c36ac7c58b21bea0757b0bf7.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Happy☆Lesson (TV)",
+        "alternativeTitle": "Happy☆Lesson (TV)",
+        "id": "happylesson-tv-4894",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0536a0a830081dc7cd270bc6f0feb095.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "God Eater Prologue",
+        "alternativeTitle": "God Eater Prologue",
+        "id": "god-eater-prologue-4893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2348cc49f48619dedd40b14c45ffe69.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Galactic Cyclone Braiger",
+        "alternativeTitle": "Ginga Senpuu Braiger",
+        "id": "galactic-cyclone-braiger-4892",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53c68413ed79a300a3e0e8a4451008f5.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Juden Chan Recharged",
+        "alternativeTitle": "Fight Ippatsu! Juuden-chan!!",
+        "id": "juden-chan-recharged-4889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5f95fb795aa7489bfd15ec79b663e24.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dan Doh!!",
+        "alternativeTitle": "Dan Doh!!",
+        "id": "dan-doh-4887",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2dc686220b19df132c6f23594250e034.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cardfight!! Vanguard G GIRS Crisis",
+        "alternativeTitle": "Cardfight!! Vanguard G: GIRS Crisis-hen",
+        "id": "cardfight-vanguard-g-girs-crisis-4886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ac5df893d004aa3dbd23ee6b1d575e0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyblade Burst Evolution",
+        "alternativeTitle": "Beyblade Burst God",
+        "id": "beyblade-burst-evolution-4885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fe547c28b3ffce06c51197c2241bce1.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Demonic King Who Chases His Wife",
+        "alternativeTitle": "Xie Wang Zhui Qi",
+        "id": "the-demonic-king-who-chases-his-wife-4878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7f74f8e8720b50bd455e62eb2035c00.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Xiang Ling Ji",
+        "alternativeTitle": "Xiang Ling Ji",
+        "id": "xiang-ling-ji-4877",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71c05d64e8074819a3724fb37c60d8a6.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "ViVid Strike! Specials",
+        "alternativeTitle": "ViVid Strike! Specials",
+        "id": "vivid-strike-specials-4876",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/741cb5517cd467945b98e6197cb326fc.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "18m"
+      },
+      {
+        "title": "Tenchi Muyou! Ryououki 4th Season",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 4th Season",
+        "id": "tenchi-muyou-ryououki-4th-season-4874",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e72530f81217bd7bfc47b6ae4f85a434.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Teekyu 8",
+        "alternativeTitle": "Teekyuu 8",
+        "id": "teekyu-8-4873",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41f8ca57ec04444217fc853818b501cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      }
+    ]
+  }
+}

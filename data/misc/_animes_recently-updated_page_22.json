@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 22,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Stella of the Theater: World Dai Star",
+        "alternativeTitle": "World Dai Star",
+        "id": "stella-of-the-theater-world-dai-star-18375",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/307f8d0513c052c3e74418eabf631dd6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Clueless First Friend",
+        "alternativeTitle": "Jijou wo Shiranai Tenkousei ga Guigui Kuru.",
+        "id": "my-clueless-first-friend-18365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b5bd2a09de9cc2d0eb31c9b4d0c2ac0.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Summoned to Another World for a Second Time",
+        "alternativeTitle": "Isekai Shoukan wa Nidome desu",
+        "id": "summoned-to-another-world-for-a-second-time-18346",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98fc1ac81870a0920af1f49fdcc1014a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Galaxy Next Door",
+        "alternativeTitle": "Otonari ni Ginga",
+        "id": "a-galaxy-next-door-18347",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6350e5f8680182581663b8437c84de1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Loving Yamada at Lv999",
+        "alternativeTitle": "Yamada-kun to Lv999 no Koi wo Suru",
+        "id": "loving-yamada-at-lv999-18341",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e124bfad2fd9c8bae1cb53cd6ecd6de.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Heavenly Delusion",
+        "alternativeTitle": "Tengoku Daimakyou",
+        "id": "heavenly-delusion-18349",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bdf0705ef760a65894f3506ff474576.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Soul Land",
+        "alternativeTitle": "Douluo Dalu",
+        "id": "soul-land-735",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61cb89df35ee18f244eba7430ea76d2b.jpg",
+        "episodes": {
+          "sub": 263,
+          "dub": 0,
+          "eps": 263
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Magical Girl Magical Destroyers",
+        "alternativeTitle": "Mahou Shoujo Magical Destroyers",
+        "id": "magical-girl-magical-destroyers-18362",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06c2a403fac4a27fe3f7e44e8250f70a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Otaku Elf",
+        "alternativeTitle": "Edomae Elf",
+        "id": "otaku-elf-18366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2e4971bd5e99246d35b407704eb4fcb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Birdie Wing: Golf Girls' Story: 2nd Season",
+        "alternativeTitle": "Birdie Wing: Golf Girls' Story Season 2",
+        "id": "birdie-wing-golf-girls-story-2nd-season-18363",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cafe621809cf1b66361d15d3aaaacdc6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Café Terrace and Its Goddesses",
+        "alternativeTitle": "Megami no Café Terrace",
+        "id": "the-cafe-terrace-and-its-goddesses-18358",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2106d53bdce5a97678d71512265a70fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rokudo's Bad Girls",
+        "alternativeTitle": "Rokudou no Onna-tachi",
+        "id": "rokudos-bad-girls-18369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5f90b0f43e70801c8ab31bb75a6acb4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tonikawa: Over The Moon For You: 2nd Season",
+        "alternativeTitle": "Tonikaku Kawaii 2nd Season",
+        "id": "tonikawa-over-the-moon-for-you-2nd-season-18226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03930982d5fc730d636fa892f2d2ec93.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Too Cute Crisis",
+        "alternativeTitle": "Kawaisugi Crisis",
+        "id": "too-cute-crisis-18364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d5a2131c960aca28109f4a147a9d4d2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My One-Hit Kill Sister",
+        "alternativeTitle": "Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita",
+        "id": "my-onehit-kill-sister-18356",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e17f74c2bc11fb7ef6d436968eee4f6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Detective Conan Movie: The Story of Haibara Ai - Black Iron Mystery Train",
+        "alternativeTitle": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+        "id": "detective-conan-movie-the-story-of-haibara-ai-black-iron-mystery-train-18412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1f3ad29aac1a9f9a56e0a84d61b3197.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "The Legendary Hero Is Dead!",
+        "alternativeTitle": "Yuusha ga Shinda!",
+        "id": "the-legendary-hero-is-dead-18354",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f22c369e245bb8106f089e76d9148400.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Opus.COLORs",
+        "alternativeTitle": "Opus.COLORs",
+        "id": "opuscolors-18371",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68808a337183a8515118bcf7579164b8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Ancient Magus' Bride Season 2",
+        "alternativeTitle": "Mahoutsukai no Yome Season 2",
+        "id": "the-ancient-magus-bride-season-2-18338",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e41a7b0fb1912457ce9f43e037c74eb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yuri is My Job!",
+        "alternativeTitle": "Watashi no Yuri wa Oshigoto desu!",
+        "id": "yuri-is-my-job-18357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a74546c8a386eaba152572d83628cd4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "KonoSuba: An Explosion on This Wonderful World!",
+        "alternativeTitle": "Kono Subarashii Sekai ni Bakuen wo!",
+        "id": "konosuba-an-explosion-on-this-wonderful-world-18337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6874272e4cb78f1d10ee14a864ce7dbb.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokyo Mew Mew New 2nd Season",
+        "alternativeTitle": "Tokyo Mew Mew New 2nd Season",
+        "id": "tokyo-mew-mew-new-2nd-season-18368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de17a6cac30ab202cd1a388de5ebfafa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Skip and Loafer",
+        "alternativeTitle": "Skip to Loafer",
+        "id": "skip-and-loafer-18351",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f121f498b3be50b194236f055c97c6df.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kubo Won't Let Me Be Invisible",
+        "alternativeTitle": "Kubo-san wa Mob wo Yurusanai",
+        "id": "kubo-wont-let-me-be-invisible-18254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87b0703b2059dddac2e76d219257bc96.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kizuna no Allele",
+        "alternativeTitle": "Kizuna no Allele",
+        "id": "kizuna-no-allele-18370",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef589599341efbee4e87edd81f6648ae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Vinland Saga: 2nd Season",
+        "alternativeTitle": "Vinland Saga Season 2",
+        "id": "vinland-saga-2nd-season-18239",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/173e4c5db060f057506138057261b259.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "In Another World With My Smartphone 2",
+        "alternativeTitle": "Isekai wa Smartphone to Tomo ni. 2",
+        "id": "in-another-world-with-my-smartphone-2-18342",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bacb7124d070a26097c77601250a205e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kuma Kuma Kuma Bear Punch!",
+        "alternativeTitle": "Kuma Kuma Kuma Bear 2nd Season",
+        "id": "kuma-kuma-kuma-bear-punch-17374",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d223280706d8f5d2f556c7951c5bf4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Alice Gear Aegis Expansion",
+        "alternativeTitle": "Alice Gear Aegis Expansion",
+        "id": "alice-gear-aegis-expansion-18373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90a1dbcb03b97c209fd2b3e8fdeee1af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "alternativeTitle": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+        "id": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db2f3ce7b9cab7fdc160b005bffb899a.png",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tsurune Movie: Hajimari no Issha",
+        "alternativeTitle": "Tsurune Movie: Hajimari no Issha",
+        "id": "tsurune-movie-hajimari-no-issha-18411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f40cf1a43b0d1eb573720c36cb57e3ad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Mirage Queen Aime Cirque",
+        "alternativeTitle": "Kaitou Queen wa Circus ga Osuki",
+        "id": "mirage-queen-aime-cirque-18020",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8132ddcf65a09a138897d003eaa27d2d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "60m"
+      },
+      {
+        "title": "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far",
+        "alternativeTitle": "Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito",
+        "id": "the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far-18355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20398dadb590c2c769d1eed77d671677.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Home Hero",
+        "alternativeTitle": "My Home Hero",
+        "id": "my-home-hero-18348",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee90286e090d5e5956ea7ef0b4e86d45.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Black Clover: Sword of the Wizard King",
+        "alternativeTitle": "Black Clover Movie",
+        "id": "black-clover-sword-of-the-wizard-king-17752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/447bc03aeeaffb95729df74c0b98f1ce.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Ranking of Kings: The Treasure Chest of Courage",
+        "alternativeTitle": "Ousama Ranking: Yuuki no Takarabako",
+        "id": "ranking-of-kings-the-treasure-chest-of-courage-18340",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/285f86a1723e6d7f36e6eb86994be38d.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dr. Stone: New World",
+        "alternativeTitle": "Dr. Stone 3rd Season",
+        "id": "dr-stone-new-world-17725",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cab1ee2bbe1a4def0790121df2c1fc7.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Art Online: Progressive - Scherzo of Deep Night",
+        "alternativeTitle": "Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo",
+        "id": "sword-art-online-progressive-scherzo-of-deep-night-18189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fae90b9ac557db63c781bae51ba2fa1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Bastions",
+        "alternativeTitle": "Bastions",
+        "id": "bastions-18409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a77fc14112a3c80ffbb04b65ee2a8641.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Legendary Twins",
+        "alternativeTitle": "Juedai Shuang Jiao",
+        "id": "legendary-twins-18125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9d38b86a98c24254c9c01c864f2c60a.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "ONA",
+        "duration": "21m"
+      }
+    ]
+  }
+}

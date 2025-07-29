@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 35,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Bikini Warriors",
+        "alternativeTitle": "Bikini Warriors",
+        "id": "bikini-warriors-10015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecab0935e054e4c4a6ed7dc2f97d8112.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Mobile Suit Gundam",
+        "alternativeTitle": "Mobile Suit Gundam",
+        "id": "mobile-suit-gundam-856",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68fc3295ea7d9bfb7d15d2a44a62bac3.jpg",
+        "episodes": {
+          "sub": 43,
+          "dub": 43,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Rosario + Vampire 2nd Season",
+        "alternativeTitle": "Rosario to Vampire Capu2",
+        "id": "rosario-vampire-2nd-season-3547",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/463d64e3fa49e2308a74e08b8af4ccf9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Clockwork Island Adventure",
+        "alternativeTitle": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+        "id": "one-piece-clockwork-island-adventure-2776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec524a9783f942b07a6ddd8d775b2cdb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "55m"
+      },
+      {
+        "title": "Haikyuu!! Movie 1: Owari to Hajimari",
+        "alternativeTitle": "Haikyuu!! Movie 1: Owari to Hajimari",
+        "id": "haikyuu-movie-1-owari-to-hajimari-620",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db5b50b205cf317604fd07041edfcca6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Bleach the Movie: Fade to Black",
+        "alternativeTitle": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+        "id": "bleach-the-movie-fade-to-black-1492",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3d5c027c921932c5a561d2bb8d3fcc3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "The Eden of Grisaia",
+        "alternativeTitle": "Grisaia no Rakuen",
+        "id": "the-eden-of-grisaia-665",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14a8ddd8698742ace5e9a0ecf0db5c1b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Ghoul: \"Jack\"",
+        "alternativeTitle": "Tokyo Ghoul: \"Jack\"",
+        "id": "tokyo-ghoul-jack-1869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5420cc09fa1fcc9ac76f21c306d48967.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Tearmoon Empire",
+        "alternativeTitle": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+        "id": "tearmoon-empire-18597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41c94a371d45d23aada854ba72a71cc9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Granblue Fantasy The Animation",
+        "alternativeTitle": "Granblue Fantasy The Animation",
+        "id": "granblue-fantasy-the-animation-4705",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4eacb9cba562276e2866e39dd6371b0.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love All Play",
+        "alternativeTitle": "Love All Play",
+        "id": "love-all-play-17987",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57bd84a30515209d420927acda8ee9e8.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The World is Still Beautiful",
+        "alternativeTitle": "Soredemo Sekai wa Utsukushii",
+        "id": "the-world-is-still-beautiful-1035",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52e02c41d0d097f8f565b0214e2df1a0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Free! - Eternal Summer",
+        "alternativeTitle": "Free!: Eternal Summer",
+        "id": "free-eternal-summer-1009",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e161569d403dd27d4adcba8d34df0b0a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "KonoSuba: God's Blessing on This Wonderful World! 2: God's blessing on this wonderful Art!",
+        "alternativeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+        "id": "konosuba-gods-blessing-on-this-wonderful-world-2-gods-blessing-on-this-wonderful-art-438",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c702027ad43b64cd5483e379f21e783f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Sengoku Youko 2nd Season",
+        "alternativeTitle": "Sengoku Youko: Senma Konton-hen",
+        "id": "sengoku-youko-2nd-season-19216",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fbbd027ad853c9fe49c10ad1b992bef9.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Dead End",
+        "alternativeTitle": "One Piece Movie 4: Dead End no Bouken",
+        "id": "one-piece-dead-end-1284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/085b2c99e12b21786da1a7cfdc314c42.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Cardcaptor Sakura",
+        "alternativeTitle": "Cardcaptor Sakura",
+        "id": "cardcaptor-sakura-340",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63cb3a28f74a5233ce8309774cdd8ad0.jpg",
+        "episodes": {
+          "sub": 70,
+          "dub": 70,
+          "eps": 70
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Yuzuki Family's Four Sons",
+        "alternativeTitle": "Yuzuki-san Chi no Yonkyoudai.",
+        "id": "the-yuzuki-familys-four-sons-18606",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a08755c9e8d98571d79de3a75ca95e0d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King From Now On!",
+        "alternativeTitle": "Kyou kara Maou!",
+        "id": "king-from-now-on-963",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42229e98d2fd265da63f60e0ce660bf3.jpg",
+        "episodes": {
+          "sub": 78,
+          "dub": 78,
+          "eps": 78
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "B: The Beginning",
+        "alternativeTitle": "B: The Beginning",
+        "id": "b-the-beginning-1899",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc37eda7bf5de3ca06f4f0945fa0a2ac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Doukyusei -Classmates-",
+        "alternativeTitle": "Doukyuusei (Movie)",
+        "id": "doukyusei-classmates-215",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0eb3fe5660b13221ff54d5f664d4190d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Akiba Maid War",
+        "alternativeTitle": "Akiba Maid Sensou",
+        "id": "akiba-maid-war-18181",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73b5a84a2dd4bcad8d397bdb84a980be.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cross Ange: Rondo of Angel and Dragon",
+        "alternativeTitle": "Cross Ange: Tenshi to Ryuu no Rondo",
+        "id": "cross-ange-rondo-of-angel-and-dragon-1824",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd38b48a68825a9c696a866504b0bb4c.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Akebi's Sailor Uniform",
+        "alternativeTitle": "Akebi-chan no Sailor-fuku",
+        "id": "akebis-sailor-uniform-17724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68d88b19bced0cd659aa73737b319566.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mo Dao Zu Shi 3rd Season",
+        "alternativeTitle": "Mo Dao Zu Shi: Wanjie Pian",
+        "id": "mo-dao-zu-shi-3rd-season-15809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e32217d0fe9beae02859ef38f7110575.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball Z: Broly – The Legendary Super Saiyan",
+        "alternativeTitle": "Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen",
+        "id": "dragon-ball-z-broly-the-legendary-super-saiyan-2031",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ee4451d8d10d5347fbe6ebdb8afeb88.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "70m"
+      },
+      {
+        "title": "Tamako Market",
+        "alternativeTitle": "Tamako Market",
+        "id": "tamako-market-2004",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/097279ab80260da003feaf16040768c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokémon: Black & White: Rival Destinies",
+        "alternativeTitle": "Pokemon Best Wishes! Season 2",
+        "id": "pokemon-black-white-rival-destinies-6108",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8476d0d7a80e5cb2726139748d9f559.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Beyblade Metal Fusion",
+        "alternativeTitle": "Metal Fight Beyblade",
+        "id": "beyblade-metal-fusion-5115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01c1f118fe5883066e3cb55e4fa43509.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Dr. Stone: Stone Wars Eve of the Battle Special Feature",
+        "alternativeTitle": "Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou",
+        "id": "dr-stone-stone-wars-eve-of-the-battle-special-feature-17236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c133b5d3ae580d33d8ef95296dffe1b7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Inazuma Eleven Go",
+        "alternativeTitle": "Inazuma Eleven Go",
+        "id": "inazuma-eleven-go-3588",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d2ed96b2d49b3456b94704d9ec36251.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 0,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Whisper of the Heart",
+        "alternativeTitle": "Mimi wo Sumaseba",
+        "id": "whisper-of-the-heart-259",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a519ded9f727226261a211883cdac6bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "111m"
+      },
+      {
+        "title": "Sword Art Online: Progressive - Scherzo of Deep Night",
+        "alternativeTitle": "Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo",
+        "id": "sword-art-online-progressive-scherzo-of-deep-night-18189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fae90b9ac557db63c781bae51ba2fa1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Ikkitousen: Dragon Destiny Specials",
+        "alternativeTitle": "Ikkitousen: Dragon Destiny Specials",
+        "id": "ikkitousen-dragon-destiny-specials-5026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d75505d1b9ca53859949f9f1c18029f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Captain Tsubasa (2018)",
+        "alternativeTitle": "Captain Tsubasa (2018)",
+        "id": "captain-tsubasa-2018-1738",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3a85094a86f0afd6476fa2d2a346d26.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Prison School: Mad Wax",
+        "alternativeTitle": "Prison School: Mad Wax",
+        "id": "prison-school-mad-wax-1600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f54619652cac17d6c98625db45cc99ac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Afro Samurai",
+        "alternativeTitle": "Afro Samurai",
+        "id": "afro-samurai-2047",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46017c7aa6824d6665315c0795bd45af.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "TV",
+        "duration": "27m"
+      },
+      {
+        "title": "Vampire Knight",
+        "alternativeTitle": "Vampire Knight",
+        "id": "vampire-knight-3325",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96438b8f1e12345ff0a28cd49cb954d9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Light of a Firefly Forest",
+        "alternativeTitle": "Hotarubi no Mori e",
+        "id": "the-light-of-a-firefly-forest-140",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a6e14612d84ea7f614084eb9bd8c254.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Golden Kamuy Season 4",
+        "alternativeTitle": "Golden Kamuy 4th Season",
+        "id": "golden-kamuy-season-4-18162",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5824f3734dc9833fd364019d9c96107.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 200,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Hakuoki ~Demon of the Fleeting Blossom~ A Memory of Snow Flowers",
+        "alternativeTitle": "Hakuouki Sekkaroku",
+        "id": "hakuoki-demon-of-the-fleeting-blossom-a-memory-of-snow-flowers-1130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa0ec14c1a90f98a3c847f8ef8868579.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Gakuen Alice",
+        "alternativeTitle": "Gakuen Alice",
+        "id": "gakuen-alice-1129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b30318c187123cce5b6d79665b8f084.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Major 2nd (TV) 2nd Season",
+        "alternativeTitle": "Major 2nd (TV) 2nd Season",
+        "id": "major-2nd-tv-2nd-season-1127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bd2fb3f3d569c173abbc257d790afac.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III",
+        "alternativeTitle": "Lupin III",
+        "id": "lupin-iii-1126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/170a925f89b941a98f0be20ad3ea6e4a.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Patlabor: The Mobile Police - The TV Series",
+        "alternativeTitle": "Kidou Keisatsu Patlabor: On Television",
+        "id": "patlabor-the-mobile-police-the-tv-series-1125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de539b2d55cfb7b7c6c0b575de178065.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 47,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "InuYasha the Movie 2: The Castle Beyond the Looking Glass",
+        "alternativeTitle": "InuYasha Movie 2: Kagami no Naka no Mugenjo",
+        "id": "inuyasha-the-movie-2-the-castle-beyond-the-looking-glass-1123",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88a86602d64ac9c9f46d02cc14ed1b7d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "Now and Then, Here and There",
+        "alternativeTitle": "Ima, Soko ni Iru Boku",
+        "id": "now-and-then-here-and-there-1122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5352c216d21058a30ebc841ea94f55c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Strawberry Marshmallow",
+        "alternativeTitle": "Ichigo Mashimaro",
+        "id": "strawberry-marshmallow-1121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c609fe04893562c9a23364fa991d9c4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hello World",
+        "alternativeTitle": "Hello World",
+        "id": "hello-world-1120",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/418414182fc8d705ec8a46c5cfd7bc52.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Genshiken OVA",
+        "alternativeTitle": "Genshiken OVA",
+        "id": "genshiken-ova-1118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70ab08b1f0a031cf7ed6602a4a170939.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Genshiken",
+        "alternativeTitle": "Genshiken",
+        "id": "genshiken-1117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a5f23381c33826fa000db72f3c042c3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Full Metal Panic!",
+        "alternativeTitle": "Full Metal Panic!",
+        "id": "full-metal-panic-1116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ebd732704f68b961359f07d9fb930a0.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-1115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f418e820bf9f9c011f0a87cf24315168.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Battle Through the Heavens 3rd Season",
+        "alternativeTitle": "Doupo Cangqiong 3rd Season",
+        "id": "battle-through-the-heavens-3rd-season-1114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60aca850cb8b86275424fb7b2ea13bbc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Chrono Crusade",
+        "alternativeTitle": "Chrno Crusade",
+        "id": "chrono-crusade-1111",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85db3b2b8bc89346f3ed889eb733fe02.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cardcaptor Sakura: Clear Card",
+        "alternativeTitle": "Cardcaptor Sakura: Clear Card-hen",
+        "id": "cardcaptor-sakura-clear-card-1110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57811d7d1f4a0a62acb5a6b054a6ced9.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Bokurano",
+        "alternativeTitle": "Bokura no",
+        "id": "bokurano-1108",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d141641064c018731dc42f9ed93d0277.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Blood+",
+        "alternativeTitle": "Blood+",
+        "id": "blood-1107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2fd96419cb28d079c478cca3c0204f74.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Exorcist The Movie",
+        "alternativeTitle": "Ao no Exorcist Movie",
+        "id": "blue-exorcist-the-movie-1106",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1041e72fabe8d67a7ad9951cff47e75d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "AKB0048: Next Stage",
+        "alternativeTitle": "AKB0048: Next Stage",
+        "id": "akb0048-next-stage-1105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc955c9b1d302bf9ca15c2c03beb2650.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "3D Kanojo: Real Girl 2nd Season",
+        "alternativeTitle": "3D Kanojo: Real Girl 2nd Season",
+        "id": "3d-kanojo-real-girl-2nd-season-1104",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50d4d12f6e89b99049d1436f4a064bfb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Tenchi Muyo! Ryo-Ohki",
+        "alternativeTitle": "Tenchi Muyou! Ryououki",
+        "id": "tenchi-muyo-ryo-ohki-1103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9db9b9565c0ada51df6dfd60d6b2006a.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Tegami Bachi: Letter Bee",
+        "alternativeTitle": "Tegamibachi",
+        "id": "tegami-bachi-letter-bee-1102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bbc15f20ceb66cad8697053583b4bb2.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Ranma ½ Super",
+        "alternativeTitle": "Ranma ½ Super",
+        "id": "ranma-super-1101",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9aef0c59161c6dba4074e70259911797.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Nura: Rise of the Yokai Clan",
+        "alternativeTitle": "Nurarihyon no Mago",
+        "id": "nura-rise-of-the-yokai-clan-1100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca776e86ae6f199c75a043cfa9638366.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nisekoi: False Love",
+        "alternativeTitle": "Nisekoi",
+        "id": "nisekoi-false-love-1099",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a300d5b8f14a0adfcb8413f602d411.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Recovery of an MMO Junkie",
+        "alternativeTitle": "Net-juu no Susume",
+        "id": "recovery-of-an-mmo-junkie-1098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed7b7f660972d7f163d94114246c5910.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Yamada-kun and the Seven Witches",
+        "alternativeTitle": "Yamada-kun to 7-nin no Majo (TV)",
+        "id": "yamada-kun-and-the-seven-witches-1097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd12b6af8646176def3caafc477c2f91.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Utawarerumono",
+        "alternativeTitle": "Utawarerumono",
+        "id": "utawarerumono-1096",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc4c6088e75644a6b2bed3fa77a704e7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gunbuster 2",
+        "alternativeTitle": "Top wo Nerae 2! Diebuster",
+        "id": "gunbuster-2-1095",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a8547583c15e8866fdfb2d2411912dc.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "The Princess and the Pilot",
+        "alternativeTitle": "Toaru Hikuushi e no Tsuioku",
+        "id": "the-princess-and-the-pilot-1094",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2f5cd4561422fe98c028bffe4837756.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "Angel's Egg",
+        "alternativeTitle": "Tenshi no Tamago",
+        "id": "angels-egg-1093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e826f8b8d8f80f6de413bde593801a79.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "71m"
+      },
+      {
+        "title": "Tenchi Muyo! Ryo-Ohki 2nd Season",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 2nd Season",
+        "id": "tenchi-muyo-ryo-ohki-2nd-season-1092",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6d652f5444b821796d2b9236cc03fc7.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+        "alternativeTitle": "Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu",
+        "id": "slam-dunk-hoero-basketman-damashii-hanamichi-to-rukawa-no-atsuki-natsu-1091",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84e6fc9752520805b930f63fea8d1748.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      }
+    ]
+  }
+}

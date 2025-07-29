@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 34,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Tokyo Ghoul: \"Pinto\"",
+        "alternativeTitle": "Tokyo Ghoul: \"Pinto\"",
+        "id": "tokyo-ghoul-pinto-2280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15fd320fc66dff2571176ee4a0402555.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Butler: Book of Circus",
+        "alternativeTitle": "Kuroshitsuji: Book of Circus",
+        "id": "black-butler-book-of-circus-343",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c443369bc34c30f953c7240b39bfc60.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mars Red",
+        "alternativeTitle": "Mars Red",
+        "id": "mars-red-15795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/353bff400248d1da2b840df238727da3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Higurashi: When They Cry – Gou",
+        "alternativeTitle": "Higurashi no Naku Koro ni Gou",
+        "id": "higurashi-when-they-cry-gou-1518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cd1ab997ed0ae2d6ec14ef690fcd65e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "anohana: The Flower We Saw That Day: The Movie",
+        "alternativeTitle": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+        "id": "anohana-the-flower-we-saw-that-day-the-movie-537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a781f6835cfef50a4af7ec6c81504389.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "If Her Flag Breaks",
+        "alternativeTitle": "Kanojo ga Flag wo Oraretara",
+        "id": "if-her-flag-breaks-5965",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/913d2e72a066859676fc292cb620840c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K. Final Arc",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+        "id": "the-disastrous-life-of-saiki-k-final-arc-281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50888b6a169a08dfaf4cf95e17eb6504.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "50m"
+      },
+      {
+        "title": "Tsurune - The Linking Shot -",
+        "alternativeTitle": "Tsurune: Tsunagari no Issha",
+        "id": "tsurune-the-linking-shot-18296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6d6b6a77dd16cf8f82e218142526c81.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Don't Hurt Me, My Healer!",
+        "alternativeTitle": "Kono Healer, Mendokusai",
+        "id": "dont-hurt-me-my-healer-17989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42d6f6db197bdd7bc9778b71d02c634f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Silver Guardian",
+        "alternativeTitle": "Gin no Guardian",
+        "id": "the-silver-guardian-6920",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/732e4c9acaacbfc4f0fc1954ffa5dc5d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "The Vampire dies in no time",
+        "alternativeTitle": "Kyuuketsuki Sugu Shinu",
+        "id": "the-vampire-dies-in-no-time-15776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cf38f4ad369693cab4fd3812e536ebb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cells at Work! Code Black (TV)",
+        "alternativeTitle": "Hataraku Saibou Black (TV)",
+        "id": "cells-at-work-code-black-tv-15724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cd936325d63e71077419ef62fced61f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Violet Evergarden Extra Episode",
+        "alternativeTitle": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+        "id": "violet-evergarden-extra-episode-201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f44388d184fc34369f7ad3aef0f4e1f9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "34m"
+      },
+      {
+        "title": "Under Ninja",
+        "alternativeTitle": "Under Ninja",
+        "id": "under-ninja-18594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/790cb6cb7e183576fbf2fa38ff082e3b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Fable",
+        "alternativeTitle": "The Fable",
+        "id": "the-fable-19120",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5523fb79a550d018a527a1309f53585.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "New Game!",
+        "alternativeTitle": "New Game!",
+        "id": "new-game-1178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1abb426d71ba33f19bc8f62082ca9aad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion-1693",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35356c13f5a026be1c0612ee546b2078.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Val x Love",
+        "alternativeTitle": "Val x Love",
+        "id": "val-x-love-8283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/befd06093b06e766308c13db50741088.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Castle in the Sky",
+        "alternativeTitle": "Tenkuu no Shiro Laputa",
+        "id": "castle-in-the-sky-198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc63996afa59a5749d5c13ebab524878.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "124m"
+      },
+      {
+        "title": "BNA",
+        "alternativeTitle": "BNA",
+        "id": "bna-1493",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e390932e38585ec71ce3db2e858a4a97.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity",
+        "alternativeTitle": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na",
+        "id": "im-quitting-heroing-remember-the-work-trip-is-first-and-foremost-a-learning-opportunity-18128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28129ae8132420522daf6ab40fdda3e6.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Flavors of Youth",
+        "alternativeTitle": "Shikioriori",
+        "id": "flavors-of-youth-2771",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44138626852cd1df4a40d6f148951ada.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "74m"
+      },
+      {
+        "title": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+        "alternativeTitle": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku",
+        "id": "berserk-the-golden-age-arc-ii-the-battle-for-doldrey-616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7287d8abe5782382375d45c91aceff7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Omamori Himari",
+        "alternativeTitle": "Omamori Himari",
+        "id": "omamori-himari-3749",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90a07fbd06964c574fe5ce10e3e74cae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Banished Former Hero Lives as He Pleases",
+        "alternativeTitle": "Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita",
+        "id": "the-banished-former-hero-lives-as-he-pleases-19119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f8e08dbd8e80f1ed78b3d054fee6435.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokémon Horizons: The Series",
+        "alternativeTitle": "Pokemon (2023)",
+        "id": "pokemon-horizons-the-series-18397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
+        "episodes": {
+          "sub": 103,
+          "dub": 89,
+          "eps": 103
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High School DxD BorN: Yomigaeranai Fushichou",
+        "alternativeTitle": "High School DxD BorN: Yomigaeranai Fushichou",
+        "id": "high-school-dxd-born-yomigaeranai-fushichou-1698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04aa1cc88ed580094fc6c6789a6305af.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Unlimited Psychic Squad",
+        "alternativeTitle": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
+        "id": "unlimited-psychic-squad-1413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fe549dad9b4dc6f21d85884b56b7329.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Familiar of Zero: Knight of the Twin Moons",
+        "alternativeTitle": "Zero no Tsukaima: Futatsuki no Kishi",
+        "id": "the-familiar-of-zero-knight-of-the-twin-moons-1534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a430d8f10c50d5d3f5923e3c39c06408.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Seirei Gensouki: Spirit Chronicles Season 2",
+        "alternativeTitle": "Seirei Gensouki 2",
+        "id": "seirei-gensouki-spirit-chronicles-season-2-19320",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abc91d454286d59336fd5feb60f84537.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Seton Academy: Join the Pack!",
+        "alternativeTitle": "Murenase! Seton Gakuen",
+        "id": "seton-academy-join-the-pack-3014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/461edc67d9b82b3c8a2fd167c7666bf6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Initial D Fourth Stage",
+        "alternativeTitle": "Initial D Fourth Stage",
+        "id": "initial-d-fourth-stage-341",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55fcef81a256771d6605d5aff5ef1938.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "27m"
+      },
+      {
+        "title": "Girls Bravo",
+        "alternativeTitle": "Girls Bravo: First Season",
+        "id": "girls-bravo-5956",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf45fedd82001116d31ca8d7f5add84b.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "TONIKAWA: Over The Moon For You Episode 12.5 – Flashbacks",
+        "alternativeTitle": "Tonikaku Kawaii: Kaisou",
+        "id": "tonikawa-over-the-moon-for-you-episode-125-flashbacks-17458",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e28ebe08a89e9daefb7a618864bad1c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Princess of the Bibliophile.",
+        "alternativeTitle": "Mushikaburi-hime",
+        "id": "princess-of-the-bibliophile-18170",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67aebbc1089f0baa39d345833678184c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Literature",
+        "alternativeTitle": "Aoi Bungaku Series",
+        "id": "blue-literature-893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6090b17e033d2923963ba328d48f433c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Prince of Tennis",
+        "alternativeTitle": "Tennis no Ouji-sama",
+        "id": "the-prince-of-tennis-640",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d44b030d2a4c13bfcbce336181475483.jpg",
+        "episodes": {
+          "sub": 179,
+          "dub": 128,
+          "eps": 179
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Blue Exorcist: Beyond the Snow Saga",
+        "alternativeTitle": "Ao no Exorcist: Yuki no Hate-hen",
+        "id": "blue-exorcist-beyond-the-snow-saga-19327",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c13075428b9f5a1dccc6020f97522cca.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Monsters: 103 Mercies Dragon Damnation",
+        "alternativeTitle": "Monsters: Ippyaku Sanjou Hiryuu Jigoku",
+        "id": "monsters-103-mercies-dragon-damnation-18883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a38c7f54c449cb8b177467ae74c3d950.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Kuroko's Basketball Movie 4: Last Game",
+        "alternativeTitle": "Kuroko no Basket Movie 4: Last Game",
+        "id": "kurokos-basketball-movie-4-last-game-423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e551a138b49d1cb8eaf683deb003060.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      }
+    ]
+  }
+}

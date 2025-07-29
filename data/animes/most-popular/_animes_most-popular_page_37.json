@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 37,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Good Night World",
+        "alternativeTitle": "Good Night World",
+        "id": "good-night-world-18623",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09f07b5b13fb0cfe9f36aa1340bc911d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "The Helpful Fox Senko-san",
+        "alternativeTitle": "Sewayaki Kitsune no Senko-san",
+        "id": "the-helpful-fox-senko-san-1999",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb31c3548b53b2645718c62441783913.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Step Up Love Story",
+        "alternativeTitle": "Futari Ecchi",
+        "id": "step-up-love-story-6332",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edfa22494792cde998ffc7c87de79180.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime Specia: Digression: Hinata Sakaguchi",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken: Kanwa - Hinata Sakaguchi",
+        "id": "that-time-i-got-reincarnated-as-a-slime-specia-digression-hinata-sakaguchi-17440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f2dbc20c7e0fb09a205baff4cbcf36d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragon Ball Z: Fusion Reborn",
+        "alternativeTitle": "Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta",
+        "id": "dragon-ball-z-fusion-reborn-1372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/388285d4030029466d35e1e3e6e445ec.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "55m"
+      },
+      {
+        "title": "Convenience Store Boy Friends",
+        "alternativeTitle": "Konbini Kareshi",
+        "id": "convenience-store-boy-friends-6616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6092cdd99bf420a20b1c0c46c65e65a8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yamada's First Time: B Gata H Kei",
+        "alternativeTitle": "B-gata H-kei",
+        "id": "yamadas-first-time-b-gata-h-kei-3702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ab53cf417fa1ae6332f698f39844b8b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Laid-Back Camp",
+        "alternativeTitle": "Yuru Camp△",
+        "id": "laid-back-camp-242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/00ae4a23f642388cbd3d297e50ea5ef5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mysterious Disappearances",
+        "alternativeTitle": "Kaii to Otome to Kamikakushi",
+        "id": "mysterious-disappearances-19126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7cf93a1492ba1cb5d8c76af676267a18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Baka & Test - Summon the Beasts",
+        "alternativeTitle": "Baka to Test to Shoukanjuu",
+        "id": "baka-test-summon-the-beasts-1199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e482f96af57358e7c2a1dadab9f79b2f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rick and Morty: The Anime",
+        "alternativeTitle": "Rick and Morty: The Anime",
+        "id": "rick-and-morty-the-anime-19306",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b878f65c444b9f6dbc0fad7d874c74a.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Laid Off Demon King",
+        "alternativeTitle": "Shiye Mowang",
+        "id": "the-laid-off-demon-king-19517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc7cf2416a30b73b656d8864de7f6738.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Naruto OVA9: Sunny Side Battle",
+        "alternativeTitle": "Naruto: Shippuuden - Sunny Side Battle",
+        "id": "naruto-ova9-sunny-side-battle-1916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94c836b7aff106f515b53f8eb440ccdf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "I Tried Asking In Dogeza: Special",
+        "alternativeTitle": "Dogeza de Tanondemita: Isekai-hen",
+        "id": "i-tried-asking-in-dogeza-special-15689",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d75aef0ac2c442cd337ad908435ccf2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Kaiji: Ultimate Survivor",
+        "alternativeTitle": "Gyakkyou Burai Kaiji: Ultimate Survivor",
+        "id": "kaiji-ultimate-survivor-235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e5bfb8ff8a4e77675bc89499ce05e76.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Miss caretaker of Sunohara-sou",
+        "alternativeTitle": "Sunohara-sou no Kanrinin-san",
+        "id": "miss-caretaker-of-sunohara-sou-4033",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe1ad220ce9e7951b2a2e9107aca3e82.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Juni Taisen: Zodiac War",
+        "alternativeTitle": "Juuni Taisen",
+        "id": "juni-taisen-zodiac-war-5497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3a593e6d1c537b7e9cdb9da45fa3747.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "alternativeTitle": "Koukaku Kidoutai",
+        "id": "ghost-in-the-shell-220",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee5dad15cc3c6aeb58f74be440cf233d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Ikebukuro West Gate Park",
+        "alternativeTitle": "Ikebukuro West Gate Park",
+        "id": "ikebukuro-west-gate-park-4310",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a29349f0cf499a95655475c509f8c640.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kämpfer",
+        "alternativeTitle": "Kämpfer",
+        "id": "kampfer-5883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57851e0113097734a073e8e41b5094b5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aura: Koga Maryuin's Last War",
+        "alternativeTitle": "Aura: Maryuuin Kouga Saigo no Tatakai",
+        "id": "aura-koga-maryuins-last-war-1549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58a765525d97a3e0ab57b2ee6276a343.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "83m"
+      },
+      {
+        "title": "Synduality: Noir",
+        "alternativeTitle": "Synduality: Noir",
+        "id": "synduality-noir-18464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef28e0a459cd16ef863067fc6673c4c2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Keijo!!!!!!!!",
+        "alternativeTitle": "Keijo!!!!!!!!",
+        "id": "keijo-3356",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/973e1deefe6d523c75f27ae55d59d385.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Attack on Titan: Lost Girls",
+        "alternativeTitle": "Shingeki no Kyojin: Lost Girls",
+        "id": "attack-on-titan-lost-girls-947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae9effd6c9aba5c4ba6b68f2901c20c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "The Ancient Magus' Bride Season 2 Part 2",
+        "alternativeTitle": "Mahoutsukai no Yome Season 2 Part 2",
+        "id": "the-ancient-magus-bride-season-2-part-2-18585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2aefb79296b06730a7aea99929987828.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Murai in Love",
+        "alternativeTitle": "Murai no Koi",
+        "id": "murai-in-love-19314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fb9359fcc5247ad916f47c6762ff187.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Medaka Box",
+        "alternativeTitle": "Medaka Box",
+        "id": "medaka-box-3249",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88beb3e1ce98e19f5750704b63bf9442.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To LOVE Ru Darkness 2",
+        "alternativeTitle": "To LOVE-Ru Darkness 2nd",
+        "id": "to-love-ru-darkness-2-1488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a45c811208689afb7ba358d70d8199d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mononogatari 2nd Season",
+        "alternativeTitle": "Mononogatari 2nd Season",
+        "id": "mononogatari-2nd-season-18466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35aea6a7e4fbbdd549bec99d4247259d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "K: Return of Kings",
+        "alternativeTitle": "K: Return of Kings",
+        "id": "k-return-of-kings-1156",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/167acc847d864d6df49e340b9f05772b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "AHO-GIRL",
+        "alternativeTitle": "Aho Girl",
+        "id": "aho-girl-3700",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90ab3a3ff0a6cc87f62a8067ef1863af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Evangelion: 2.0 You Can (Not) Advance",
+        "alternativeTitle": "Evangelion: 2.0 You Can (Not) Advance",
+        "id": "evangelion-20-you-can-not-advance-176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6b885ff6dfbc63bdf06af0de8aa5ccf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      },
+      {
+        "title": "Watari-kun's ****** Is about to Collapse",
+        "alternativeTitle": "Watari-kun no xx ga Houkai Sunzen",
+        "id": "watari-kuns-is-about-to-collapse-19769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7353719ac2fd26e6af72fe773c37a06a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shirohiyo - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
+        "alternativeTitle": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
+        "id": "shirohiyo-reincarnated-as-a-neglected-noble-raising-my-baby-brother-with-memories-from-my-past-life-19659",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8225e0ea4914ff5eb42b15b82cbc3c83.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Eromanga Sensei",
+        "alternativeTitle": "Eromanga-sensei",
+        "id": "eromanga-sensei-5486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e601d1b12c1f13b07ac2db009fda56e1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Land of the Lustrous",
+        "alternativeTitle": "Houseki no Kuni (TV)",
+        "id": "land-of-the-lustrous-134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b9c96aca4cbfdea63996d73299b3779.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Demon Prince of Momochi House",
+        "alternativeTitle": "Momochi-san Chi no Ayakashi Ouji",
+        "id": "the-demon-prince-of-momochi-house-18775",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db22fbc9b97d254995ce5f1b76eb64fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cat Planet Cuties",
+        "alternativeTitle": "Asobi ni Iku yo!",
+        "id": "cat-planet-cuties-4916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dd80c796f3f1031dd01b8cba435d1f3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Ambition of Oda Nobuna",
+        "alternativeTitle": "Oda Nobuna no Yabou",
+        "id": "the-ambition-of-oda-nobuna-1594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa8a980c0dcf5131d6c8593a5ddc8b56.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokémon: Black & White: Adventures in Unova",
+        "alternativeTitle": "Pokemon Best Wishes! Season 2: Adventures in Unova",
+        "id": "pokemon-black-white-adventures-in-unova-4669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c3fb637c4e9876422c32ff24316b2c9.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 45,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "22m"
+      }
+    ]
+  }
+}

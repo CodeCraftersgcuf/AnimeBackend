@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 97,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Shin Hakkenden",
+        "alternativeTitle": "Shin Hakkenden",
+        "id": "shin-hakkenden-2843",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3375461532d77802df72d04a606d9e12.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Martial Universe 5th Season",
+        "alternativeTitle": "Wu Dong Qian Kun 5th Season",
+        "id": "martial-universe-5th-season-19670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/362e9973278195904045f8821ae057bf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "THE IDOLM@STER",
+        "alternativeTitle": "The iDOLM@STER",
+        "id": "the-idolmster-1186",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ac2b48768014cc96fe75d7f3d70d009.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Laughing Salesman",
+        "alternativeTitle": "Warau Salesman New",
+        "id": "the-laughing-salesman-6877",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce8520a502b8d56cd534e602ae2cd477.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yo-kai Watch",
+        "alternativeTitle": "Youkai Watch",
+        "id": "yo-kai-watch-5272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/935b5d987fc38ed4bebb2d3b34ac6579.jpg",
+        "episodes": {
+          "sub": 191,
+          "dub": 2,
+          "eps": 214
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Way of the Househusband",
+        "alternativeTitle": "Gokushufudou",
+        "id": "the-way-of-the-househusband-17311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf9582e8469f7794b970fdd5b3d818d1.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "[RAW] Magical★Taruruuto-kun Movie",
+        "alternativeTitle": "[RAW] Magical★Taruruuto-kun Movie",
+        "id": "magicaltaruruuto-kun-movie-15013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67613e353cd1e7c10d93de1c5379b14f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "[RAW] Chimpui: Eri-sama Katsudou Daishashin",
+        "alternativeTitle": "[RAW] Chinpui: Eri-sama Katsudou Daishashin",
+        "id": "chinpui-eri-sama-katsudou-daishashin-13256",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b68d0048199c1a09cdc4464d2bf31fc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "Legend of Black Heaven",
+        "alternativeTitle": "Kachou Ouji",
+        "id": "legend-of-black-heaven-3524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79aba2db4a2b84c7b9e1c395827e6909.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Magnificent Kotobuki",
+        "alternativeTitle": "Kouya no Kotobuki Hikoutai",
+        "id": "the-magnificent-kotobuki-4130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f2345cb95a2188a5cbb741e4c2f7838.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Magical★Taruruuto-kun: Moeru! Yuujou no Mahou Taisen",
+        "alternativeTitle": "[RAW] Magical★Taruruuto-kun: Moeru! Yuujou no Mahou Taisen",
+        "id": "magicaltaruruuto-kun-moeru-yuujou-no-mahou-taisen-15014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f5a92ac268f88157ec82801e1c326ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "[RAW] Magical★Taruruuto-kun: Sukisuki Takoyaki!",
+        "alternativeTitle": "[RAW] Magical★Taruruuto-kun: Sukisuki Takoyaki!",
+        "id": "magicaltaruruuto-kun-sukisuki-takoyaki-15015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7228f3142ceb1d77ad2ea799d99bf733.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "[RAW] Esper Mami Special: My Angel Mami-chan",
+        "alternativeTitle": "[RAW] Esper Mami Special: My Angel Mami-chan",
+        "id": "esper-mami-special-my-angel-mami-chan-13538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e753b56d69fa29146cad158824ef0bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Rifle Is Beautiful Recap",
+        "alternativeTitle": "Rifle Is Beautiful Recap",
+        "id": "rifle-is-beautiful-recap-9217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0e699492e841187df0b60c13a64785c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Inugami-san to Nekoyama-san",
+        "alternativeTitle": "Inugami-san to Nekoyama-san",
+        "id": "inugami-san-to-nekoyama-san-5413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2886dd61c2c6598575652f687b2efaa7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "The Boy Who Carried a Guitar: Kikaider vs. Inazuman",
+        "alternativeTitle": "Guitar wo Motta Shounen: Kikaider vs. Inazuman",
+        "id": "the-boy-who-carried-a-guitar-kikaider-vs-inazuman-6063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e9e02205260153f843328cd76d5826f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "28m"
+      },
+      {
+        "title": "Hanaukyo Maid Team: La Verite",
+        "alternativeTitle": "Hanaukyou Maid-tai: La Verite",
+        "id": "hanaukyo-maid-team-la-verite-4307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/650918d334d18a241a35b96261cd49a8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Promised Neverland",
+        "alternativeTitle": "Yakusoku no Neverland",
+        "id": "the-promised-neverland-55",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0de9fad948c05346a163d139bf93358f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "The Perfect Insider",
+        "alternativeTitle": "Subete ga F ni Naru",
+        "id": "the-perfect-insider-2441",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a444a11d5729f00e555f7bb78340e1cc.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "[RAW] Sarutobi Ecchan",
+        "alternativeTitle": "[RAW] Sarutobi Ecchan",
+        "id": "sarutobi-ecchan-7903",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fec5816e8a9db1314f7b49861346248.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Pet Girl of Sakurasou",
+        "alternativeTitle": "Sakura-sou no Pet na Kanojo",
+        "id": "the-pet-girl-of-sakurasou-284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff6cabc45cf5c62637c7fa418237213c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "[RAW] Esper Mami",
+        "alternativeTitle": "[RAW] Esper Mami",
+        "id": "raw-esper-mami-5876",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5022d372f5605edf897e11af9eb10b9.jpg",
+        "episodes": {
+          "sub": 119,
+          "dub": 0,
+          "eps": 119
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Asari-chan",
+        "alternativeTitle": "[RAW] Asari-chan",
+        "id": "raw-asari-chan-7867",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e5271106014947eef7df9c7813faeed.jpg",
+        "episodes": {
+          "sub": 54,
+          "dub": 0,
+          "eps": 54
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Ganso Tensai Bakabon",
+        "alternativeTitle": "[RAW] Ganso Tensai Bakabon",
+        "id": "ganso-tensai-bakabon-6733",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b335a9c68141698b5b832fed94e26175.jpg",
+        "episodes": {
+          "sub": 103,
+          "dub": 0,
+          "eps": 103
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Perman (1983)",
+        "alternativeTitle": "[RAW] Perman (1983)",
+        "id": "raw-perman-1983-6124",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/536a68fc7e32a29fb6e8e06bc2d2a0b6.jpg",
+        "episodes": {
+          "sub": 526,
+          "dub": 0,
+          "eps": 526
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "[RAW] Samurai Giants",
+        "alternativeTitle": "[RAW] Samurai Giants",
+        "id": "samurai-giants-6308",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52f48285b5ed6103590ea216d0fe0ec3.jpg",
+        "episodes": {
+          "sub": 46,
+          "dub": 0,
+          "eps": 46
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Super Bikkuriman",
+        "alternativeTitle": "[RAW] Super Bikkuriman",
+        "id": "super-bikkuriman-11864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f8b8f39fa4c6fc7ed5e26203c99b634.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Tensai Bakabon",
+        "alternativeTitle": "[RAW] Tensai Bakabon",
+        "id": "tensai-bakabon-6221",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d6d61c2b540b5c192fb9bad7768148c.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "[RAW] Microid S",
+        "alternativeTitle": "[RAW] Microid S",
+        "id": "microid-s-15185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e273c81f717e3d29025c828900f6960d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Twelve Kingdoms",
+        "alternativeTitle": "Juuni Kokuki",
+        "id": "the-twelve-kingdoms-447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b15527b9f7a3729b2aace38aa3faccb.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 45,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Helpful Fox Senko-san",
+        "alternativeTitle": "Sewayaki Kitsune no Senko-san",
+        "id": "the-helpful-fox-senko-san-1999",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb31c3548b53b2645718c62441783913.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tetsujin 28",
+        "alternativeTitle": "Tetsujin 28-gou (2004)",
+        "id": "tetsujin-28-2264",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5eeca984af0c63de32c728b954ce9e20.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Pilot's Love Song",
+        "alternativeTitle": "Toaru Hikuushi e no Koiuta",
+        "id": "the-pilots-love-song-2774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7dc5e809b587035f087340f32311c2f6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The God of High School",
+        "alternativeTitle": "The God of High School",
+        "id": "the-god-of-high-school-2464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acd2c05725993caa21dcfe604dff077b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Ancient Magus' Bride",
+        "alternativeTitle": "Mahoutsukai no Yome",
+        "id": "the-ancient-magus-bride-400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04db62f0fd0e01756fb5d34af2b945ac.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Case Files of Jeweler Richard",
+        "alternativeTitle": "Housekishou Richard-shi no Nazo Kantei",
+        "id": "the-case-files-of-jeweler-richard-2980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/481273a580a6c9637076b240e391caa3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Irresponsible Galaxy☆Tylor",
+        "alternativeTitle": "Musekinin Galaxy☆Tylor",
+        "id": "the-irresponsible-galaxytylor-10635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa335abc774739e6fe1a52fe8cc13b78.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Tantei Team KZ Jiken Note",
+        "alternativeTitle": "Tantei Team KZ Jiken Note",
+        "id": "tantei-team-kz-jiken-note-7112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8e42f1fa6785167032dde4684168e2f.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "The Lost Village",
+        "alternativeTitle": "Mayoiga",
+        "id": "the-lost-village-9317",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b8ac2e4b4086088da2cb56bd63972c9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Ryuo's Work is Never Done!",
+        "alternativeTitle": "Ryuuou no Oshigoto!",
+        "id": "the-ryuos-work-is-never-done-3839",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b7d68d2394f9bd5146363df00348d4e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

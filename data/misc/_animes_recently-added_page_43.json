@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 43,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Seiren",
+        "alternativeTitle": "Seiren",
+        "id": "seiren-6653",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31c367f90c01e96a92b9b247b917565a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sekko Boys",
+        "alternativeTitle": "Sekkou Boys",
+        "id": "sekko-boys-6776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/656fc9744ad32951e300dabe900e2051.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Sister Princess",
+        "alternativeTitle": "Sister Princess",
+        "id": "sister-princess-6116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba0b6c14af7b72e635fb357a301d74d6.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Descending Stories: Showa Genroku Rakugo Shinju",
+        "alternativeTitle": "Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen",
+        "id": "descending-stories-showa-genroku-rakugo-shinju-26",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ab78422606c779c4b17ad388845664f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Showa Genroku Rakugo Shinju",
+        "alternativeTitle": "Shouwa Genroku Rakugo Shinjuu",
+        "id": "showa-genroku-rakugo-shinju-65",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b23aa177e533e516557d11dcce2d6610.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Shounen Ashibe: Go! Go! Goma-chan",
+        "alternativeTitle": "Shounen Ashibe: Go! Go! Goma-chan",
+        "id": "shounen-ashibe-go-go-goma-chan-7555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff793a78a22ca90aa9c879015c1e6bd0.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Shin Koihime†Musou: Otome Tairan",
+        "alternativeTitle": "Shin Koihime†Musou: Otome Tairan",
+        "id": "shin-koihimemusou-otome-tairan-3466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cadc19b313c450676f94e8a33e4eee2f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kanojo to Kanojo no Neko: Everything Flows",
+        "alternativeTitle": "Kanojo to Kanojo no Neko: Everything Flows",
+        "id": "kanojo-to-kanojo-no-neko-everything-flows-985",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1a4c914daf0132cbd052ba473aeb954.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Silver Spoon",
+        "alternativeTitle": "Gin no Saji",
+        "id": "silver-spoon-390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f38b95fe0fde2c3cb6636d215eb05d35.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Silver Spoon 2nd Season",
+        "alternativeTitle": "Gin no Saji 2nd Season",
+        "id": "silver-spoon-2nd-season-216",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef863e2a90dbaff010eb8406b81bf677.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shingu: Secret of the Stellar Wars",
+        "alternativeTitle": "Gakuen Senki Muryou",
+        "id": "shingu-secret-of-the-stellar-wars-3347",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/527a3d9159e563573d3b4a3616aece58.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Shounen Ashibe: Go! Go! Goma-chan 4",
+        "alternativeTitle": "Shounen Ashibe: Go! Go! Goma-chan 4",
+        "id": "shounen-ashibe-go-go-goma-chan-4-7990",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/963b002c9052c7bc36109e5786643a07.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Sound of the Sky",
+        "alternativeTitle": "So Ra No Wo To",
+        "id": "sound-of-the-sky-1408",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0244dc1accd272d1b312b39dee55b0b5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shounen Ashibe: Go! Go! Goma-chan 3",
+        "alternativeTitle": "Shounen Ashibe: Go! Go! Goma-chan 3",
+        "id": "shounen-ashibe-go-go-goma-chan-3-8758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0063f5990521761e1a87122b8c307e9f.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Servant x Service",
+        "alternativeTitle": "Servant x Service",
+        "id": "servant-x-service-1034",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cd0ff1b415a9fc329ac9c0b93551f30.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shounen Ashibe: Go! Go! Goma-chan 2",
+        "alternativeTitle": "Shounen Ashibe: Go! Go! Goma-chan 2",
+        "id": "shounen-ashibe-go-go-goma-chan-2-8352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/254afff5a715758a24355d5e05c46ff1.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Space Brothers",
+        "alternativeTitle": "Uchuu Kyoudai",
+        "id": "space-brothers-87",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fff9740527196f6aec2f2e2538d92331.jpg",
+        "episodes": {
+          "sub": 99,
+          "dub": 0,
+          "eps": 99
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soul Buster",
+        "alternativeTitle": "Soul Buster",
+        "id": "soul-buster-8532",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52cc8f21aecd2e18065154f2083ccc4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Spiritpact: Bond of the Underworld",
+        "alternativeTitle": "Ling Qi 2",
+        "id": "spiritpact-bond-of-the-underworld-1581",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c10c819cdded1f28416a6d32bd7de41.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Skip Beat!",
+        "alternativeTitle": "Skip Beat!",
+        "id": "skip-beat-357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87e41748e883709257e17f74ef57f85c.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sparrow's Hotel",
+        "alternativeTitle": "Sparrow's Hotel",
+        "id": "sparrows-hotel-9437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c74b0ab89f11b86365cecae5e95f123.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Space Patrol Luluco",
+        "alternativeTitle": "Uchuu Patrol Luluco",
+        "id": "space-patrol-luluco-1250",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0fe05ff4592ebdad5ae3227e756d8aa.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Seton Academy: Join the Pack!",
+        "alternativeTitle": "Murenase! Seton Gakuen",
+        "id": "seton-academy-join-the-pack-3014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/461edc67d9b82b3c8a2fd167c7666bf6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Straight Title Robot Anime",
+        "alternativeTitle": "Chokkyuu Hyoudai Robot Anime: Straight Title",
+        "id": "straight-title-robot-anime-8423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f3a5ea682d041c0c792dea6e0c552f2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Tanaka-kun is Always Listless",
+        "alternativeTitle": "Tanaka-kun wa Itsumo Kedaruge",
+        "id": "tanaka-kun-is-always-listless-639",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e695e30015865308c2a53895cd5d9c70.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Takamiya Nasuno Desu!: Teekyuu Spin-off",
+        "alternativeTitle": "Takamiya Nasuno Desu!: Teekyuu Spin-off",
+        "id": "takamiya-nasuno-desu-teekyuu-spin-off-6038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f785404175119090bd247b8a970df43f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Tabi Machi Late Show",
+        "alternativeTitle": "Tabi Machi Late Show",
+        "id": "tabi-machi-late-show-7047",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e78797a82429c2aad7cc316e8286ad3e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Taishou Mebiusline: Chicchai-san",
+        "alternativeTitle": "Taishou Mebiusline: Chicchai-san",
+        "id": "taishou-mebiusline-chicchai-san-10459",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12b6cf5b61de78f473ca01c5c1c6da09.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Strike Witches: 501st JOINT FIGHTER WING Take Off!",
+        "alternativeTitle": "Strike Witches: 501 Butai Hasshin Shimasu!",
+        "id": "strike-witches-501st-joint-fighter-wing-take-off-6132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1748955a74b407084daa27bcbceb0a6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Shin Strange+",
+        "alternativeTitle": "Shin Strange+",
+        "id": "shin-strange-6944",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d96004c602705e93d61e7dc358950a6a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Sweet Blue Flowers",
+        "alternativeTitle": "Aoi Hana",
+        "id": "sweet-blue-flowers-2862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad2e75b629403cbe873c9da65770efe8.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Strange+",
+        "alternativeTitle": "Strange+",
+        "id": "strange-7992",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a410d1430171ee8a5fdc6adf20817c26.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "The Ambition of Oda Nobuna",
+        "alternativeTitle": "Oda Nobuna no Yabou",
+        "id": "the-ambition-of-oda-nobuna-1594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa8a980c0dcf5131d6c8593a5ddc8b56.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "That is the Bottleneck",
+        "alternativeTitle": "Sore dake ga Neck",
+        "id": "sore-dake-ga-neck-15558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d481aa3292ccb9fc4b897ea918030f7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Tegami Bachi: Letter Bee Reverse",
+        "alternativeTitle": "Tegamibachi Reverse",
+        "id": "tegami-bachi-letter-bee-reverse-837",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3df7e605a68b92bea5b0f052b4632fcb.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "The Squid Girl",
+        "alternativeTitle": "Shinryaku! Ika Musume",
+        "id": "the-squid-girl-1646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1172ad215994d0a4b2d06c46ee04b50.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Squid Girl 2",
+        "alternativeTitle": "Shinryaku!? Ika Musume 2nd season",
+        "id": "the-squid-girl-2-1485",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ab920016bb47a9f4490a283b788f7ac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Silent Voice",
+        "alternativeTitle": "Koe no Katachi",
+        "id": "a-silent-voice-11",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fc61d82b89949dff4319bd73ff2d456.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "Tegami Bachi: Letter Bee",
+        "alternativeTitle": "Tegamibachi",
+        "id": "tegami-bachi-letter-bee-1102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bbc15f20ceb66cad8697053583b4bb2.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Hello!! KINMOZA!",
+        "alternativeTitle": "Hello!! Kiniro Mosaic",
+        "id": "hello-kinmoza-1459",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8eaf69eb45daff121e812850756950b8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 141,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "In Search of the Lost Future",
+        "alternativeTitle": "Ushinawareta Mirai wo Motomete",
+        "id": "in-search-of-the-lost-future-4512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d41142d70b4f591bf98db59d9b89ca8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Punch Man 2nd Season Commemorative Special",
+        "alternativeTitle": "One Punch Man 2nd Season Commemorative Special",
+        "id": "one-punch-man-2nd-season-commemorative-special-4768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2980949001f919dced6f4912004890e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Haunted Junction",
+        "alternativeTitle": "Haunted Junction",
+        "id": "haunted-junction-5024",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/094f54b138e3c0c7b138d1eea8ed4b8f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Seed Beyond",
+        "alternativeTitle": "Blue Seed 2",
+        "id": "blue-seed-beyond-6048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccf4ba3d5e0d32ec3a0e1e88839a4d91.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Null Peta",
+        "alternativeTitle": "Null Peta",
+        "id": "null-peta-6304",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4dc49dfbfe8fee132901be95b6f754fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Robot Girls Z Specials",
+        "alternativeTitle": "Robot Girls Z Specials",
+        "id": "robot-girls-z-specials-6560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/784d3df957fe9af3548484f8d3b80ba7.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "[RAW] Himitsu no Akko-chan 2",
+        "alternativeTitle": "[RAW] Himitsu no Akko-chan 2",
+        "id": "himitsu-no-akko-chan-2-7328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e7068674c89706095a699bb31083c66.jpg",
+        "episodes": {
+          "sub": 61,
+          "dub": 0,
+          "eps": 61
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tenshi no Shippo Chu!: Tenshi no Utagoe",
+        "alternativeTitle": "Tenshi no Shippo Chu!: Tenshi no Utagoe",
+        "id": "tenshi-no-shippo-chu-tenshi-no-utagoe-7840",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdad86a7bb93e16bec3bcce954c70a39.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Shounen Ashibe: Go! Go! Goma-chan 2",
+        "alternativeTitle": "Shounen Ashibe: Go! Go! Goma-chan 2",
+        "id": "shounen-ashibe-go-go-goma-chan-2-8352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/254afff5a715758a24355d5e05c46ff1.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Isekai Cheat Magician",
+        "alternativeTitle": "Isekai Cheat Magician",
+        "id": "isekai-cheat-magician-9632",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1005a3857dd6b09b020d92c581371061.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nijiyon Animation Specials",
+        "alternativeTitle": "Nijiyon Animation Specials",
+        "id": "nijiyon-animation-specials-18336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5472de5fb68676644fc682dc0c3a799.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Spice and Wolf II",
+        "alternativeTitle": "Ookami to Koushinryou II",
+        "id": "spice-and-wolf-ii-161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a65f95474319a18556561d8214dd2ec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Future Boy Conan",
+        "alternativeTitle": "Mirai Shounen Conan",
+        "id": "future-boy-conan-417",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f847baff406d1181b1a856278ae323cb.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "29m"
+      },
+      {
+        "title": "Digimon Adventure tri. Confession",
+        "alternativeTitle": "Digimon Adventure tri. 3: Kokuhaku",
+        "id": "digimon-adventure-tri-confession-929",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5916cac69f5fef02c9a190c2f6f802a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Hell Teacher Nube",
+        "alternativeTitle": "Jigoku Sensei Nube",
+        "id": "hell-teacher-nube-1441",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cb30afcc53c8de47d8a7a3b56bf305b.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hidamari Sketch",
+        "alternativeTitle": "Hidamari Sketch",
+        "id": "hidamari-sketch-1697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da8bd2f8807879ae8e31c737ad197556.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Towanoquon: The Ephemeral Petals",
+        "alternativeTitle": "Towa no Quon 1: Utakata no Kaben",
+        "id": "towanoquon-the-ephemeral-petals-1953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a33e5d0bf1536d8e468a8d71e0f30167.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Ground Control to Psychoelectric Girl: Special",
+        "alternativeTitle": "Denpa Onna to Seishun Otoko: Mayonaka no Taiyou",
+        "id": "ground-control-to-psychoelectric-girl-special-2209",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8666c752aeca88f157a923c94244be2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "Guin Saga",
+        "alternativeTitle": "Guin Saga",
+        "id": "guin-saga-2721",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92133e8defcbf37b3bd64eb8de26d1f5.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "GA: Geijutsuka Art Design Class",
+        "alternativeTitle": "GA: Geijutsuka Art Design Class",
+        "id": "ga-geijutsuka-art-design-class-2977",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfdc59f2a7f86f6b0b77abb19fc8db95.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Area 88 (TV)",
+        "alternativeTitle": "Area 88 (TV)",
+        "id": "area-88-tv-3489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a2ea6ff861e3e0eacd8ebe06050f785.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Testament of Sister New Devil 2nd Season: Burst OVA",
+        "alternativeTitle": "Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou",
+        "id": "shinmai-maou-no-testament-burst-toujou-basara-no-shigoku-heiwa-na-nichijou-4257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f549a9eb341b0241049840999bd06ef1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Charlotte of the Young Grass",
+        "alternativeTitle": "Wakakusa no Charlotte",
+        "id": "charlotte-of-the-young-grass-4513",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e084712f9f7204eb7227e77b1fe54b8.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Osomatsu-kun (1988)",
+        "alternativeTitle": "Osomatsu-kun (1988)",
+        "id": "osomatsu-kun-1988-4769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/002294ed2415d60460347738a62e16c3.jpg",
+        "episodes": {
+          "sub": 86,
+          "dub": 0,
+          "eps": 86
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ruin Explorers Fam & Ihrie",
+        "alternativeTitle": "Hikyou Tanken Fam & Ihrlie",
+        "id": "ruin-explorers-fam-ihrie-5025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30ce297ebb4a78f77884be6ab9158c57.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!",
+        "alternativeTitle": "Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!",
+        "id": "digimon-savers-agumon-gaomon-lalamon-bakuretsu-jougai-last-battle-5281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dcd74afd1af6255db5cd2c118aea868.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokemon: Pichu Bros. in Party Panic",
+        "alternativeTitle": "Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+        "id": "pokemon-pichu-bros-in-party-panic-5537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/129a2cef089472eb858b233c8636010f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "58m"
+      },
+      {
+        "title": "Mobile Suit Gundam AGE",
+        "alternativeTitle": "Mobile Suit Gundam AGE",
+        "id": "mobile-suit-gundam-age-5793",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f20830910ce1733fd087f3970cf2e8f.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Oneechan ga Kita",
+        "alternativeTitle": "Oneechan ga Kita",
+        "id": "oneechan-ga-kita-6305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ccf9ff3e8c4bcacf3d5607631314e16.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Sanctuary",
+        "alternativeTitle": "Sanctuary",
+        "id": "sanctuary-6561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba59256fdde729d01bd1ff0ae4cdadcd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "67m"
+      },
+      {
+        "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+        "alternativeTitle": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+        "id": "kono-aozora-ni-yakusoku-wo-youkoso-tsugumi-ryou-e-7073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf2b87fd837bdf4e7d3e33ef1aa6d019.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Onara Goro",
+        "alternativeTitle": "Onara Gorou",
+        "id": "onara-goro-9377",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce61e9e8cec91f58e5364eadbb8650d7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Strange Love",
+        "alternativeTitle": "Hen",
+        "id": "strange-love-9889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6f9c3337f8bbd5ead563e1cb25668ad.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Princess Principal Crown Handler Movie 1",
+        "alternativeTitle": "Princess Principal: Crown Handler 1",
+        "id": "princess-principal-crown-handler-movie-1-15521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0dd0b03cadb8e424e623e6ef0b835109.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "53m"
+      },
+      {
+        "title": "No Doubt In Us",
+        "alternativeTitle": "Liang Bu Yi",
+        "id": "no-doubt-in-us-15777",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f6ef977336e60b509b155cf3271dfa3.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "High-Rise Invasion",
+        "alternativeTitle": "Tenkuu Shinpan",
+        "id": "high-rise-invasion-17313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/294fd2c400e4dd2bc9a6969d4c3796df.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Star Blazers: Space Battleship Yamato 2199",
+        "alternativeTitle": "Uchuu Senkan Yamato 2199",
+        "id": "star-blazers-space-battleship-yamato-2199-162",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b66ad2cf313c0ca4a29ef9978de6a32c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Clannad",
+        "alternativeTitle": "Clannad",
+        "id": "clannad-418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/033c07868e7fe2c69d216db13dd3a886.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Igano Kabamaru",
+        "alternativeTitle": "Igano Kabamaru",
+        "id": "igano-kabamaru-674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ece329395582f825f0055295e0b21594.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fairy Tail",
+        "alternativeTitle": "Fairy Tail",
+        "id": "fairy-tail-930",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccbc20fd8ddf9b2000bf23894a787436.jpg",
+        "episodes": {
+          "sub": 175,
+          "dub": 175,
+          "eps": 175
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

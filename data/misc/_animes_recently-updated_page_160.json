@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 160,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Kingdom",
+        "alternativeTitle": "Kingdom",
+        "id": "kingdom-448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/030b0f71f1ca47b99aa4bc1fcf119a24.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 38,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tenchi Muyo! War on Geminar",
+        "alternativeTitle": "Isekai no Seikishi Monogatari",
+        "id": "tenchi-muyo-war-on-geminar-704",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0411e6efcb6748ffb979d72352001fa3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Sgt. Frog",
+        "alternativeTitle": "Keroro Gunsou",
+        "id": "sgt-frog-960",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2f78b90b43c3a4038c8ab2730306a12.jpg",
+        "episodes": {
+          "sub": 358,
+          "dub": 0,
+          "eps": 358
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ranma ½: Akumu! Shunmin Kou",
+        "alternativeTitle": "Ranma ½: Akumu! Shunmin Kou",
+        "id": "ranma-akumu-shunmin-kou-1472",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a00b5fc4a621721a672f84681c66ddd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Fate/Kaleid Liner Prisma Illya 2Wei!",
+        "alternativeTitle": "Fate/kaleid liner Prisma☆Illya 2wei!",
+        "id": "fatekaleid-liner-prisma-illya-2wei-2240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61ac7f4c344e4453be114c7610db65d5.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kindaichi Case Files Special",
+        "alternativeTitle": "Kindaichi Shounen no Jikenbo Specials",
+        "id": "kindaichi-case-files-special-2496",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc01623abc22387f9180a7ac45a303e9.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "48m"
+      },
+      {
+        "title": "Koro Sensei Quest!",
+        "alternativeTitle": "Koro-sensei Quest!",
+        "id": "koro-sensei-quest-3008",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c86c440ca44245d64e0019f44a2ee2f5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Escaflowne: A Girl in Gaea",
+        "alternativeTitle": "Escaflowne",
+        "id": "escaflowne-a-girl-in-gaea-3264",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd24b02b881c7a41efa922ac6170e376.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Starmyu",
+        "alternativeTitle": "Starmyu",
+        "id": "starmyu-3776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e62d30c5a7c2b8ed58dd15be042f36a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mijikamon",
+        "alternativeTitle": "Mijikamon",
+        "id": "mijikamon-4288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/242022ea026da0bc936960004a9b6d6c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Bastard!!",
+        "alternativeTitle": "Bastard!!: Ankoku no Hakaishin",
+        "id": "bastard-4544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0d337b9958b74760777614c8c26684e.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Samurai After",
+        "alternativeTitle": "Hyakka Ryouran: Samurai After",
+        "id": "samurai-after-4800",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bf50bec125bd2c65cbec2618e472755.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Night Warriors: Darkstalkers' Revenge",
+        "alternativeTitle": "Vampire Hunter",
+        "id": "night-warriors-darkstalkers-revenge-5056",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d1909be378698d3b1116f8e19e9facc.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "D.C.III: Da Capo III",
+        "alternativeTitle": "D.C.III: Da Capo III",
+        "id": "dciii-da-capo-iii-5312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aeb336dc31ffe4c5c881a35fa0ed969d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wake Up, Girls! New Chapter",
+        "alternativeTitle": "Wake Up, Girls! Shin Shou",
+        "id": "wake-up-girls-new-chapter-5824",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c37a20725a874d7850e698e801123a9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Working Buddies! No 2!",
+        "alternativeTitle": "Hataraku Onii-san! no 2!",
+        "id": "working-buddies-no-2-6336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba1d663de737dd885c7d58d6008faad1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "[RAW] 21 Emon",
+        "alternativeTitle": "[RAW] 21 Emon",
+        "id": "21-emon-7616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f20c31434245aeaa791d906bea08e04.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Christmas in January",
+        "alternativeTitle": "1-gatsu ni wa Christmas",
+        "id": "christmas-in-january-8896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6b7541bcee8559049d27b3d8b65999a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Aguu: Genius Dolls",
+        "alternativeTitle": "Aguu: Tensai Ningyou",
+        "id": "aguu-genius-dolls-9408",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9815642d466faad575cd8d9fc45ae81c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Katsugeki Shoujo Tanteidan",
+        "alternativeTitle": "Katsugeki Shoujo Tanteidan",
+        "id": "katsugeki-shoujo-tanteidan-10432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df2a3396d510f45dbd8c2c8c45bb5857.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "[RAW] Edokko Boy: Gatten Tasuke",
+        "alternativeTitle": "[RAW] Edokko Boy: Gatten Tasuke",
+        "id": "edokko-boy-gatten-tasuke-13504",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e772ed9d112f62ecaf46693d9ef6bd5.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Show by Rock!! Stars!!",
+        "alternativeTitle": "Show by Rock!! Stars!!",
+        "id": "show-by-rock-stars-15552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc065259bd3424cd4827e62c107f1379.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gintama: The Semi-Final",
+        "alternativeTitle": "Gintama: The Semi-Final",
+        "id": "gintama-the-semi-final-17344",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9c8ba4ae53d789f9b8db783c6c08a74.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Chibi Maruko-chan",
+        "alternativeTitle": "Chibi Maruko-chan",
+        "id": "chibi-maruko-chan-17856",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/322b01d45d523d145dc96988b6c1efc2.jpg",
+        "episodes": {
+          "sub": 77,
+          "dub": 0,
+          "eps": 77
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Go! Go! Vehicle Zoo (2024)",
+        "alternativeTitle": "Go! Go! Vehicle Zoo (2024)",
+        "id": "go-go-vehicle-zoo-2024-19648",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e03f640fa9bee0d8e6bb01bb29e665ff.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Hunter x Hunter: Original Video Animation",
+        "alternativeTitle": "Hunter x Hunter: Original Video Animation",
+        "id": "hunter-x-hunter-original-video-animation-193",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/370d6adde1969cd0fccb18097a06621d.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Kyou kara Ore wa!!",
+        "alternativeTitle": "Kyou kara Ore wa!!",
+        "id": "kyou-kara-ore-wa-449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e1b24e761e0c4b2c3df0e449012ce6f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Little Witch Academia: The Movie 1",
+        "alternativeTitle": "Little Witch Academia",
+        "id": "little-witch-academia-the-movie-1-705",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca55ae84dabbb3afd6e11b5a304f0754.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "26m"
+      },
+      {
+        "title": "Getbackers",
+        "alternativeTitle": "GetBackers",
+        "id": "getbackers-1217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f674dc8fa34c16c78bac8f46e1efee36.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+        "alternativeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow",
+        "id": "rezero-kara-hajimeru-isekai-seikatsu-memory-snow-1473",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca6faf0784e4233fc3fdfbae441eb789.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Shirobako Movie",
+        "alternativeTitle": "Shirobako Movie",
+        "id": "shirobako-movie-1729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e928d90de8c809206d2ad293b9b84f29.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "3000 Leagues in Search of Mother",
+        "alternativeTitle": "Haha wo Tazunete Sanzenri",
+        "id": "3000-leagues-in-search-of-mother-1985",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85f01c8d9a411347e9df7dec8ae6a205.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Fresh Precure!",
+        "alternativeTitle": "Fresh Precure!",
+        "id": "fresh-precure-2241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/127665b67bef48641fcfeed679d6cb58.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Black Butler II",
+        "alternativeTitle": "Kuroshitsuji II",
+        "id": "black-butler-ii-2497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2ccf24f2b4847759aabcb67eb6a6b94.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bodyguard of the Wind",
+        "alternativeTitle": "Kaze no Youjinbou",
+        "id": "bodyguard-of-the-wind-2753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66c1eb4bb76fd3be88269dfa73b4927e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Spiritpact",
+        "alternativeTitle": "Ling Qi",
+        "id": "spiritpact-3009",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e57a3aacc6d92eb6d3c39048df5f92fd.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+        "alternativeTitle": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou",
+        "id": "fatekaleid-liner-prismaillya-2wei-mahou-shoujo-in-onsen-ryokou-3265",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90db28fbbbbf429a92d4b0181577fa49.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina",
+        "alternativeTitle": "Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina",
+        "id": "happiness-charge-precure-movie-ningyou-no-kuni-no-ballerina-3521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b2e67467d627cdbae22ed24d36b060e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "71m"
+      },
+      {
+        "title": "Sumomomo Momomo: Chijou Saikyou no Yome Specials",
+        "alternativeTitle": "Sumomomo Momomo: Chijou Saikyou no Yome Specials",
+        "id": "sumomomo-momomo-chijou-saikyou-no-yome-specials-3777",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6b2d371c3c387ae3525a9835c34572e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Miss caretaker of Sunohara-sou",
+        "alternativeTitle": "Sunohara-sou no Kanrinin-san",
+        "id": "miss-caretaker-of-sunohara-sou-4033",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe1ad220ce9e7951b2a2e9107aca3e82.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

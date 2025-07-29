@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 182,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Sakura Wars: School of Paris",
+        "alternativeTitle": "Sakura Taisen: Ecole de Paris",
+        "id": "sakura-wars-school-of-paris-6129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9cf53b4ca20532cb63ef20b9ce1f040.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Oblivion Battery",
+        "alternativeTitle": "Boukyaku Battery (TV)",
+        "id": "oblivion-battery-19103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5979976bedce7d9ad42771296a411ea.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Weather Report Girl",
+        "alternativeTitle": "Otenki Oneesan",
+        "id": "weather-report-girl-16916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6890f1e09d56e0c7a5cfcd3e637123a4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Pet Shop of Horrors",
+        "alternativeTitle": "Petshop of Horrors",
+        "id": "pet-shop-of-horrors-2432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8803698b937dd53a3c72823418b7534b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Sakura Wars OVA: Ouka Kenran",
+        "alternativeTitle": "Sakura Taisen: Ouka Kenran",
+        "id": "sakura-wars-ova-ouka-kenran-5424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c3e4455a7e7efb452a2abdf2bce7d21.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Kitarou Tanjou: Gegege no Nazo",
+        "alternativeTitle": "Kitarou Tanjou: Gegege no Nazo",
+        "id": "kitarou-tanjou-gegege-no-nazo-17679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c01dfabfd02d3c9790b99f6a90ee7bf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Sound! Euphonium 3",
+        "alternativeTitle": "Hibike! Euphonium 3",
+        "id": "sound-euphonium-3-15728",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b754e41063fd71da3397e13e0c1a3f2a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tonari no Youkai-san",
+        "alternativeTitle": "Tonari no Youkai-san",
+        "id": "tonari-no-youkai-san-19100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6469db54893c32fc2cacaf338d5b69.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Patlabor Movie 3: WXIII",
+        "alternativeTitle": "WXIII Kidou Keisatsu Patlabor",
+        "id": "patlabor-movie-3-wxiii-4592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc9702c04c9e73bf4833d0a2e6769ee0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Aria The Origination Picture Drama",
+        "alternativeTitle": "Aria the Origination Picture Drama",
+        "id": "aria-the-origination-picture-drama-3222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d665a6eb32a6c2eecd531b136c7639f.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "AIKa R-16: Virgin Mission",
+        "alternativeTitle": "AIKa R-16: Virgin Mission",
+        "id": "aika-r-16-virgin-mission-8066",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72d7c9436b61217bad25dab69df79f78.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Crimson Wolf",
+        "alternativeTitle": "Hon Ran",
+        "id": "crimson-wolf-10149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b6bcdcd4d9b4b11e6f18e6c64ae1af2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "59m"
+      },
+      {
+        "title": "Plastic Little",
+        "alternativeTitle": "Plastic Little",
+        "id": "plastic-little-7393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa31a26dedb73aaec8fc0f03438dcf1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Mahoutsukai Tai! vs. Shamanic Princess",
+        "alternativeTitle": "Mahoutsukai Tai! vs. Shamanic Princess",
+        "id": "mahoutsukai-tai-vs-shamanic-princess-8326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58cc65a7be6525fc6a156004e90eeee5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "5m"
+      },
+      {
+        "title": "Girls Band Cry",
+        "alternativeTitle": "Girls Band Cry",
+        "id": "girls-band-cry-19115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ee4fe82e35f214e5676bcf22d5d64d6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+        "alternativeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+        "id": "an-archdemons-dilemma-how-to-love-your-elf-bride-19130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c03a34d9cb5e32348d90271798190fd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Comic Party Specials",
+        "alternativeTitle": "Comic Party Specials",
+        "id": "comic-party-specials-6082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50a75a7c6ddd1037398386cdd61be91d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Comic Party",
+        "alternativeTitle": "Comic Party",
+        "id": "comic-party-5310",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/865d041b4aa4ace0678f32bba8a146ea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gunma-chan Season 2",
+        "alternativeTitle": "Gunma-chan Season 2",
+        "id": "gunma-chan-season-2-18379",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02811eef934b0b6acabd87b68d98aed5.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mysterious Disappearances",
+        "alternativeTitle": "Kaii to Otome to Kamikakushi",
+        "id": "mysterious-disappearances-19126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7cf93a1492ba1cb5d8c76af676267a18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Many Sides of Voice Actor Radio",
+        "alternativeTitle": "Seiyuu Radio no Uraomote",
+        "id": "the-many-sides-of-voice-actor-radio-19121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a165e967ca566b006c06422df6f99b1f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Outcast 5th Season",
+        "alternativeTitle": "Yi Ren Zhi Xia 5th season",
+        "id": "the-outcast-5th-season-19208",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/813e1689d8dc9902703dc67291ec10ff.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Rinkai!",
+        "alternativeTitle": "Rinkai!",
+        "id": "rinkai-19099",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1560d4b1ef634047532c60c9821e0e04.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Unnamed Memory",
+        "alternativeTitle": "Unnamed Memory",
+        "id": "unnamed-memory-19135",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9083491750ce69aae1a916304b4cf3ce.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Boy and the Heron",
+        "alternativeTitle": "Kimitachi wa Dou Ikiru ka",
+        "id": "the-boy-and-the-heron-15765",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e52b75e7e14f6840ce39b96b17e8f9e5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "123m"
+      },
+      {
+        "title": "Super Xiang",
+        "alternativeTitle": "Shen Zhiyi Jiao",
+        "id": "super-xiang-19151",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b064fc83f90302df8e407291f7c323ac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Tadaima, Okaeri",
+        "alternativeTitle": "Tadaima, Okaeri",
+        "id": "tadaima-okaeri-19116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78e485190f9da2d4502da66890e9ff89.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Train to the End of the World",
+        "alternativeTitle": "Shuumatsu Train Doko e Iku?",
+        "id": "train-to-the-end-of-the-world-19106",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c322c791493b191eb77e6a25df2fb000.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gods' Game We Play",
+        "alternativeTitle": "Kami wa Game ni Ueteiru.",
+        "id": "gods-game-we-play-19110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e8eadbdb1bdda801ec2d8b4a5a8a9cc.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokemon: Pichu Bros. in Party Panic",
+        "alternativeTitle": "Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+        "id": "pokemon-pichu-bros-in-party-panic-5537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/129a2cef089472eb858b233c8636010f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "58m"
+      },
+      {
+        "title": "Blue Archive the Animation",
+        "alternativeTitle": "Blue Archive the Animation",
+        "id": "blue-archive-the-animation-19125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea3dd4a5448f8a1a1dedd0e3a6521745.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+        "alternativeTitle": "Tensei Kizoku, Kantei Skill de Nariagaru",
+        "id": "as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-19127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa8451169753e07cdbfddc5507c1c01e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Comic Party Revolution OVA",
+        "alternativeTitle": "Comic Party Revolution OVA",
+        "id": "comic-party-revolution-ova-5588",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23e1d36d0357783b1346bec1b3cf6fbe.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Astro Note",
+        "alternativeTitle": "Astro Note",
+        "id": "astro-note-19113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08b233c5dd862dbac0d22fba0f7a55cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Highspeed Etoile",
+        "alternativeTitle": "Highspeed Etoile",
+        "id": "highspeed-etoile-19112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4be3a7330cdc5c347fa26a91e1ba9dd5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The iDOLM@STER Shiny Colors",
+        "alternativeTitle": "The iDOLM@STER Shiny Colors",
+        "id": "the-idolm-at-ster-shiny-colors-19101",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b2c7d017872553fd5c54382b3d05891.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nijiyon Animation 2",
+        "alternativeTitle": "Nijiyon Animation 2",
+        "id": "nijiyon-animation-2-19097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b55d0926d1dd3a814887b9c4c15bc526.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Girls & Panzer OVAs",
+        "alternativeTitle": "Girls & Panzer Specials",
+        "id": "girls-panzer-ovas-2802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abd042a01f924ef046dc2131779ec1a5.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Scared Rider Xechs",
+        "alternativeTitle": "Scared Rider Xechs",
+        "id": "scared-rider-xechs-9877",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5cd2252deb20dde957cc3ef8aa8aad7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Salad Bowl of Eccentrics",
+        "alternativeTitle": "Henjin no Salad Bowl",
+        "id": "salad-bowl-of-eccentrics-19105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c4a0331dc1ed64f58883f267108a22.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

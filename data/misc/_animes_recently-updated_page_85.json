@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 85,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Kaiba",
+        "alternativeTitle": "Kaiba",
+        "id": "kaiba-330",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a4f4eaaf62a61cf33c2f4788a6463f2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Freshly Baked!! Japan",
+        "alternativeTitle": "Yakitate!! Japan",
+        "id": "freshly-baked-japan-586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cff775b3b4255cfaee72019e9e2dec80.jpg",
+        "episodes": {
+          "sub": 69,
+          "dub": 0,
+          "eps": 69
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Recovery of an MMO Junkie",
+        "alternativeTitle": "Net-juu no Susume",
+        "id": "recovery-of-an-mmo-junkie-1098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed7b7f660972d7f163d94114246c5910.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "My Little Monster",
+        "alternativeTitle": "Tonari no Kaibutsu-kun",
+        "id": "my-little-monster-1354",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d10e102789431df0d4b3af5baeed6017.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hayate the Combat Butler: Atsu ga Natsuize - Mizugi-hen!",
+        "alternativeTitle": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+        "id": "hayate-the-combat-butler-atsu-ga-natsuize-mizugi-hen-2122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0f28178feeb50c8360c158b7caf32fc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Inari Kon Kon",
+        "alternativeTitle": "Inari, Konkon, Koi Iroha.",
+        "id": "inari-kon-kon-2634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e02f497c66008bb91180899a66b066d.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III: Missed by a Dollar",
+        "alternativeTitle": "Lupin III: $1 Money Wars",
+        "id": "lupin-iii-missed-by-a-dollar-2890",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/692ab482a820ac5b0395f6e7bb0d57cf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "[RAW] Cyborg Kuro-chan",
+        "alternativeTitle": "[RAW] Cyborg Kuro-chan",
+        "id": "cyborg-kuro-chan-3146",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b53d12f9e3c88a40569e0c4461b484b4.jpg",
+        "episodes": {
+          "sub": 66,
+          "dub": 0,
+          "eps": 66
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "3x3 Eyes: Legend of the Divine Demon",
+        "alternativeTitle": "3x3 Eyes: Seima Densetsu",
+        "id": "3x3-eyes-legend-of-the-divine-demon-3658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc6df20845a543bcf171fd08de9769d9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Mokke Special Episodes",
+        "alternativeTitle": "Mokke Specials",
+        "id": "mokke-special-episodes-3914",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9c5e7ad3a2acdf8f0f3b1a474c67584.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Starmyu 3rd Season",
+        "alternativeTitle": "Starmyu 3rd Season",
+        "id": "starmyu-3rd-season-4170",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b9937e71e6876cf78435569b22171e5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": ".hack//Liminality",
+        "alternativeTitle": ".hack//Liminality",
+        "id": "hackliminality-5194",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca989d456b2a2ef0a65706259791dcd9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Ikki Tousen",
+        "alternativeTitle": "Ikkitousen",
+        "id": "ikki-tousen-5962",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e73d906f0c3f37fe7b1d75720b99b539.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ein's Summer Vacation",
+        "alternativeTitle": "Cowboy Bebop: Ein no Natsuyasumi",
+        "id": "eins-summer-vacation-6986",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df785e09ab57f1c5ffee8ee953c75ca7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "11eyes",
+        "alternativeTitle": "11eyes",
+        "id": "11eyes-7242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a05e3093a45c709b47d38d098c2722bd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Flowering Heart",
+        "alternativeTitle": "Flowering Heart",
+        "id": "flowering-heart-7498",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71d638397d7450c36855083913f36d4e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Ojisan and Marshmallow Episode 13: Hige-san and Marshmallow",
+        "alternativeTitle": "Ojisan to Marshmallow: Hige-san to Yume Mashmallow",
+        "id": "ojisan-and-marshmallow-episode-13-hige-san-and-marshmallow-7754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54552bead98e449ce9952f7ac78e86a7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Lily C.A.T.",
+        "alternativeTitle": "Lily C.A.T.",
+        "id": "lily-cat-8266",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e32a4e6fb087c5d6380f204652cd1ac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "67m"
+      },
+      {
+        "title": "Wanna Be the Strongest in the World",
+        "alternativeTitle": "Sekai de Ichiban Tsuyoku Naritai!",
+        "id": "wanna-be-the-strongest-in-the-world-8522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f008e42d00c9b5af3fbd9b1c996cbb4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cutie Honey Universe",
+        "alternativeTitle": "Cutie Honey Universe",
+        "id": "cutie-honey-universe-9546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e66646f547b16ae47907f56a41d3db5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Soukihei MD Geist",
+        "alternativeTitle": "Soukihei MD Geist",
+        "id": "soukihei-md-geist-9802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad2d8e10f748cd7eb4fb7e49993cf6bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Dokyuu Hentai HxEros OVA",
+        "alternativeTitle": "Dokyuu Hentai HxEros OVA",
+        "id": "dokyuu-hentai-hxeros-ova-15690",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fadcb3354193445987e300c08868ee3d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Astral Sutra 2nd Season",
+        "alternativeTitle": "Xing Wushen Jue 2nd Season",
+        "id": "astral-sutra-2nd-season-19530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a2476f89994f257b2bf6f8389e78b8e.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Natsume's Book of Friends Season 2",
+        "alternativeTitle": "Zoku Natsume Yuujinchou",
+        "id": "natsumes-book-of-friends-season-2-75",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/190d97dfb57b1c76bad9f9bd5dd17cd2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kamisama Kiss: 2nd Season",
+        "alternativeTitle": "Kamisama Hajimemashita◎",
+        "id": "kamisama-kiss-2nd-season-331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6483ff5ae07bc72a090b8195b939eb58.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aggressive Retsuko (ONA) 3rd Season",
+        "alternativeTitle": "Aggressive Retsuko (ONA) 3rd Season",
+        "id": "aggressive-retsuko-ona-3rd-season-587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22654a58cc7a6166e6d2266bb9831660.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "Love, Chunibyo & Other Delusions!",
+        "alternativeTitle": "Chuunibyou demo Koi ga Shitai!",
+        "id": "love-chunibyo-other-delusions-843",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45a469c51892b3a73268c6f4001759d8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nisekoi: False Love",
+        "alternativeTitle": "Nisekoi",
+        "id": "nisekoi-false-love-1099",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a300d5b8f14a0adfcb8413f602d411.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Towanoquon: The Return of the Invincible",
+        "alternativeTitle": "Towa no Quon 5: Souzetsu no Raifuku",
+        "id": "towanoquon-the-return-of-the-invincible-1355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99303317cfa45639de0a3a10060427ac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode",
+        "alternativeTitle": "Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode",
+        "id": "tamayura-hitotose-attakai-kaze-no-omoide-nanode-1867",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55ca7c547d9f8302f9ae88ed2883fea7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Pom Poko",
+        "alternativeTitle": "Heisei Tanuki Gassen Ponpoko",
+        "id": "pom-poko-2123",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dbc4372dc43aa08c29f76944812cce0d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas",
+        "alternativeTitle": "Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas",
+        "id": "uta-noprince-sama-maji-love-2000-shining-star-xmas-2379",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2362f23d4bfea82d398f2ae17a545165.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Ixion Saga DT",
+        "alternativeTitle": "Ixion Saga DT",
+        "id": "ixion-saga-dt-2635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48051e464b8b31a8d9c53137b3972f89.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III: Dead or Alive",
+        "alternativeTitle": "Lupin III: Dead or Alive",
+        "id": "lupin-iii-dead-or-alive-2891",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8c63b6c1aa60b0034dee0945c7337a8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Donten: Laughing Under the Clouds - Gaiden: Chapter 3 - Conspiracy of the Military",
+        "alternativeTitle": "Donten ni Warau Gaiden: Ouka, Tenbou no Kakehashi",
+        "id": "donten-laughing-under-the-clouds-gaiden-chapter-3-conspiracy-of-the-military-3147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64d225eaaf25782d2e0015e5bc811979.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "57m"
+      },
+      {
+        "title": "Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai",
+        "alternativeTitle": "Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai",
+        "id": "saenai-heroine-no-sodatekata-ai-to-seishun-no-service-kai-3403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6efe6d0d9dd0b7ed4df1fef29aac5fb0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Stratos 4 Advance",
+        "alternativeTitle": "Stratos 4 Advance",
+        "id": "stratos-4-advance-4171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/951de4498b62fd41c8829b94bbcc7f10.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Tokyo Babylon",
+        "alternativeTitle": "Tokyo Babylon",
+        "id": "tokyo-babylon-4683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d6ac991b4c22e6f1bc66cdf9deb0df2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Age 12.: 2nd Season",
+        "alternativeTitle": "12-sai.: Chicchana Mune no Tokimeki 2nd Season",
+        "id": "age-12-2nd-season-5195",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/398d8fecfb719cd0ef54707eecfd610c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Show By Rock!! Short!!",
+        "alternativeTitle": "Show By Rock!! Short!!",
+        "id": "show-by-rock-short-6219",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc573b80d3a5b614100f62162a59cdcc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      }
+    ]
+  }
+}

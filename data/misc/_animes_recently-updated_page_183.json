@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 183,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "RoboMasters the Animated Series",
+        "alternativeTitle": "RoboMasters the Animated Series",
+        "id": "robomasters-the-animated-series-6113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a2821e59117ce402468218cebf1401f.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "God Mazinger",
+        "alternativeTitle": "God Mazinger",
+        "id": "god-mazinger-6369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03d270b73b6672c2f09a3de06cdf40fa.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "29m"
+      },
+      {
+        "title": "Ai Tenchi Muyou!",
+        "alternativeTitle": "Ai Tenchi Muyou!",
+        "id": "ai-tenchi-muyou-7137",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/994b5c32a175fcf07fb0262fcd428df0.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Plastic Little",
+        "alternativeTitle": "Plastic Little",
+        "id": "plastic-little-7393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa31a26dedb73aaec8fc0f03438dcf1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Music Girls",
+        "alternativeTitle": "Ongaku Shoujo (TV)",
+        "id": "music-girls-8161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32da6a54ec08b04d0a9a907315167b40.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "SD Gundam Force",
+        "alternativeTitle": "SD Gundam Force",
+        "id": "sd-gundam-force-9697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f7547b68fb26232daed09ad626a502d.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Magnificent Kotobuki",
+        "alternativeTitle": "Kouya no Kotobuki Hikoutai Kanzenban",
+        "id": "the-magnificent-kotobuki-14817",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/448eee8d675ccc63f6e71bdd50c56cea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "I, Tsushima (ONA)",
+        "alternativeTitle": "Ore, Tsushima (ONA)",
+        "id": "i-tsushima-ona-18145",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f0aaf8cdd85aadf303bf25025d1284c.jpg",
+        "episodes": {
+          "sub": 93,
+          "dub": 0,
+          "eps": 93
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Edens Zero (Recap Movie)",
+        "alternativeTitle": "Edens Zero (Recap Movie)",
+        "id": "edens-zero-recap-movie-18401",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0df28fdcfc365fd4015ab3c371fd3185.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "71m"
+      },
+      {
+        "title": "Ya Boy Kongming!: Road to Summer Sonia",
+        "alternativeTitle": "Paripi Koumei: Road to Summer Sonia",
+        "id": "ya-boy-kongming-road-to-summer-sonia-18913",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6027737328a36a7f1f226d26f6906347.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Three Thousand Roads 2nd Season",
+        "alternativeTitle": "Wu Ying Sanqian Dao 2nd Season",
+        "id": "three-thousand-roads-2nd-season-19169",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae767ae8656d9fdda697dc2eb9211406.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Lonely Castle in the Mirror: Before and After",
+        "alternativeTitle": "Kagami no Kojou no Mae to Ato",
+        "id": "lonely-castle-in-the-mirror-before-and-after-19681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e083c122ca029b57ab64948236011b47.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Major S1",
+        "alternativeTitle": "Major S1",
+        "id": "major-s1-226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55406b5f33974391a68d0e742bb946df.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kimi ni Todoke: From Me to You",
+        "alternativeTitle": "Kimi ni Todoke",
+        "id": "kimi-ni-todoke-from-me-to-you-482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1a1df9baf756b8926a64430ed2ff0ca.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Hidamari Sketch x ☆☆☆ Specials",
+        "alternativeTitle": "Hidamari Sketch x ☆☆☆ Specials",
+        "id": "hidamari-sketch-x-specials-738",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/adf407f0a4df9ce8ce342fb95656158b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Space Patrol Luluco",
+        "alternativeTitle": "Uchuu Patrol Luluco",
+        "id": "space-patrol-luluco-1250",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0fe05ff4592ebdad5ae3227e756d8aa.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Martian Successor Nadesico",
+        "alternativeTitle": "Kidou Senkan Nadesico",
+        "id": "martian-successor-nadesico-1506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34ca1fdc7888c68d4471a183ccb0c741.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Free!: Dive to the Future Episode 0",
+        "alternativeTitle": "Free!: Dive to the Future Episode 0",
+        "id": "free-dive-to-the-future-episode-0-1762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b335dcb354b39ac9dcdfdaba704150d9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Food Wars! The Fifth Plate",
+        "alternativeTitle": "Shokugeki no Souma: Gou no Sara",
+        "id": "food-wars-the-fifth-plate-2018",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eeb135e1c40d01554fbb8cca16062385.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Art Online",
+        "alternativeTitle": "Sword Art Online",
+        "id": "sword-art-online-2274",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90dca175561e61180622bc79218104cb.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mysterious Girlfriend X: A Mysterious Summer Festival",
+        "alternativeTitle": "Nazo no Kanojo X: Nazo no Natsu Matsuri",
+        "id": "mysterious-girlfriend-x-a-mysterious-summer-festival-2530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25f20f83cf6312343c68ba47b6cb4983.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Street Fighter II: The Animated Series",
+        "alternativeTitle": "Street Fighter II V",
+        "id": "street-fighter-ii-the-animated-series-3298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6aaae7bd9649d4e15d0d98e0be9d30a1.jpg",
+        "episodes": {
+          "sub": 29,
+          "dub": 29,
+          "eps": 29
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Day Before Us 2",
+        "alternativeTitle": "Yeon-ae Halujeon 2",
+        "id": "a-day-before-us-2-3554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3436e8463771c39dc9e710d01412f55b.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Blue Comet SPT Layzner",
+        "alternativeTitle": "Aoki Ryuusei SPT Layzner",
+        "id": "blue-comet-spt-layzner-3810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/285293c1597248209b1d1fa1bd5a2d15.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Web Ghosts PiPoPa",
+        "alternativeTitle": "Net Ghost Pipopa",
+        "id": "web-ghosts-pipopa-4322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/522e643417bed025ec1e4509a1306007.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kyou no Asuka Show",
+        "alternativeTitle": "Kyou no Asuka Show",
+        "id": "kyou-no-asuka-show-4834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5116f3fbc38ea382ea7304a8252b2068.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Fire Tripper",
+        "alternativeTitle": "Fire Tripper",
+        "id": "fire-tripper-5090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f55e09313593045025cd6b0a5ae1823.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Spirit of Wonder: Shounen Kagaku Club",
+        "alternativeTitle": "Spirit of Wonder: Shounen Kagaku Club",
+        "id": "spirit-of-wonder-shounen-kagaku-club-5346",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5e0a33b745cf98184fa911effc14745.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Miracle Train: Welcome to the Oedo Line",
+        "alternativeTitle": "Miracle☆Train: Oedo-sen e Youkoso",
+        "id": "miracle-train-welcome-to-the-oedo-line-5602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/77a1ba4bca267125d231118db088a8df.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA",
+        "alternativeTitle": "Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA",
+        "id": "saikin-imouto-no-yousu-ga-chotto-okashiinda-ga-ova-6114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3265990e43325ec74e488c1124005e2b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Cyborg 009: Legend of the Super Galaxy",
+        "alternativeTitle": "Cyborg 009: Chou Ginga Densetsu",
+        "id": "cyborg-009-legend-of-the-super-galaxy-6626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1dddc784a451a917948ea07b5201cc8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "Akikan!",
+        "alternativeTitle": "Akikan!",
+        "id": "akikan-7138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2096ee30dbb346f12214ec9f7fbe05d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokémon: Mewtwo Strikes Back—Evolution",
+        "alternativeTitle": "Pokemon Movie 22: Mewtwo no Gyakushuu Evolution",
+        "id": "pokemon-mewtwo-strikes-backevolution-7394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b1414e108b164ded2bc14f5a4638080.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Sorcerous Stabber Orphen: Celestial Artifacts",
+        "alternativeTitle": "Majutsushi Orphen Hagure Tabi: Tennin no Isan",
+        "id": "sorcerous-stabber-orphen-celestial-artifacts-7650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bf473a78183f4c3e3747f2783052cdb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary OVA",
+        "alternativeTitle": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary OVA",
+        "id": "tsuki-wa-higashi-ni-hi-wa-nishi-ni-operation-sanctuary-ova-8418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6e57009158c8e6b6b36174afbff7225.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "12m"
+      },
+      {
+        "title": "Sorcerous Stabber Orphen",
+        "alternativeTitle": "Majutsushi Orphen Hagure Tabi",
+        "id": "sorcerous-stabber-orphen-8674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/834e8b021b76ff02e6234735217f10c5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Niji no Kanata e! Shoujo Diana Monogatari",
+        "alternativeTitle": "Niji no Kanata e! Shoujo Diana Monogatari",
+        "id": "niji-no-kanata-e-shoujo-diana-monogatari-10722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cf6958c45b1db27a1486bca7d90b803.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Boonie Bears: Homeward Journey",
+        "alternativeTitle": "Xiong Chumo Zhi: Guonian",
+        "id": "boonie-bears-homeward-journey-12514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c72d551e81140811c822d7213004ab4.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Special",
+        "duration": "68m"
+      },
+      {
+        "title": "[RAW] Esper Mami Special: My Angel Mami-chan",
+        "alternativeTitle": "[RAW] Esper Mami Special: My Angel Mami-chan",
+        "id": "esper-mami-special-my-angel-mami-chan-13538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e753b56d69fa29146cad158824ef0bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Dynasty 2",
+        "alternativeTitle": "Jian Wangchao 2",
+        "id": "sword-dynasty-2-14306",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1bfbac25f4e01307024c3f0b34dc7b20.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "15m"
+      }
+    ]
+  }
+}

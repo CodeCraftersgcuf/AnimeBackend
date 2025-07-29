@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 18,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "My New Boss Is Goofy",
+        "alternativeTitle": "Atarashii Joushi wa Do Tennen",
+        "id": "my-new-boss-is-goofy-18611",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d8bca75073c2046ba6d419c7243a378.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 1,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Returner's Magic Should Be Special",
+        "alternativeTitle": "Kikansha no Mahou wa Tokubetsu desu",
+        "id": "a-returners-magic-should-be-special-18600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f77c2a8d9163d22b4c8c5376189c56c1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tearmoon Empire",
+        "alternativeTitle": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+        "id": "tearmoon-empire-18597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41c94a371d45d23aada854ba72a71cc9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Spy x Family Season 2",
+        "alternativeTitle": "Spy x Family Season 2",
+        "id": "spy-x-family-season-2-18572",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf3ba12c4112c8a922280cca870510ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Faraway Paladin: The Lord of Rust Mountains",
+        "alternativeTitle": "Saihate no Paladin: Tetsusabi no Yama no Ou",
+        "id": "the-faraway-paladin-the-lord-of-rust-mountains-18576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b9ee25ecd4fd800f05f6b4b171d7ec6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kibou no Chikara: Otona Precure '23",
+        "alternativeTitle": "Kibou no Chikara: Otona Precure '23",
+        "id": "kibou-no-chikara-otona-precure-23-18614",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/451f09be03718f2bb0ce7f730613581c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Shadowverse Flame: Seven Shadows-hen",
+        "alternativeTitle": "Shadowverse Flame: Seven Shadows-hen",
+        "id": "shadowverse-flame-seven-shadows-hen-18460",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32a32cad49e34df00dd664338a76c085.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Kingdoms of Ruin",
+        "alternativeTitle": "Hametsu no Oukoku",
+        "id": "the-kingdoms-of-ruin-18586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8a508c8c04da9376e2fc4b6cc0713a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Girlfriend, Girlfriend Season 2",
+        "alternativeTitle": "Kanojo mo Kanojo Season 2",
+        "id": "girlfriend-girlfriend-season-2-18581",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddca778f736a037ecc8fcd1720e28e87.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pause! Let Me Check the Walkthrough First",
+        "alternativeTitle": "Kouryaku Wanted: Isekai Sukuimasu",
+        "id": "pause-let-me-check-the-walkthrough-first-18630",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/209e184202c07cde5143a38616c8712c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Our Dating Story: The Experienced You and The Inexperienced Me, Kimizero",
+        "alternativeTitle": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.",
+        "id": "our-dating-story-the-experienced-you-and-the-inexperienced-me-kimizero-18577",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9767fd8bcbc200229df7454661af72cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Rising of the Shield Hero Season 3",
+        "alternativeTitle": "Tate no Yuusha no Nariagari Season 3",
+        "id": "the-rising-of-the-shield-hero-season-3-15571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17e74704002aeb5bcec7e191c57b790b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Goblin Slayer 2nd Season",
+        "alternativeTitle": "Goblin Slayer II",
+        "id": "goblin-slayer-2nd-season-17505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcab763a96e424734062cb120a0864d4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Under Ninja",
+        "alternativeTitle": "Under Ninja",
+        "id": "under-ninja-18594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/790cb6cb7e183576fbf2fa38ff082e3b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Girl & Her Guard Dog",
+        "alternativeTitle": "Ojou to Banken-kun",
+        "id": "a-girl-and-her-guard-dog-18543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2a2f90483f1fb3a2968787bc9f8feea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Yuzuki Family's Four Sons",
+        "alternativeTitle": "Yuzuki-san Chi no Yonkyoudai.",
+        "id": "the-yuzuki-familys-four-sons-18606",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a08755c9e8d98571d79de3a75ca95e0d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Ancient Magus' Bride Season 2 Part 2",
+        "alternativeTitle": "Mahoutsukai no Yome Season 2 Part 2",
+        "id": "the-ancient-magus-bride-season-2-part-2-18585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2aefb79296b06730a7aea99929987828.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Daughter Left the Nest and Returned an S-Rank Adventurer",
+        "alternativeTitle": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta",
+        "id": "my-daughter-left-the-nest-and-returned-an-s-rank-adventurer-18565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a004f970383d06535ce6941adcda627.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dr. Stone 3rd Season Part 2",
+        "alternativeTitle": "Dr. Stone: New World Part 2",
+        "id": "dr-stone-3rd-season-part-2-18574",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/533d9ca61bd99ff5c4c5f6d754feb33d.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "KamiErabi GOD.app",
+        "alternativeTitle": "Kamierabi",
+        "id": "kamierabi-godapp-18602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aae292d628cd9dbd4cc54df0d7975f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Kizuna no Allele Season 2",
+        "alternativeTitle": "Kizuna no Allele Season 2",
+        "id": "kizuna-no-allele-season-2-18617",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81bd506948e81a76de04b2191a14180f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Eminence in Shadow Season 2",
+        "alternativeTitle": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+        "id": "the-eminence-in-shadow-season-2-18505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da1cf05bd53f2ba693a62fc4b08f1e80.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bullbuster",
+        "alternativeTitle": "Bullbuster",
+        "id": "bullbuster-18613",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e081c2760ebabbb28299e33bc452fee8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
+        "alternativeTitle": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu",
+        "id": "im-giving-the-disgraced-noble-lady-i-rescued-a-crash-course-in-naughtiness-18591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72c7a1593bb7578563d1f52bcfb70070.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Saint's Magic Power is Omnipotent Season 2",
+        "alternativeTitle": "Seijo no Maryoku wa Bannou desu 2nd Season",
+        "id": "the-saints-magic-power-is-omnipotent-season-2-18587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e63f6acb8035c0ecde51f4c57aa1a38c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "B-Project: Netsuretsu*Love Call",
+        "alternativeTitle": "B-Project 3rd Season",
+        "id": "b-project-netsuretsulove-call-17346",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ab0cef12baf18097341325df5c0da0c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I'm in Love with the Villainess",
+        "alternativeTitle": "Watashi no Oshi wa Akuyaku Reijou.",
+        "id": "im-in-love-with-the-villainess-18590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4376ce8fbfc7debe3f9ce9df04a99dd9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shy",
+        "alternativeTitle": "Shy",
+        "id": "shy-18599",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c1c86e4812d19a10ef8621fa071577b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Playthrough of a Certain Dude's VRMMO Life",
+        "alternativeTitle": "Toaru Ossan no VRMMO Katsudouki",
+        "id": "a-playthrough-of-a-certain-dudes-vrmmo-life-18604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bb84fd8a5471116057fb9b8335883e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "MF Ghost",
+        "alternativeTitle": "MF Ghost",
+        "id": "mf-ghost-18596",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4eaa21fe3e5fcdfcca0ecca98c6afe33.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Overtake!",
+        "alternativeTitle": "Overtake!",
+        "id": "overtake-18568",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8fd8493e1ba89683bf7e05c1a027f18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Berserk of Gluttony",
+        "alternativeTitle": "Boushoku no Berserk",
+        "id": "berserk-of-gluttony-18593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2197d5d02bb3b238ed3c7c15664659f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Demon Sword Master of Excalibur Academy",
+        "alternativeTitle": "Seiken Gakuin no Makentsukai",
+        "id": "the-demon-sword-master-of-excalibur-academy-18584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95bf2ef4435253f8882ee603d66727b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+        "alternativeTitle": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+        "id": "rurouni-kenshin-meiji-kenkaku-romantan-2023-18487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a777cfb390fede844f84a3f85d246e1.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "The Family Circumstances of the Irregular Witch",
+        "alternativeTitle": "Dekoboko Majo no Oyako Jijou",
+        "id": "the-family-circumstances-of-the-irregular-witch-18569",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d80fa2d7a04017e8090125147a80a152.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Demon Hunter",
+        "alternativeTitle": "Cang Yuan Tu",
+        "id": "the-demon-hunter-18644",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ba18bf82b57b712d820e6dd138f9ae6.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Hifuu Club Activity Record: The Sealed Esoteric History",
+        "alternativeTitle": "Hifuu Katsudou Kiroku: The Sealed Esoteric History",
+        "id": "hifuu-club-activity-record-the-sealed-esoteric-history-2328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/295167d642d2a9477d4193b33c5f78c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Against The Sky Supreme",
+        "alternativeTitle": "Ni Tian Zhizun",
+        "id": "against-the-sky-supreme-18646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/079d9f88c5c3149cde06020275571934.jpg",
+        "episodes": {
+          "sub": 253,
+          "dub": 0,
+          "eps": 480
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Against the Gods (2023)",
+        "alternativeTitle": "Ni Tian Xieshen",
+        "id": "against-the-gods-2023-18436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61cfd58efd62f01e2791b92a77ee1d33.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Onmyouji",
+        "alternativeTitle": "Onmyouji",
+        "id": "onmyouji-18626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0f94bdf2422873e7fe40d7967266a5e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "26m"
+      }
+    ]
+  }
+}

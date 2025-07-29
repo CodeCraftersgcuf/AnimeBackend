@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 121,
+      "currentPage": 18,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "My Star",
+        "alternativeTitle": "\"Oshi no Ko\"",
+        "id": "my-star-18330",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/995928d6858977d66f7da57e0e0af08a.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Attack on Titan: The Final Season Part 3",
+        "alternativeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+        "id": "attack-on-titan-the-final-season-part-3-18329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54d3f59bcc7caf1539c701eb0a064ec9.png",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "TV",
+        "duration": "61m"
+      },
+      {
+        "title": "Hirogaru Sky! Precure",
+        "alternativeTitle": "Hirogaru Sky! Precure",
+        "id": "hirogaru-sky-precure-18320",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/efe14cc95072a24d780ea717b467019b.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Revengers: Christmas Showdown (Uncensored)",
+        "alternativeTitle": "Tokyo Revengers: Seiya Kessen-hen (Uncensored)",
+        "id": "tokyo-revengers-christmas-showdown-uncensored-18315",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92b1395533dc5e1bedfcf757eb3f6209.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Life as Inukai-san's Dog (Uncensored)",
+        "alternativeTitle": "Inu ni Nattara Suki na Hito ni Hirowareta (Uncensored)",
+        "id": "my-life-as-inukai-sans-dog-uncensored-18314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9a14ab0a5fb7166081a8cb2276f84c2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "High Card",
+        "alternativeTitle": "High Card",
+        "id": "high-card-18313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71e709d703c37be7253caadfd955f8cb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Onimai: I'm Now Your Sister! (Uncensored)",
+        "alternativeTitle": "Oniichan wa Oshimai! (Uncensored)",
+        "id": "onimai-im-now-your-sister-uncensored-18312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ae4c13db5851cb7003e9516143625e2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Flops (Uncensored)",
+        "alternativeTitle": "Renai Flops (Uncensored)",
+        "id": "love-flops-uncensored-18311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45c0872f49abc05a01b91ad3da3b4c3c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "UniteUp!",
+        "alternativeTitle": "UniteUp!",
+        "id": "uniteup-18310",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e82431814af8ea356e976b579f8faf6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "D4DJ All Mix",
+        "alternativeTitle": "D4DJ All Mix",
+        "id": "d4dj-all-mix-18308",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6677a2d8f32c23981dd3324f6d512587.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nijiyon Animation",
+        "alternativeTitle": "Nijiyon Animation",
+        "id": "nijiyon-animation-18307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/906860d94d1d4acfe125ad3b3a1a8826.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Technoroid: Overmind",
+        "alternativeTitle": "Technoroid: Overmind",
+        "id": "technoroid-overmind-18306",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2b7b6756162532805e4f3e92390c04d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sorcerous Stabber Orphen -Chaos in Urbanrama-",
+        "alternativeTitle": "Majutsushi Orphen Hagure Tabi: Urbanrama-hen",
+        "id": "sorcerous-stabber-orphen-chaos-in-urbanrama-18305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c753fcb742dea64a06c7a0e1ac4e23d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "\"Ippon\" again!",
+        "alternativeTitle": "Mou Ippon!",
+        "id": "ippon-again-18304",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/687ec0391144d5f85fd1d0d7d85c05b2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "The Tale of Outcasts",
+        "alternativeTitle": "Nokemono-tachi no Yoru",
+        "id": "the-tale-of-outcasts-18303",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b442689947a4f64f75be75cb1e3b6a4.jpeg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Giant Beasts of Ars",
+        "alternativeTitle": "Ars no Kyojuu",
+        "id": "giant-beasts-of-ars-18302",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/681a1e22ff432e7229cedbff0b9b5f65.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Sugar Apple Fairy Tale",
+        "alternativeTitle": "Sugar Apple Fairy Tale",
+        "id": "sugar-apple-fairy-tale-18301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/051f09885728399367f94e6a83c8737d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Malevolent Spirits: Mononogatari",
+        "alternativeTitle": "Mononogatari",
+        "id": "malevolent-spirits-mononogatari-18300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fb3330b12e98c51a7d3bc3824ba1785.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Revenger",
+        "alternativeTitle": "Revenger",
+        "id": "revenger-18299",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81a57d47730006ab915c06a253d17506.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Vampire Dies in No Time: 2nd Season",
+        "alternativeTitle": "Kyuuketsuki Sugu Shinu 2",
+        "id": "the-vampire-dies-in-no-time-2nd-season-18298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49b072c16c605574270b82ecca2d23ac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Saving 80,000 Gold in Another World for My Retirement",
+        "alternativeTitle": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu",
+        "id": "saving-80000-gold-in-another-world-for-my-retirement-18297",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1d7a45381ab2aaf864898d6506b72f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tsurune - The Linking Shot -",
+        "alternativeTitle": "Tsurune: Tsunagari no Issha",
+        "id": "tsurune-the-linking-shot-18296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6d6b6a77dd16cf8f82e218142526c81.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaina of the Great Snow Sea",
+        "alternativeTitle": "Ooyukiumi no Kaina",
+        "id": "kaina-of-the-great-snow-sea-18295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87241ca8a1c6ae70f762e4d1f1659f1f.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Chillin' in My 30s after Getting Fired from the Demon King's Army",
+        "alternativeTitle": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life",
+        "id": "chillin-in-my-30s-after-getting-fired-from-the-demon-kings-army-18294",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c918f98c3520cbe52930f12e66693d7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Campfire Cooking in Another World with My Absurd Skill",
+        "alternativeTitle": "Tondemo Skill de Isekai Hourou Meshi",
+        "id": "campfire-cooking-in-another-world-with-my-absurd-skill-18293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c51c91ae9cf62c968cf84a67a666cc9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ayakashi Triangle",
+        "alternativeTitle": "Ayakashi Triangle",
+        "id": "ayakashi-triangle-18292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/420216d5879919ca39f164dd04ba8b33.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Iceblade Sorcerer Shall Rule the World",
+        "alternativeTitle": "Hyouken no Majutsushi ga Sekai wo Suberu",
+        "id": "the-iceblade-sorcerer-shall-rule-the-world-18291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf79085411f081a488923f57a4ffbe10.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Reincarnation of the Strongest Exorcist in Another World",
+        "alternativeTitle": "Saikyou Onmyouji no Isekai Tenseiki",
+        "id": "the-reincarnation-of-the-strongest-exorcist-in-another-world-18290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abfb85788cbcf278acd411a4f2e7a161.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Handyman Saitou in Another World",
+        "alternativeTitle": "Benriya Saitou-san, Isekai ni Iku",
+        "id": "handyman-saitou-in-another-world-18289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d0d91bb124a0d7006d279eab63eaaa9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Buddy Daddies",
+        "alternativeTitle": "Buddy Daddies",
+        "id": "buddy-daddies-18288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b77a37286aac229ab2fed5c4624aca1f.jpeg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte",
+        "alternativeTitle": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
+        "id": "endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte-18287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd83b451e94aa5b6ba23a1cd1472c788.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Magical Revolution of the Reincarnated Princess and the Genius Young Lady",
+        "alternativeTitle": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+        "id": "the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady-18286",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a76ca9cc2d90461344e8ba4cc5826258.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Reborn to Master the Blade: From Hero-King to Extraordinary Squire",
+        "alternativeTitle": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi",
+        "id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-18285",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39422c1389fc938de2ae606ba7058195.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Farming Life in Another World",
+        "alternativeTitle": "Isekai Nonbiri Nouka",
+        "id": "farming-life-in-another-world-18284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32331430b54de785a0e610e2983e4f07.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

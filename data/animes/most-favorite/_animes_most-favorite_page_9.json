@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 9,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Reborn to Master the Blade: From Hero-King to Extraordinary Squire",
+        "alternativeTitle": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi",
+        "id": "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire-18285",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39422c1389fc938de2ae606ba7058195.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime: The Movie - Scarlet Bond",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
+        "id": "that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond-18191",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f3997b21b21a4d49a73ad751de50a5e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "Parallel World Pharmacy",
+        "alternativeTitle": "Isekai Yakkyoku",
+        "id": "parallel-world-pharmacy-18087",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e7ca3599cde40855ea3d01860382495.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "ReLIFE",
+        "alternativeTitle": "ReLIFE",
+        "id": "relife-471",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74bef7f824fb05ac7b6cbc4c166b621c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iv-part-2-18241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9bc177543da2240a5e0be952ea21cf1.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Devilman: Crybaby",
+        "alternativeTitle": "Devilman: Crybaby",
+        "id": "devilman-crybaby-702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aafa8c9dbb3c18818728138671d4e919.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Re:Monster",
+        "alternativeTitle": "Re:Monster",
+        "id": "remonster-19123",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7ab15fb2281cce25179cd739112f426.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Deadman Wonderland",
+        "alternativeTitle": "Deadman Wonderland",
+        "id": "deadman-wonderland-2555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/463cae4894e4da8daad20853db8d8ece.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Overlord III",
+        "alternativeTitle": "Overlord III",
+        "id": "overlord-iii-553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b92005b8a7704cbf1cc7d1185841ae3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Takt Op. Destiny",
+        "alternativeTitle": "Takt Op.",
+        "id": "takt-op-destiny-17764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5880fc8fe1e9b910aeda7ce7f42d9ffe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+        "alternativeTitle": "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
+        "id": "rurouni-kenshin-meiji-kenkaku-romantan-2023-18487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a777cfb390fede844f84a3f85d246e1.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "KILL la KILL",
+        "alternativeTitle": "Kill la Kill",
+        "id": "kill-la-kill-393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d53922598579799ef65ac975e51f0922.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chained Soldier [Uncensored]",
+        "alternativeTitle": "Mato Seihei no Slave [Uncensored]",
+        "id": "chained-soldier-uncensored-18958",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d798cd26a5115e217d9abf27d00ada44.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Certain Magical Index",
+        "alternativeTitle": "Toaru Majutsu no Index",
+        "id": "a-certain-magical-index-1716",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/365354a46619dd7a0492c15294c36d7a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Class President is a Maid!",
+        "alternativeTitle": "Kaichou wa Maid-sama!",
+        "id": "class-president-is-a-maid-437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f225b0927a3a1304240904b5c010abe5.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Detective Is Already Dead",
+        "alternativeTitle": "Tantei wa Mou, Shindeiru.",
+        "id": "the-detective-is-already-dead-17522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/255ddb1ec7ea04cb92c78d0ce93414c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Welcome to Demon School! Iruma-kun Season 3",
+        "alternativeTitle": "Mairimashita! Iruma-kun 3rd Season",
+        "id": "welcome-to-demon-school-irumakun-season-3-18159",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4e3288d550028dcc1206174aefec86e.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 21,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Baki",
+        "alternativeTitle": "Baki",
+        "id": "baki-2649",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4fe77589bb2ca6f2857ba863c1d78f3e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Gurren Lagann",
+        "alternativeTitle": "Tengen Toppa Gurren Lagann",
+        "id": "gurren-lagann-45",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb6f749e861eaa3abec23f6f82636552.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 27,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Our Last Crusade or the Rise of a New World",
+        "alternativeTitle": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+        "id": "our-last-crusade-or-the-rise-of-a-new-world-3181",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b402178880fda0efc08c65175cf56ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nisekoi: False Love",
+        "alternativeTitle": "Nisekoi",
+        "id": "nisekoi-false-love-1099",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a300d5b8f14a0adfcb8413f602d411.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "So I'm a Spider, So What?",
+        "alternativeTitle": "Kumo Desu ga, Nani ka?",
+        "id": "so-im-a-spider-so-what-15773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8e497ebaf33cf6fd58f6729b1c27084.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "NieR:Automata Ver1.1a",
+        "alternativeTitle": "NieR:Automata Ver1.1a",
+        "id": "nierautomata-ver11a-18247",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d62dc242c69ba63be2d53f9f2aa792f9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Guilty Crown",
+        "alternativeTitle": "Guilty Crown",
+        "id": "guilty-crown-1436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75a19d5a15602d767a34dc98811be3ba.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? III",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-iii-781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fa0510ef9812c7d4577a09466d7fdab.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fighting Spirit",
+        "alternativeTitle": "Hajime no Ippo",
+        "id": "fighting-spirit-34",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/266f26305336e98b875ff53a302e9f8e.jpg",
+        "episodes": {
+          "sub": 75,
+          "dub": 75,
+          "eps": 75
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Art Online: Alicization",
+        "alternativeTitle": "Sword Art Online: Alicization",
+        "id": "sword-art-online-alicization-1298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19551cc7bfb4b94894014d2802763913.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Uzaki-chan Wants to Hang Out!",
+        "alternativeTitle": "Uzaki-chan wa Asobitai!",
+        "id": "uzaki-chan-wants-to-hang-out-3134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a70e9e7de36c50fd3ede04307a62293.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Banana Fish",
+        "alternativeTitle": "Banana Fish",
+        "id": "banana-fish-163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78cd3068b1a2e01370ead2b2ed8f939c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2",
+        "alternativeTitle": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei",
+        "id": "the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made-season-2-18283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12020fcacf0967e0c93dbd7573b46753.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Pet Girl of Sakurasou",
+        "alternativeTitle": "Sakura-sou no Pet na Kanojo",
+        "id": "the-pet-girl-of-sakurasou-284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff6cabc45cf5c62637c7fa418237213c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Terror in Resonance",
+        "alternativeTitle": "Zankyou no Terror",
+        "id": "terror-in-resonance-380",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96f95b821b6e04dd6f40a36e843dbf27.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Tokyo Revengers (Uncensored)",
+        "alternativeTitle": "Tokyo Revengers (Uncensored)",
+        "id": "tokyo-revengers-uncensored-17874",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8be468db3662b96b66888bb6c1577a2c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Skip and Loafer",
+        "alternativeTitle": "Skip to Loafer",
+        "id": "skip-and-loafer-18351",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f121f498b3be50b194236f055c97c6df.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Isekai Cheat Magician",
+        "alternativeTitle": "Isekai Cheat Magician",
+        "id": "isekai-cheat-magician-9632",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1005a3857dd6b09b020d92c581371061.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "I'm standing on 1,000,000 lives.",
+        "alternativeTitle": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+        "id": "im-standing-on-1000000-lives-5739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0d77e6070d4b7be466d5a146ae69e09.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Demon King Daimao",
+        "alternativeTitle": "Ichiban Ushiro no Daimaou",
+        "id": "demon-king-daimao-3825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/632f0f439448857e63e57ee2dd15a0a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bleach: Thousand-Year Blood War - The Conflict",
+        "alternativeTitle": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+        "id": "bleach-thousand-year-blood-war-the-conflict-19322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b87a9e986e6e403ffddb520d24f5040a.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+        "alternativeTitle": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+        "id": "the-genius-princes-guide-to-raising-a-nation-out-of-debt-17506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67d9db2506cabd6031721e957a59c97d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Reason Why Raeliana Ended up at the Duke's Mansion",
+        "alternativeTitle": "Kanojo ga Koushaku-tei ni Itta Riyuu",
+        "id": "the-reason-why-raeliana-ended-up-at-the-dukes-mansion-18350",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf3c1f30c2a3dd8ed26cd54c11992cd3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 64,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Assassination Classroom",
+        "alternativeTitle": "Ansatsu Kyoushitsu",
+        "id": "assassination-classroom-372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02f4fdbe5a518ec0a88b4c6cad9ce0e4.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
+        "alternativeTitle": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "id": "bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense-1222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6bcc338335018f8bf09813987816a463.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Saint Seiya: Knights of the Zodiac",
+        "alternativeTitle": "Saint Seiya",
+        "id": "saint-seiya-knights-of-the-zodiac-834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a0508625e4cbcf5916c08460d97d21.jpg",
+        "episodes": {
+          "sub": 114,
+          "dub": 114,
+          "eps": 114
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Twin Star Exorcists",
+        "alternativeTitle": "Sousei no Onmyouji",
+        "id": "twin-star-exorcists-2178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0c2f71ae35c9d02dce5d847fe34e7e7.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Clannad",
+        "alternativeTitle": "Clannad",
+        "id": "clannad-418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/033c07868e7fe2c69d216db13dd3a886.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "KenIchi: The Mightiest Disciple",
+        "alternativeTitle": "Shijou Saikyou no Deshi Kenichi",
+        "id": "kenichi-the-mightiest-disciple-379",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/076ea0ae627208d3a9d9d22a5401a117.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Great Pretender",
+        "alternativeTitle": "Great Pretender",
+        "id": "great-pretender-152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9ab7b3afdc4ada50338caf28409c8e2.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "alternativeTitle": "Fullmetal Alchemist: Brotherhood",
+        "id": "fullmetal-alchemist-brotherhood-1",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d2d0a1d4276e7e2595702dc4cebbda9.jpeg",
+        "episodes": {
+          "sub": 64,
+          "dub": 64,
+          "eps": 64
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Koukaku Kidoutai: SAC_2045",
+        "alternativeTitle": "Koukaku Kidoutai: SAC_2045",
+        "id": "koukaku-kidoutai-sac2045-4647",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9bfa8c142f5bc666de060ab568413c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball Z Kai",
+        "alternativeTitle": "Dragon Ball Kai",
+        "id": "dragon-ball-z-kai-896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1d8865bb1dd83e9d23dc4087c523b28.jpg",
+        "episodes": {
+          "sub": 98,
+          "dub": 98,
+          "eps": 98
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Full Metal Panic! Invisible Victory Intermission",
+        "alternativeTitle": "Full Metal Panic! Invisible Victory Intermission",
+        "id": "full-metal-panic-invisible-victory-intermission-7324",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d28817550e28cabeeecd9c19a34b1a0.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex - Solid State Society",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society",
+        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society-370",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fef67e354e6b1825930541f7d1682b4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "108m"
+      },
+      {
+        "title": "Initial D Extra Stage",
+        "alternativeTitle": "Initial D Extra Stage",
+        "id": "initial-d-extra-stage-2160",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cecb4f0ab6435f6916e64eeff5c9f55.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Initial D Third Stage",
+        "alternativeTitle": "Initial D Third Stage",
+        "id": "initial-d-third-stage-666",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aee8419c8847456d7a84e16867edf205.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex - The Laughing Man",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man",
+        "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-415",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4be62fe2ed33ae4bc36368621599aee8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "160m"
+      },
+      {
+        "title": "Ghost in the Shell: Arise - Border 3: Ghost Tears",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
+        "id": "ghost-in-the-shell-arise-border-3-ghost-tears-1990",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e2be40a0291cbc98ac31423bfa14b92.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "58m"
+      },
+      {
+        "title": "Full Metal Panic! Invisible Victory",
+        "alternativeTitle": "Full Metal Panic! Invisible Victory",
+        "id": "full-metal-panic-invisible-victory-1261",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8a46ffde384e6ac49248495e4168e1e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bungo Stray Dogs",
+        "alternativeTitle": "Bungou Stray Dogs",
+        "id": "bungo-stray-dogs-858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09a2bf79700f11a39d13b70d321ddb8a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ergo Proxy",
+        "alternativeTitle": "Ergo Proxy",
+        "id": "ergo-proxy-626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0f4a394b5a28a57816676b9474970d5.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Full Metal Panic? Fumoffu",
+        "alternativeTitle": "Full Metal Panic? Fumoffu",
+        "id": "full-metal-panic-fumoffu-419",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f2e235f1fe36c0d071b4a3a42cfec7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Drifting Dragons",
+        "alternativeTitle": "Kuutei Dragons",
+        "id": "drifting-dragons-3242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fdec431fe617bd9e111193bf63e260b1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure",
+        "alternativeTitle": "JoJo no Kimyou na Bouken: Adventure",
+        "id": "jojos-bizarre-adventure-2885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a74a6ec03d674502dd4442806fbb3d06.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi",
+        "id": "ghost-in-the-shell-stand-alone-complex-2nd-gig-individual-eleven-tachikomatic-days-4063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35f25a2a42bbf84d69ea1ec20b33a11c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Ghost in the Shell: Arise - Border 2: Ghost Whispers",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers",
+        "id": "ghost-in-the-shell-arise-border-2-ghost-whispers-1508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae91c36186646695fab0133774cc662a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "56m"
+      },
+      {
+        "title": "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone",
+        "id": "ghost-in-the-shell-arise-border-4-ghost-stands-alone-1703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fbd296e171ae4981c99a9a5f2f1d75a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "The Future Diary",
+        "alternativeTitle": "Mirai Nikki (TV)",
+        "id": "the-future-diary-1281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/457a5555855a6d8217991812c53a5216.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ahiru no Sora",
+        "alternativeTitle": "Ahiru no Sora",
+        "id": "ahiru-no-sora-1896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59aff6067ed5a4b28eca247abc02bfa8.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Eureka Seven: Astral Ocean",
+        "alternativeTitle": "Eureka Seven AO",
+        "id": "eureka-seven-ao-4741",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db0e5c0fa1da4c0c280177f1f214049a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Re: Hamatora: Season 2",
+        "alternativeTitle": "Re:␣Hamatora",
+        "id": "re-hamatora-season-2-1862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/368b56aba83e83b466c194debdf1facd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Japan Sinks: 2020",
+        "alternativeTitle": "Nihon Chinbotsu 2020",
+        "id": "japan-sinks-2020-6011",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebba1d5b02fc586e2612544d81271c53.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Lord Marksman and Vanadis",
+        "alternativeTitle": "Madan no Ou to Vanadis",
+        "id": "lord-marksman-and-vanadis-2758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75a3518a8c41b31fce5c37af9d164c30.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fairy gone Season 1 Part 2",
+        "alternativeTitle": "Fairy Gone 2nd Season",
+        "id": "fairy-gone-season-1-part-2-6189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b1730d089cb956cbac1eee7783e9759.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fairy Gone",
+        "alternativeTitle": "Fairy Gone",
+        "id": "fairy-gone-8508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0015519636eb12abd7e0348d17a3de7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure",
+        "alternativeTitle": "JoJo no Kimyou na Bouken",
+        "id": "jojos-bizarre-adventure-2161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e3c8512d5c909045c7d4df5cb3312f6.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "35m"
+      },
+      {
+        "title": "Hamatora The Animation",
+        "alternativeTitle": "Hamatora The Animation",
+        "id": "hamatora-the-animation-2243",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d47821545aef3cf6c4a1a6af517ed741.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tiger & Bunny",
+        "alternativeTitle": "Tiger & Bunny",
+        "id": "tiger-bunny-585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23eb2d81e83d29323e4f2b909afd2677.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Magnitude 8.0",
+        "alternativeTitle": "Tokyo Magnitude 8.0",
+        "id": "tokyo-magnitude-80-430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c4b01bed3640dd46e3cc40c90e3ae79.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Food Wars! Shokugeki no Soma",
+        "alternativeTitle": "Shokugeki no Souma",
+        "id": "food-wars-shokugeki-no-soma-185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d1172468d31201dedbab79c348ff6f1.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Paranoia Agent",
+        "alternativeTitle": "Mousou Dairinin",
+        "id": "paranoia-agent-1065",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fb2ab9a7982d8ef1566382f6a933016.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nanbaka",
+        "alternativeTitle": "Nanbaka",
+        "id": "nanbaka-2139",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1450f8c22148c455c5cfac3800a8436d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

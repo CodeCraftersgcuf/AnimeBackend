@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 43,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "The Wonderful Wizard of Oz",
+        "alternativeTitle": "Oz no Mahoutsukai (1986)",
+        "id": "the-wonderful-wizard-of-oz-4655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5459caafd5c4af96a989e5d8771bfe6.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Lupin III: Bank of Liberty",
+        "alternativeTitle": "Lupin III: Russia yori Ai wo Komete",
+        "id": "lupin-iii-bank-of-liberty-4649",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74ffaa5cd82c7e8669dbe23f67ece0f6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Koukaku Kidoutai: SAC_2045",
+        "alternativeTitle": "Koukaku Kidoutai: SAC_2045",
+        "id": "koukaku-kidoutai-sac2045-4647",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9bfa8c142f5bc666de060ab568413c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Katsugeki Touken Ranbu",
+        "alternativeTitle": "Katsugeki/Touken Ranbu",
+        "id": "katsugeki-touken-ranbu-4643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e7840b694a70fc08c8223dfc5c2a522.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "After School Dice Club",
+        "alternativeTitle": "Houkago Saikoro Club",
+        "id": "after-school-dice-club-4641",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d27eb84b7c0b886509142574a1b01790.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Kaleid Liner Prisma Illya: Dance at the Sports Festival!",
+        "alternativeTitle": "Fate/kaleid liner Prisma☆Illya: Undoukai de Dance!",
+        "id": "fatekaleid-liner-prisma-illya-dance-at-the-sports-festival-4634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d8cacb402934a96ab4349c5688b4788.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "eX-Driver",
+        "alternativeTitle": "eX-Driver",
+        "id": "ex-driver-4632",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f504f4fbbbb04586f910c529bc612bec.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Dragon Drive",
+        "alternativeTitle": "Dragon Drive",
+        "id": "dragon-drive-4631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a34194d45293f1099a58f80de225372.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 38,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Hand Maid May: Akiramemasen",
+        "alternativeTitle": "Hand Maid May: Akiramemasen",
+        "id": "hand-maid-may-akiramemasen-4622",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b370cfa2bdf9806ee1e778f20e863d4b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "28m"
+      },
+      {
+        "title": "Hand Maid May",
+        "alternativeTitle": "Hand Maid May",
+        "id": "hand-maid-may-4621",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ec8bff42801bd63cd0b88b43d7a53d0.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fatal Fury 2: The New Battle",
+        "alternativeTitle": "Fatal Fury 2: The New Battle",
+        "id": "fatal-fury-2-the-new-battle-4616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab778bbb5b000b552ffbf066f27bc9fe.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "62m"
+      },
+      {
+        "title": "A Certain Magical Index III",
+        "alternativeTitle": "Toaru Majutsu no Index III",
+        "id": "a-certain-magical-index-iii-4605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e2962033a2d9c507f298c96bd3a5a41.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Terra Formars: Revenge",
+        "alternativeTitle": "Terra Formars: Revenge",
+        "id": "terra-formars-revenge-4604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b03a9ac4f1860369e70793a49c63560.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Stratos 4 OVA",
+        "alternativeTitle": "Stratos 4 OVA",
+        "id": "stratos-4-ova-4601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ceed40d0d70371ef01538e470e913c4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Nana Seven of Seven",
+        "alternativeTitle": "Shichinin no Nana",
+        "id": "nana-seven-of-seven-4599",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8197c46f39cfaef47bf71745d20bbd6a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Patlabor Movie 3: WXIII",
+        "alternativeTitle": "WXIII Kidou Keisatsu Patlabor",
+        "id": "patlabor-movie-3-wxiii-4592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc9702c04c9e73bf4833d0a2e6769ee0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Monster Rancher 2nd Season (2000)",
+        "alternativeTitle": "Monster Farm: Legend e no Michi",
+        "id": "monster-rancher-2nd-season-2000-4573",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0d0839f85205c1475e6a6a01a3da761.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyblade: Metal Masters",
+        "alternativeTitle": "Metal Fight Beyblade: Baku",
+        "id": "beyblade-metal-masters-4570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8733dfe7340dc281f40981e9419abb91.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Hiiro no Kakera: The Tamayori Princess Saga",
+        "alternativeTitle": "Hiiro no Kakera",
+        "id": "hiiro-no-kakera-the-tamayori-princess-saga-4559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9400b487f2d40a651f3fde13a716913.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Futari wa Precure: Splash☆Star Movie - Tick Tack Kiki Ippatsu!",
+        "alternativeTitle": "Futari wa Precure: Splash☆Star Movie - Tick Tack Kiki Ippatsu!",
+        "id": "futari-wa-precure-splashstar-movie-tick-tack-kiki-ippatsu-4557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82a881d37001efc4541e4cbe0578b620.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "51m"
+      },
+      {
+        "title": "Dragon Ball Z: The Tree of Might",
+        "alternativeTitle": "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen",
+        "id": "dragon-ball-z-the-tree-of-might-4554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc7213a72e81793dd573e7086fed3d17.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Berserk: Season II (2017)",
+        "alternativeTitle": "Berserk 2nd Season",
+        "id": "berserk-season-ii-2017-4546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/010a5c576dc8b54dd729d10e5b780362.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bastard!!",
+        "alternativeTitle": "Bastard!!: Ankoku no Hakaishin",
+        "id": "bastard-4544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0d337b9958b74760777614c8c26684e.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Needless+: The Secret of Saint Lily Academy",
+        "alternativeTitle": "Needless+: Saint Lily Gakuen no Himitsu",
+        "id": "needless-saint-lily-gakuen-no-himitsu-4539",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30105842071f70c7a8c1e9309c4d855c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Naruto OVA2: The Lost Story - Mission: Protect the Waterfall Village",
+        "alternativeTitle": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+        "id": "naruto-ova2-the-lost-story-mission-protect-the-waterfall-village-4538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed2ca489d8c438c880056ea507efc93c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "40m"
+      },
+      {
+        "title": "Disgaea",
+        "alternativeTitle": "Makai Senki Disgaea",
+        "id": "disgaea-4534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48660c640ef82e08c5d5dcfefb07dbdf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Martian Successor Nadesico: The Prince of Darkness",
+        "alternativeTitle": "Kidou Senkan Nadesico: The Prince of Darkness",
+        "id": "martian-successor-nadesico-the-prince-of-darkness-4530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac72aae79501094ababdbf3f799a2e52.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "79m"
+      },
+      {
+        "title": "Cop Craft",
+        "alternativeTitle": "Cop Craft",
+        "id": "cop-craft-4521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2f8a8d77d349a5bd79ddceb28080d6a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Real Girl",
+        "alternativeTitle": "3D Kanojo: Real Girl",
+        "id": "real-girl-4517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee4de88427eea72d4b4a947148604e7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Urusei Yatsura Movie 4: Lum The Forever",
+        "alternativeTitle": "Urusei Yatsura Movie 4: Lum The Forever",
+        "id": "urusei-yatsura-movie-4-lum-the-forever-4511",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c702681ecca491a51e80d0428e74d22.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "UFO Ultramaiden Valkyrie",
+        "alternativeTitle": "UFO Princess Valkyrie",
+        "id": "ufo-ultramaiden-valkyrie-4510",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b23683e3dc56369bfdc6496d1c2de695.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Izetta: The Last Witch",
+        "alternativeTitle": "Shuumatsu no Izetta",
+        "id": "izetta-the-last-witch-4503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/694906f31958b27adcf10dbac9ef7834.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Sacred Blacksmith",
+        "alternativeTitle": "Seiken no Blacksmith",
+        "id": "the-sacred-blacksmith-4501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b4f0eb07f3cdd07970bdd4e5c4c5dd6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "NekoparA",
+        "alternativeTitle": "Nekopara",
+        "id": "nekopara-4487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c41996607e97b2544733caab045ae9d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

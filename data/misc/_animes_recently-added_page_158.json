@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 158,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Minna Agechau♡",
+        "alternativeTitle": "Minna Agechau♡",
+        "id": "minna-agechau-8517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0017e8ed39cd001eaa86220a2d0a9638.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Shangri-La Frontier",
+        "alternativeTitle": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
+        "id": "shangri-la-frontier-18567",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dec411fa0ea5a64ac23c94b4444d8bdb.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Luoyang Movie",
+        "alternativeTitle": "Feng Qi Luoyang: Shuangzi Zhui Xiong",
+        "id": "luoyang-movie-18658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc895668090d3d60ce7f9ce534efbd4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "66m"
+      },
+      {
+        "title": "Detective Conan Movie 24: The Scarlet Bullet",
+        "alternativeTitle": "Detective Conan Movie 24: Hiiro no Dangan",
+        "id": "detective-conan-movie-24-the-scarlet-bullet-15686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08ef8ab96bc564c85cf7c2dff8f19fb9.png",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Feast of Amrita",
+        "alternativeTitle": "Amrita no Kyouen",
+        "id": "feast-of-amrita-15640",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7487466d58e7b87b6d54cab3664f43c3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "47m"
+      },
+      {
+        "title": "Colorful Ninja Iromaki",
+        "alternativeTitle": "Colorful Ninja Iromaki",
+        "id": "colorful-ninja-iromaki-8290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f660ebcd90d949c963fba1d66717b885.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "Kizuna Ichigeki",
+        "alternativeTitle": "Kizuna Ichigeki",
+        "id": "kizuna-ichigeki-5327",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/526c95eab298bc1181a2641c29b9ce73.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "Utopa",
+        "alternativeTitle": "Utopa",
+        "id": "utopa-8979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac4bec8b7403441a1e1177c5bc7a41c9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "23m"
+      },
+      {
+        "title": "Captain of Cosmos",
+        "alternativeTitle": "Uju Heukgisa",
+        "id": "captain-of-cosmos-10549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c37ae0e70cadc8cc3c273b69bb3deae8.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Milky Passion: Dougenzaka - Ai no Shiro",
+        "alternativeTitle": "Milky Passion: Dougenzaka - Ai no Shiro",
+        "id": "milky-passion-dougenzaka-ai-no-shiro-9213",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ea5c9a9fa918f16f07b157503d5f952.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Okama Report",
+        "alternativeTitle": "Okama Hakusho",
+        "id": "okama-report-10888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc344f69f4b59297bfdf502b68501cb2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Zhen Dao Ge: Chen Shi Xing",
+        "alternativeTitle": "Zhen Dao Ge: Chenshi Hang",
+        "id": "zhen-dao-ge-chen-shi-xing-18712",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72614c5f275f96fd77f9152b8d262095.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "100m"
+      },
+      {
+        "title": "MATASABURO of the Wind",
+        "alternativeTitle": "Kaze no Matasaburou (Movie)",
+        "id": "matasaburo-of-the-wind-7440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12e8b3c06301d47d200bc489556f8ec0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "22m"
+      },
+      {
+        "title": "Buta",
+        "alternativeTitle": "Buta",
+        "id": "buta-5981",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5301fcd62f478fd51bffe274106de572.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "Letter Bee: Light and Blue Night Fantasy",
+        "alternativeTitle": "Tegamibachi: Hikari to Ao no Gensou Yawa",
+        "id": "letter-bee-light-and-blue-night-fantasy-1648",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc25cd1a585459bb5a989e3107c37092.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "SF Shinseiki Lensman",
+        "alternativeTitle": "SF Shinseiki Lensman",
+        "id": "sf-shinseiki-lensman-7575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c66014e4af9ba4cff434021f24482d37.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "107m"
+      },
+      {
+        "title": "Aki no Kanade",
+        "alternativeTitle": "Aki no Kanade",
+        "id": "aki-no-kanade-3488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b75301e503a4c306dc5cc9e148e9ae3e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "The Big First-Grader and the Small Second-Grader",
+        "alternativeTitle": "Ookii 1 Nensei to Chiisana 2 Nensei",
+        "id": "the-big-first-grader-and-the-small-second-grader-6384",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bde206be54be19f493bd725e29de22b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "Ogre Slayer",
+        "alternativeTitle": "Onikirimaru",
+        "id": "ogre-slayer-6961",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c723278fe8c9bc13294e6f514119f2ef.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "On Your Mark",
+        "alternativeTitle": "On Your Mark",
+        "id": "on-your-mark-1595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/254283d74db79dc28bbbda96fc2e43b7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Music",
+        "duration": "6m"
+      },
+      {
+        "title": "Lime-iro Senkitan: Nankoku Yume Roman",
+        "alternativeTitle": "Lime-iro Senkitan: Nankoku Yume Roman",
+        "id": "lime-iro-senkitan-nankoku-yume-roman-7074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/865625c99a78bd935577c522904cbf10.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "One: Kagayaku Kisetsu e",
+        "alternativeTitle": "One: Kagayaku Kisetsu e",
+        "id": "one-kagayaku-kisetsu-e-9947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8dab354ed34192f59ddae22050f565e8.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "TenPuru: No One Can Live on Loneliness Specials",
+        "alternativeTitle": "Temple Specials",
+        "id": "tenpuru-no-one-can-live-on-loneliness-specials-18685",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/481658ebcc2057a540c9a55e2309c417.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Fantasy of a Kitten",
+        "alternativeTitle": "Wata no Kuni Hoshi",
+        "id": "fantasy-of-a-kitten-4021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b333d6d36c50a9fac7dd0e544dddd327.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Jujutsu Kaisen 2nd Season",
+        "alternativeTitle": "Jujutsu Kaisen 2nd Season",
+        "id": "jujutsu-kaisen-2nd-season-18413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b51f863b05f30576cf9d85fa9b911bb5.png",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Time Driver: Bokura ga Kaita Mirai",
+        "alternativeTitle": "Time Driver: Bokura ga Kaita Mirai",
+        "id": "time-driver-bokura-ga-kaita-mirai-12093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da5057842636488b37300a6a3b0c8c70.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "23m"
+      },
+      {
+        "title": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+        "alternativeTitle": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+        "id": "arve-rezzle-kikaijikake-no-yousei-tachi-6723",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08c1d01dff7741a292afbba8ed3d12fe.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "Paroru's Future Island",
+        "alternativeTitle": "Parol no Miraijima",
+        "id": "parorus-future-island-8345",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc46881175c2e5c6707effab953f9690.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "26m"
+      },
+      {
+        "title": "Li'l Spider Girl",
+        "alternativeTitle": "Wasurenagumo",
+        "id": "lil-spider-girl-3135",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b436548402f3bd510f573b79236666c5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "On A Paper Crane: Tomoko's Adventure",
+        "alternativeTitle": "Tsuru ni Notte: Tomoko no Bouken",
+        "id": "on-a-paper-crane-tomokos-adventure-6659",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a67eef3876fadf5d624f4e0363e97d9f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "27m"
+      },
+      {
+        "title": "White Snake 2: The Tribulation of the Green Snake",
+        "alternativeTitle": "Bai She II: Qing She Jie Qi",
+        "id": "white-snake-2-the-tribulation-of-the-green-snake-18682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1beae1edd3598307a2396a04235371a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "132m"
+      },
+      {
+        "title": "White Snake",
+        "alternativeTitle": "Bai She: Yuan Qi",
+        "id": "white-snake-1609",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab94ba2062ebb2bf04be0164aa6f8c69.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "Sword Art Online: Progressive - Scherzo of Deep Night",
+        "alternativeTitle": "Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo",
+        "id": "sword-art-online-progressive-scherzo-of-deep-night-18189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fae90b9ac557db63c781bae51ba2fa1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Psycho-Pass Movie: Providence",
+        "alternativeTitle": "Psycho-Pass Movie: Providence",
+        "id": "psycho-pass-movie-providence-18715",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98512a2461fa97887ee02fbde4d41c58.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "Licca-chan Fushigi na Fushigi na Yunia Monogatari",
+        "alternativeTitle": "Licca-chan Fushigi na Fushigi na Yunia Monogatari",
+        "id": "licca-chan-fushigi-na-fushigi-na-yunia-monogatari-7260",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f49b4b8253bf2f0b33767f1cc19a858b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Grisaia: Phantom Trigger The Animation - Stargazer",
+        "alternativeTitle": "Grisaia: Phantom Trigger The Animation - Stargazer",
+        "id": "grisaia-phantom-trigger-the-animation-stargazer-15720",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ab995dcc8a24351877e00a7438104d1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "One Room Second Season Special",
+        "alternativeTitle": "One Room Second Season Special",
+        "id": "one-room-second-season-special-9331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccb112fd262ac83f6827c018f5cac465.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
+        "alternativeTitle": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
+        "id": "akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page-969",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/010655c6183ec7f92ff25cdfc51c51c0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "The Eminence in Shadow Season 2",
+        "alternativeTitle": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+        "id": "the-eminence-in-shadow-season-2-18505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da1cf05bd53f2ba693a62fc4b08f1e80.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Interviews With Monster Girls: The Demi-chans' Summer Break",
+        "alternativeTitle": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+        "id": "interviews-with-monster-girls-the-demi-chans-summer-break-1453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2d277a65ee7fe618fbc007655975c68.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "23m"
+      }
+    ]
+  }
+}

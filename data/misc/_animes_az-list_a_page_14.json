@@ -1,0 +1,441 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 14,
+      "currentPage": 14,
+      "hasNextPage": false
+    },
+    "response": [
+      {
+        "title": "A Certain Scientific Accelerator",
+        "alternativeTitle": "Toaru Kagaku no Accelerator",
+        "id": "a-certain-scientific-accelerator-2940",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b12906a176612fd541fc6409e3bd64d8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Certain Scientific Railgun",
+        "alternativeTitle": "Toaru Kagaku no Railgun",
+        "id": "a-certain-scientific-railgun-940",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ceef972446029b518df43e3e5a52bc76.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Certain Scientific Railgun S",
+        "alternativeTitle": "Toaru Kagaku no Railgun S",
+        "id": "a-certain-scientific-railgun-s-453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f678ec59bf69fef2b8d0d1dd917967d2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Certain Scientific Railgun T",
+        "alternativeTitle": "Toaru Kagaku no Railgun T",
+        "id": "a-certain-scientific-railgun-t-241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57c29ad41c8214e567ed79dda1200336.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Certain Magical Index",
+        "alternativeTitle": "Toaru Majutsu no Index",
+        "id": "a-certain-magical-index-1716",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/365354a46619dd7a0492c15294c36d7a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Certain Magical Index II",
+        "alternativeTitle": "Toaru Majutsu no Index II",
+        "id": "a-certain-magical-index-ii-1187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b83281717238275d76005c9de2e4ebc.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Certain Magical Index III",
+        "alternativeTitle": "Toaru Majutsu no Index III",
+        "id": "a-certain-magical-index-iii-4605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e2962033a2d9c507f298c96bd3a5a41.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "alternativeTitle": "Toaru Majutsu no Index Movie: Endymion no Kiseki",
+        "id": "a-certain-magical-index-the-movie-the-miracle-of-endymion-1530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b6ebb8b0e8df948b291efb8018837d5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "A Certain Magical Index: Specials",
+        "alternativeTitle": "Toaru Majutsu no Index-tan",
+        "id": "a-certain-magical-index-specials-3685",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f200ca686e37df45b75f60ba199fed7c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "A Certain Magical Index II: Specials",
+        "alternativeTitle": "Toaru Majutsu no Index-tan II",
+        "id": "a-certain-magical-index-ii-specials-3761",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09ac129124beefaf5bb290bcba54a3dc.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "A Certain Magical Index III: Specials",
+        "alternativeTitle": "Toaru Majutsu no Index-tan III",
+        "id": "a-certain-magical-index-iii-specials-5926",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9145ab96c49a9a4aff353e3ca52c29fc.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "A Playthrough of a Certain Dude's VRMMO Life",
+        "alternativeTitle": "Toaru Ossan no VRMMO Katsudouki",
+        "id": "a-playthrough-of-a-certain-dudes-vrmmo-life-18604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bb84fd8a5471116057fb9b8335883e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Alya Sometimes Hides Her Feelings in Russian",
+        "alternativeTitle": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+        "id": "alya-sometimes-hides-her-feelings-in-russian-19254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b210daff9a85c7b6e42d82d578ee90b2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aim for the Top! Science Lesson",
+        "alternativeTitle": "Top wo Nerae! Kagaku Kouza",
+        "id": "aim-for-the-top-science-lesson-7477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fdedb8b8bfd25e1808e6c858126cea2.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "All Saints Street",
+        "alternativeTitle": "Wan Sheng Jie",
+        "id": "all-saints-street-660",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06e0ed457b0c0bcb74896093aa1d9fec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "All Saints Street 2",
+        "alternativeTitle": "Wan Sheng Jie 2",
+        "id": "all-saints-street-2-15603",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f496569bbbd0d3d9742c9763fac700d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "All Saints Street 3",
+        "alternativeTitle": "Wan Sheng Jie 3",
+        "id": "all-saints-street-3-17969",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a27aca96da8af27d2fdaa2b1a3e1997a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "All Saints Street 4",
+        "alternativeTitle": "Wan Sheng Jie 4",
+        "id": "all-saints-street-4-18451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb4cd72b24e79f96ff133407a3d95ccd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "Agate",
+        "alternativeTitle": "Wu Nao Monu",
+        "id": "agate-18448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6990650ac71bd2aa8edb4099bb4f7cf8.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Agate: 2nd Season",
+        "alternativeTitle": "Wu Nao Monu 2nd Season",
+        "id": "agate-2nd-season-18886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cea87f44616636fe67a81d317758016.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Alien Collections",
+        "alternativeTitle": "Xin Yichang Shengwu Jianwen Lu: Xu",
+        "id": "alien-collections-19814",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e4b00b4300eb844d66aa71d2df08b0e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Astral Sutra",
+        "alternativeTitle": "Xing Wushen Jue",
+        "id": "astral-sutra-17508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13d94226bdb26c53e36011745a67cdb6.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Astral Sutra 2nd Season",
+        "alternativeTitle": "Xing Wushen Jue 2nd Season",
+        "id": "astral-sutra-2nd-season-19530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a2476f89994f257b2bf6f8389e78b8e.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "A Day Before Us",
+        "alternativeTitle": "Yeon-ae Halujeon",
+        "id": "a-day-before-us-3860",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb93936aa7e9f0e3a69177bac541f219.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "A Day Before Us 2",
+        "alternativeTitle": "Yeon-ae Halujeon 2",
+        "id": "a-day-before-us-2-3554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3436e8463771c39dc9e710d01412f55b.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "A Will Eternal 3rd Season",
+        "alternativeTitle": "Yi Nian Yong Heng 3rd Season",
+        "id": "a-will-eternal-3rd-season-19200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80fae8c171a9c529865f3162cfa45b84.jpg",
+        "episodes": {
+          "sub": 59,
+          "dub": 0,
+          "eps": 59
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "A Will Eternal 2 season",
+        "alternativeTitle": "Yi Nian Yong Heng: Chuan Cheng Pian",
+        "id": "a-will-eternal-2-season-18110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25e3a9b167fa92be9196d32728f6d391.jpg",
+        "episodes": {
+          "sub": 54,
+          "dub": 0,
+          "eps": 54
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Ancient Lords",
+        "alternativeTitle": "Yishi Zhi Zun",
+        "id": "ancient-lords-18721",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12fe531de94e146a025ad24e6d742d32.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Are You Ok",
+        "alternativeTitle": "You Yao",
+        "id": "are-you-ok-12616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d36007de4f41d479ed36fcea62e5c785.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Are You OK? Season 2",
+        "alternativeTitle": "You Yao 2",
+        "id": "are-you-ok-season-2-19063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/025a273cfd3645091b122fef604e47e7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "A Terrified Teacher at Ghoul School",
+        "alternativeTitle": "Youkai Gakkou no Sensei Hajimemashita!",
+        "id": "a-terrified-teacher-at-ghoul-school-19359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b205ad96b49e6c14e887770605b73732.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Gentle Dragon of 5000 Years Old, It Was Recognized as an Evil Dragon Without Any Cause",
+        "alternativeTitle": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei",
+        "id": "a-gentle-dragon-of-5000-years-old-it-was-recognized-as-an-evil-dragon-without-any-cause-18118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8feee86c100b4d1c9931bdc1e426b7bc.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "A Sign of Affection",
+        "alternativeTitle": "Yubisaki to Renren",
+        "id": "a-sign-of-affection-18859",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0ef1042dacf9f2fc52f894bc6e34b23.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

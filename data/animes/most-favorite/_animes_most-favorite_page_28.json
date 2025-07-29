@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 28,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "The Blue Orchestra",
+        "alternativeTitle": "Ao no Orchestra",
+        "id": "the-blue-orchestra-18359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1163cc1867f3bf59b4ddb65f3c937330.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mechanical Arms",
+        "alternativeTitle": "Mecha-ude (TV)",
+        "id": "mechanical-arms-19354",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/337e55b7a14ff7079361fe3e4ccd85f2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gokushufudou Part 2",
+        "alternativeTitle": "Gokushufudou Part 2",
+        "id": "gokushufudou-part-2-17843",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc52f99d54f48e5486b0d0385595ff8f.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "Land of the Lustrous",
+        "alternativeTitle": "Houseki no Kuni (TV)",
+        "id": "land-of-the-lustrous-134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b9c96aca4cbfdea63996d73299b3779.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Butler II",
+        "alternativeTitle": "Kuroshitsuji II",
+        "id": "black-butler-ii-2497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2ccf24f2b4847759aabcb67eb6a6b94.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Food Wars! The Third Plate: Totsuki Train Arc",
+        "alternativeTitle": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
+        "id": "food-wars-the-third-plate-totsuki-train-arc-362",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5150f459d0c6ca563da22c55a18e5fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "DAKAICHI -I'm being harassed by the sexiest man of the year-",
+        "alternativeTitle": "Dakaretai Otoko 1-i ni Odosarete Imasu.",
+        "id": "dakaichi-im-being-harassed-by-the-sexiest-man-of-the-year-1981",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff90dc8b562a4ecbaf79e728ab78ce4c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dahlia in Bloom",
+        "alternativeTitle": "Madougushi Dahliya wa Utsumukanai",
+        "id": "dahlia-in-bloom-19232",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/510fede5d2ff252376a264ecef645c22.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sing \"Yesterday\" for Me",
+        "alternativeTitle": "Yesterday wo Utatte",
+        "id": "sing-yesterday-for-me-3112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc56ae3722488155d336de22a32d4ba.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Melancholy of Haruhi Suzumiya",
+        "alternativeTitle": "Suzumiya Haruhi no Yuuutsu",
+        "id": "the-melancholy-of-haruhi-suzumiya-678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db8e8ec8af1f77796c482663f95e6989.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Vampire Knight",
+        "alternativeTitle": "Vampire Knight",
+        "id": "vampire-knight-3325",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96438b8f1e12345ff0a28cd49cb954d9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Berserk: Season II (2017)",
+        "alternativeTitle": "Berserk 2nd Season",
+        "id": "berserk-season-ii-2017-4546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/010a5c576dc8b54dd729d10e5b780362.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Stars Align",
+        "alternativeTitle": "Hoshiai no Sora",
+        "id": "stars-align-1557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1b48b20775ab04973e45b9d92dda15a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Grappler Baki (TV)",
+        "alternativeTitle": "Grappler Baki (TV)",
+        "id": "grappler-baki-tv-1743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/382d238ffecb013927e773bb0454f15a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "King's Raid: Ishi wo Tsugumono-tachi",
+        "alternativeTitle": "King's Raid: Ishi wo Tsugumono-tachi",
+        "id": "kings-raid-ishi-wo-tsugumono-tachi-7420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddb968b871d1ca2a77bea6798ee8415b.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tian Guan Ci Fu",
+        "alternativeTitle": "Tian Guan Ci Fu",
+        "id": "tian-guan-ci-fu-15579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9209135e301a83da469922151d369f53.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Cross Ange: Rondo of Angel and Dragon",
+        "alternativeTitle": "Cross Ange: Tenshi to Ryuu no Rondo",
+        "id": "cross-ange-rondo-of-angel-and-dragon-1824",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd38b48a68825a9c696a866504b0bb4c.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokemon Journeys: The Series",
+        "alternativeTitle": "Pokemon (2019)",
+        "id": "pokemon-journeys-the-series-2098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31832ab802714689c70d25afff794179.jpg",
+        "episodes": {
+          "sub": 146,
+          "dub": 60,
+          "eps": 136
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sweetness & Lightning",
+        "alternativeTitle": "Amaama to Inazuma",
+        "id": "sweetness-lightning-1451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45dea3225de45e49bcf07bf16f5fba39.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Seven Senses of the Re'Union",
+        "alternativeTitle": "Shichisei no Subaru",
+        "id": "seven-senses-of-the-reunion-7399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23adcc5d7a8fc238e538279082fdf978.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beastars 2nd Season",
+        "alternativeTitle": "Beastars 2nd Season",
+        "id": "beastars-2nd-season-15658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6744035fceac4bb01b636c59ba2f4993.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "K-ON! Season 2",
+        "alternativeTitle": "K-On!!",
+        "id": "k-on-season-2-351",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f57dee1e7e700ae9f564faf842660af.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "K: Return of Kings",
+        "alternativeTitle": "K: Return of Kings",
+        "id": "k-return-of-kings-1156",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/167acc847d864d6df49e340b9f05772b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama Season 4",
+        "alternativeTitle": "Gintama°",
+        "id": "gintama-season-4-4",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a115c6b61df10d8d42ed854e72bfdb93.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+        "alternativeTitle": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+        "id": "violet-evergarden-eternity-and-the-auto-memory-doll-147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4007352297470711682d15329a487eb4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Dies irae",
+        "alternativeTitle": "Dies Irae",
+        "id": "dies-irae-9629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1753799dfa133e6d5bcb719236623f85.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bakuman.",
+        "alternativeTitle": "Bakuman.",
+        "id": "bakuman-252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd5ed101829ac3dd17f277e00e6e1cd1.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Naruto: Shippuden the Movie",
+        "alternativeTitle": "Naruto: Shippuuden Movie 1",
+        "id": "naruto-shippuden-the-movie-2306",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/071ca93201eccc34a9e088013bc27807.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Sailor Moon",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon",
+        "id": "sailor-moon-1067",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1044111c86585d9ed55c41c7f6f6262f.jpg",
+        "episodes": {
+          "sub": 46,
+          "dub": 46,
+          "eps": 46
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Monster But Wild",
+        "alternativeTitle": "Ququ Bucai, Zaixia Yeguai",
+        "id": "monster-but-wild-18384",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47eaf66af732918688fb77e192289d5c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Rail Wars!",
+        "alternativeTitle": "Rail Wars!",
+        "id": "rail-wars-6211",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8eda85382b15301736f4616a7f356118.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Metallic Rouge",
+        "alternativeTitle": "Metallic Rouge",
+        "id": "metallic-rouge-18844",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af079457fb4f53196f1feaa0d9a48e7d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Ambition of Oda Nobuna",
+        "alternativeTitle": "Oda Nobuna no Yabou",
+        "id": "the-ambition-of-oda-nobuna-1594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa8a980c0dcf5131d6c8593a5ddc8b56.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Lagoon: The Second Barrage",
+        "alternativeTitle": "Black Lagoon: The Second Barrage",
+        "id": "black-lagoon-the-second-barrage-302",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/008a817ca0373a09b30199587a63c2e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Seven Deadly Sins the Movie 1: Prisoners of the Sky",
+        "alternativeTitle": "Nanatsu no Taizai Movie 1: Tenkuu no Torawarebito",
+        "id": "the-seven-deadly-sins-the-movie-1-prisoners-of-the-sky-2252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0f56f98ac39a66cade8cc27da75e923.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "Big Order (TV)",
+        "alternativeTitle": "Big Order (TV)",
+        "id": "big-order-tv-9582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99b19d8e061d07bff765598eca0d5b75.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pseudo Harem",
+        "alternativeTitle": "Giji Harem",
+        "id": "pseudo-harem-19246",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c419bb45d8063ba9f18915a74fb449ae.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Katanagatari",
+        "alternativeTitle": "Katanagatari",
+        "id": "katanagatari-164",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b04a0e2d1bd69409e3f2eea50d0530a0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "50m"
+      },
+      {
+        "title": "Bleach the Movie: Memories of Nobody",
+        "alternativeTitle": "Bleach Movie 1: Memories of Nobody",
+        "id": "bleach-the-movie-memories-of-nobody-1687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/774d607087dbaf2e2d850647903edc14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Sekirei: Pure Engagement",
+        "alternativeTitle": "Sekirei: Pure Engagement",
+        "id": "sekirei-pure-engagement-1942",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3036e93bb1fe5ef63ba1736d11488335.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

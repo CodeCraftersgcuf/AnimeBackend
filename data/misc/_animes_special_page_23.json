@@ -1,0 +1,103 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 23,
+      "currentPage": 23,
+      "hasNextPage": false
+    },
+    "response": [
+      {
+        "title": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+        "alternativeTitle": "Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero",
+        "id": "steinsgate-kyoukaimenjou-no-missing-link-divide-by-zero-240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28f672599958bfcc823a93b024696d47.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Fighting Spirit: Champion Road",
+        "alternativeTitle": "Hajime no Ippo: Champion Road",
+        "id": "fighting-spirit-champion-road-217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4c8d1bfd3c4a2dbf84c23ced8c284eb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Violet Evergarden Extra Episode",
+        "alternativeTitle": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
+        "id": "violet-evergarden-extra-episode-201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f44388d184fc34369f7ad3aef0f4e1f9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "34m"
+      },
+      {
+        "title": "Natsume Yuujinchou Go Specials",
+        "alternativeTitle": "Natsume Yuujinchou Go Specials",
+        "id": "natsume-yuujinchou-go-specials-197",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c86b9ed99fd0a98778545151e8a1ac07.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Gintama: Shiroyasha Koutan",
+        "alternativeTitle": "Gintama: Shiroyasha Koutan",
+        "id": "gintama-shiroyasha-koutan-192",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/849ad157d5bf0caff8db6fae38332b83.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Steins;Gate: Egoistic Poriomania",
+        "alternativeTitle": "Steins;Gate: Oukoubakko no Poriomania",
+        "id": "steinsgate-egoistic-poriomania-172",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b064bb424f0991f53f650f2dea4155fd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "The Shadow that Devours the Sun",
+        "alternativeTitle": "Mushishi: Hihamukage",
+        "id": "the-shadow-that-devours-the-sun-72",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53f3a394a27dcb6746a876344a6e3ff9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "45m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 53,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Etotama Specials",
+        "alternativeTitle": "Etotama Specials",
+        "id": "etotama-specials-5655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/631049ac80f17049f215396160c6544f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Appleseed XIII",
+        "alternativeTitle": "Appleseed XIII",
+        "id": "appleseed-xiii-6423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f5e824588600b5264e9c77432fe71cf.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Fight League: Gear Gadget Generators",
+        "alternativeTitle": "Fight League: Gear Gadget Generators",
+        "id": "fight-league-gear-gadget-generators-7191",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24db0f2be9a1ab8ab2eade79db0ef83a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Dino Girl Gauko",
+        "alternativeTitle": "Kyouryuu Shoujo Gauko",
+        "id": "dino-girl-gauko-7703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7aae56896f5d79ce2884646c1e4897e6.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Green Green OVA",
+        "alternativeTitle": "Green Green OVA",
+        "id": "green-green-ova-7959",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/965af5ca98dce4aaa2db402bd32a0aa0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Memories Off",
+        "alternativeTitle": "Memories Off",
+        "id": "memories-off-8215",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5200abffc9e2850ac58d0f8ef3624d4.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "JK-MESHI!",
+        "alternativeTitle": "JK Meshi!",
+        "id": "jk-meshi-10519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6412e272751c0d04ad80d95a35cf3b4f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "The Journey Home",
+        "alternativeTitle": "Space Bug",
+        "id": "the-journey-home-11799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b345bdab42b10a7205c376a19d6a02ce.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "[RAW] Jungle Kurobee",
+        "alternativeTitle": "[RAW] Jungle Kurobee",
+        "id": "jungle-kurobee-14359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd571ed551e741a079789a3134aebb4e.jpg",
+        "episodes": {
+          "sub": 31,
+          "dub": 0,
+          "eps": 31
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Koisuru Boukun",
+        "alternativeTitle": "Koisuru Boukun",
+        "id": "koisuru-boukun-15895",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e23a4d78e479ad5ddb593bc7aa3066c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Spirits in Chinese Brushes",
+        "alternativeTitle": "Qi Hou Bilu",
+        "id": "spirits-in-chinese-brushes-18967",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8406cb9a4f64aa0cb7638df402d2dbb1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Gintama.: Silver Soul Arc",
+        "alternativeTitle": "Gintama.: Shirogane no Tamashii-hen",
+        "id": "gintama-silver-soul-arc-24",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cbb72fff690d4fbff95541d481eea5f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Major: Message",
+        "alternativeTitle": "Major: Message",
+        "id": "major-message-280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5a0187bab0a2b66e908f6e0463d7bac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Magical Girl Lyrical Nanoha A's",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha A's",
+        "id": "magical-girl-lyrical-nanoha-as-536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9dc4dd05882570769a9a8ff59c116207.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+        "alternativeTitle": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+        "id": "urusei-yatsura-movie-2-beautiful-dreamer-792",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0261f56cb90860f7243b635a8e21ec84.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Rage of Bahamut: Genesis",
+        "alternativeTitle": "Shingeki no Bahamut: Genesis",
+        "id": "rage-of-bahamut-genesis-1048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e9e400b3542096af786552f8d37057f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah! My Goddess: Flights of Fancy",
+        "alternativeTitle": "Aa! Megami-sama!: Sorezore no Tsubasa",
+        "id": "ah-my-goddess-flights-of-fancy-1304",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eee62d35e988f78a4199429c76074a73.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Irregular at Magic High School The Movie - The Girl Who Summons The Stars",
+        "alternativeTitle": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
+        "id": "the-irregular-at-magic-high-school-the-movie-the-girl-who-summons-the-stars-1560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b966ed5da64220c62424e2b523bc767e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Dropkick on My Devil!! Dash",
+        "alternativeTitle": "Jashin-chan Dropkick'",
+        "id": "dropkick-on-my-devil-dash-1816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f8611ea04585c84acdab564f0f0d912.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Voices of a Distant Star",
+        "alternativeTitle": "Hoshi no Koe",
+        "id": "voices-of-a-distant-star-2584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4fcfa57355ccbd64d1b654764a6ccd2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Ranma 1/2: Hot Song Contest",
+        "alternativeTitle": "Ranma ½: Nettou Uta Gassen",
+        "id": "ranma-12-hot-song-contest-2840",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfddfd91542478a993d461162daf70a4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "One Piece Movie 1",
+        "alternativeTitle": "One Piece Movie 1",
+        "id": "one-piece-movie-1-3096",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff736656ba002e0dd51363c3d889d9ff.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "Hayate the Combat Butler! Cuties",
+        "alternativeTitle": "Hayate no Gotoku! Cuties",
+        "id": "hayate-the-combat-butler-cuties-3352",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afb843c7f734e55e564e1d3a08a93dfb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Animation Runner Kuromi",
+        "alternativeTitle": "Animation Seisaku Shinkou Kuromi-chan",
+        "id": "animation-runner-kuromi-3864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31a440f27c245f8782d67e5d3cc71b83.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "38m"
+      },
+      {
+        "title": "Aikatsu on Parade!",
+        "alternativeTitle": "Aikatsu on Parade!",
+        "id": "aikatsu-on-parade-4376",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bedff09fdcccae89a77435e8a24b02e6.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "eX-Driver",
+        "alternativeTitle": "eX-Driver",
+        "id": "ex-driver-4632",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f504f4fbbbb04586f910c529bc612bec.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Freezing Vibration Specials",
+        "alternativeTitle": "Freezing Vibration Specials",
+        "id": "freezing-vibration-specials-5656",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07689c158fc47e8447e6064baff0fdfa.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Phantom Quest Corp.",
+        "alternativeTitle": "Yuugen Kaisha",
+        "id": "phantom-quest-corp-5912",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b461582b820e8423ec26e2fb53295a6c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Sky Wizards Academy",
+        "alternativeTitle": "Kuusen Madoushi Kouhosei no Kyoukan",
+        "id": "sky-wizards-academy-6168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acd993b58b47409d4e8e272ba3e695ad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Goku II: Midnight Eye",
+        "alternativeTitle": "Midnight Eye: Gokuu II",
+        "id": "goku-ii-midnight-eye-6936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae35bd61b052039338adfb00ff7d9042.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "53m"
+      },
+      {
+        "title": "Pandora to Akubi",
+        "alternativeTitle": "Pandora to Akubi",
+        "id": "pandora-to-akubi-7448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88198a76019092b54bb0a907c5f7a83c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "27m"
+      },
+      {
+        "title": "Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu Episode 0",
+        "alternativeTitle": "Madan no Ou to Vanadis: Tigre-kun to Vanadi-chu Episode 0",
+        "id": "madan-no-ou-to-vanadis-tigre-kun-to-vanadi-chu-episode-0-7704",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11c46afe3c2ba1e7057556cdf2099a3e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Magmel of the Sea Blue",
+        "alternativeTitle": "Gunjou no Magmell",
+        "id": "magmel-of-the-sea-blue-7960",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02053d12d42c5309493fb769e72422ba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "D-1 Devastator",
+        "alternativeTitle": "D-1 Devastator",
+        "id": "d-1-devastator-8728",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9cb22677c62125664f998fe1c07e8365.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Lord of Vermilion: The Crimson King",
+        "alternativeTitle": "Lord of Vermilion: Guren no Ou",
+        "id": "lord-of-vermilion-the-crimson-king-9752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b465502a9d9b564de16dbbd992bcdf2b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Umibe no Étranger",
+        "alternativeTitle": "Umibe no Étranger",
+        "id": "umibe-no-etranger-12312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47436b74de98af9c09299376fd2ead1d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Feast of Amrita",
+        "alternativeTitle": "Amrita no Kyouen",
+        "id": "feast-of-amrita-15640",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7487466d58e7b87b6d54cab3664f43c3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "47m"
+      },
+      {
+        "title": "Zhen Dao Ge: Chen Shi Xing",
+        "alternativeTitle": "Zhen Dao Ge: Chenshi Hang",
+        "id": "zhen-dao-ge-chen-shi-xing-18712",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72614c5f275f96fd77f9152b8d262095.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "100m"
+      },
+      {
+        "title": "Made in Abyss Movie 3: Dawn of the Deep Soul",
+        "alternativeTitle": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+        "id": "made-in-abyss-movie-3-dawn-of-the-deep-soul-25",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1dc451293e0fdee7c45d31de7e49d436.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K. Final Arc",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+        "id": "the-disastrous-life-of-saiki-k-final-arc-281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50888b6a169a08dfaf4cf95e17eb6504.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "50m"
+      }
+    ]
+  }
+}

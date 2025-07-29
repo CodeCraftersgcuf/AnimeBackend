@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 68,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Generation of Chaos III: Time of the Seal",
+        "alternativeTitle": "Generation of Chaos III: Toki no Fuuin",
+        "id": "generation-of-chaos-iii-time-of-the-seal-10550",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e89f5d962ba11826be476f1e7b3145a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Rice",
+        "alternativeTitle": "Love Kome: We Love Rice",
+        "id": "love-rice-10521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a26367702f77c00d4a39f5148fda315.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "JK-MESHI!",
+        "alternativeTitle": "JK Meshi!",
+        "id": "jk-meshi-10519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6412e272751c0d04ad80d95a35cf3b4f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "The World YAMIZUKAN",
+        "alternativeTitle": "Sekai no Yami Zukan",
+        "id": "the-world-yamizukan-10495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1829c470a7b5ac744d46000de514d7db.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Papillon Rose",
+        "alternativeTitle": "Papillon Rose",
+        "id": "papillon-rose-10491",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c41fad794251c59ed3b6e59dd95265fd.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Jigoku Youchien",
+        "alternativeTitle": "Jigoku Youchien",
+        "id": "jigoku-youchien-10487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7175c447e30bc0728b28fb491f597234.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "The Island of Giant Insects Movie",
+        "alternativeTitle": "Kyochuu Rettou Movie",
+        "id": "the-island-of-giant-insects-movie-10481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0192f3ce3205e948f581a0adac2f3af.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "76m"
+      },
+      {
+        "title": "Try Knights",
+        "alternativeTitle": "Try Knights",
+        "id": "try-knights-10475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/097ffe7d6cebe4de499a33fddd5941c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Apocalypse Zero",
+        "alternativeTitle": "Kakugo no Susume",
+        "id": "apocalypse-zero-10469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61da6c7d8f77cc3339de9f3e3a2af059.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Conception",
+        "alternativeTitle": "Conception",
+        "id": "conception-10463",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcca64c58e6e902f241d51e68f01affc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Canary",
+        "alternativeTitle": "Canary",
+        "id": "canary-10462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21a9a0af1703f999696d83c719f79a65.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Taishou Mebiusline: Chicchai-san",
+        "alternativeTitle": "Taishou Mebiusline: Chicchai-san",
+        "id": "taishou-mebiusline-chicchai-san-10459",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12b6cf5b61de78f473ca01c5c1c6da09.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Rainy Cocoa",
+        "alternativeTitle": "Ame-iro Cocoa",
+        "id": "rainy-cocoa-10446",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2aea8e315576cd3ce0e6a1397b1749f9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Issho ni Training: Training with Hinako",
+        "alternativeTitle": "Issho ni Training: Training with Hinako",
+        "id": "issho-ni-training-training-with-hinako-10444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1353b5ea57b704323b75782bbd7ac88f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "B.B. Fish",
+        "alternativeTitle": "B.B. Fish",
+        "id": "bb-fish-10438",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b4267bafcc4ad9cedfb7ed5fe6c0d00.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Purple Eyes in the Dark",
+        "alternativeTitle": "Yami no Purple Eye",
+        "id": "purple-eyes-in-the-dark-10437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15f200b64ae12022c1d573563ebafdd9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Music",
+        "duration": "31m"
+      },
+      {
+        "title": "Katsugeki Shoujo Tanteidan",
+        "alternativeTitle": "Katsugeki Shoujo Tanteidan",
+        "id": "katsugeki-shoujo-tanteidan-10432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df2a3396d510f45dbd8c2c8c45bb5857.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "The Glass Mask Year 3 Class D",
+        "alternativeTitle": "3-Nen D-Gumi Glass no Kamen",
+        "id": "the-glass-mask-year-3-class-d-10430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/69fb5a3371f9b7df1aee1ddae159eb88.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Room Mate",
+        "alternativeTitle": "Room Mate",
+        "id": "room-mate-10424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1c0936ca49872c01dcf0d8c9af3dd0c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Hell Target",
+        "alternativeTitle": "Hell Target",
+        "id": "hell-target-10421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aab94277b7fd4897187065e5e569dc1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Arcade Gamer Fubuki Extra",
+        "alternativeTitle": "Arcade Gamer Fubuki Extra",
+        "id": "arcade-gamer-fubuki-extra-10418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50ad0fdc8ece6ab996ac36e5f07e772f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "Rainy Cocoa in Hawaii",
+        "alternativeTitle": "Ame-iro Cocoa in Hawaii",
+        "id": "rainy-cocoa-in-hawaii-10408",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c58c8e82d5791ab0236fa3e5efcb1be0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Love Rice 2",
+        "alternativeTitle": "Love Kome: We Love Rice 2nd Season",
+        "id": "love-rice-2-10405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e337399352700b1b6bfdbbd558fa1f40.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Ketsuekigata-kun! Featuring Yuri & Nasuno",
+        "alternativeTitle": "Ketsuekigata-kun! Featuring Yuri & Nasuno",
+        "id": "ketsuekigata-kun-featuring-yuri-nasuno-10404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/213afff0b087433928222d923fbd58de.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Rainy Cocoa, Welcome to Rainy Color",
+        "alternativeTitle": "Ame-iro Cocoa: Rainy Color e Youkoso!",
+        "id": "rainy-cocoa-welcome-to-rainy-color-10399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b7c595ed5a0080b1825f6bc6fc63da8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Million Doll",
+        "alternativeTitle": "Million Doll",
+        "id": "million-doll-10392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3a515ffd953cc025bebe5766d644806.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Crane Game Girls Galaxy",
+        "alternativeTitle": "Bishoujo Yuugi Unit Crane Game Girls Galaxy",
+        "id": "crane-game-girls-galaxy-10389",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dc14429fba2ae2a01e6875c4549dba2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Ame-Con!!",
+        "alternativeTitle": "Ame-iro Cocoa Series: Ame-con!!",
+        "id": "ame-con-10388",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a181b3e0c9f0c963515d95aac63c59f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Art of Fighting",
+        "alternativeTitle": "Battle Spirits: Ryuuko no Ken",
+        "id": "art-of-fighting-10378",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd901a15fe55a0bc354d0be90cfba89e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "49m"
+      },
+      {
+        "title": "Chargeman Ken!",
+        "alternativeTitle": "Chargeman Ken!",
+        "id": "chargeman-ken-10366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/00368692c3eb8a63a815f4b8b6614699.jpg",
+        "episodes": {
+          "sub": 65,
+          "dub": 0,
+          "eps": 65
+        },
+        "type": "TV",
+        "duration": "6m"
+      },
+      {
+        "title": "Nazotokine",
+        "alternativeTitle": "Nazotokine",
+        "id": "nazotokine-10365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b87c1ad3e9b56158945c44c528ad734.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Fantastic Cell",
+        "alternativeTitle": "Fantastic Cell",
+        "id": "fantastic-cell-10359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99aa64f4dc76c671fe2ca529a9f06182.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "6m"
+      },
+      {
+        "title": "Ame-iro Cocoa: Side G",
+        "alternativeTitle": "Ame-iro Cocoa: Side G",
+        "id": "ame-iro-cocoa-side-g-10332",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1a6abf0a0c83666c7da28fe20d7c55e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Forest Fairy Five ~Fairy Tale~",
+        "alternativeTitle": "Yousei Land Mukashibanashi",
+        "id": "forest-fairy-five-fairy-tale-10319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17b45a838e0929e932485e920a78b5bb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      }
+    ]
+  }
+}

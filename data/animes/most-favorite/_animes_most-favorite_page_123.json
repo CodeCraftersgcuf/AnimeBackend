@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 123,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Onipan!",
+        "alternativeTitle": "Onipan!",
+        "id": "onipan-18008",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcb248eb3e639bba3cd71c2970a75b07.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "The Guardian Legend",
+        "alternativeTitle": "Shu Tian Fu Mo Lu",
+        "id": "the-guardian-legend-18554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd475ee7b24f5ca3709cba2862608549.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "With a Dog AND a Cat, Every Day is Fun",
+        "alternativeTitle": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii",
+        "id": "with-a-dog-and-a-cat-every-day-is-fun-7438",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a65d3bec652df190bee9d7b139462bc5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "The Cockpit",
+        "alternativeTitle": "The Cockpit",
+        "id": "the-cockpit-2679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d493bdbc236c22c66f5e299244647422.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Ze Tian Ji 3rd Season",
+        "alternativeTitle": "Ze Tian Ji 3rd Season",
+        "id": "ze-tian-ji-3rd-season-3950",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a591c840cf706cf933c00f0ab33b63a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
+        "alternativeTitle": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture",
+        "id": "ginga-eiyuu-densetsu-arata-naru-tatakai-no-overture-375",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84d585fd6c90fb82cfd0bc97d5f99339.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+        "alternativeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+        "id": "hokuto-no-ken-raoh-gaiden-gekitou-hen-1381",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9c0175f76aec16e973ed86e1f58d835.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Lupin Zero",
+        "alternativeTitle": "Lupin Zero",
+        "id": "lupin-zero-18243",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a205accc34ed3be091e1b6abbbe7c6a.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "30m"
+      },
+      {
+        "title": "Mysterious Play OVA 2",
+        "alternativeTitle": "Fushigi Yuugi: Dai Ni Bu",
+        "id": "mysterious-play-ova-2-2411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c36c4b80e2131410d79e8d43e9a7447.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?",
+        "id": "tenchi-muyou-ryououki-3rd-season-tenchi-seirou-naredo-namitakashi-2463",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04c902a93f749e99078361418e7969d9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Wu Geng Ji 3rd Season",
+        "alternativeTitle": "Wu Geng Ji 3rd Season",
+        "id": "wu-geng-ji-3rd-season-3136",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3265ccfb9869dee7c3985f0ae678ff6.jpg",
+        "episodes": {
+          "sub": 42,
+          "dub": 0,
+          "eps": 42
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "Pretty Cure Max Heart",
+        "alternativeTitle": "Futari wa Precure: Max Heart",
+        "id": "pretty-cure-max-heart-3819",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c5adf63262ff6721700da694a3677ae.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 0,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "El-Hazard: The Wanderers",
+        "alternativeTitle": "El Hazard: The Wanderers",
+        "id": "el-hazard-the-wanderers-3663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a5e8a27e21d1e8d43689a0db8e689ea.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aoki Hagane no Arpeggio: Ars Nova DC",
+        "alternativeTitle": "Aoki Hagane no Arpeggio: Ars Nova DC",
+        "id": "aoki-hagane-no-arpeggio-ars-nova-dc-1685",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c858d48612be8506d56c588ff9242db6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Princess Nine",
+        "alternativeTitle": "Princess Nine: Kisaragi Joshikou Yakyuubu",
+        "id": "princess-nine-2931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/888f761bd4bee55f59305b182d750d23.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!",
+        "alternativeTitle": "Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!",
+        "id": "crayon-shin-chan-movie-15-arashi-wo-yobu-utau-ketsu-dake-bakudan-4462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9076f48f864eb9782e02db0c60cbd825.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Saki Episode of Side A",
+        "alternativeTitle": "Saki Achiga-hen: Episode of Side-A",
+        "id": "saki-episode-of-side-a-2174",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eac102675637f70b17d93e8df89963cf.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soni-Ani: Super Sonico The Animation",
+        "alternativeTitle": "SoniAni: Super Sonico The Animation",
+        "id": "soni-ani-super-sonico-the-animation-7578",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ae8ae5b91ddc1efa05c8dc94a3aec7b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragonaut: The Resonance - Kotou - Tozasareta Kyousoo",
+        "alternativeTitle": "Dragonaut: The Resonance - Kotou - Tozasareta Kyousoo",
+        "id": "dragonaut-the-resonance-kotou-tozasareta-kyousoo-4050",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8c6952d9ae8766b58ba8d7f3b65d7aa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Ancient Girl's-Frame",
+        "alternativeTitle": "Dou Shen Ji",
+        "id": "ancient-girlsframe-17924",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97794bf388d89873a97499c8233db2e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+        "alternativeTitle": "Arve Rezzle: Kikaijikake no Yousei-tachi",
+        "id": "arve-rezzle-kikaijikake-no-yousei-tachi-6723",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/08c1d01dff7741a292afbba8ed3d12fe.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "Huyao Xiao Hongniang: Yue Hong",
+        "alternativeTitle": "Huyao Xiao Hongniang: Yue Hong",
+        "id": "huyao-xiao-hongniang-yue-hong-983",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f376cdc17efc7e085d1e4d671bba774.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Saint Seiya: The Hades Chapter - Sanctuary",
+        "alternativeTitle": "Saint Seiya: Meiou Hades Juuni Kyuu-hen",
+        "id": "saint-seiya-the-hades-chapter-sanctuary-427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b0260a78eb9d7439cae49b95c9099d3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Ze Tian Ji 5th Season",
+        "alternativeTitle": "Ze Tian Ji 5th Season",
+        "id": "ze-tian-ji-5th-season-4349",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cd86e0d7c3c102e5b643961705b4534.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Wo Kai Dongwuyuan Naxie Nian",
+        "alternativeTitle": "Wo Kai Dongwuyuan Naxie Nian",
+        "id": "wo-kai-dongwuyuan-naxie-nian-6661",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e5e04b1a693d0fd9be1113cbe8906c2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Bakuretsu Tenshi: Infinity",
+        "alternativeTitle": "Bakuretsu Tenshi: Infinity",
+        "id": "bakuretsu-tenshi-infinity-4353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3b9729fda6bb3e88c893425a2268200.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Pandora in the Crimson Shell",
+        "alternativeTitle": "Koukaku no Pandora",
+        "id": "pandora-in-the-crimson-shell-5668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/547baf729ed9cd10b0a3dfeb5c04b8dd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wings of the World",
+        "alternativeTitle": "Wan Guo Zhi",
+        "id": "wings-of-the-world-12379",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edc6ddd6b871f5c599ed1d3f31bfb827.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Street Fighter Alpha: Generations",
+        "alternativeTitle": "Street Fighter Alpha: Generations",
+        "id": "street-fighter-alpha-generations-5807",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a2db07444152bc444ddaa305477e03d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "42m"
+      },
+      {
+        "title": "Monster Strike 3: The Fading Cosmos",
+        "alternativeTitle": "Monster Strike Anime: Kieyuku Uchuu-hen",
+        "id": "monster-strike-the-fading-cosmos-6257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ddef865a469c0f0a92d445dac9e9725.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Tamayura",
+        "alternativeTitle": "Tamayura",
+        "id": "tamayura-2938",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d2a2764d15c26f7667ec4b53e555b19.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "18m"
+      },
+      {
+        "title": "The Adventures of Tom Sawyer",
+        "alternativeTitle": "Tom Sawyer no Bouken",
+        "id": "the-adventures-of-tom-sawyer-2941",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75fbc94b82a6f98a849b3ac9b367c73a.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Hozuki's Coolheadedness 2",
+        "alternativeTitle": "Hoozuki no Reitetsu 2nd Season: Sono Ni",
+        "id": "hozukis-coolheadedness-2-768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d98c494543fb97e506097e8012086de.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Slayers Revolution",
+        "alternativeTitle": "Slayers Revolution",
+        "id": "slayers-revolution-2372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12806b0b3f97f1d574059022e19e3966.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Armitage III: Poly-Matrix",
+        "alternativeTitle": "Armitage III: Poly-Matrix",
+        "id": "armitage-iii-poly-matrix-3253",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1bf928d34a9a0401ce4073222307a02.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Hanappe Bazooka",
+        "alternativeTitle": "Hanappe Bazooka",
+        "id": "hanappe-bazooka-9400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c5d1f99a5271eef1ea1bd9be9a80a7e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikomatic-days-2921",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d358499e5a37ced8cc7ec59120a99116.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Aru Tabibito no Nikki",
+        "alternativeTitle": "Aru Tabibito no Nikki",
+        "id": "aru-tabibito-no-nikki-2969",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f6b6222b22d7db13f8c4aed81c0bf60.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Youkai Watch: Shadow Side",
+        "alternativeTitle": "Youkai Watch: Shadow Side",
+        "id": "youkai-watch-shadow-side-5530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf7fcdba7b16e79e0b885d3e6d5fe79d.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soul Buster",
+        "alternativeTitle": "Soul Buster",
+        "id": "soul-buster-8532",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52cc8f21aecd2e18065154f2083ccc4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      }
+    ]
+  }
+}

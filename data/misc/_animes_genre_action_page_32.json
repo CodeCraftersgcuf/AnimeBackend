@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 32,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "The Sacred Blacksmith",
+        "alternativeTitle": "Seiken no Blacksmith",
+        "id": "the-sacred-blacksmith-4501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b4f0eb07f3cdd07970bdd4e5c4c5dd6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Galaxy Railways 2: Eternal Divergence",
+        "alternativeTitle": "Ginga Tetsudou Monogatari: Eien e no Bunkiten",
+        "id": "the-galaxy-railways-2-eternal-divergence-4199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9a3081850789a9435dc92b2be4fda15.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Triage X",
+        "alternativeTitle": "Triage X",
+        "id": "triage-x-6499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c4cc3328b896e7392ee142dac539dcf.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokyo Majin",
+        "alternativeTitle": "Tokyo Majin Gakuen Kenpucho: Tou",
+        "id": "tokyo-majin-2857",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f0511605896dd65ad00fc7215083b51.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku",
+        "alternativeTitle": "Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku",
+        "id": "tokyo-majin-gakuen-kenpucho-tou-dai-ni-maku-2445",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e23af32e5f0688a7d4c4d46341cb56bb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Prince of Tennis II",
+        "alternativeTitle": "Shin Tennis no Ouji-sama",
+        "id": "the-prince-of-tennis-ii-1349",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2b84a8324def797365301e5ccf08166.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tears to Tiara",
+        "alternativeTitle": "Tears to Tiara",
+        "id": "tears-to-tiara-2703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcdd8b0456f371177242b5360edf1b72.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "UFO Senshi Dai Apolon",
+        "alternativeTitle": "UFO Senshi Dai Apolon",
+        "id": "ufo-senshi-dai-apolon-7562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f568499743bfa53d6dc93015e7e4790.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ulysses: Jeanne d'Arc and the Alchemist Knight",
+        "alternativeTitle": "Ulysses: Jehanne Darc to Renkin no Kishi",
+        "id": "ulysses-jeanne-darc-and-the-alchemist-knight-9737",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5508859e367a3beaa4725cca814967cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Upotte!!",
+        "alternativeTitle": "Upotte!!",
+        "id": "upotte-5711",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4e63cf7cf66448bad472eee49922f68.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Ushio and Tora",
+        "alternativeTitle": "Ushio to Tora (TV)",
+        "id": "ushio-and-tora-1252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da2bc3526c8c60b7bbd9d0a671fecdde.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ushio & Tora: 2nd Season",
+        "alternativeTitle": "Ushio to Tora (TV) 2nd Season",
+        "id": "ushio-tora-2nd-season-576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c217c55830751f2cf1f89f5b3b55ce82.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Utawarerumono",
+        "alternativeTitle": "Utawarerumono",
+        "id": "utawarerumono-1096",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc4c6088e75644a6b2bed3fa77a704e7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Utawarerumono: The False Faces",
+        "alternativeTitle": "Utawarerumono: Itsuwari no Kamen",
+        "id": "utawarerumono-the-false-faces-2447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9249cb2ebd20b0cb54a13c50ee9effe.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Undefeated Bahamut Chronicle",
+        "alternativeTitle": "Saijaku Muhai no Bahamut",
+        "id": "undefeated-bahamut-chronicle-5049",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf8dfb68daa8c2ba626adcc0069f1d3b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "UQ Holder!",
+        "alternativeTitle": "UQ Holder!: Mahou Sensei Negima! 2",
+        "id": "uq-holder-3481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d67ef550af8838191b00f607c270081c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Uninhabited Planet Survive",
+        "alternativeTitle": "Mujin Wakusei Survive",
+        "id": "uninhabited-planet-survive-1031",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5b4d50b4c65e72a41b24159591b07f3.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ushio and Tora",
+        "alternativeTitle": "Ushio to Tora",
+        "id": "ushio-and-tora-2962",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f5941372f459c787cec5bfa17c70137.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Valkyrie Drive: Mermaid",
+        "alternativeTitle": "Valkyrie Drive: Mermaid",
+        "id": "valkyrie-drive-mermaid-7463",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1de31a9e6846bb9e26b675a92897310c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Vinland Saga",
+        "alternativeTitle": "Vinland Saga",
+        "id": "vinland-saga-40",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9cc864ccccce7f38f7a100627ef21516.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "VS Knight Lamune & 40 Fire",
+        "alternativeTitle": "VS Knight Lamune & 40 Fire",
+        "id": "vs-knight-lamune-40-fire-4176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d897c0a3bc13c2a41245c88e4dcb4745.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Vivy -Fluorite Eye's Song-",
+        "alternativeTitle": "Vivy: Fluorite Eye's Song",
+        "id": "vivy-fluorite-eyes-song-17431",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a726acad88c6b183eb843b81731fb7c9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Vividred Operation",
+        "alternativeTitle": "Vividred Operation",
+        "id": "vividred-operation-5933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6be7cdc86764786680549da0c2989ca7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "W",
+        "alternativeTitle": "W'z",
+        "id": "wz-9233",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/079c3847e42383dd1265aa0a26b7a0c7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Walkure Romanze",
+        "alternativeTitle": "Walkure Romanze",
+        "id": "walkure-romanze-6235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6462dee7d764a125bee74490f05774a4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Web Ghosts PiPoPa",
+        "alternativeTitle": "Net Ghost Pipopa",
+        "id": "web-ghosts-pipopa-4322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/522e643417bed025ec1e4509a1306007.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "What's Up Mechadoc",
+        "alternativeTitle": "Yoroshiku Mechadock",
+        "id": "whats-up-mechadoc-6957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7743e1a55ef6bd75cf185b5dedc9221d.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shironeko Project ZERO CHRONICLE",
+        "alternativeTitle": "Shironeko Project: Zero Chronicle",
+        "id": "shironeko-project-zero-chronicle-9768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/834a5d5bd5ea4ceaa4dda5ae402d4901.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Witch Craft Works",
+        "alternativeTitle": "Witch Craft Works",
+        "id": "witch-craft-works-3217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f833d32db551eb942a8e97a401f2aa2a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Witch Hunter Robin",
+        "alternativeTitle": "Witch Hunter Robin",
+        "id": "witch-hunter-robin-2448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcf1a4cc6ff23d28a048386875dcb1da.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Wolf's Rain",
+        "alternativeTitle": "Wolf's Rain",
+        "id": "wolfs-rain-763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48f868d581fbdb81655bd2c4abee3f7a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "World Break: Aria of Curse for a Holy Swordsman",
+        "alternativeTitle": "Seiken Tsukai no World Break",
+        "id": "world-break-aria-of-curse-for-a-holy-swordsman-3753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f04bb82b6e8083027a185b784b10a9f0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World Conquest Zvezda Plot",
+        "alternativeTitle": "Sekai Seifuku: Bouryaku no Zvezda",
+        "id": "world-conquest-zvezda-plot-3194",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83576b74941826f80ff3855e0c734918.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "World Trigger",
+        "alternativeTitle": "World Trigger",
+        "id": "world-trigger-1356",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1bd36737214ea433c9c182685062d8dd.jpg",
+        "episodes": {
+          "sub": 73,
+          "dub": 73,
+          "eps": 73
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 98,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "The Journey Home",
+        "alternativeTitle": "Space Bug",
+        "id": "the-journey-home-11799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b345bdab42b10a7205c376a19d6a02ce.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Recorder and Randsell Mi",
+        "alternativeTitle": "Recorder to Randoseru Mi☆",
+        "id": "recorder-and-randsell-mi-4865",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6f41ef81f085f60ae95947e5d1d1609.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Recorder and Randsell Re",
+        "alternativeTitle": "Recorder to Randoseru Re♪",
+        "id": "recorder-and-randsell-re-4089",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73e403ad61ee545ba99bba282292d7ae.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Recorder and Randsell",
+        "alternativeTitle": "Recorder to Randoseru Do♪",
+        "id": "recorder-and-randsell-4850",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ad8561e527e3dae44044f39bfc1de48.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Science Fell in Love, So I Tried to Prove It",
+        "alternativeTitle": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+        "id": "science-fell-in-love-so-i-tried-to-prove-it-2014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f73e54d968adadc96c706494a3acd875.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Comical Psychosomatic Medicine",
+        "alternativeTitle": "Anime de Wakaru Shinryounaika",
+        "id": "comical-psychosomatic-medicine-5199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2fd53db06c94bd24bea27b6df76a11cb.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Koro Sensei Quest!",
+        "alternativeTitle": "Koro-sensei Quest!",
+        "id": "koro-sensei-quest-3008",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c86c440ca44245d64e0019f44a2ee2f5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "PriPri Chi-chan!!",
+        "alternativeTitle": "PriPri Chii-chan!!",
+        "id": "pripri-chi-chan-7211",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b981da1ed332c61682bef28bfd035667.jpg",
+        "episodes": {
+          "sub": 36,
+          "dub": 0,
+          "eps": 36
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Problem children are coming from another world, aren't they?",
+        "alternativeTitle": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+        "id": "problem-children-are-coming-from-another-world-arent-they-1282",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cedcb385ec37bb8d6768b3e98abcdaa4.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Unlimited Psychic Squad",
+        "alternativeTitle": "Zettai Karen Children: The Unlimited - Hyoubu Kyousuke",
+        "id": "unlimited-psychic-squad-1413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fe549dad9b4dc6f21d85884b56b7329.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Punch Line",
+        "alternativeTitle": "Punch Line",
+        "id": "punch-line-3536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06a1d34e063f0f1299c44bffd7cd6f4e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rail Romanesque",
+        "alternativeTitle": "Rail Romanesque",
+        "id": "rail-romanesque-9695",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2e34742c205354c5acdc8844e074957.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ame-iro Cocoa: Side G",
+        "alternativeTitle": "Ame-iro Cocoa: Side G",
+        "id": "ame-iro-cocoa-side-g-10332",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1a6abf0a0c83666c7da28fe20d7c55e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Please Teacher!",
+        "alternativeTitle": "Onegai☆Teacher",
+        "id": "please-teacher-2763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/812d14f02a6eac1db788ca8f4824e9a1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Please tell me! Galko-chan",
+        "alternativeTitle": "Oshiete! Galko-chan",
+        "id": "please-tell-me-galko-chan-3028",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0556c7f12893fb6c11403b42f6f8462.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Plastic Memories",
+        "alternativeTitle": "Plastic Memories",
+        "id": "plastic-memories-605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9dd7bfe2020dbaf2cf80be205a1257a9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Juuou Mujin no Fafnir",
+        "alternativeTitle": "Juuou Mujin no Fafnir",
+        "id": "juuou-mujin-no-fafnir-6811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aabe736e4b997dbce121121c6f99878c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Poco's Udon World",
+        "alternativeTitle": "Udon no Kuni no Kiniro Kemari",
+        "id": "pocos-udon-world-883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f5bfaf991f66f34b305ca2346610cd9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Princess Nine",
+        "alternativeTitle": "Princess Nine: Kisaragi Joshikou Yakyuubu",
+        "id": "princess-nine-2931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/888f761bd4bee55f59305b182d750d23.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Umayon",
+        "alternativeTitle": "Umayon",
+        "id": "umayon-7830",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b158636782d84dafd98f05b12032aa44.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Urawa no Usagi-chan",
+        "alternativeTitle": "Urawa no Usagi-chan",
+        "id": "urawa-no-usagi-chan-9652",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0378b4394645b6e0861c6dd2c3549a2e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ultramaniac - Magical Girl",
+        "alternativeTitle": "Ultra Maniac",
+        "id": "ultramaniac-magical-girl-2788",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83fadb7df4e6326f9ce13c9f9d005f41.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ulysses: Jeanne d'Arc and the Alchemist Knight",
+        "alternativeTitle": "Ulysses: Jehanne Darc to Renkin no Kishi",
+        "id": "ulysses-jeanne-darc-and-the-alchemist-knight-9737",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5508859e367a3beaa4725cca814967cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Urahara",
+        "alternativeTitle": "Urahara",
+        "id": "urahara-8650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/795d865a939b54cd2bf7899a505325e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Planet With",
+        "alternativeTitle": "Planet With",
+        "id": "planet-with-2531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2b2304158b1d9cab77f49d8f997eaed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Room Camp",
+        "alternativeTitle": "Heya Camp△",
+        "id": "room-camp-2914",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae61592658bb5395c8c7fce2a5a37f1c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Uchitama?! Have you seen my Tama?",
+        "alternativeTitle": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
+        "id": "uchitama-have-you-seen-my-tama-3944",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a9656738b9f0caee9c736180401482e.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rokka: Braves of the Six Flowers",
+        "alternativeTitle": "Rokka no Yuusha",
+        "id": "rokka-braves-of-the-six-flowers-1995",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa2f84517b48e3c7a89853a457f3bc5c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rewrite: Moon and Terra",
+        "alternativeTitle": "Rewrite 2nd Season",
+        "id": "rewrite-moon-and-terra-2367",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8f24f7a213ad9e89e04a18703a649b0.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Mahou Shoujo Lalabel",
+        "alternativeTitle": "[RAW] Mahou Shoujo Lalabel",
+        "id": "mahou-shoujo-lalabel-6531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f377120e857e371312a80f44f7e40b32.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rewrite",
+        "alternativeTitle": "Rewrite",
+        "id": "rewrite-4775",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/171b98367fb16dd44bbbd4e784e3cad1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Mojakou",
+        "alternativeTitle": "[RAW] Mojakou",
+        "id": "mojakou-3070",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b71951af3637fc5813f3860b6ce3727b.jpg",
+        "episodes": {
+          "sub": 74,
+          "dub": 0,
+          "eps": 74
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ristorante Paradiso",
+        "alternativeTitle": "Ristorante Paradiso",
+        "id": "ristorante-paradiso-2015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a5f1d32c65386a0be1fe0fe73eacd08.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "[RAW] Edokko Boy: Gatten Tasuke",
+        "alternativeTitle": "[RAW] Edokko Boy: Gatten Tasuke",
+        "id": "edokko-boy-gatten-tasuke-13504",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e772ed9d112f62ecaf46693d9ef6bd5.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Chie-chan Funsenki: Jarinko Chie",
+        "alternativeTitle": "[RAW] Chie-chan Funsenki: Jarinko Chie",
+        "id": "chie-chan-funsenki-jarinko-chie-13223",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb9040aee900be4182d4a5eaf9638875.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Restaurant to Another World",
+        "alternativeTitle": "Isekai Shokudou",
+        "id": "restaurant-to-another-world-2125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be512cf0058a31aef0a9c49750b0b9b8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "RErideD: Derrida, who leaps through time",
+        "alternativeTitle": "RErideD: Tokigoe no Derrida",
+        "id": "rerided-derrida-who-leaps-through-time-8869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/853a27989eaf661922b4906c41c61fe4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "[RAW] Shin Bikkuriman",
+        "alternativeTitle": "[RAW] Shin Bikkuriman",
+        "id": "shin-bikkuriman-11548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c54f76048b6b861bd5a97ad7c35dba3b.jpg",
+        "episodes": {
+          "sub": 72,
+          "dub": 0,
+          "eps": 72
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Chimpui",
+        "alternativeTitle": "[RAW] Chinpui",
+        "id": "chinpui-7276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ddd28fbbe773138b328c2986462d09e.jpg",
+        "episodes": {
+          "sub": 56,
+          "dub": 0,
+          "eps": 56
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Jarinko Chie (TV)",
+        "alternativeTitle": "[RAW] Jarinko Chie (TV)",
+        "id": "jarinko-chie-tv-14296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c8415c9a805fadeb82d466745feaf455.jpg",
+        "episodes": {
+          "sub": 64,
+          "dub": 0,
+          "eps": 64
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 137,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Puppet Princess",
+        "alternativeTitle": "Karakuri no Kimi",
+        "id": "puppet-princess-5785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e24e9f1278fe22503bcb4ab6e4fa95a5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "Macross II: Lovers Again",
+        "alternativeTitle": "Macross II: Lovers Again",
+        "id": "macross-ii-lovers-again-6553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ebca6a32d7a52063127ca80d62c1784.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Ippatsu Kiki Musume",
+        "alternativeTitle": "Ippatsu Kiki Musume",
+        "id": "ippatsu-kiki-musume-6809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be9c2ccab6c5d6f5b8f1c00a52606b6d.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Green Green",
+        "alternativeTitle": "Green Green",
+        "id": "green-green-7065",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ada59a9c182e70c361d95fd970e8ac0.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dr. Slump and Arale-chan Movie 07: N-cha! From Penguin Village with Love",
+        "alternativeTitle": "Dr. Slump Movie 07: Arale-chan N-cha! Penguin Mura yori Ai wo Komete",
+        "id": "dr-slump-and-arale-chan-movie-07-n-cha-from-penguin-village-with-love-7321",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba9491d2165a990c009a185dac97742a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "31m"
+      },
+      {
+        "title": "Donyatsu",
+        "alternativeTitle": "Donyatsu",
+        "id": "donyatsu-8089",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f55fbc5a01d5c33523ed8b0ad57b80a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "Movie",
+        "duration": "2m"
+      },
+      {
+        "title": "Paroru's Future Island",
+        "alternativeTitle": "Parol no Miraijima",
+        "id": "parorus-future-island-8345",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc46881175c2e5c6707effab953f9690.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "26m"
+      },
+      {
+        "title": "Dream Dimension Hunter Fandora",
+        "alternativeTitle": "Mujigen Hunter Fandora",
+        "id": "dream-dimension-hunter-fandora-9113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/606832b8b44c3e39085e16b35a3f3e1b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "40m"
+      },
+      {
+        "title": "The Haunted House: The Secret of the Ghost Ball",
+        "alternativeTitle": "Sinbi Apateu: Ghost Ball Bimil",
+        "id": "the-haunted-house-the-secret-of-the-ghost-ball-11673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db83b66c5adb250473fb3350288da13c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "K×Drop!!",
+        "alternativeTitle": "K×Drop!!",
+        "id": "kdrop-18073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3243178b0b4278ed102cc1d98aec50cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Kamisama Hajimemashita: Kako-hen",
+        "alternativeTitle": "Kamisama Hajimemashita: Kako-hen",
+        "id": "kamisama-hajimemashita-kako-hen-154",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f496473737092845f1731139ad7c5d96.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+        "alternativeTitle": "Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru",
+        "id": "gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru-410",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/891956f052138172099679e5065f906a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Initial D Third Stage",
+        "alternativeTitle": "Initial D Third Stage",
+        "id": "initial-d-third-stage-666",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aee8419c8847456d7a84e16867edf205.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "InuYasha: Kuroi Tessaiga",
+        "alternativeTitle": "InuYasha: Kuroi Tessaiga",
+        "id": "inuyasha-kuroi-tessaiga-922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/486d724e5e1b8594fd856ed05d372824.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "New Game!",
+        "alternativeTitle": "New Game!",
+        "id": "new-game-1178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1abb426d71ba33f19bc8f62082ca9aad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Dead Aggressor - Exodus",
+        "alternativeTitle": "Soukyuu no Fafner: Dead Aggressor - Exodus",
+        "id": "soukyuu-no-fafner-dead-aggressor-exodus-1946",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd4e61e6ce340d41fcdd2d506c4d0849.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sankarea OVA",
+        "alternativeTitle": "Sankarea OVA",
+        "id": "sankarea-ova-2458",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b11a96344fa468e944456d3a2fccd89.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "A Little Snow Fairy Sugar",
+        "alternativeTitle": "Chicchana Yukitsukai Sugar",
+        "id": "a-little-snow-fairy-sugar-3226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5700665de0b416f48b26704c9d31b3ad.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Everlasting Immortal Firmament",
+        "alternativeTitle": "Wangu Xian Qiong",
+        "id": "everlasting-immortal-firmament-3482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7faa7619b55154142b05e85b4ae497a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Precure All Stars GoGo Dream Live!",
+        "alternativeTitle": "Precure All Stars GoGo Dream Live!",
+        "id": "precure-all-stars-gogo-dream-live-4250",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ddba545232abea3226b60e826b58cb7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "I'm Gonna Be an Angel!",
+        "alternativeTitle": "Tenshi ni Narumon!",
+        "id": "im-gonna-be-an-angel-4762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46e8df94a3a620f0f71a228c3ed08c3b.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "E's Otherwise",
+        "alternativeTitle": "E's Otherwise",
+        "id": "es-otherwise-5018",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53ec5e17e827a4b2eaf1f4f5e8b85022.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Youkai Watch: Shadow Side",
+        "alternativeTitle": "Youkai Watch: Shadow Side",
+        "id": "youkai-watch-shadow-side-5530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf7fcdba7b16e79e0b885d3e6d5fe79d.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soni-Ani: Super Sonico The Animation",
+        "alternativeTitle": "SoniAni: Super Sonico The Animation",
+        "id": "soni-ani-super-sonico-the-animation-7578",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ae8ae5b91ddc1efa05c8dc94a3aec7b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pikaia!",
+        "alternativeTitle": "Pikaia!",
+        "id": "pikaia-7834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09a60df301cb9bb382e4ac99beb20430.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "[RAW] Duel Masters Victory V",
+        "alternativeTitle": "[RAW] Duel Masters Victory V",
+        "id": "duel-masters-victory-v-8090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b77957b93a2b3bd8129ab6bbce6ddd58.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "World War Blue",
+        "alternativeTitle": "Aoi Sekai no Chuushin de",
+        "id": "world-war-blue-8602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ae888399f1cf09ed5484a830c1a03c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Nana to Kaoru",
+        "alternativeTitle": "Nana to Kaoru",
+        "id": "nana-to-kaoru-9114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa5b3e177662ce7dfee18e30b6ee4ac5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Eureka Seven Hi-Evolution 3",
+        "alternativeTitle": "Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka",
+        "id": "eureka-seven-hi-evolution-3-15770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73d2164b599bc254a92e1d2633b0d235.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "116m"
+      },
+      {
+        "title": "Beyblade Metal Fury",
+        "alternativeTitle": "Metal Fury Beyblade",
+        "id": "beyblade-metal-fury-17562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ae6a467782c222cb5b7fc6f7e1d6928.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Fruits Basket: Prelude",
+        "alternativeTitle": "Fruits Basket: Prelude",
+        "id": "fruits-basket-prelude-18074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c62df371623fcf1e3aef674ab8e12d2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Glass Mask",
+        "alternativeTitle": "Glass no Kamen (2005)",
+        "id": "glass-mask-411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0434e97f13f855360198baeb327606a4.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Junjo Romantica 2",
+        "alternativeTitle": "Junjou Romantica 2",
+        "id": "junjo-romantica-2-667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/682b2ca8c7a259e3adcc91c8b05712d4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon The Movie 01: Mewtwo Strikes Back",
+        "alternativeTitle": "Pokemon Movie 01: Mewtwo no Gyakushuu",
+        "id": "pokemon-the-movie-01-mewtwo-strikes-back-1179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd131771c43d8a929babd82d499e0ea5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Flying Witch",
+        "alternativeTitle": "Flying Witch",
+        "id": "flying-witch-1435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3650577a3931c5812f6b96587d6f4e17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
+        "alternativeTitle": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
+        "id": "soukyuu-no-fafner-dead-aggressor-heaven-and-earth-1947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9834d987279c081d5a8b3b817de3b039.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Blood-C: The Last Dark",
+        "alternativeTitle": "Blood-C: The Last Dark",
+        "id": "blood-c-the-last-dark-2715",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c7517e433895274b3b03a86efb0b2d1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+        "alternativeTitle": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+        "id": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-motenaishi-nazomeite-miru-3483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68b3126e4bc5be8bacb7c7e396fa7008.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Rumbling Hearts OVA",
+        "alternativeTitle": "Kimi ga Nozomu Eien: Next Season",
+        "id": "rumbling-hearts-ova-3739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8f9afdd8dfeeeb11ad36dfe5204765e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Kiratto Pri☆chan",
+        "alternativeTitle": "Kiratto Pri☆chan",
+        "id": "kiratto-prichan-3995",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1002f56e69bf82fe0d685c3fe8c8ac0.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 65,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Nanbaka",
+        "alternativeTitle": "Nanbaka",
+        "id": "nanbaka-2139",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1450f8c22148c455c5cfac3800a8436d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Nanbaka: Season 2",
+        "alternativeTitle": "Nanbaka 2",
+        "id": "nanbaka-season-2-1524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/535b95c057072742f160bd4e900c395d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Mobile Suit Gundam: Iron-Blooded Orphans",
+        "alternativeTitle": "Mobile Suit Gundam: Iron-Blooded Orphans",
+        "id": "mobile-suit-gundam-iron-blooded-orphans-515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7734c495b8df742ca7567a70daca3462.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Megalobox",
+        "alternativeTitle": "Megalo Box",
+        "id": "megalobox-603",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cbe8f8b21a49d59e7055cf93b144d163.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mahoromatic: Automatic Maiden",
+        "alternativeTitle": "Mahoromatic: Automatic Maiden",
+        "id": "mahoromatic-automatic-maiden-2809",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8142396aca7980f8bd0bd5af2ea29a1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mahoromatic ~Something More Beautiful~",
+        "alternativeTitle": "Mahoromatic: Motto Utsukushii Mono",
+        "id": "mahoromatic-something-more-beautiful-2830",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3675f2994b8d6093702ce5a71239927.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kuroko's Basketball",
+        "alternativeTitle": "Kuroko no Basket",
+        "id": "kurokos-basketball-312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8040e316fbe195b07c2a390d2af6663c.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hyouka",
+        "alternativeTitle": "Hyouka",
+        "id": "hyouka-349",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c00b99877cb1182d04f020a457a9ea1.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ensemble Stars!",
+        "alternativeTitle": "Ensemble Stars!",
+        "id": "ensemble-stars-4359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9407ea1df895eb357e65aa26025446d2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Domestic Girlfriend",
+        "alternativeTitle": "Domestic na Kanojo",
+        "id": "domestic-girlfriend-4219",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f7fc31cbe99d73633744e633e4a3a50.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Record of Grancrest War",
+        "alternativeTitle": "Grancrest Senki",
+        "id": "record-of-grancrest-war-2489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1a7ba14dc24d04c0d9225b25e5f9f56.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Punch Man 2nd Season Specials",
+        "alternativeTitle": "One Punch Man 2nd Season Specials",
+        "id": "one-punch-man-2nd-season-specials-2430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7a33a567ef4d244b12b6050fa7865ff.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "One Punch Man Specials",
+        "alternativeTitle": "One Punch Man Specials",
+        "id": "one-punch-man-specials-909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/095dbd73ccb0506e0e7ce16021df0924.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Monster",
+        "alternativeTitle": "Monster",
+        "id": "monster-37",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecd3e711e8b8d78306bdcbb0a595baf1.jpg",
+        "episodes": {
+          "sub": 74,
+          "dub": 74,
+          "eps": 74
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Noragami",
+        "alternativeTitle": "Noragami",
+        "id": "noragami-491",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bb5b41ee2b22c2c681be9bb35f84b6d.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 12,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Hina",
+        "alternativeTitle": "Love Hina",
+        "id": "love-hina-2985",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8e6fa000a940b884eaa580e22583962.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Hina Again",
+        "alternativeTitle": "Love Hina Again",
+        "id": "love-hina-again-2526",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05c3610149beade9cca805313731524b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Noragami Aragoto",
+        "alternativeTitle": "Noragami Aragoto",
+        "id": "noragami-aragoto-262",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a45f93b0ea52ce10ca44403afa16659d.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 13,
+          "eps": 15
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+        "alternativeTitle": "Mobile Suit Gundam: Iron-Blooded Orphans 2nd Season",
+        "id": "mobile-suit-gundam-iron-blooded-orphans-2nd-season-260",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8671e535d154ad662b6a617414bb2b9.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam Wing",
+        "alternativeTitle": "Mobile Suit Gundam Wing",
+        "id": "mobile-suit-gundam-wing-968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/69d58ccd98d2f1c5c176f41c735aec77.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam 00",
+        "alternativeTitle": "Mobile Suit Gundam 00",
+        "id": "mobile-suit-gundam-00-354",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eed93ec91a5912c8f18d8b62ba314b73.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "O Maidens in Your Savage Season",
+        "alternativeTitle": "Araburu Kisetsu no Otome-domo yo.",
+        "id": "o-maidens-in-your-savage-season-1390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef1171b31165b085629ba10d811e493e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Queen's Blade: Rebellion",
+        "alternativeTitle": "Queen's Blade: Rebellion",
+        "id": "queens-blade-rebellion-6559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07ec691c0ae716434f9d448ca3fcf233.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Queen's Blade: Inheritor of the Throne",
+        "alternativeTitle": "Queen's Blade: Gyokuza wo Tsugu Mono",
+        "id": "queens-blade-inheritor-of-the-throne-5339",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7333ba014c2484f8d7e98033d63c6918.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball Z Special 1: Bardock, The Father of Goku",
+        "alternativeTitle": "Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen",
+        "id": "dragon-ball-z-special-1-bardock-the-father-of-goku-1334",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f455fe83e1bf8ffce978cbd0995f22d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "47m"
+      },
+      {
+        "title": "Grappler Baki (TV)",
+        "alternativeTitle": "Grappler Baki (TV)",
+        "id": "grappler-baki-tv-1743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/382d238ffecb013927e773bb0454f15a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Grappler Baki: Saidai Tournament-hen",
+        "alternativeTitle": "Grappler Baki: Saidai Tournament-hen",
+        "id": "grappler-baki-saidai-tournament-hen-1744",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e4f3d6893d68ff6bbffb4c840a6d457.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "ENDRO!",
+        "alternativeTitle": "Endro~!",
+        "id": "endro-3730",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7410ca3c2b0a72a9ad2b1251a6af086.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "High-Rise Invasion",
+        "alternativeTitle": "Tenkuu Shinpan",
+        "id": "high-rise-invasion-17313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/294fd2c400e4dd2bc9a6969d4c3796df.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "High School of the Dead",
+        "alternativeTitle": "Highschool of the Dead",
+        "id": "high-school-of-the-dead-2883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3142379e5487450e48a36980ee8cbdeb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Food Wars! The Second Plate",
+        "alternativeTitle": "Shokugeki no Souma: Ni no Sara",
+        "id": "food-wars-the-second-plate-239",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4778ce688efc84403a4255df4504a4ae.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Queen's Blade: The Exiled Virgin",
+        "alternativeTitle": "Queen's Blade: Rurou no Senshi",
+        "id": "queens-blade-the-exiled-virgin-7230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffebf320e2990d1711b2221691e7bbf8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Hina Christmas Movie",
+        "alternativeTitle": "Love Hina Christmas Special: Silent Eve",
+        "id": "love-hina-christmas-movie-2130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6189869c93ef95dbce44f0cfe5c7df14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "46m"
+      },
+      {
+        "title": "Hyouka: Motsubeki Mono wa",
+        "alternativeTitle": "Hyouka: Motsubeki Mono wa",
+        "id": "hyouka-motsubeki-mono-wa-2034",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4419c973e7a04f513d53182a4fdfd7f4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Queen's Blade: Beautiful Warriors",
+        "alternativeTitle": "Queen's Blade: Utsukushiki Toushi-tachi",
+        "id": "queens-blade-beautiful-warriors-5353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e236e959b9341b47b7c1ba759a8c762.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Mahoromatic Summer Special",
+        "alternativeTitle": "Mahoromatic Summer Special",
+        "id": "mahoromatic-summer-special-3010",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/524f4e99c1ff34b7521c69bba4b21fb2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Hina Spring Movie",
+        "alternativeTitle": "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+        "id": "love-hina-spring-movie-2665",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65dd7a992d8ec59e5a28fa355a2ef2bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "46m"
+      },
+      {
+        "title": "Koyomimonogatari",
+        "alternativeTitle": "Koyomimonogatari",
+        "id": "koyomimonogatari-1026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2abc989b548874635f373c7232759d23.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Ensemble Stars! Recap Special",
+        "alternativeTitle": "Ensemble Stars! Recap Special",
+        "id": "ensemble-stars-recap-special-7932",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db639418d77e55239171a8799baccbca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Mazinger Z",
+        "alternativeTitle": "Mazinger Z",
+        "id": "mazinger-z-2425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a4bbd09e7c63a52a9fd66f4c2e89b5e.jpg",
+        "episodes": {
+          "sub": 92,
+          "dub": 0,
+          "eps": 92
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

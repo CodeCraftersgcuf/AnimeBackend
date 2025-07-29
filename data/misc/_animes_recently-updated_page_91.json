@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 91,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Harmony",
+        "alternativeTitle": "Harmony",
+        "id": "harmony-3667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/974438b480535fb95936a05bf8766e7a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Yama no Susume: Second Season Specials",
+        "alternativeTitle": "Yama no Susume: Second Season Specials",
+        "id": "yama-no-susume-second-season-specials-4179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/29db873e2332be1934460032768ca626.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Aokana: Four Rhythm Across the Blue",
+        "alternativeTitle": "Ao no Kanata no Four Rhythm",
+        "id": "aokana-four-rhythm-across-the-blue-4691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/921e46f8290d9137e082d2e086019d0c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Angel's 3Piece!",
+        "alternativeTitle": "Tenshi no 3P!",
+        "id": "angels-3piece-4947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2073932fa4aed6239ecb4eb94efee46f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bludgeoning Angel Dokuro-chan",
+        "alternativeTitle": "Bokusatsu Tenshi Dokuro-chan",
+        "id": "bludgeoning-angel-dokuro-chan-5203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4aa69da39d4c69401c8bf118a4c46f11.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!",
+        "alternativeTitle": "Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!",
+        "id": "digimon-savers-the-movie-kyuukyoku-power-burst-mode-hatsudou-5459",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2402c022c364683112eee24cb6ac30b4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "20m"
+      },
+      {
+        "title": "Ni no Kuni",
+        "alternativeTitle": "Ni no Kuni",
+        "id": "ni-no-kuni-6227",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8a4d33d6cf4ec4a988f0ea901151817.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "106m"
+      },
+      {
+        "title": "Sol Bianca: The Legacy",
+        "alternativeTitle": "Sol Bianca: Taiyou no Fune",
+        "id": "sol-bianca-the-legacy-6483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2fd8dddf0a34289dcd11a986a311a4b.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "L.O.R.D: Legend of Ravaging Dynasties",
+        "alternativeTitle": "Jue Ji",
+        "id": "lord-legend-of-ravaging-dynasties-6995",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43407a078e649e016bab3ea615682a3f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "[RAW] Duel Masters Charge",
+        "alternativeTitle": "[RAW] Duel Masters Charge",
+        "id": "duel-masters-charge-7251",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ec7ebea97193adcdfca483a041e8a4c.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "Kagaku Ninja-tai Gatchaman (Movie)",
+        "alternativeTitle": "Kagaku Ninja-tai Gatchaman (Movie)",
+        "id": "kagaku-ninja-tai-gatchaman-movie-7507",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/624c685db479cd055d52c6d42d5bf671.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "111m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space",
+        "alternativeTitle": "Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space",
+        "id": "mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space-8019",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5355e2503db8e89d51824992dee800e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Seoul Station",
+        "alternativeTitle": "Seoul-yeok",
+        "id": "seoul-station-8531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd237dcef1417393bb968241ab86259b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Bara no Hana to Joe",
+        "alternativeTitle": "Bara no Hana to Joe",
+        "id": "bara-no-hana-to-joe-8787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bb939b78deb1a3599c9eea8dd283ef8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "20m"
+      },
+      {
+        "title": "Maken Liner 0011 Henshin Seyo!",
+        "alternativeTitle": "Maken Liner 0011 Henshin Seyo!",
+        "id": "maken-liner-0011-henshin-seyo-9299",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/649832ae81d47c58b25f317830750cf5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "alternativeTitle": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+        "id": "evangelion-3010-thrice-upon-a-time-15699",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cf9df4c909d1bedd5d7d31bdba308ba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "155m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Behind the Line",
+        "alternativeTitle": "Soukyuu no Fafner: Behind the Line",
+        "id": "soukyuu-no-fafner-behind-the-line-18259",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fece2ca2d8d116be4212dae0d1d3e7f4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "53m"
+      },
+      {
+        "title": "Leveling up in a Fantasy World",
+        "alternativeTitle": "Wo Zai Xianjie Zheng Jifen",
+        "id": "leveling-up-in-a-fantasy-world-18515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a197753b4f69a919cde3d5c13df3019.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "PHOENIX: EDEN17",
+        "alternativeTitle": "Hi no Tori: Eden no Sora",
+        "id": "phoenix-eden17-19027",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a0978b49a9fa2b00598b00ba6518816.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Long Sword, Wind and Cloud 2nd Season",
+        "alternativeTitle": "Chang Jian Feng Yun 2nd Season",
+        "id": "long-sword-wind-and-cloud-2nd-season-19283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/168b062f062981dc66605a2ecf1b65ac.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "37m"
+      },
+      {
+        "title": "Cat God",
+        "alternativeTitle": "Mao Xing Dongfang",
+        "id": "cat-god-19539",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/104b4e3ff932fbf327703eff6226e3c8.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "My Teen Romantic Comedy SNAFU Climax!",
+        "alternativeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan",
+        "id": "my-teen-romantic-comedy-snafu-climax-84",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04757bcced9e912fbac9e591289f2e42.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cardcaptor Sakura",
+        "alternativeTitle": "Cardcaptor Sakura",
+        "id": "cardcaptor-sakura-340",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63cb3a28f74a5233ce8309774cdd8ad0.jpg",
+        "episodes": {
+          "sub": 70,
+          "dub": 70,
+          "eps": 70
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Humanity Has Declined",
+        "alternativeTitle": "Jinrui wa Suitai Shimashita",
+        "id": "humanity-has-declined-852",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eac3b457a744af31478a5aa9186a660f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bokurano",
+        "alternativeTitle": "Bokura no",
+        "id": "bokurano-1108",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d141641064c018731dc42f9ed93d0277.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shakugan no Shana: Season III",
+        "alternativeTitle": "Shakugan no Shana III (Final)",
+        "id": "shakugan-no-shana-season-iii-1364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8357b65ae1d567f0b62c9bac351c64bc.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Joshiraku",
+        "alternativeTitle": "Joshiraku",
+        "id": "joshiraku-1620",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b403cef96d2962fe85eb65a8bb328c4c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Danganronpa 3: The End of Hope's Peak High School - Future Arc",
+        "alternativeTitle": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+        "id": "danganronpa-3-the-end-of-hopes-peak-high-school-future-arc-1876",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/610f9b9ec03d25fe9639b7cf1fac947d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Keep it a Secret from Maria-sama",
+        "alternativeTitle": "Maria-sama ga Miteru 3rd Specials",
+        "id": "keep-it-a-secret-from-maria-sama-2132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0de536d46482152dec998d4c94bb472b.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Gun x Sword",
+        "alternativeTitle": "Gun x Sword",
+        "id": "gun-x-sword-2388",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2229ea2e937a0d3cf3017ac6c524dd13.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Keep it a Secret from Maria-sama",
+        "alternativeTitle": "Maria-sama ga Miteru 4th Specials",
+        "id": "keep-it-a-secret-from-maria-sama-2644",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b60813b91b69c50d954dc84224e060f.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Bleach: Memories in the Rain",
+        "alternativeTitle": "Bleach: Memories in the Rain",
+        "id": "bleach-memories-in-the-rain-2900",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2832869a128404ef544cbda6a1a000e9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "Sky Blue",
+        "alternativeTitle": "Wonderful Days",
+        "id": "sky-blue-3412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/593d1f8145b60317e45d619facd603b9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "83m"
+      },
+      {
+        "title": "Huyao Xiao Hongniang: Jin Chenxi",
+        "alternativeTitle": "Huyao Xiao Hongniang: Jin Chenxi",
+        "id": "huyao-xiao-hongniang-jin-chenxi-3668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc1be8a1be155a884accc078ec249dc.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Beyblade",
+        "alternativeTitle": "Bakuten Shoot Beyblade",
+        "id": "beyblade-4692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c994b2103c5607cf0cba32c90f2b33b1.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Time Bokan Series: Yatterman",
+        "alternativeTitle": "Time Bokan Series: Yatterman",
+        "id": "time-bokan-series-yatterman-4948",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a18e5d8a30d2198dd3e0b56c3f91849.jpg",
+        "episodes": {
+          "sub": 108,
+          "dub": 0,
+          "eps": 108
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Cardfight!! Vanguard G NEXT",
+        "alternativeTitle": "Cardfight!! Vanguard G: Next",
+        "id": "cardfight-vanguard-g-next-5204",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71eaffa442f5805343a9b1e2fc240000.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ai no Wakakusa Yama Monogatari",
+        "alternativeTitle": "Ai no Wakakusa Yama Monogatari",
+        "id": "ai-no-wakakusa-yama-monogatari-7764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/483ad503a0649139a14a9c6b3dd5a4dd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "number24 Recap",
+        "alternativeTitle": "number24 Recap",
+        "id": "number24-recap-8276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bef5b86fcb7e6ec63a6a5626b44ad36.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Soul Buster",
+        "alternativeTitle": "Soul Buster",
+        "id": "soul-buster-8532",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52cc8f21aecd2e18065154f2083ccc4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 43,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Arifureta: From Commonplace to World's Strongest",
+        "alternativeTitle": "Arifureta Shokugyou de Sekai Saikyou Specials",
+        "id": "arifureta-from-commonplace-to-worlds-strongest-5937",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acb042c40dd50c70ed804060175dc692.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "Free!: Dive to the Future",
+        "alternativeTitle": "Free!: Dive to the Future",
+        "id": "free-dive-to-the-future-1271",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99a72be830036f6399c73270ec4e2b9f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Uma Musume: Pretty Derby Season 2",
+        "alternativeTitle": "Uma Musume: Pretty Derby (TV) Season 2",
+        "id": "uma-musume-pretty-derby-season-2-15593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/023287977574f60fca09107ee5741503.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Haikyuu!! Movie 4: Concept no Tatakai",
+        "alternativeTitle": "Haikyuu!! Movie 4: Concept no Tatakai",
+        "id": "haikyuu-movie-4-concept-no-tatakai-398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/090ee09828577ea4067565a3badd96ec.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Gargantia on the Verdurous Planet",
+        "alternativeTitle": "Suisei no Gargantia",
+        "id": "gargantia-on-the-verdurous-planet-1527",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f5472fd4d49397d57d8b4fd0913e29a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Seven Senses of the Re'Union",
+        "alternativeTitle": "Shichisei no Subaru",
+        "id": "seven-senses-of-the-reunion-7399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23adcc5d7a8fc238e538279082fdf978.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Given: Uragawa no Sonzai",
+        "alternativeTitle": "Given: Uragawa no Sonzai",
+        "id": "given-uragawa-no-sonzai-18034",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62a34c2aa951c941ec0870e63b695769.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Megalo Box 2",
+        "alternativeTitle": "Nomad: Megalo Box 2",
+        "id": "megalo-box-2-15798",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48471dc3e2cecf5ef1127360cbcd0768.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "There's No Freaking Way I'll be Your Lover! Unless...",
+        "alternativeTitle": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+        "id": "theres-no-freaking-way-ill-be-your-lover-unless-19773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d340e5542d2e90dbd45940f897e1fe0.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tenjho Tenge",
+        "alternativeTitle": "Tenjou Tenge",
+        "id": "tenjho-tenge-3780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f66e6b04f2068c5325fbd2bd762d6173.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime Season 03: Specials",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken 3rd Season Specials",
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-03-specials-19148",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0838906a5913c8f3605c502d378849f7.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 1,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "The Troubled Life of Miss Kotoura",
+        "alternativeTitle": "Kotoura-san",
+        "id": "the-troubled-life-of-miss-kotoura-2565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/964e7f1bc0c86a14b04e8acedb7e6a19.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sing \"Yesterday\" for Me",
+        "alternativeTitle": "Yesterday wo Utatte",
+        "id": "sing-yesterday-for-me-3112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc56ae3722488155d336de22a32d4ba.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Maquia: When the Promised Flower Blooms",
+        "alternativeTitle": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "id": "maquia-when-the-promised-flower-blooms-110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9b19137629f50c8bf9cb40353ecd52b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "To LOVE-Ru Darkness 2nd OVA",
+        "alternativeTitle": "To LOVE-Ru Darkness 2nd OVA",
+        "id": "to-love-ru-darkness-2nd-ova-1289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc526886203914c1659f3a7f84cd15ae.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Sailor Moon R",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon R",
+        "id": "sailor-moon-r-1057",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b78bcf9a2a75ed264e394a3410ddf0ee.jpg",
+        "episodes": {
+          "sub": 43,
+          "dub": 43,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kamisama Hajimemashita: Kako-hen",
+        "alternativeTitle": "Kamisama Hajimemashita: Kako-hen",
+        "id": "kamisama-hajimemashita-kako-hen-154",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f496473737092845f1731139ad7c5d96.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Tokyo Ghoul: \"Pinto\"",
+        "alternativeTitle": "Tokyo Ghoul: \"Pinto\"",
+        "id": "tokyo-ghoul-pinto-2280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15fd320fc66dff2571176ee4a0402555.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Attack on Titan: The Last Attack",
+        "alternativeTitle": "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack",
+        "id": "attack-on-titan-the-last-attack-19391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b17cd8c7479d523d77e5e2cbbb5ad67.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "144m"
+      },
+      {
+        "title": "Rin: Daughters of Mnemosyne",
+        "alternativeTitle": "Mnemosyne: Mnemosyne no Musume-tachi",
+        "id": "rin-daughters-of-mnemosyne-2168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baa4127997480a34e5ac0c5c4c1d8426.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "45m"
+      },
+      {
+        "title": "Legend of the Galactic Heroes",
+        "alternativeTitle": "Ginga Eiyuu Densetsu",
+        "id": "legend-of-the-galactic-heroes-5",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/830851972f7453ad853adeb71e423f25.jpg",
+        "episodes": {
+          "sub": 110,
+          "dub": 0,
+          "eps": 110
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Dr. Ramune -Mysterious Disease Specialist-",
+        "alternativeTitle": "Kai Byoui Ramune",
+        "id": "dr-ramune-mysterious-disease-specialist-15752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b80227b0e6580369720a58566cec5811.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yowamushi Pedal: New Generation",
+        "alternativeTitle": "Yowamushi Pedal: New Generation",
+        "id": "yowamushi-pedal-new-generation-997",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fbd23247d7be76c702aed4eada899587.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Eureka Seven",
+        "alternativeTitle": "Koukyoushihen Eureka Seven",
+        "id": "eureka-seven-416",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8abbe870f228401707f86791548e8839.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BASTARD!! Heavy Metal, Dark Fantasy Part 2",
+        "alternativeTitle": "Bastard!! Ankoku no Hakaishin (ONA) Part 2",
+        "id": "bastard-heavy-metal-dark-fantasy-part-2-18149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4578bdceff57e5691e46cecd6fd32f64.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Super Lovers 2",
+        "alternativeTitle": "Super Lovers 2",
+        "id": "super-lovers-2-1949",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e36b8ba217e32d00ac982677d9c26fb3.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball Z: Wrath of the Dragon",
+        "alternativeTitle": "Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Gokuu ga Yaraneba Dare ga Yaru",
+        "id": "dragon-ball-z-wrath-of-the-dragon-2058",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8e8966bf9224a3ee1c70f88a8f09dc6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "51m"
+      },
+      {
+        "title": "The Demon Girl Next Door",
+        "alternativeTitle": "Machikado Mazoku",
+        "id": "the-demon-girl-next-door-1017",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef05beb474955c03a230d1cc696a7f9b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Couple of Cuckoos Season 2",
+        "alternativeTitle": "Kakkou no Iinazuke Season 2",
+        "id": "a-couple-of-cuckoos-season-2-19778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ff05305e6d9951f288f55e9ba12287f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 1,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyblade Metal Fury",
+        "alternativeTitle": "Metal Fury Beyblade",
+        "id": "beyblade-metal-fury-17562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ae6a467782c222cb5b7fc6f7e1d6928.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Dance Dance Danseur",
+        "alternativeTitle": "Dance Dance Danseur",
+        "id": "dance-dance-danseur-17844",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d74d1605bcccf355cc11cbb8eeb80241.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Giant Beasts of Ars",
+        "alternativeTitle": "Ars no Kyojuu",
+        "id": "giant-beasts-of-ars-18302",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/681a1e22ff432e7229cedbff0b9b5f65.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Michiko & Hatchin",
+        "alternativeTitle": "Michiko to Hatchin",
+        "id": "michiko-hatchin-729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94913017a34e6199ac867e2a2be41694.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Nanbaka: Season 2",
+        "alternativeTitle": "Nanbaka 2",
+        "id": "nanbaka-season-2-1524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/535b95c057072742f160bd4e900c395d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "The Vampire dies in no time",
+        "alternativeTitle": "Kyuuketsuki Sugu Shinu",
+        "id": "the-vampire-dies-in-no-time-15776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cf38f4ad369693cab4fd3812e536ebb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yo-kai Watch",
+        "alternativeTitle": "Youkai Watch",
+        "id": "yo-kai-watch-5272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/935b5d987fc38ed4bebb2d3b34ac6579.jpg",
+        "episodes": {
+          "sub": 191,
+          "dub": 2,
+          "eps": 214
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kimetsu Academy: Valentine Edition",
+        "alternativeTitle": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen",
+        "id": "kimetsu-academy-valentine-edition-17495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e6432baae78b6b8a2874c696347a3ef.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "His and Her Circumstances",
+        "alternativeTitle": "Kareshi Kanojo no Jijou",
+        "id": "his-and-her-circumstances-1264",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04121c2ba0906392e3635bb4a57dceba.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Demon Girl Next Door 2nd Season",
+        "alternativeTitle": "Machikado Mazoku 2nd Season",
+        "id": "the-demon-girl-next-door-2nd-season-15781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ab7698bfe28babc2f5b70dca33f6d9e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rainbow Days",
+        "alternativeTitle": "Nijiiro Days",
+        "id": "rainbow-days-2074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f3b829e1ad1c1a3e004b946f0bed113.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "13m"
+      }
+    ]
+  }
+}

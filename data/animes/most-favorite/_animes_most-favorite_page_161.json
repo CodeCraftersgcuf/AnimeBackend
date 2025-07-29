@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 161,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Magical Hat",
+        "alternativeTitle": "Magical Hat",
+        "id": "magical-hat-15010",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/253fa7805b29995381e901c9d953e60e.jpg",
+        "episodes": {
+          "sub": 33,
+          "dub": 0,
+          "eps": 33
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Waccha PriMagi!",
+        "alternativeTitle": "Waccha PriMagi!",
+        "id": "waccha-primagi-17908",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15c9b2131d5f90bd3c9de7d3e5ad6af7.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Miracle Girls",
+        "alternativeTitle": "Miracle☆Girls",
+        "id": "miracle-girls-3089",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ee41d54cd54ea3912c3ddafb9e149c7.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Go! Go! 575",
+        "alternativeTitle": "Go! Go! 575",
+        "id": "go-go-575-9002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/467a2ad5838c82563d75bfce736bf93d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode",
+        "alternativeTitle": "Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode",
+        "id": "tamayura-hitotose-attakai-kaze-no-omoide-nanode-1867",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55ca7c547d9f8302f9ae88ed2883fea7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Time Stranger",
+        "alternativeTitle": "Sengoku Majin Goushougun: Toki no Etranger",
+        "id": "time-stranger-4962",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09156f8cc99d3c91f3e5d5fa158f3568.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Panzer Dragoon",
+        "alternativeTitle": "Panzer Dragoon",
+        "id": "panzer-dragoon-10672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6f68e611e580ebafabd55de3755bf78.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Nasu: Summer in Andalusia",
+        "alternativeTitle": "Nasu: Andalusia no Natsu",
+        "id": "nasu-summer-in-andalusia-3528",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f23a9fa57c4a56892ab3e6fc535aaf8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "47m"
+      },
+      {
+        "title": "One Hundred Thousand Years of Qi Refining",
+        "alternativeTitle": "Lian Qi Shi Wan Nian",
+        "id": "one-hundred-thousand-years-of-qi-refining-19182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6aa3770a48ac6a8500d378819d0de918.jpg",
+        "episodes": {
+          "sub": 256,
+          "dub": 0,
+          "eps": 256
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Btooom!: Bakusatsu Digest",
+        "alternativeTitle": "Btooom!: Bakusatsu Digest",
+        "id": "btooom-bakusatsu-digest-8444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/313906db957c82c04347cf5e02b80987.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Kimba the White Lion",
+        "alternativeTitle": "Jungle Taitei",
+        "id": "kimba-the-white-lion-5382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/054800509ab0dc3442ccc8b69cae246b.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Lovely Muuuuuuuco!",
+        "alternativeTitle": "Itoshi no Muco",
+        "id": "lovely-muuuuuuuco-4400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/800c19cf3e1d82f4fde39286edc52ccc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Ling Yu",
+        "alternativeTitle": "Ling Yu",
+        "id": "ling-yu-5192",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3a3e4f911b1c5b974efaa6b120c991d.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Saint Seiya the Movie: Evil Goddess Eris",
+        "alternativeTitle": "Saint Seiya: Jashin Eris",
+        "id": "saint-seiya-the-movie-evil-goddess-eris-4181",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79e78e454fe48aa650cdf832992aba61.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Super Heavy God Gravion Zwei",
+        "alternativeTitle": "Choujuushin Gravion Zwei",
+        "id": "super-heavy-god-gravion-zwei-5012",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c4ccc08b042a409240b4c5e7e29025a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "More! Ojamajo Doremi: Secret of the Frog Stone",
+        "alternativeTitle": "Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu",
+        "id": "more-ojamajo-doremi-secret-of-the-frog-stone-3012",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85ad8e681868b780ad973ae8694bc46e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "26m"
+      },
+      {
+        "title": "Fire Tripper",
+        "alternativeTitle": "Fire Tripper",
+        "id": "fire-tripper-5090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f55e09313593045025cd6b0a5ae1823.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Amazing Nuts!",
+        "alternativeTitle": "Amazing Nuts!",
+        "id": "amazing-nuts-5366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d5158c8608aebd885b40d972a2d7f34.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Music",
+        "duration": "10m"
+      },
+      {
+        "title": "Madara",
+        "alternativeTitle": "Mouryou Senki Madara",
+        "id": "madara-7444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47f81a3fc5e67f484cd85dbc8247bdff.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "58m"
+      },
+      {
+        "title": "Wild Adapter",
+        "alternativeTitle": "Wild Adapter",
+        "id": "wild-adapter-6955",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30c68e91e577118bd4ea6686c4e46380.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Cybuster",
+        "alternativeTitle": "Masou Kishin Cybuster",
+        "id": "cybuster-7536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/006a3e17fef70bca1e5486ecde338921.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Oraa Guzura Dado (1987)",
+        "alternativeTitle": "[RAW] Oraa Guzura Dado (1987)",
+        "id": "oraa-guzura-dado-1987-7026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa9df3442b17cc21230ea425876dcf8b.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Toshokan Sensou: Koi no Shougai",
+        "alternativeTitle": "Toshokan Sensou: Koi no Shougai",
+        "id": "toshokan-sensou-koi-no-shougai-1952",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b72059220de8156ff22cc8ca1a4431b0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
+        "alternativeTitle": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi",
+        "id": "ginga-kikoutai-majestic-prince-movie-kakusei-no-idenshi-2908",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23a063cb843eb7339222942cf8bf9f1f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "77m"
+      },
+      {
+        "title": "Yurumates 3D",
+        "alternativeTitle": "Yurumates 3D",
+        "id": "yurumates-3d-6770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25d0107d6aeb71d44fc2c4f2bc352d29.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Potemayo Specials",
+        "alternativeTitle": "Potemayo Specials",
+        "id": "potemayo-specials-2188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d416ade4e87fcd8152fb50a041fd5aef.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Lemon Angel",
+        "alternativeTitle": "Cream Lemon: Lemon Angel",
+        "id": "lemon-angel-9364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e0a690049a8734cc6d6b7bc1e7ee557.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 37
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Bird's Song; Bird's Poem",
+        "alternativeTitle": "Tori no Uta",
+        "id": "birds-song-birds-poem-5928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3eda2742a8588ba6410b80d7e81a25c5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "The Irresponsible Galaxy☆Tylor",
+        "alternativeTitle": "Musekinin Galaxy☆Tylor",
+        "id": "the-irresponsible-galaxytylor-10635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa335abc774739e6fe1a52fe8cc13b78.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Karasu Tengu Kabuto",
+        "alternativeTitle": "Karasu Tengu Kabuto",
+        "id": "karasu-tengu-kabuto-5882",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1f0e4a655f0bca5af3a6f1cf524a1c7.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Battle Spirits: Saga Brave",
+        "alternativeTitle": "Battle Spirits: Saga Brave",
+        "id": "battle-spirits-saga-brave-4113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/970df88d745c50bb811c55b884c2ccb5.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Majin Bone",
+        "alternativeTitle": "Majin Bone",
+        "id": "majin-bone-4903",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb75f5f051f785f76818236cc73611d8.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Okama Report",
+        "alternativeTitle": "Okama Hakusho",
+        "id": "okama-report-10888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc344f69f4b59297bfdf502b68501cb2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "God Mazinger",
+        "alternativeTitle": "God Mazinger",
+        "id": "god-mazinger-6369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03d270b73b6672c2f09a3de06cdf40fa.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "29m"
+      },
+      {
+        "title": "Armored Fleet Dairugger XV",
+        "alternativeTitle": "Kikou Kantai Dairugger XV",
+        "id": "armored-fleet-dairugger-xv-6199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9ad9890079ea4633f31ea22cc1449b2.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sol Bianca",
+        "alternativeTitle": "Sol Bianca",
+        "id": "sol-bianca-6482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e139c8d41d6fb936026daf889297ead.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "54m"
+      },
+      {
+        "title": "Mewkledreamy Mix!",
+        "alternativeTitle": "Mewkledreamy Mix!",
+        "id": "mewkledreamy-mix-17578",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ffc46e64da189c5d4cbb35702a0e5ff.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arcade Gamer Fubuki Extra",
+        "alternativeTitle": "Arcade Gamer Fubuki Extra",
+        "id": "arcade-gamer-fubuki-extra-10418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50ad0fdc8ece6ab996ac36e5f07e772f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin",
+        "alternativeTitle": "Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin",
+        "id": "kindaichi-shounen-no-jikenbo-movie-1-operazakan-aratanaru-satsujin-3383",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90c0eed62558113d2929f86e61e4dfbe.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Little Wansa",
+        "alternativeTitle": "Wansa-kun",
+        "id": "little-wansa-12393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1b9740f6863d2a21a83a73c682e30c7.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 162,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Magical Circle",
+        "alternativeTitle": "Mahoujin Guruguru (2017)",
+        "id": "magical-circle-707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5a77d14335429930a747c871cdbda94.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King From Now On!",
+        "alternativeTitle": "Kyou kara Maou!",
+        "id": "king-from-now-on-963",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42229e98d2fd265da63f60e0ce660bf3.jpg",
+        "episodes": {
+          "sub": 78,
+          "dub": 78,
+          "eps": 78
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Eden of The East the Movie I: The King of Eden",
+        "alternativeTitle": "Higashi no Eden Movie I: The King of Eden",
+        "id": "eden-of-the-east-the-movie-i-the-king-of-eden-1219",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2b6318a7c9c14746ff4e8621b3d319c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Altair: A Record of Battles",
+        "alternativeTitle": "Shoukoku no Altair",
+        "id": "altair-a-record-of-battles-1475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16baa2046f9c67bd694919ade7a2e50d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "And Yet The Town Moves",
+        "alternativeTitle": "Soredemo Machi wa Mawatteiru",
+        "id": "and-yet-the-town-moves-1731",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2acf8ef2bfbb76314781fa5c5a05ea8d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Himouto! Umaru-chan R",
+        "alternativeTitle": "Himouto! Umaru-chan R",
+        "id": "himouto-umaru-chan-r-1987",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5777f39385f5161607a21550bc742ec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hamatora The Animation",
+        "alternativeTitle": "Hamatora The Animation",
+        "id": "hamatora-the-animation-2243",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d47821545aef3cf6c4a1a6af517ed741.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III: The Fuma Conspiracy",
+        "alternativeTitle": "Lupin III: Fuuma Ichizoku no Inbou",
+        "id": "lupin-iii-the-fuma-conspiracy-2499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11b9491c5a5031521b5f6acc4d50b3dd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "73m"
+      },
+      {
+        "title": "Kimi ga Aruji de Shitsuji ga Ore de",
+        "alternativeTitle": "Kimi ga Aruji de Shitsuji ga Ore de",
+        "id": "kimi-ga-aruji-de-shitsuji-ga-ore-de-2755",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b11b53bdfa89149bb41fe3824f58673a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Magical Angel Creamy Mami",
+        "alternativeTitle": "Mahou no Tenshi Creamy Mami",
+        "id": "magical-angel-creamy-mami-3011",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cabb5354f35d32ae8f227e692d67601.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King of Thorn",
+        "alternativeTitle": "Ibara no Ou",
+        "id": "king-of-thorn-3523",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19f0b9125f5d2701f0b8f7e1524b97ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Detective Opera Milky Holmes",
+        "alternativeTitle": "Tantei Opera Milky Holmes",
+        "id": "detective-opera-milky-holmes-3779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c946a4849bfd5eb5c8450a2cf8030316.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Tottemo! Luckyman",
+        "alternativeTitle": "[RAW] Tottemo! Luckyman",
+        "id": "tottemo-luckyman-4035",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ec4825a1516c2c0f4feebbdb29c2bf9.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Naruto: The Cross Roads",
+        "alternativeTitle": "Naruto: The Cross Roads",
+        "id": "naruto-the-cross-roads-4291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99d7c753d9535c0d91858e4dd2a8d939.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex: Solid State Society 3D: Tachikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - Solid State Society 3D - Tachikoma na Hibi",
+        "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society-3d-tachikomatic-days-4803",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a4fd034d0ce7a315adc0493101f0d9f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Di Gi Charat Movie: A Trip To The Planet",
+        "alternativeTitle": "Di Gi Charat: Hoshi no Tabi",
+        "id": "di-gi-charat-movie-a-trip-to-the-planet-5315",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16c3d311445de7193625b44c639db549.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "21m"
+      },
+      {
+        "title": "Hurricane Polymar",
+        "alternativeTitle": "Hurricane Polymar",
+        "id": "hurricane-polymar-5571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/007b2fe008503be9b84087a13309666c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Dokonjou Gaeru",
+        "alternativeTitle": "[RAW] Dokonjou Gaeru",
+        "id": "raw-dokonjou-gaeru-6083",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d6561f46d3aea06d2a829487fd9aebf.jpg",
+        "episodes": {
+          "sub": 103,
+          "dub": 0,
+          "eps": 103
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Queen's Blade: Grimoire",
+        "alternativeTitle": "Queen's Blade: Grimoire",
+        "id": "queens-blade-grimoire-7107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30034021b50d6bebf6be4ee020349f6e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "The Junji Ito Collection",
+        "alternativeTitle": "Itou Junji: Collection",
+        "id": "the-junji-ito-collection-7363",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3f66a2cf27d7217098a79b3041b32e6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Pro Golfer Saru",
+        "alternativeTitle": "[RAW] Pro Golfer Saru",
+        "id": "raw-pro-golfer-saru-11203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8860e072ba6bae47794378d00bb191e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Pleasant Goat and Big Big Wolf: Movie 04 - Mission Incredible: Adventures on the Dragon's Trail",
+        "alternativeTitle": "Xi Yang Yang Yu Hui Tai Lang: Zhi Kaixin Chuang Long Nian",
+        "id": "pleasant-goat-and-big-big-wolf-movie-04-mission-incredible-adventures-on-the-dragons-trail-12483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5546a90f161ee7a9d39a73c26d4a2b44.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "87m"
+      },
+      {
+        "title": "Go Go Toraemon",
+        "alternativeTitle": "Go Go Toraemon",
+        "id": "go-go-toraemon-13763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/065b39a3cb969b00b7c307b52feae3e5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Mobile Suit Gundam: Hathaway's Flash",
+        "alternativeTitle": "Mobile Suit Gundam: Hathaway's Flash",
+        "id": "mobile-suit-gundam-hathaways-flash-15811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0e1d7ae92cdd1c2535d6c4a0fca342d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "0m"
+      },
+      {
+        "title": "Demon Slayer: The Hashira Meeting Arc",
+        "alternativeTitle": "Demon Slayer: The Hashira Meeting Arc",
+        "id": "demon-slayer-the-hashira-meeting-arc-17859",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4db3749989c98cd4a4513b003737e8d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "160m"
+      },
+      {
+        "title": "Given the Movie 3: To The Sea",
+        "alternativeTitle": "Given Movie 3: Umi e",
+        "id": "given-the-movie-3-to-the-sea-19651",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/192073dedb9d3c11c458ad8144fb6e17.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "The Legend of Hei",
+        "alternativeTitle": "Luo Xiao Hei Zhan Ji (Movie)",
+        "id": "the-legend-of-hei-196",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32d8bfb7c42c8e4922085950545c1ed8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "101m"
+      },
+      {
+        "title": "Paprika",
+        "alternativeTitle": "Paprika",
+        "id": "paprika-452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de55ff6d647473cf066247bb0cfaf690.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Maria Watches Over Us 3rd",
+        "alternativeTitle": "Maria-sama ga Miteru 3rd",
+        "id": "maria-watches-over-us-3rd-708",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25ca0deb9f99d3e292cbee0b294ef854.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Hinomaru Sumo",
+        "alternativeTitle": "Hinomaruzumou",
+        "id": "hinomaru-sumo-1220",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25d690b220aa001768e80f192ba35175.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "You're Under Arrest (1996)",
+        "alternativeTitle": "Taiho Shichau zo (TV)",
+        "id": "youre-under-arrest-1996-1476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/595740a16fc92fcdd1e3c21807a5b463.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kakegurui××",
+        "alternativeTitle": "Kakegurui××",
+        "id": "kakegurui-1988",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c62121394e798b44fb0aadab6bbf15.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hanamaru Kindergarten",
+        "alternativeTitle": "Hanamaru Youchien",
+        "id": "hanamaru-kindergarten-2244",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e37df4d257dcb43c650d1559ce6c108.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam Thunderbolt 2nd Season",
+        "alternativeTitle": "Mobile Suit Gundam Thunderbolt 2nd Season",
+        "id": "mobile-suit-gundam-thunderbolt-2nd-season-2500",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c61a6bd2d7bab5ca3859dbcd4992ddd8.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "RIN-NE 2nd Season",
+        "alternativeTitle": "Kyoukai no Rinne (TV) 2nd Season",
+        "id": "rin-ne-2nd-season-2756",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e15ed299df09ef06895f9e232c5ebded.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "More! Ojamajo Doremi: Secret of the Frog Stone",
+        "alternativeTitle": "Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu",
+        "id": "more-ojamajo-doremi-secret-of-the-frog-stone-3012",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85ad8e681868b780ad973ae8694bc46e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "26m"
+      },
+      {
+        "title": "Adventure of Gamba",
+        "alternativeTitle": "Gamba no Bouken",
+        "id": "adventure-of-gamba-3268",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ac384b616955d84b7cb47cd80c39b6a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Legend of Black Heaven",
+        "alternativeTitle": "Kachou Ouji",
+        "id": "legend-of-black-heaven-3524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79aba2db4a2b84c7b9e1c395827e6909.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tenjho Tenge",
+        "alternativeTitle": "Tenjou Tenge",
+        "id": "tenjho-tenge-3780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f66e6b04f2068c5325fbd2bd762d6173.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Didn't I Say to Make My Abilities Average in the Next Life?!",
+        "alternativeTitle": "Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!",
+        "id": "didnt-i-say-to-make-my-abilities-average-in-the-next-life-4036",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f224699c583466c155e92da91bc0a609.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

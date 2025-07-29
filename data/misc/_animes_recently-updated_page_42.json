@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 42,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Noragami Aragoto",
+        "alternativeTitle": "Noragami Aragoto",
+        "id": "noragami-aragoto-262",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a45f93b0ea52ce10ca44403afa16659d.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 13,
+          "eps": 15
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sound! Euphonium",
+        "alternativeTitle": "Hibike! Euphonium",
+        "id": "sound-euphonium-518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5eee6991a03ed8f402f7ae806099d220.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lucky☆Star: Original na Visual to Animation",
+        "alternativeTitle": "Lucky☆Star: Original na Visual to Animation",
+        "id": "luckystar-original-na-visual-to-animation-774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a557132bf1c410324678f3f7e27ea2c9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "42m"
+      },
+      {
+        "title": "Minami-ke Tadaima",
+        "alternativeTitle": "Minami-ke Tadaima",
+        "id": "minami-ke-tadaima-1030",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9ac9237b9507604180ec7b3612cf2d7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Towanoquon: The Complicity of Dreams",
+        "alternativeTitle": "Towa no Quon 3: Mugen no Renza",
+        "id": "towanoquon-the-complicity-of-dreams-1542",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/873e1eabb2df2284c033a34ad03c2e1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Super GALS!",
+        "alternativeTitle": "Super GALS! Kotobuki Ran",
+        "id": "super-gals-1798",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd816020f7f82cacdc02bee5f524c4f4.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Code Geass: Akito the Exiled - The Brightness Falls",
+        "alternativeTitle": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu",
+        "id": "code-geass-akito-the-exiled-the-brightness-falls-2054",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0d77c4f497e082b34075ea8731dec3a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata",
+        "alternativeTitle": "Haiyore! Nyaruko-san: Yasashii Teki no Shitome-kata",
+        "id": "haiyore-nyaruko-san-yasashii-teki-no-shitome-kata-2822",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62ad5e149596723a47f9dcaa5da72573.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "15m"
+      },
+      {
+        "title": "Hokuto no Ken: Yuria-den",
+        "alternativeTitle": "Hokuto no Ken: Yuria-den",
+        "id": "hokuto-no-ken-yuria-den-3078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fb592efaecb861b3c6e2ad56e3edbdb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "64m"
+      },
+      {
+        "title": "Cardfight!! Vanguard",
+        "alternativeTitle": "Cardfight!! Vanguard",
+        "id": "cardfight-vanguard-3334",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b59096d6b2aaf07b48b189868a180223.jpg",
+        "episodes": {
+          "sub": 65,
+          "dub": 0,
+          "eps": 65
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Iriya no Sora, UFO no Natsu",
+        "alternativeTitle": "Iriya no Sora, UFO no Natsu",
+        "id": "iriya-no-sora-ufo-no-natsu-3590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5f21172874c614755aa20b91591c9f0.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "[RAW] Onegai! Samia Don",
+        "alternativeTitle": "[RAW] Onegai! Samia Don",
+        "id": "onegai-samia-don-3846",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8db907d185dcc1d520372f6e286e480.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "No Game No Life: Zero - Manner Movie",
+        "alternativeTitle": "No Game No Life: Zero - Manner Movie",
+        "id": "no-game-no-life-zero-manner-movie-4102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff8cb10273c4b5456d08d778fd90ce29.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "2m"
+      },
+      {
+        "title": "Dragon Ball Movie 02: Sleeping Princess in Devil's Castle",
+        "alternativeTitle": "Dragon Ball Movie 2: Majinjou no Nemurihime",
+        "id": "dragon-ball-movie-02-sleeping-princess-in-devils-castle-4358",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38e1c7b98886db1fa017a16a98d5e899.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Kimba the White Lion",
+        "alternativeTitle": "Jungle Taitei",
+        "id": "kimba-the-white-lion-5382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/054800509ab0dc3442ccc8b69cae246b.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "One Pound Gospel",
+        "alternativeTitle": "One Pound Gospel",
+        "id": "one-pound-gospel-5894",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32514cc081a1b871c62a8ff18a6d290a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Fate/Grand Order: Moonlight/Lostroom",
+        "alternativeTitle": "Fate/Grand Order: Moonlight/Lostroom",
+        "id": "fategrand-order-moonlightlostroom-6918",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4db697946c23bba43913ce58540be0b1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "32m"
+      },
+      {
+        "title": "Monster Hunter Stories: Ride On",
+        "alternativeTitle": "Monster Hunter Stories: Ride On",
+        "id": "monster-hunter-stories-ride-on-7174",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e82c43b1faf9b3983b8c29522759a475.jpg",
+        "episodes": {
+          "sub": 75,
+          "dub": 0,
+          "eps": 75
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mahou Shoujo Nante Mouiidesukara",
+        "alternativeTitle": "Mahou Shoujo Nante Mou Ii Desukara.",
+        "id": "mahou-shoujo-nante-mouiidesukara-8198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7093697f0e5e5f47e536ce8e38fff606.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Izumo",
+        "alternativeTitle": "Izumo",
+        "id": "izumo-8454",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87076a5d652d93f83d3b106130d69f22.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "51m"
+      },
+      {
+        "title": "Okubyou na Venus",
+        "alternativeTitle": "Okubyou na Venus",
+        "id": "okubyou-na-venus-9222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b4f433b083ff82a0ca7d4b22b58a0cc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "Onigiri",
+        "alternativeTitle": "Onigiri",
+        "id": "onigiri-9734",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d4021c9aa7fc6df42303e1c9f9fddba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Transcending the Nine Heavens",
+        "alternativeTitle": "Aoshi Jiuchong Tian",
+        "id": "transcending-the-nine-heavens-18694",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f31e0134430aa18a1e8272692b85107.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "The King's Avatar: For the Glory",
+        "alternativeTitle": "Quanzhi Gaoshou Zhi Dianfeng Rongyao",
+        "id": "the-kings-avatar-for-the-glory-263",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2f4b807be95850e3282f273944d82b3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "The Anthem of the Heart",
+        "alternativeTitle": "Kokoro ga Sakebitagatterunda.",
+        "id": "the-anthem-of-the-heart-519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96d61452b8e02391125416f3c2698e97.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Macross Frontier: The False Songstress",
+        "alternativeTitle": "Macross F Movie 1: Itsuwari no Utahime",
+        "id": "macross-frontier-the-false-songstress-775",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a20ed858c413a39247e706941e854808.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Uninhabited Planet Survive",
+        "alternativeTitle": "Mujin Wakusei Survive",
+        "id": "uninhabited-planet-survive-1031",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5b4d50b4c65e72a41b24159591b07f3.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "THE IDOLM@STER MOVIE: BEYOND THE BRILLIANT FUTURE!",
+        "alternativeTitle": "The iDOLM@STER Movie: Kagayaki no Mukougawa e!",
+        "id": "the-idolmster-movie-beyond-the-brilliant-future-1287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52adfbd420eeffbb65e0122597557f97.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "121m"
+      },
+      {
+        "title": "Captain Harlock: Arcadia of my Youth",
+        "alternativeTitle": "Waga Seishun no Arcadia",
+        "id": "captain-harlock-arcadia-of-my-youth-1543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdb317bab11cefcf11918bed4ce439b5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "Yomigaeru Sora: Rescue Wings",
+        "alternativeTitle": "Yomigaeru Sora: Rescue Wings",
+        "id": "yomigaeru-sora-rescue-wings-1799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bc2807907e31c4f279ac6a9901b5a13.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "DARLING in the FRANXX",
+        "alternativeTitle": "Darling in the FranXX",
+        "id": "darling-in-the-franxx-2055",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e66cc3601ab396c90b1550ef39cfa7f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ben-To",
+        "alternativeTitle": "Ben-To",
+        "id": "ben-to-2311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22bf01b5e667839003adafe1d63cdf8d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "K: SEVEN STORIES \"SIDE:GREEN - Overwrite World - \"",
+        "alternativeTitle": "K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai",
+        "id": "k-seven-stories-sidegreen-overwrite-world-3079",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14c5b8e3a87e82652d5af2497167bfa0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Chibi Maruko-chan: My Favorite Song",
+        "alternativeTitle": "Chibi Maruko-chan: Watashi no Suki na Uta",
+        "id": "chibi-maruko-chan-my-favorite-song-3335",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/216c357c1a0e3de3b6d22978ece141ff.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Clean Freak! Aoyama-kun",
+        "alternativeTitle": "Keppeki Danshi! Aoyama-kun",
+        "id": "clean-freak-aoyama-kun-3591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d832eba4bdfbc219e652c67de6ad2ee.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Persona 5 the Animation Specials",
+        "alternativeTitle": "Persona 5 the Animation Specials",
+        "id": "persona-5-the-animation-specials-3847",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe6bf91b9a5d19ab0a453686f4787682.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "20m"
+      },
+      {
+        "title": "Project A-Ko",
+        "alternativeTitle": "Project A-Ko",
+        "id": "project-a-ko-4103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/622e880c2b2c072f4b3143a3d350147b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "Ensemble Stars!",
+        "alternativeTitle": "Ensemble Stars!",
+        "id": "ensemble-stars-4359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9407ea1df895eb357e65aa26025446d2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Eat-Man",
+        "alternativeTitle": "Eat-Man '98",
+        "id": "eat-man-98-4615",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1ca46892df0feb68484d7a0002e5ac2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Spriggan",
+        "alternativeTitle": "Spriggan",
+        "id": "spriggan-4871",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24d72f1e30269a916e5bdaaeaec25e39.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      }
+    ]
+  }
+}

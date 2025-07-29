@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 5,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Rascal Does Not Dream of a Dreaming Girl",
+        "alternativeTitle": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-a-dreaming-girl-44",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f41f4c62f5f3824f1dcdea53752c5286.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Eiyu Kaitai",
+        "alternativeTitle": "\"Eiyuu\" Kaitai",
+        "id": "eiyu-kaitai-7864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b06cd4a8b9c6bd7f8ecc9e83e1296bf8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Samurai 7",
+        "alternativeTitle": "Samurai 7",
+        "id": "samurai-7-1586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d085a58668c74337b52e07f959c2d701.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Nyoron! Churuya-san",
+        "alternativeTitle": "Nyoro-n Churuya-san",
+        "id": "nyoron-churuya-san-5605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e29869a6f0aaf73c74646e9b498c3cee.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Dokkoida?!",
+        "alternativeTitle": "Sumeba Miyako no Cosmos-sou Suttoko Taisen Dokkoida",
+        "id": "dokkoida-4414",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6614090eac6652ed10ddd37d919e117.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Project A-Ko",
+        "alternativeTitle": "Project A-Ko",
+        "id": "project-a-ko-4103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/622e880c2b2c072f4b3143a3d350147b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou",
+        "alternativeTitle": "Project A-Ko 2: Daitokuji Zaibatsu no Inbou",
+        "id": "project-a-ko-2-daitokuji-zaibatsu-no-inbou-5634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c119b940ddf54c36488b8c864b69da43.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "Rainbow Fireflies",
+        "alternativeTitle": "Nijiiro Hotaru: Eien no Natsuyasumi",
+        "id": "rainbow-fireflies-3531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c90c16fa4f87c3e46ad066b246cc3fca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Project A-ko: Love & Robots",
+        "alternativeTitle": "Project A-Ko 4: Final",
+        "id": "project-a-ko-love-robots-5897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2dfb7ac89d820e89b185e3d56320c947.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "53m"
+      },
+      {
+        "title": "Project A-Ko 3: Cinderella Rhapsody",
+        "alternativeTitle": "Project A-Ko 3: Cinderella Rhapsody",
+        "id": "project-a-ko-3-cinderella-rhapsody-6126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42da15008ecf8852a8033ce98b5797ea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Ogami Matsugorou",
+        "alternativeTitle": "Ogami Matsugorou",
+        "id": "ogami-matsugorou-10850",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d42790e74b157f3f6a7730b337b28f13.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Please Put Them On, Takamine-san",
+        "alternativeTitle": "Haite Kudasai, Takamine-san",
+        "id": "please-put-them-on-takamine-san-19548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/717a1719e2ba5ee52e3b4c857476cb2e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Princess Minerva",
+        "alternativeTitle": "Princess Minerva",
+        "id": "princess-minerva-9272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cf292cd7b1ab6ef0e3c9b13faf7d78e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Puppet Princess",
+        "alternativeTitle": "Karakuri no Kimi",
+        "id": "puppet-princess-5785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e24e9f1278fe22503bcb4ab6e4fa95a5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "Psychic Force",
+        "alternativeTitle": "Psychic Force",
+        "id": "psychic-force-9565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85e5642b2e4af5b7e8362cea2bee9bd1.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "31m"
+      },
+      {
+        "title": "Princess Rouge",
+        "alternativeTitle": "Princess Rouge",
+        "id": "princess-rouge-8347",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dc06cdc09e10fdc1fe503d701071d0c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Megami Kouhosei",
+        "alternativeTitle": "Megami Kouhosei",
+        "id": "megami-kouhosei-6206",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b52d6d3ac1fcbf43093f3ace0c83a53c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ragnarok the Animation",
+        "alternativeTitle": "Ragnarök The Animation",
+        "id": "ragnarok-the-animation-5898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3e1168428fd3e42dba1116a23ed99f2.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Over Drive",
+        "alternativeTitle": "Over Drive",
+        "id": "over-drive-1243",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74262f374f2fa2e581f09d6c91284ee7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakura Wars: ~Su~Mi~Re~",
+        "alternativeTitle": "Sakura Taisen: Sumire",
+        "id": "sakura-wars-sumire-6214",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a83c01577864ba88c47c64a1069630bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Joker Game: Kuroneko Yoru no Bouken",
+        "alternativeTitle": "Joker Game: Kuroneko Yoru no Bouken",
+        "id": "joker-game-kuroneko-yoru-no-bouken-4934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73aeb434f962289d14b2e783b07737fb.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Cleopatra D.C.",
+        "alternativeTitle": "Cleopatra D.C.",
+        "id": "cleopatra-dc-8388",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a8250af15db2cf99d3689ad5c4ce093.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Earthian",
+        "alternativeTitle": "Earthian",
+        "id": "earthian-7601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2f11762265ea6cffddd451d86ed98c8.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "35m"
+      },
+      {
+        "title": "Hidari no O'Clock!!",
+        "alternativeTitle": "Hidari no O'Clock!!",
+        "id": "hidari-no-oclock-14025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89fd7001537680be8d995a25852cb825.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "40m"
+      },
+      {
+        "title": "The Catcher in the Ballpark!",
+        "alternativeTitle": "Ballpark de Tsukamaete!",
+        "id": "the-catcher-in-the-ballpark-19597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51b1187b6a025d710fb2bca1680cfeb9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "selector spread WIXOSS",
+        "alternativeTitle": "Selector Spread WIXOSS",
+        "id": "selector-spread-wixoss-1923",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bbce94f12647a31481a05b6a7b65504.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "selector infected WIXOSS",
+        "alternativeTitle": "Selector Infected WIXOSS",
+        "id": "selector-infected-wixoss-2437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/584c296ebe15c3754e22815ac1293eba.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Snack World (TV)",
+        "alternativeTitle": "The Snack World (TV)",
+        "id": "the-snack-world-tv-12074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22d626c96e5b9e1e28f9887c281a0c46.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shattered Angels",
+        "alternativeTitle": "Kyoushirou to Towa no Sora",
+        "id": "shattered-angels-5860",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6751e8c65c3ca0b24dbc4ca6106126fe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kyoushirou to Towa no Sora Specials",
+        "alternativeTitle": "Kyoushirou to Towa no Sora Specials",
+        "id": "kyoushirou-to-towa-no-sora-specials-5499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a77919ea2ba22ee619064e3c4c76b3c8.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "The Unaware Atelier Master",
+        "alternativeTitle": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
+        "id": "the-unaware-atelier-master-19569",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d88c86cde3109d90f21da5a6bb65a8c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Westward 5th Season",
+        "alternativeTitle": "Xi Xing Ji: Nian Fan",
+        "id": "the-westward-5th-season-18517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4eafe16d3b9ec7b2e47786ada0e50a0a.jpg",
+        "episodes": {
+          "sub": 64,
+          "dub": 0,
+          "eps": 64
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Fureru.",
+        "alternativeTitle": "Fureru.",
+        "id": "fureru-19730",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a48ca2168948ea5e38820c35a5a0fddb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "106m"
+      },
+      {
+        "title": "Agent AIKa",
+        "alternativeTitle": "AIKa",
+        "id": "agent-aika-8180",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/159ec5b5b9d75043d180632f32434634.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "AIKa: Special Trial",
+        "alternativeTitle": "AIKa: Special Trial",
+        "id": "aika-special-trial-8898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb89b7641fcdb9c4349dc9c305af7f3d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Dirty Pair OVA",
+        "alternativeTitle": "Dirty Pair OVA",
+        "id": "dirty-pair-ova-3170",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44085c772d401143fe61c7fd6e3c46bb.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Chaos Dragon",
+        "alternativeTitle": "Chaos Dragon: Sekiryuu Seneki",
+        "id": "chaos-dragon-8959",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/925d4e2c7a40c4f4e418bbe164badc8f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Honor of Kings: Chapter of Glory",
+        "alternativeTitle": "Wangzhe Rongyao: Rongyao Zhi Zhang - Mingyun Pian",
+        "id": "honor-of-kings-chapter-of-glory-19704",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d11dfd74420b1866315fdba52f69f0d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "CLAMP School Detectives",
+        "alternativeTitle": "Clamp Gakuen Tanteidan",
+        "id": "clamp-school-detectives-3891",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bc37b1eaf6f2058e29f0ecc1f33ac4a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Diabolik Lovers Recap",
+        "alternativeTitle": "Diabolik Lovers Recap",
+        "id": "diabolik-lovers-recap-9660",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab7f9bc402a1a99803747f2f63d6ae14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "15m"
+      }
+    ]
+  }
+}

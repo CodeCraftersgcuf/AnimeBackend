@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 144,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Jewelpet",
+        "alternativeTitle": "Jewelpet",
+        "id": "jewelpet-5107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4e85de16acddbbe727cb278ab0a488b.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Burning Blood",
+        "alternativeTitle": "Burning Blood",
+        "id": "burning-blood-13132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8329878d24a1ca7027c5d93d791e8084.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "42m"
+      },
+      {
+        "title": "[RAW] Funny Faces in High School",
+        "alternativeTitle": "[RAW] High School! Kimengumi",
+        "id": "funny-faces-in-high-school-2416",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70b2be440688859d3c22811df098b7eb.jpg",
+        "episodes": {
+          "sub": 86,
+          "dub": 0,
+          "eps": 86
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "I Am What I Am",
+        "alternativeTitle": "Xiong Shi Shaonian",
+        "id": "i-am-what-i-am-18555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1caf6775f27fd0cd8c0b7957bee4d0c5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
+        "alternativeTitle": "Yoku Wakaru Mahouka! - Saiseitte Nani?",
+        "id": "yoku-wakaru-mahouka-saiseitte-nani-6026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c30bdc63a40c7c7871cdc0a1ecf944f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Brain Powerd",
+        "alternativeTitle": "Brain Powerd",
+        "id": "brain-powerd-7594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39043edc8aa72dd13f4ada1b3b326f08.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Laid-Back Camp Season 2 Specials",
+        "alternativeTitle": "Yuru Camp Season 2 Specials",
+        "id": "laid-back-camp-season-2-specials-18406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73b1af45005efc8cce592cafd7d1491c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Guilstein",
+        "alternativeTitle": "Guilstein",
+        "id": "guilstein-13824",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3592c46b77b7f76be4a766b9c9624f34.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "∀ Gundam I: Earth Light",
+        "alternativeTitle": "Turn A Gundam I Movie: Earth Light",
+        "id": "gundam-i-earth-light-5710",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21d1a58e0ee42e20108a22953d34421e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "128m"
+      },
+      {
+        "title": "Lupin III: Crisis in Tokyo",
+        "alternativeTitle": "Lupin III: Honoo no Kioku - Tokyo Crisis",
+        "id": "lupin-iii-crisis-in-tokyo-2667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bd5862e4401b86f657d99c439265092.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "92m"
+      },
+      {
+        "title": "Hitorigurashi no Shougakusei",
+        "alternativeTitle": "Hitorigurashi no Shougakusei",
+        "id": "hitorigurashi-no-shougakusei-5997",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebc29cab3c49077f836794a0c2328b9e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Moldiver",
+        "alternativeTitle": "Moldiver",
+        "id": "moldiver-7612",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9940c02da258e129c39736f10f7aec17.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Kaibutsu Oujo: Konsui Oujo",
+        "alternativeTitle": "Kaibutsu Oujo: Konsui Oujo",
+        "id": "kaibutsu-oujo-konsui-oujo-3564",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72b32f4ef28526767c02f573c27782a5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Super Street Fighter IV",
+        "alternativeTitle": "Super Street Fighter IV",
+        "id": "super-street-fighter-iv-6411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d68a835d026a4b4b2aaa947274e4f08.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "35m"
+      },
+      {
+        "title": "Haitai Nanafa",
+        "alternativeTitle": "Haitai Nanafa",
+        "id": "haitai-nanafa-8030",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f8563563857f25a3a363be7ba8782ed.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Soul Land: 7th Season",
+        "alternativeTitle": "Douluo Dalu: Hanhai Qian Kun",
+        "id": "soul-land-7th-season-17806",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79027f766010a70c3ee514a77de291b2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Tokyo Babylon",
+        "alternativeTitle": "Tokyo Babylon",
+        "id": "tokyo-babylon-4683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d6ac991b4c22e6f1bc66cdf9deb0df2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Yes! Precure 5 GoGo! Movie: Okashi no Kuni no Happy Birthday",
+        "alternativeTitle": "Yes! Precure 5 GoGo! Movie: Okashi no Kuni no Happy Birthday",
+        "id": "yes-precure-5-gogo-movie-okashi-no-kuni-no-happy-birthday-2710",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93151bfe5c0bf1cd3a488dfea6d26efc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "75m"
+      },
+      {
+        "title": "Juusenki L-Gaim",
+        "alternativeTitle": "Juusenki L-Gaim",
+        "id": "juusenki-l-gaim-4994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e4a59d855980f225bfcd594f6fc6858.jpg",
+        "episodes": {
+          "sub": 54,
+          "dub": 0,
+          "eps": 54
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nagareboshi Lens",
+        "alternativeTitle": "Nagareboshi Lens",
+        "id": "nagareboshi-lens-5038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/910ad7fc652af5b6e94e9b92c6c3a8f9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "18m"
+      },
+      {
+        "title": "Right Places",
+        "alternativeTitle": "Right Places: Sono Toki, Boku no Irubeki Basho",
+        "id": "right-places-8695",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/056b182f8703095b4f235bdb30b1132a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Kobato.: Hajimete no Kobato.",
+        "alternativeTitle": "Kobato.: Hajimete no Kobato.",
+        "id": "kobato-hajimete-no-kobato-4226",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a70ce2426c8305b1c6808070d6225e72.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Saiyuki: Requiem",
+        "alternativeTitle": "Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka",
+        "id": "saiyuki-requiem-2062",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/809c1f45add77b4b163bf764ead5fd91.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "GR: Giant Robo",
+        "alternativeTitle": "GR: Giant Robo",
+        "id": "gr-giant-robo-5957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/936802c9a217b117b28b0f47957da098.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Lupin III: The Columbus Files",
+        "alternativeTitle": "Lupin III: Ai no Da Capo - Fujiko's Unlucky Days",
+        "id": "lupin-iii-the-columbus-files-4230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d1986b50ef5e5725488667b94aa7f35.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "92m"
+      },
+      {
+        "title": "Takamiya Nasuno Desu!: Teekyuu Spin-off",
+        "alternativeTitle": "Takamiya Nasuno Desu!: Teekyuu Spin-off",
+        "id": "takamiya-nasuno-desu-teekyuu-spin-off-6038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f785404175119090bd247b8a970df43f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Okashi na Sabaku no Suna to Manu",
+        "alternativeTitle": "Okashi na Sabaku no Suna to Manu",
+        "id": "okashi-na-sabaku-no-suna-to-manu-17380",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d29844cec4d3ffdb4d317cd5eb77e64.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Emily of the New Moon",
+        "alternativeTitle": "Kaze no Shoujo Emily",
+        "id": "emily-of-the-new-moon-1989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee3098181b9109a63e0394b803217656.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "One Off",
+        "alternativeTitle": "One Off",
+        "id": "one-off-6102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec54d54ed842316425a305aec3a95e39.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "15m"
+      },
+      {
+        "title": "Ringing Bell",
+        "alternativeTitle": "Chirin no Suzu",
+        "id": "ringing-bell-3336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2273f84f4b2e0f69de9eaafd547a3fa.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "46m"
+      },
+      {
+        "title": "Lord of the Universe 3rd Season",
+        "alternativeTitle": "Wan Jie Shen Zhu 3rd Season",
+        "id": "lord-of-the-universe-3rd-season-17700",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e55590cd0483f7b2b6eac9790bf97271.jpg",
+        "episodes": {
+          "sub": 208,
+          "dub": 0,
+          "eps": 208
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Nanocore 3rd Season",
+        "alternativeTitle": "Nanocore 3rd Season",
+        "id": "nanocore-3rd-season-15440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/977e6b28fd848d335f08cb0196e8e1da.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Daitoshokan no Hitsujikai Picture Drama",
+        "alternativeTitle": "Daitoshokan no Hitsujikai Picture Drama",
+        "id": "daitoshokan-no-hitsujikai-picture-drama-6506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c1b7ada83770737d58303d0528b92a1.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de",
+        "alternativeTitle": "Maison Ikkoku: Shiki Utsuriyuku Kisetsu no Naka de",
+        "id": "maison-ikkoku-shiki-utsuriyuku-kisetsu-no-naka-de-3724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ead6c4b2f3422bfe3bcce9d497e77bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "90m"
+      },
+      {
+        "title": "Ghost Slayers Ayashi: Inferno",
+        "alternativeTitle": "Tenpou Ibun: Ayakashi Ayashi - Ayashi Shinkyoku",
+        "id": "ghost-slayers-ayashi-inferno-4240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa8fb88cfa76a3cd86f6df82c81bb257.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Yo-kai Watch Shadowside: The Return of the Oni King",
+        "alternativeTitle": "Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu",
+        "id": "yo-kai-watch-shadowside-the-return-of-the-oni-king-4265",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fcf92bab9eec5af6fe6500141be3a5e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Minami-ke Natsuyasumi",
+        "alternativeTitle": "Minami-ke Natsuyasumi",
+        "id": "minami-ke-natsuyasumi-1915",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56a6c56ac755b9e3004c38522d4a447f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Lime-iro Senkitan: Nankoku Yume Roman",
+        "alternativeTitle": "Lime-iro Senkitan: Nankoku Yume Roman",
+        "id": "lime-iro-senkitan-nankoku-yume-roman-7074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/865625c99a78bd935577c522904cbf10.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Platinumhugen Ordian",
+        "alternativeTitle": "Ginsoukikou Ordian",
+        "id": "platinumhugen-ordian-8793",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bc553fb5d2c667420e8294f4a2d3d4d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Pokemon Concierge",
+        "alternativeTitle": "Pokemon Concierge",
+        "id": "pokemon-concierge-18928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b06abbc813b0f822abc206a97228ecb8.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "19m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 23,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Sherlock Hound",
+        "alternativeTitle": "Meitantei Holmes",
+        "id": "sherlock-hound-2041",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37c912b2e4350d0cce77280a6190bfb8.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Aikatsu Friends!",
+        "alternativeTitle": "Aikatsu Friends!",
+        "id": "aikatsu-friends-3047",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/411e3d5db7b11d9c3e2d8acd86bc9c63.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aikatsu Friends!: Kagayaki no Jewel",
+        "alternativeTitle": "Aikatsu Friends!: Kagayaki no Jewel",
+        "id": "aikatsu-friends-kagayaki-no-jewel-3953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b94dbdd4a07ba65d2221ae024b3419a5.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aikatsu!",
+        "alternativeTitle": "Aikatsu!",
+        "id": "aikatsu-1973",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a22e35b04466e40453c45b9816a50d9.jpg",
+        "episodes": {
+          "sub": 178,
+          "dub": 0,
+          "eps": 178
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maria Watches Over Us: Printemps",
+        "alternativeTitle": "Maria-sama ga Miteru: Haru",
+        "id": "maria-watches-over-us-printemps-1028",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fab1f14d6c226b9001d10349c562f27.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maria Watches Over Us",
+        "alternativeTitle": "Maria-sama ga Miteru",
+        "id": "maria-watches-over-us-2071",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03c1956c1ff277844b7321d559e5273d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maria Watches Over Us 3rd",
+        "alternativeTitle": "Maria-sama ga Miteru 3rd",
+        "id": "maria-watches-over-us-3rd-708",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25ca0deb9f99d3e292cbee0b294ef854.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Maria Watches Over Us Season 4",
+        "alternativeTitle": "Maria-sama ga Miteru 4th",
+        "id": "maria-watches-over-us-season-4-748",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41b79519e9d1990faa0809da862b07d5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Maison Ikkoku",
+        "alternativeTitle": "Maison Ikkoku",
+        "id": "maison-ikkoku-314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/804096349a7a47d6d006d98cceae4da0.jpg",
+        "episodes": {
+          "sub": 96,
+          "dub": 96,
+          "eps": 96
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Diabolik Lovers II: More,Blood",
+        "alternativeTitle": "Diabolik Lovers More,Blood",
+        "id": "diabolik-lovers-ii-moreblood-8831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff02481c8c598b56d5eb943e41b766a1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Diabolik Lovers",
+        "alternativeTitle": "Diabolik Lovers",
+        "id": "diabolik-lovers-9707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/695a9cb9199fbf8f5ad807e8510d9b79.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Maria the Virgin Witch",
+        "alternativeTitle": "Junketsu no Maria",
+        "id": "maria-the-virgin-witch-2886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9b5323bd9bf1e17788338969dc698e7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Denki-gai",
+        "alternativeTitle": "Denki-gai no Honya-san",
+        "id": "denki-gai-2655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db40be0a9b60162accd9654065f16617.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dimension High School",
+        "alternativeTitle": "Choujigen Kakumei Anime: Dimension High School",
+        "id": "dimension-high-school-9958",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9752e06471dab6bcbcc2c5330310466a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "DAKAICHI -I'm being harassed by the sexiest man of the year-",
+        "alternativeTitle": "Dakaretai Otoko 1-i ni Odosarete Imasu.",
+        "id": "dakaichi-im-being-harassed-by-the-sexiest-man-of-the-year-1981",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff90dc8b562a4ecbaf79e728ab78ce4c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragon Collection",
+        "alternativeTitle": "Dragon Collection",
+        "id": "dragon-collection-6916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e55e7939687b13392b3b2e473ddb7f9e.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Kishin Houkou Demonbane (TV)",
+        "alternativeTitle": "Kishin Houkou Demonbane (TV)",
+        "id": "kishin-houkou-demonbane-tv-5383",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98a03a41cce872e5c7de3de1a4ca8251.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Dragon Crisis!",
+        "alternativeTitle": "Dragon Crisis!",
+        "id": "dragon-crisis-4701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34e6f775cc0a5ca46d53dee2aa800405.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ebiten",
+        "alternativeTitle": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu",
+        "id": "ebiten-7062",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a517f34c81cc759235759702447148d1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Double Decker! Doug & Kirill: Extra",
+        "alternativeTitle": "Double Decker! Doug & Kirill: Extra",
+        "id": "double-decker-doug-kirill-extra-2744",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e124aee0119a7a5ab5059b6c8bece81d.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "DRAMAtical Murder",
+        "alternativeTitle": "DRAMAtical Murder",
+        "id": "dramatical-murder-7525",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c12e6be0f07f8670959bb52b09a4833.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dream Festival!",
+        "alternativeTitle": "Dream Festival!",
+        "id": "dream-festival-4463",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd23311eaefb32a17282f5783fcefae8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Donyatsu",
+        "alternativeTitle": "Donyatsu",
+        "id": "donyatsu-8089",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f55fbc5a01d5c33523ed8b0ad57b80a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "Movie",
+        "duration": "2m"
+      },
+      {
+        "title": "Eromanga Sensei",
+        "alternativeTitle": "Eromanga-sensei",
+        "id": "eromanga-sensei-5486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e601d1b12c1f13b07ac2db009fda56e1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Encouragement of Climb Season 3",
+        "alternativeTitle": "Yama no Susume: Third Season",
+        "id": "encouragement-of-climb-season-3-1412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9dbbd2013a2e1851e4572c044a754c9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Encouragement of Climb",
+        "alternativeTitle": "Yama no Susume",
+        "id": "encouragement-of-climb-4263",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6dc4d0689972e66cee7aca3b1317d19.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Etotama",
+        "alternativeTitle": "Etotama",
+        "id": "etotama-4122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0f79fe53e1d2c329f0213a0496ff1c5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "DNA²",
+        "alternativeTitle": "DNA²",
+        "id": "dna2-4821",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83fea3facc4d59e4a2155d661921920f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dog Days 2",
+        "alternativeTitle": "Dog Days'",
+        "id": "dog-days-3056",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a998e04676efa06764ec19c05236220a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dog Days",
+        "alternativeTitle": "Dog Days",
+        "id": "dog-days-3583",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8dfb11306916644dcaebc3c0087ce088.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Elegant Yokai Apartment Life",
+        "alternativeTitle": "Youkai Apartment no Yuuga na Nichijou",
+        "id": "elegant-yokai-apartment-life-2852",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/919e10b4a979ae4f2277364cf2665671.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Evil or Live",
+        "alternativeTitle": "Evil or Live",
+        "id": "evil-or-live-8492",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb633ffaca30d37c06a1042ff9d2a728.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Double Decker! Doug & Kirill",
+        "alternativeTitle": "Double Decker! Doug & Kirill",
+        "id": "double-decker-doug-kirill-4047",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0413e018c286c88fbea3af6a73a9631f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fight League: Gear Gadget Generators",
+        "alternativeTitle": "Fight League: Gear Gadget Generators",
+        "id": "fight-league-gear-gadget-generators-7191",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24db0f2be9a1ab8ab2eade79db0ef83a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Extra Olympia Kyklos",
+        "alternativeTitle": "Bessatsu Olympia Kyklos",
+        "id": "extra-olympia-kyklos-4138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c5267026e2821bf08a6b0fa81f7a798.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "The Familiar of Zero F",
+        "alternativeTitle": "Zero no Tsukaima F",
+        "id": "the-familiar-of-zero-f-1426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/963e0927a42a4e36beac3b70591d1c63.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "elDLIVE",
+        "alternativeTitle": "ēlDLIVE",
+        "id": "eldlive-7272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81105088c52529efb933b8705c2b9732.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fastest Finger First",
+        "alternativeTitle": "Nana Maru San Batsu",
+        "id": "fastest-finger-first-4811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ae6a5b83361b1a7fd8bfe9bbfa4b264.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Eyeshield 21",
+        "alternativeTitle": "Eyeshield 21",
+        "id": "eyeshield-21-563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f1ddd12d434ad07e012c717c1e4d1b5.jpg",
+        "episodes": {
+          "sub": 145,
+          "dub": 0,
+          "eps": 145
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Flame of Recca",
+        "alternativeTitle": "Rekka no Honoo",
+        "id": "flame-of-recca-2013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcf1506df4cd01e52e4d6d3f41be4cea.jpg",
+        "episodes": {
+          "sub": 42,
+          "dub": 42,
+          "eps": 42
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

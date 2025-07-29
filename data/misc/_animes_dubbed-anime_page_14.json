@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 14,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Lucifer and the Biscuit Hammer",
+        "alternativeTitle": "Hoshi no Samidare",
+        "id": "lucifer-and-the-biscuit-hammer-18090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4aa33278dbcc39b76ccaf55bcfaed9b9.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Orient Part 2",
+        "alternativeTitle": "Orient: Awajishima Gekitou-hen",
+        "id": "orient-part-2-18089",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1c4dcf2e30bb7370030606c01f4fc9b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Black Summoner",
+        "alternativeTitle": "Kuro no Shoukanshi",
+        "id": "black-summoner-18088",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4885983848251a200947a0e0e3b415f.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Parallel World Pharmacy",
+        "alternativeTitle": "Isekai Yakkyoku",
+        "id": "parallel-world-pharmacy-18087",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e7ca3599cde40855ea3d01860382495.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "RWBY: Ice Queendom",
+        "alternativeTitle": "RWBY: Hyousetsu Teikoku",
+        "id": "rwby-ice-queendom-18086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88c1a7efeaaa6cd8de3fedda1e5891ac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Maid I Hired Recently Is Mysterious",
+        "alternativeTitle": "Saikin Yatotta Maid ga Ayashii",
+        "id": "the-maid-i-hired-recently-is-mysterious-18085",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d1009385741aae5e9de68f2e9349040.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Yakuza's Guide to Babysitting",
+        "alternativeTitle": "Kumichou Musume to Sewagakari",
+        "id": "the-yakuzas-guide-to-babysitting-18084",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20c4c66f10bf2c8e0a6beb95ce556261.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ojisan in Another World",
+        "alternativeTitle": "Isekai Ojisan",
+        "id": "ojisan-in-another-world-18083",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db26a264b25ad4e9db2632e803da2d72.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Engage Kiss",
+        "alternativeTitle": "Engage Kiss",
+        "id": "engage-kiss-18082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b59f3e446abfd50808b5abe0f676b57.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Vermeil in Gold",
+        "alternativeTitle": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu",
+        "id": "vermeil-in-gold-18081",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a41d2b49f816b8e0971957b7779d3e43.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shadows House 2nd Season",
+        "alternativeTitle": "Shadows House 2nd Season",
+        "id": "shadows-house-2nd-season-18080",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a1f900dc2a258943d2a9d41ac5c0bdf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Classroom of the Elite 2nd Season",
+        "alternativeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season",
+        "id": "classroom-of-the-elite-2nd-season-18076",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ac7e4623d5c97699058b8b4673cf8e5.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Overlord IV",
+        "alternativeTitle": "Overlord IV",
+        "id": "overlord-iv-18075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef1d1028cf6c177587805651b78282a6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fruits Basket: Prelude",
+        "alternativeTitle": "Fruits Basket: Prelude",
+        "id": "fruits-basket-prelude-18074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c62df371623fcf1e3aef674ab8e12d2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex 2045",
+        "alternativeTitle": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+        "id": "ghost-in-the-shell-stand-alone-complex-2045-18061",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44f706d2dc60a2e88d2dd0df5db072c6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "118m"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "alternativeTitle": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+        "id": "demon-slayer-kimetsu-no-yaiba-swordsmith-village-arc-18056",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db2f3ce7b9cab7fdc160b005bffb899a.png",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BeyWarriors: Cyborg",
+        "alternativeTitle": "BeyWarriors: Cyborg",
+        "id": "beywarriors-cyborg-18054",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4cab3c0abd6d2d82ffb476951d4f390.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "From Common Job Class to the Strongest in the World 2nd Season  Special",
+        "alternativeTitle": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special",
+        "id": "from-common-job-class-to-the-strongest-in-the-world-2nd-season-special-18051",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26b2531b3a8ffaee050e017f6d420a8a.png",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Detective Conan: Zero no Tea Time",
+        "alternativeTitle": "Meitantei Conan: Zero no Tea Time",
+        "id": "detective-conan-zero-no-tea-time-18050",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7cae7b442c03068f34616c068eba9ef0.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "BASTARD!! Heavy Metal, Dark Fantasy",
+        "alternativeTitle": "Bastard!! Ankoku no Hakaishin (ONA)",
+        "id": "bastard-heavy-metal-dark-fantasy-18042",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1746282c04f8ef1349d3ea160bc0fe2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Call of the Night",
+        "alternativeTitle": "Yofukashi no Uta",
+        "id": "call-of-the-night-18041",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed0afd9001c2e535b5bcef879a38e36f.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Requiem of the Rose King Special",
+        "alternativeTitle": "Baraou no Souretsu Special",
+        "id": "requiem-of-the-rose-king-special-18038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bc5aaa16f9523246603e503dd7aec3c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Bakugan: Evolutions",
+        "alternativeTitle": "Bakugan: Evolutions",
+        "id": "bakugan-evolutions-18037",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a4f42f4670502584b7381d19cf788ed.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+        "alternativeTitle": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu",
+        "id": "ginga-eiyuu-densetsu-die-neue-these-gekitotsu-18036",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e11bb6514776cd31f587f115169a2e81.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Don't Toy with Me, Miss Nagatoro 2nd Season",
+        "alternativeTitle": "Ijiranaide, Nagatoro-san 2nd Season",
+        "id": "dont-toy-with-me-miss-nagatoro-2nd-season-18035",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2018189879c109688bb96350fc60882f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kotaro Lives Alone",
+        "alternativeTitle": "Kotarou wa Hitorigurashi",
+        "id": "kotaro-lives-alone-18017",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70506bc9285c0710eb319789b4c6f6e1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "27m"
+      },
+      {
+        "title": "Yuukoku no Moriarty OVA",
+        "alternativeTitle": "Yuukoku no Moriarty OVA",
+        "id": "yuukoku-no-moriarty-ova-18010",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a728d7254f0c72c3d83f6c1904391188.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Bubble",
+        "alternativeTitle": "Bubble",
+        "id": "bubble-18009",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc22d05c49a0c14672e8d7a05f1ddcc8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "100m"
+      },
+      {
+        "title": "AMAIM Warrior at the Borderline",
+        "alternativeTitle": "Kyoukai Senki Part 2",
+        "id": "amaim-warrior-at-the-borderline-18007",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c4991410e6c50eb931032c873658492.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Establishment in Life",
+        "alternativeTitle": "Estab-Life: Great Escape",
+        "id": "establishment-in-life-18004",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a75ea57234b010f223efbbebbd79b2a5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shin Ikkitousen",
+        "alternativeTitle": "Shin Ikkitousen",
+        "id": "shin-ikkitousen-18001",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60507840d9f8c3d5fc5bb44d44e4067d.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Yuu Gi Ou: Go Rush!!",
+        "alternativeTitle": "Yu☆Gi☆Oh!: Go Rush!!",
+        "id": "yuu-gi-ou-go-rush-18000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92701d4864595e6cd3ce3c4effa2c198.jpg",
+        "episodes": {
+          "sub": 151,
+          "dub": 29,
+          "eps": 151
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ya Boy Kongming!",
+        "alternativeTitle": "Paripi Koumei",
+        "id": "ya-boy-kongming-17994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55fa209e199a49515fbb210aef86dc4b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Friends Game",
+        "alternativeTitle": "Tomodachi Game",
+        "id": "friends-game-17992",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a5e63ac520c54c8679f062b10ce67e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

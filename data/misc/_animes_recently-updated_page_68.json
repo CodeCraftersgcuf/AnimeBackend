@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 68,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Urusei Yatsura Movie 3: Remember My Love",
+        "alternativeTitle": "Urusei Yatsura Movie 3: Remember My Love",
+        "id": "urusei-yatsura-movie-3-remember-my-love-3630",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d01cc3fb326ab2c3ef6588b156ab46ae.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": ".hack//roots",
+        "alternativeTitle": ".hack//Roots",
+        "id": "hackroots-3886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03fa9bc37156a18ec6582e2459b3a075.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Le Portrait de Petit Cossette",
+        "alternativeTitle": "Cossette no Shouzou",
+        "id": "le-portrait-de-petit-cossette-4142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d22716fd7e62ec9f2bf5b2cf55c5860c.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "36m"
+      },
+      {
+        "title": "Infinite Stratos",
+        "alternativeTitle": "IS: Infinite Stratos",
+        "id": "infinite-stratos-4398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b859e28854e5953bea21e236451a9e9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Go!! Karate Club",
+        "alternativeTitle": "Osu!! Karate-bu",
+        "id": "go-karate-club-4654",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc937791430fcb043b0480c751306e37.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Morita-san wa Mukuchi. 2",
+        "alternativeTitle": "Morita-san wa Mukuchi. 2",
+        "id": "morita-san-wa-mukuchi-2-4910",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ac5f5a05a86441f0fc4af9d5425a089.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Hokuto no Ken: Legend of Heroes",
+        "alternativeTitle": "Hokuto no Ken: Legend of Heroes",
+        "id": "hokuto-no-ken-legend-of-heroes-7726",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98bdbf6e4e80937d98ca5c15201a17a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "Maris the Chojo",
+        "alternativeTitle": "The Choujo",
+        "id": "maris-the-chojo-7982",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3274fc4dcc7b7d2d41199062198f304e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "Genocyber",
+        "alternativeTitle": "Genocyber",
+        "id": "genocyber-8494",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79878e6e3687d880f6f0c53a04737d63.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Akudama Drive",
+        "alternativeTitle": "Akudama Drive",
+        "id": "akudama-drive-12846",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fee733a9759ff6ee4e27aea8af1db9fe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kiku-chan to Ookami",
+        "alternativeTitle": "Kiku-chan to Ookami",
+        "id": "kiku-chan-to-ookami-14638",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/737a787d11107d12f73760d58ed849d7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "45m"
+      },
+      {
+        "title": "Sailor Moon Eternal: The Movie II",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon Eternal Movie 2",
+        "id": "sailor-moon-eternal-the-movie-ii-15662",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78995162843b6f72adf636ac291cf399.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "No Money",
+        "alternativeTitle": "Okane ga Nai",
+        "id": "no-money-16430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b02196cadc8dfc79b0cf51c352c36d6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "The Case Study of Vanitas Episode 12.5 – Recap",
+        "alternativeTitle": "Vanitas no Karte: En Route Pour le Gévaudan",
+        "id": "the-case-study-of-vanitas-episode-125-recap-17966",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6551b41e1c99fef4377cd913f0fb4e1f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Jochum",
+        "alternativeTitle": "Jochum",
+        "id": "jochum-19502",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5299e74c03c66b207ade517e9f982d9.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba",
+        "alternativeTitle": "Kimetsu no Yaiba",
+        "id": "demon-slayer-kimetsu-no-yaiba-47",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30df93feaa422101659e14d0a2a2f582.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Durarara!!",
+        "alternativeTitle": "Durarara!!",
+        "id": "durarara-303",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe8a0297310f4b6d8f2aab3bbf01f005.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Full Metal Panic! The Second Raid",
+        "alternativeTitle": "Full Metal Panic! The Second Raid",
+        "id": "full-metal-panic-the-second-raid-559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/93528fcfeb9700990e6e05148462df2e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sound! Euphonium: Our Promise: A Brand New Day",
+        "alternativeTitle": "Hibike! Euphonium Movie 3: Chikai no Finale",
+        "id": "sound-euphonium-our-promise-a-brand-new-day-815",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac70649911ff33c187231229515953be.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "101m"
+      },
+      {
+        "title": "Getter Robo: Armageddon",
+        "alternativeTitle": "Change!! Getter Robo: Sekai Saigo no Hi",
+        "id": "getter-robo-armageddon-1071",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/199101626a37735a209475c31d582cf7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Tico and Friends",
+        "alternativeTitle": "Nanatsu no Umi no Tico",
+        "id": "tico-and-friends-1839",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bd959d0dc10e82180acc837f58744f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Phi Brain: Puzzle of God 3",
+        "alternativeTitle": "Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen",
+        "id": "phi-brain-puzzle-of-god-3-2351",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/338f2b35c132cde47398f00590eb8ab6.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tenkuu Senki Shurato",
+        "alternativeTitle": "Tenkuu Senki Shurato",
+        "id": "tenkuu-senki-shurato-2607",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91006316ce1a08ae0a099b5b5db119e8.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blame! Movie",
+        "alternativeTitle": "Blame! Movie",
+        "id": "blame-movie-2863",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a333355c1f9fc296c978ee29b1f1929.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
+        "alternativeTitle": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
+        "id": "psycho-pass-sinners-of-the-system-case1-tsumi-to-bachi-3119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d38bceed7cf19dc3191e8ad1959f20a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "Deltora Quest",
+        "alternativeTitle": "Deltora Quest",
+        "id": "deltora-quest-3375",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bd57b2495c1cf003db053492d93d6a7.jpg",
+        "episodes": {
+          "sub": 57,
+          "dub": 52,
+          "eps": 65
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Oh! My Goddess: The Adventures of Mini-Goddess",
+        "alternativeTitle": "Aa! Megami-sama!: Chichaitte Koto wa Benri da ne",
+        "id": "oh-my-goddess-the-adventures-of-mini-goddess-3887",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cc395c51fd010166dd2f6e6bd030638.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 48,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Isshuukan Friends. Specials",
+        "alternativeTitle": "Isshuukan Friends. Specials",
+        "id": "isshuukan-friends-specials-4399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c86e76a49fdf158732e5a75cbbcda73.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "The Wonderful Wizard of Oz",
+        "alternativeTitle": "Oz no Mahoutsukai (1986)",
+        "id": "the-wonderful-wizard-of-oz-4655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5459caafd5c4af96a989e5d8771bfe6.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Cat God: Ohanami Ghostbusters",
+        "alternativeTitle": "Nekogami Yaoyorozu: Ohanami Ghostbusters",
+        "id": "cat-god-ohanami-ghostbusters-4911",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76f834749d14735afa54e8a54a58c032.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Tokyo Ghoul:re",
+        "alternativeTitle": "Tokyo Ghoul:re",
+        "id": "tokyo-ghoulre-5167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a063d18ffaef8d2d72fcb845211075a1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "DD Fist of the North Star",
+        "alternativeTitle": "DD Hokuto no Ken (2013)",
+        "id": "dd-fist-of-the-north-star-5679",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68335e8db4ceb0559f001a50bb4f2998.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "If I See You in My Dreams",
+        "alternativeTitle": "Yume de Aetara (TV)",
+        "id": "if-i-see-you-in-my-dreams-5935",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8e41e7743dc8077fe6d49166da38bbc.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Casshan: Robot Hunter",
+        "alternativeTitle": "Casshern: Robot Hunter",
+        "id": "casshan-robot-hunter-6447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a80389e31ad5a4ac8ca0f2f2ba9935ee.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Happy Happy Clover",
+        "alternativeTitle": "Happy Happy Clover",
+        "id": "happy-happy-clover-6703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e150a4123305d406cd93d01a8b3501e9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "One Room Third Season",
+        "alternativeTitle": "One Room Third Season",
+        "id": "one-room-third-season-6959",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14f2be76eee4a497ad81a5039425ff06.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Saishuu Shiken Kujira Progressive",
+        "alternativeTitle": "Saishuu Shiken Kujira Progressive",
+        "id": "saishuu-shiken-kujira-progressive-7471",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/752e82793f8f38efddcd767bbded91ce.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Legend of Lemnear",
+        "alternativeTitle": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas",
+        "id": "legend-of-lemnear-9263",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9a2d35791356c9b3151522563d2584b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "42m"
+      },
+      {
+        "title": "Papa Mama Bye Bye",
+        "alternativeTitle": "Papa Mama Bye Bye",
+        "id": "papa-mama-bye-bye-11055",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06348c309e0f2cf3d42bd5f14ffe989c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "75m"
+      },
+      {
+        "title": "Kimama ni Idol",
+        "alternativeTitle": "Kimama ni Idol",
+        "id": "kimama-ni-idol-14639",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecdf3e8eb8ec50a2ca8c2979e6be633f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      }
+    ]
+  }
+}

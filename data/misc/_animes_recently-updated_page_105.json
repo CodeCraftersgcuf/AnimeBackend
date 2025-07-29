@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 105,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Giant Gorg",
+        "alternativeTitle": "Giant Gorg",
+        "id": "giant-gorg-3176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f14e6bb28460430b1184247a6ed8c33.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "My Hero Academia: Make It! Do-or-Die Survival Training",
+        "alternativeTitle": "Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren",
+        "id": "my-hero-academia-make-it-do-or-die-survival-training-3432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22f07a9b643cdd601666c518fd59eec9.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Yomigaeru Sora: Rescue Wings - Saigo no Shigoto",
+        "alternativeTitle": "Yomigaeru Sora: Rescue Wings - Saigo no Shigoto",
+        "id": "yomigaeru-sora-rescue-wings-saigo-no-shigoto-3688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b480e563b01ebd8acaf0ee274f7db6d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Uchitama?! Have you seen my Tama?",
+        "alternativeTitle": "Uchi Tama?! Uchi no Tama Shirimasen ka?",
+        "id": "uchitama-have-you-seen-my-tama-3944",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a9656738b9f0caee9c736180401482e.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman",
+        "alternativeTitle": "Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman",
+        "id": "haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman-4200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81ae5fb00ad012dbbfe38f043e727d25.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Kiss x Sis (TV)",
+        "alternativeTitle": "Kiss x Sis (TV)",
+        "id": "kiss-x-sis-tv-4712",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab4d821bc0cae4d272e7dfee0457e0a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lemon Angel Project",
+        "alternativeTitle": "Lemon Angel Project",
+        "id": "lemon-angel-project-5224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b83f2d502e64d0bbf4292730332ee931.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cosmo Warrior Zero",
+        "alternativeTitle": "Cosmo Warrior Zero",
+        "id": "cosmo-warrior-zero-5480",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/347944decdb9b0b64669248bfe68ba9c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Alice in Wonderland",
+        "alternativeTitle": "[RAW] Fushigi no Kuni no Alice",
+        "id": "alice-in-wonderland-5992",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c6ef7a2db1d96f571ae1b125ca563fb.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "elDLIVE",
+        "alternativeTitle": "ēlDLIVE",
+        "id": "eldlive-7272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81105088c52529efb933b8705c2b9732.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mahou Shoujo Nante Mouiidesukara Second Season",
+        "alternativeTitle": "Mahou Shoujo Nante Mou Ii Desukara. Second Season",
+        "id": "mahou-shoujo-nante-mouiidesukara-second-season-7784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9eb0fad9536c907d041a589bd023e2fc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Gunparade Orchestra",
+        "alternativeTitle": "Gunparade Orchestra",
+        "id": "gunparade-orchestra-8296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89385fd9e31e1239d10efe0f91ba0344.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Hoshi no Umi no Amuri",
+        "alternativeTitle": "Hoshi no Umi no Amuri",
+        "id": "hoshi-no-umi-no-amuri-8552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df0d06e835db178c8036298ab95a44bb.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Manual of Ninja Martial Arts",
+        "alternativeTitle": "Ninja Bugei-chou",
+        "id": "manual-of-ninja-martial-arts-9320",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d56ff93633698b3fa55cd03f5f59aa5f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "135m"
+      },
+      {
+        "title": "Kaitou Reinya Pilot",
+        "alternativeTitle": "Kaitou Reinya Pilot",
+        "id": "kaitou-reinya-pilot-9832",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4de58dc1e10c1c696d313ef953882564.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Idol Fighter Su-Chi-Pai",
+        "alternativeTitle": "Idol Fight Suchie-Pai 2",
+        "id": "idol-fighter-su-chi-pai-10600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/504dc8e960fd7fd7bcbc85ab787723d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ling Long: Incarnation Middle Chapter",
+        "alternativeTitle": "Ling Long: Incarnation Middle Chapter",
+        "id": "ling-long-incarnation-middle-chapter-14952",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af83b0d6b6d02e2c1ff101913fa78685.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "46m"
+      },
+      {
+        "title": "Grisaia: Phantom Trigger The Animation - Stargazer",
+        "alternativeTitle": "Grisaia: Phantom Trigger The Animation - Stargazer",
+        "id": "grisaia-phantom-trigger-the-animation-stargazer-15720",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ab995dcc8a24351877e00a7438104d1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "I Am The only God",
+        "alternativeTitle": "Wei Wo Du Shen",
+        "id": "i-am-the-only-god-17512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf2d069bdd690842f211f8306e55bb03.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Painting Rivers and Lakes 4",
+        "alternativeTitle": "Hua Jianghu: Bu Liang Ren IV",
+        "id": "painting-rivers-and-lakes-4-18536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7dfa767e73304236f8aba0a32629438f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "The Peak of True Martial Arts",
+        "alternativeTitle": "Zhen Wu Dianfeng",
+        "id": "the-peak-of-true-martial-arts-19048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e843be714d4a019eee1c3eb7fc6f91a.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Back to the Great Ming",
+        "alternativeTitle": "Hui Ming: Fenghuo San Yue",
+        "id": "back-to-the-great-ming-19304",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/059bc057fd227adbf48d243a98ed0628.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "m"
+      },
+      {
+        "title": "Run with the Wind",
+        "alternativeTitle": "Kaze ga Tsuyoku Fuiteiru",
+        "id": "run-with-the-wind-105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebfddbd35bd01c7d3d3b96b3cc02e2b2.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Promare",
+        "alternativeTitle": "Promare",
+        "id": "promare-361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a800914bbc6fb708e421e11d2bb38332.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "111m"
+      },
+      {
+        "title": "City Hunter",
+        "alternativeTitle": "City Hunter",
+        "id": "city-hunter-617",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86d652d6fa62622b8e21b95aaf227eb3.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "My Bride is a Mermaid",
+        "alternativeTitle": "Seto no Hanayome",
+        "id": "my-bride-is-a-mermaid-873",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ef064258d3a3316948bc1f4b2cd3d36.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gakuen Alice",
+        "alternativeTitle": "Gakuen Alice",
+        "id": "gakuen-alice-1129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b30318c187123cce5b6d79665b8f084.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Initial D Battle Stage",
+        "alternativeTitle": "Initial D Battle Stage",
+        "id": "initial-d-battle-stage-1385",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b58b09c3f6fb84b78e3c0d61b63fc2ba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Medaka Box Abnormal",
+        "alternativeTitle": "Medaka Box Abnormal",
+        "id": "medaka-box-abnormal-1641",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea676f1ba018a51b729824d28c471bf8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Red Riding Hood Chacha",
+        "alternativeTitle": "Akazukin Chacha",
+        "id": "red-riding-hood-chacha-1897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acdc4fb77f3760b95efb2ed2fddb32de.jpg",
+        "episodes": {
+          "sub": 74,
+          "dub": 0,
+          "eps": 74
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Future GPX Cyber Formula",
+        "alternativeTitle": "Future GPX Cyber Formula",
+        "id": "future-gpx-cyber-formula-2153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24d280d2dae71cedabda59a0bc606298.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 37
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Doraemon Movie 37: Great Adventure in the Antarctic Kachi Kochi",
+        "alternativeTitle": "Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken",
+        "id": "doraemon-movie-37-great-adventure-in-the-antarctic-kachi-kochi-2409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8c090174fed7b716c3856f94098018c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "101m"
+      },
+      {
+        "title": "Love Hina Spring Movie",
+        "alternativeTitle": "Love Hina Haru Special: Kimi Sakura Chiru Nakare!!",
+        "id": "love-hina-spring-movie-2665",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65dd7a992d8ec59e5a28fa355a2ef2bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "46m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikomatic-days-2921",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d358499e5a37ced8cc7ec59120a99116.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Ginga Hyouryuu Vifam",
+        "alternativeTitle": "Ginga Hyouryuu Vifam",
+        "id": "ginga-hyouryuu-vifam-3177",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deae91dbd275988432ffe217bd48d28f.jpg",
+        "episodes": {
+          "sub": 46,
+          "dub": 0,
+          "eps": 46
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Yo-kai Watch the Movie: It's the Secret of Birth, Meow!",
+        "alternativeTitle": "Youkai Watch Movie 1: Tanjou no Himitsu da Nyan!",
+        "id": "yo-kai-watch-the-movie-its-the-secret-of-birth-meow-3689",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ac6aecece4a54aab775e4da2a81be33.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Magic User's Club",
+        "alternativeTitle": "Mahoutsukai Tai! (TV)",
+        "id": "magic-users-club-4457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b37dc21e24226a45a2893e4cde27af73.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "M3: Sono Kuroki Hagane",
+        "alternativeTitle": "M3: Sono Kuroki Hagane",
+        "id": "m3-sono-kuroki-hagane-5225",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4227849e179bf35b16bf82163dfd0ef.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dance in the Vampire Bund: Special Edition",
+        "alternativeTitle": "Dance in the Vampire Bund: Special Edition",
+        "id": "dance-in-the-vampire-bund-special-edition-5481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3631c17a7c98674ad82be668fde99472.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Yamishibai: Japanese Ghost Stories 2",
+        "alternativeTitle": "Yami Shibai 2",
+        "id": "yamishibai-japanese-ghost-stories-2-5737",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7acb403ef0e11227d5358454a0a3792b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      }
+    ]
+  }
+}

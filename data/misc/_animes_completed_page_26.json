@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 26,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Campione!",
+        "alternativeTitle": "Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou",
+        "id": "campione-3224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0e181d726052f107d8fa67919401ed5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Boku no Imouto wa \"Osaka Okan\"",
+        "alternativeTitle": "Boku no Imouto wa \"Osaka Okan\"",
+        "id": "boku-no-imouto-wa-osaka-okan-8604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/173e6ae99b10a9f65eb80b2bf8153664.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Citrus",
+        "alternativeTitle": "Citrus",
+        "id": "citrus-5651",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfb5d396d17c1935fe491764285fb702.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chiruran 1/2",
+        "alternativeTitle": "Chiruran: Nibun no Ichi",
+        "id": "chiruran-12-8999",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/733f74a020c981e12de84a53052d32f6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Chivalry of a Failed Knight",
+        "alternativeTitle": "Rakudai Kishi no Cavalry",
+        "id": "chivalry-of-a-failed-knight-1406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b130f28a525b81efe19bc1f55fb351da.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cinderella Nine",
+        "alternativeTitle": "Hachigatsu no Cinderella Nine (TV)",
+        "id": "cinderella-nine-7724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd0d6dffbde1dff0b14bc241181ef0be.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ceres, Celestial Legend",
+        "alternativeTitle": "Ayashi no Ceres",
+        "id": "ceres-celestial-legend-2575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc7d1cf0c636cdc3e6bba492a9698671.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+        "alternativeTitle": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai",
+        "id": "natsume-yuujinchou-nyanko-sensei-to-hajimete-no-otsukai-1137",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11b8c38f55113eb0ae636f61eb672aee.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Crossing Time",
+        "alternativeTitle": "Fumikiri Jikan",
+        "id": "crossing-time-6270",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51294d1f8cd3dc5365b597de2624b29f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Classroom of the Elite",
+        "alternativeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV)",
+        "id": "classroom-of-the-elite-713",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0173c02acdd9948db19842566285a7db.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chronos Ruler",
+        "alternativeTitle": "Jikan no Shihaisha",
+        "id": "chronos-ruler-6548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2de4876dc0bce537a08331d04cb0e59.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Conception",
+        "alternativeTitle": "Conception",
+        "id": "conception-10463",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcca64c58e6e902f241d51e68f01affc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Clockwork Planet",
+        "alternativeTitle": "Clockwork Planet",
+        "id": "clockwork-planet-5872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c06dc615c8e9d10517f14a281dc12152.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cute High Earth Defense Club LOVE!",
+        "alternativeTitle": "Binan Koukou Chikyuu Boueibu LOVE!",
+        "id": "cute-high-earth-defense-club-love-3955",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c66b6ba4cab75765ac0e4d221bf48e77.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Code:Realize ~Guardian of Rebirth~",
+        "alternativeTitle": "Code:Realize - Sousei no Himegimi",
+        "id": "coderealize-guardian-of-rebirth-5013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df8ebe424805561faf16c043994d365c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Clean Freak! Aoyama-kun",
+        "alternativeTitle": "Keppeki Danshi! Aoyama-kun",
+        "id": "clean-freak-aoyama-kun-3591",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d832eba4bdfbc219e652c67de6ad2ee.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Classroom☆Crisis",
+        "alternativeTitle": "Classroom☆Crisis",
+        "id": "classroomcrisis-3415",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee5f0c86da95a618938bbb719ead52a9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Crane Game Girls Galaxy",
+        "alternativeTitle": "Bishoujo Yuugi Unit Crane Game Girls Galaxy",
+        "id": "crane-game-girls-galaxy-10389",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dc14429fba2ae2a01e6875c4549dba2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Cyborg 009",
+        "alternativeTitle": "Cyborg 009: The Cyborg Soldier",
+        "id": "cyborg-009-2384",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54ebcc8883ba0b6520539275698d205c.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Cute High Earth Defense Club LOVE! LOVE!",
+        "alternativeTitle": "Binan Koukou Chikyuu Boueibu LOVE! LOVE!",
+        "id": "cute-high-earth-defense-club-love-love-3331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/beb71676cee7414f4546bdede806247d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "If Her Flag Breaks",
+        "alternativeTitle": "Kanojo ga Flag wo Oraretara",
+        "id": "if-her-flag-breaks-5965",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/913d2e72a066859676fc292cb620840c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King of Prism: Shiny Seven Stars",
+        "alternativeTitle": "King of Prism: Shiny Seven Stars",
+        "id": "king-of-prism-shiny-seven-stars-6250",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d4710d7374f010ec56fe2ca39756fb9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kids on the Slope",
+        "alternativeTitle": "Sakamichi no Apollon",
+        "id": "kids-on-the-slope-167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b6e81874ad78f812d2e1619f2ae8922.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Crane Game Girls",
+        "alternativeTitle": "Bishoujo Yuugi Unit Crane Game Girls",
+        "id": "crane-game-girls-10575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/591f81cb0dbf7a4e455e2be296aa0fff.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Cosmo Warrior Zero",
+        "alternativeTitle": "Cosmo Warrior Zero",
+        "id": "cosmo-warrior-zero-5480",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/347944decdb9b0b64669248bfe68ba9c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Comic Girls",
+        "alternativeTitle": "Comic Girls",
+        "id": "comic-girls-1758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fba22ce55ef4dd526fd7581f33a1a101.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kanamemo",
+        "alternativeTitle": "Kanamemo",
+        "id": "kanamemo-3993",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/378b9d34224f57160f9705db33fbec0c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kagewani",
+        "alternativeTitle": "Kagewani",
+        "id": "kagewani-6161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12dd5152198e87a119f275352a039ab7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Kagewani -II-",
+        "alternativeTitle": "Kagewani: Shou",
+        "id": "kagewani-ii-6000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1373a40d72b9014b48d5aeb2ab3e83b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Mini Toji",
+        "alternativeTitle": "Mini Toji",
+        "id": "mini-toji-7511",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/516085f8443c2e4dc8336ddc8092c7f8.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Kamisama Dolls",
+        "alternativeTitle": "Kamisama Dolls",
+        "id": "kamisama-dolls-3424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/953b55c12d6ea9d1696fb4d549bc9567.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kiitaro's yokai picture diary",
+        "alternativeTitle": "Kiitarou Shounen no Youkai Enikki",
+        "id": "kiitaros-yokai-picture-diary-6069",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5be8b96e205b6675ab27cdbc8d75ab8f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Kamigami no Asobi",
+        "alternativeTitle": "Kamigami no Asobi",
+        "id": "kamigami-no-asobi-3080",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ec104155ec356d1122dafd663b302e9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+        "alternativeTitle": "Urusei Yatsura Movie 2: Beautiful Dreamer",
+        "id": "urusei-yatsura-movie-2-beautiful-dreamer-792",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0261f56cb90860f7243b635a8e21ec84.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Appleseed XIII Remix Movie 2: Yogen",
+        "alternativeTitle": "Appleseed XIII Remix Movie 2: Yogen",
+        "id": "appleseed-xiii-remix-movie-2-yogen-6176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/180a112a9ecac7c486170b66d149e2af.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "Appleseed (Movie)",
+        "alternativeTitle": "Appleseed (Movie)",
+        "id": "appleseed-movie-3140",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/080e88e9c8f3def0d74dfc1dddf6feef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "AKIRA",
+        "alternativeTitle": "Akira",
+        "id": "akira-337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b4628ccc255bd2e628f48ccce80848f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "124m"
+      },
+      {
+        "title": "KILL la KILL",
+        "alternativeTitle": "Kill la Kill",
+        "id": "kill-la-kill-393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d53922598579799ef65ac975e51f0922.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Appleseed: Ex Machina",
+        "alternativeTitle": "Appleseed Saga Ex Machina",
+        "id": "appleseed-ex-machina-2025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64be3e5867ec2cd512275a42ab0c75c4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "KanColle: Kantai Collection",
+        "alternativeTitle": "Kantai Collection: KanColle",
+        "id": "kancolle-kantai-collection-3968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96e33265c9e7d7eaced8dcb9f77e57a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

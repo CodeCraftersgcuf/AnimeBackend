@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 112,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Meow Meow Japanese History",
+        "alternativeTitle": "Neko Neko Nihonshi 2nd Season",
+        "id": "meow-meow-japanese-history-15474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0284904cb1e9ec720d45156fd24e36c9.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Given: Uragawa no Sonzai",
+        "alternativeTitle": "Given: Uragawa no Sonzai",
+        "id": "given-uragawa-no-sonzai-18034",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62a34c2aa951c941ec0870e63b695769.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "The Uninhabited Wonderland",
+        "alternativeTitle": "Man Huang Xian Jie",
+        "id": "the-uninhabited-wonderland-19826",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de3bbd6ac9cc809c765a0b1528bc933c.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "anohana: The Flower We Saw That Day",
+        "alternativeTitle": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "id": "anohana-the-flower-we-saw-that-day-115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06cae051e5171874535ce48ed89edf41.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Princess Jellyfish",
+        "alternativeTitle": "Kuragehime",
+        "id": "princess-jellyfish-371",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cb0b4fe02607afe97b093d23c19f2a8.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Hidamari Sketch x ☆☆☆",
+        "alternativeTitle": "Hidamari Sketch x ☆☆☆",
+        "id": "hidamari-sketch-x-627",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b566b16ca34d10844500b6c835b607a6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Poco's Udon World",
+        "alternativeTitle": "Udon no Kuni no Kiniro Kemari",
+        "id": "pocos-udon-world-883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f5bfaf991f66f34b305ca2346610cd9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Rozen Maiden: Träumend",
+        "alternativeTitle": "Rozen Maiden: Träumend",
+        "id": "rozen-maiden-traumend-1139",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da773a452399188a83c2d92b6589e1b9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kannagi: Crazy Shrine Maidens",
+        "alternativeTitle": "Kannagi",
+        "id": "kannagi-crazy-shrine-maidens-2163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c1766b54c24ccb168a0b8d2cb3fad70.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Princess Nine",
+        "alternativeTitle": "Princess Nine: Kisaragi Joshikou Yakyuubu",
+        "id": "princess-nine-2931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/888f761bd4bee55f59305b182d750d23.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Rail of the Star: A True Story of Children",
+        "alternativeTitle": "Ohoshi-sama no Rail",
+        "id": "rail-of-the-star-a-true-story-of-children-3187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e79ae436a1118b6598a13473a0a241e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "79m"
+      },
+      {
+        "title": "Hataraki Man",
+        "alternativeTitle": "Hataraki Man",
+        "id": "hataraki-man-3443",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2798f462e7544c9d795122745a860bd5.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "A-Channel: +A-Channel",
+        "alternativeTitle": "A-Channel: +A-Channel",
+        "id": "a-channel-a-channel-3699",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fd78b5c47f3654e2c8e6dffcd4b8960.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Cute High Earth Defense Club LOVE!",
+        "alternativeTitle": "Binan Koukou Chikyuu Boueibu LOVE!",
+        "id": "cute-high-earth-defense-club-love-3955",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c66b6ba4cab75765ac0e4d221bf48e77.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Disappearance of Nagato Yuki-chan",
+        "alternativeTitle": "Nagato Yuki-chan no Shoushitsu",
+        "id": "the-disappearance-of-nagato-yuki-chan-4723",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e2b22cc6fde27ddeb0b119fa745a3da.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saber Marionette R",
+        "alternativeTitle": "Saber Marionette R",
+        "id": "saber-marionette-r-5235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e2d66b793b72dac44c35f70b0aa0066.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Gakkatsu!",
+        "alternativeTitle": "Gakkatsu!",
+        "id": "gakkatsu-5747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0107db6d59412b72956bdefb59ebe188.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "OniAi Specials",
+        "alternativeTitle": "Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials",
+        "id": "oniai-specials-6771",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df461e43b67a2d91273c759142e19ec6.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "The 8th son? Are you kidding me?",
+        "alternativeTitle": "Hachi-nan tte, Sore wa Nai deshou!",
+        "id": "the-8th-son-are-you-kidding-me-7283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/510b16c00021897304ecf3ba77e58344.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Beyblade: Shogun Steel",
+        "alternativeTitle": "Metal Fight Beyblade Zero G",
+        "id": "beyblade-shogun-steel-7539",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0999b2cd3cc70d2da48e63bd8e40851.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "One Room Second Season Special",
+        "alternativeTitle": "One Room Second Season Special",
+        "id": "one-room-second-season-special-9331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ccb112fd262ac83f6827c018f5cac465.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Ojamanga Yamada-kun (Movie)",
+        "alternativeTitle": "Ojamanga Yamada-kun (Movie)",
+        "id": "ojamanga-yamada-kun-movie-10867",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17b339a412795f6f623b680cb1e7d895.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "27m"
+      },
+      {
+        "title": "Meow Meow Japanese History",
+        "alternativeTitle": "Neko Neko Nihonshi 3rd Season",
+        "id": "meow-meow-japanese-history-15475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66e0c0040ae0b517bd0d56f2a8925e93.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Fireball Gebaude Baude",
+        "alternativeTitle": "Gebäude Bäude",
+        "id": "fireball-gebaude-baude-17267",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a5ca28d34276f926d0eddd6c5f9958c.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang",
+        "alternativeTitle": "Fanren Xiu Xian Chuan: Xinghai Feichi Pian Xuzhang",
+        "id": "fanren-xiu-xian-chuan-xinghai-feichi-pian-xuzhang-18547",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/372fd74110d47ee85825effdac603b71.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "21m"
+      },
+      {
+        "title": "The Invincible",
+        "alternativeTitle": "Shi Fang Wu Sheng",
+        "id": "the-invincible-19059",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/473c2c26e1ee7dde430f15b763b92c2b.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Lord of Wonderlands",
+        "alternativeTitle": "Wanjie Zhuzai",
+        "id": "lord-of-wonderlands-19827",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/420b7918f733406b9df77b15f07a46c3.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Cross Game",
+        "alternativeTitle": "Cross Game",
+        "id": "cross-game-116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15264462d9b3f9f75c1dd895ac3e51d5.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Assassination Classroom",
+        "alternativeTitle": "Ansatsu Kyoushitsu",
+        "id": "assassination-classroom-372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02f4fdbe5a518ec0a88b4c6cad9ce0e4.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "High Score Girl",
+        "alternativeTitle": "High Score Girl",
+        "id": "high-score-girl-628",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d747aae80886f53ce0ae712d8db56d8c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Law of Ueki",
+        "alternativeTitle": "Ueki no Housoku",
+        "id": "the-law-of-ueki-884",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffe48d48643621b59f34a960a9801114.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "To LOVE Ru Darkness 2 Specials",
+        "alternativeTitle": "To LOVE-Ru Darkness 2nd Specials",
+        "id": "to-love-ru-darkness-2-specials-1140",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50ccc198a5135dd1fef6348a46217003.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Fist of the North Star: The Legend of Toki",
+        "alternativeTitle": "Hokuto no Ken: Toki-den",
+        "id": "fist-of-the-north-star-the-legend-of-toki-1908",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9033faebe68a6353c1f26b499f260279.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "57m"
+      },
+      {
+        "title": "This Art Club Has a Problem!",
+        "alternativeTitle": "Kono Bijutsubu ni wa Mondai ga Aru!",
+        "id": "this-art-club-has-a-problem-2420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5e0b96896d87691abc3d360d70c6b1d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece 3D: Strawhat Chase",
+        "alternativeTitle": "One Piece 3D: Mugiwara Chase",
+        "id": "one-piece-3d-strawhat-chase-3188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01605691c2a52ce8c5f3226ec4a631a9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "30m"
+      },
+      {
+        "title": "HeatGuy J Special",
+        "alternativeTitle": "HeatGuy J Special",
+        "id": "heatguy-j-special-3444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5aa32202e04d4efd90a6def4b73efde7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "AHO-GIRL",
+        "alternativeTitle": "Aho Girl",
+        "id": "aho-girl-3700",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90ab3a3ff0a6cc87f62a8067ef1863af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Blood: The Last Vampire",
+        "alternativeTitle": "Blood: The Last Vampire",
+        "id": "blood-the-last-vampire-3956",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a7b3852b03afd3b43850ba098b4c531.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Nande Koko ni Sensei ga!? Special",
+        "alternativeTitle": "Nande Koko ni Sensei ga!? Special",
+        "id": "nande-koko-ni-sensei-ga-special-4212",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ced29495b5cefcf4bf31e801c8f1675f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "The Disappearance of Nagato Yuki-chan: I Cannot Let Summer Break End",
+        "alternativeTitle": "Nagato Yuki-chan no Shoushitsu: Owarenai Natsuyasumi",
+        "id": "the-disappearance-of-nagato-yuki-chan-i-cannot-let-summer-break-end-4724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61ab1682358624785e96d9117753937e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      }
+    ]
+  }
+}

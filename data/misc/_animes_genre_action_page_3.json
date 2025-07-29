@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 3,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Yu Yu Hakusho: Ghost Files",
+        "alternativeTitle": "Yuu☆Yuu☆Hakusho",
+        "id": "yu-yu-hakusho-ghost-files-114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c40b2b7f5ccc41e1e758bd2d62890e4.jpg",
+        "episodes": {
+          "sub": 112,
+          "dub": 112,
+          "eps": 112
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokémon: Black & White",
+        "alternativeTitle": "Pokemon Best Wishes!",
+        "id": "pokemon-black-white-6125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b35b76fdec07f35c11f36e3b10b2f33d.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 48,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Pokémon: Black & White: Rival Destinies",
+        "alternativeTitle": "Pokemon Best Wishes! Season 2",
+        "id": "pokemon-black-white-rival-destinies-6108",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8476d0d7a80e5cb2726139748d9f559.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Pokémon: Black & White: Adventures in Unova",
+        "alternativeTitle": "Pokemon Best Wishes! Season 2: Adventures in Unova",
+        "id": "pokemon-black-white-adventures-in-unova-4669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c3fb637c4e9876422c32ff24316b2c9.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 45,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Baccano! Specials",
+        "alternativeTitle": "Baccano! Specials",
+        "id": "baccano-specials-338",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b0d3e35f8ae257c104c1d5d682b9c01.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "Owari no Seraph: Vampire Shahar",
+        "alternativeTitle": "Owari no Seraph: Kyuuketsuki Shahar",
+        "id": "owari-no-seraph-vampire-shahar-2838",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/136890ba9a5b131f2d58c67ab795d98b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Barangay 143",
+        "alternativeTitle": "Barangay 143",
+        "id": "barangay-143-17861",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc458f6c5d8f8a595c0b6fd59bd4b2a.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Barangay 143 2nd Season",
+        "alternativeTitle": "Barangay 143 2nd Season",
+        "id": "barangay-143-2nd-season-17862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15b1278bd06edd30306dd2e6a23931bf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hayate the Combat Butler!!",
+        "alternativeTitle": "Hayate no Gotoku!!",
+        "id": "hayate-the-combat-butler-898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f742cc1c9bce983e6edbdbbb92ef062.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hayate the Combat Butler: Atsu ga Natsuize - Mizugi-hen!",
+        "alternativeTitle": "Hayate no Gotoku!!: Atsu ga Natsuize - Mizugi-hen!",
+        "id": "hayate-the-combat-butler-atsu-ga-natsuize-mizugi-hen-2122",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0f28178feeb50c8360c158b7caf32fc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Pokémon the Series: XYZ",
+        "alternativeTitle": "Pokemon XY&Z",
+        "id": "pokemon-the-series-xyz-1141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bf7d8ce4d7f5449d3e848531f279929.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 48,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Queen's Blade: Grimoire",
+        "alternativeTitle": "Queen's Blade: Grimoire",
+        "id": "queens-blade-grimoire-7107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30034021b50d6bebf6be4ee020349f6e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Kure-nai OVA",
+        "alternativeTitle": "Kure-nai OVA",
+        "id": "kure-nai-ova-4228",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55703ebcacde8fe43c95a1980acae598.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "The Testament of Sister New Devil OVA",
+        "alternativeTitle": "Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou",
+        "id": "the-testament-of-sister-new-devil-ova-3549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca4f8fb5e25c447cc337783fc3142562.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "The Testament of Sister New Devil 2nd Season: Burst OVA",
+        "alternativeTitle": "Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou",
+        "id": "shinmai-maou-no-testament-burst-toujou-basara-no-shigoku-heiwa-na-nichijou-4257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f549a9eb341b0241049840999bd06ef1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Tsubasa RESERVoir CHRoNiCLE: Spring Thunder Chronicle",
+        "alternativeTitle": "Tsubasa: Shunraiki",
+        "id": "tsubasa-reservoir-chronicle-spring-thunder-chronicle-363",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1523cce75ca447f1571db215f3051d43.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Tsubasa RESERVoir CHRoNiCLE: Tokyo Revelations",
+        "alternativeTitle": "Tsubasa: Tokyo Revelations",
+        "id": "tsubasa-reservoir-chronicle-tokyo-revelations-199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61db640b5894fd5df66568078cabf2e8.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Nurarihyon no Mago (Recaps)",
+        "alternativeTitle": "Nurarihyon no Mago Recaps",
+        "id": "nurarihyon-no-mago-recaps-6383",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f45c5f11933fc579994450bc4b35757.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama Season 4",
+        "alternativeTitle": "Gintama°",
+        "id": "gintama-season-4-4",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a115c6b61df10d8d42ed854e72bfdb93.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama: Enchousen",
+        "alternativeTitle": "Gintama': Enchousen",
+        "id": "gintama-enchousen-8",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a3718dee58fcdd9980377689bb379dc.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama Season 5",
+        "alternativeTitle": "Gintama.",
+        "id": "gintama-season-5-12",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53463791fa7b97b16a5c8a72a175403d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama.: Slip Arc",
+        "alternativeTitle": "Gintama.: Porori-hen",
+        "id": "gintama-slip-arc-88",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c3ebf11a61fc9738817e679cf1ae7ea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Magi: The Kingdom of Magic",
+        "alternativeTitle": "Magi: The Kingdom of Magic",
+        "id": "magi-the-kingdom-of-magic-208",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1709f2137aeed22d56195face9a2c10.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Magi: The Labyrinth of Magic",
+        "alternativeTitle": "Magi: The Labyrinth of Magic",
+        "id": "magi-the-labyrinth-of-magic-425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/119db3171acab63d95dc40a3cb8aeee9.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam 00 Special Edition",
+        "alternativeTitle": "Mobile Suit Gundam 00 Special Edition",
+        "id": "mobile-suit-gundam-00-special-edition-1228",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a79bdd179623c13641304aea0d55b3b6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "90m"
+      },
+      {
+        "title": "Utawarerumono Specials",
+        "alternativeTitle": "Utawarerumono Specials",
+        "id": "utawarerumono-specials-1240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d11c463710ad49f1040536e31e0d2eea.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Initial D Battle Stage",
+        "alternativeTitle": "Initial D Battle Stage",
+        "id": "initial-d-battle-stage-1385",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b58b09c3f6fb84b78e3c0d61b63fc2ba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Killer Seven",
+        "alternativeTitle": "Cike Wu Liuqi Fanwai",
+        "id": "killer-seven-1516",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92eccad063cabc65b11b8fa5f9519d7a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Initial D Extra Stage 2",
+        "alternativeTitle": "Initial D Extra Stage 2",
+        "id": "initial-d-extra-stage-2-1835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e0ca1b0118b80715ab6aaa52e57d41b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "54m"
+      },
+      {
+        "title": "Initial D Extra Stage",
+        "alternativeTitle": "Initial D Extra Stage",
+        "id": "initial-d-extra-stage-2160",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cecb4f0ab6435f6916e64eeff5c9f55.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Utawarerumono OVA",
+        "alternativeTitle": "Utawarerumono OVA",
+        "id": "utawarerumono-ova-2617",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/154a4c3224e34a142e692ade6610b1a4.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter",
+        "alternativeTitle": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter",
+        "id": "fategrand-order-zettai-majuu-sensen-babylonia-initium-iter-2629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f5fe4019dd36c5761eb71e1c9fe2b25.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!",
+        "alternativeTitle": "Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!",
+        "id": "sengoku-basara-setonai-no-gekitotsu-hi-wo-fuku-umi-no-daiyousai-fugaku-2782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f349ebae2fc3550292d702df08bf0ea9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Kyousou Giga (2012)",
+        "alternativeTitle": "Kyousou Giga (2012)",
+        "id": "kyousou-giga-2012-2828",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50ffed48ae7dc97226bc4989719b28d3.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "10m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 137,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Project A-Ko",
+        "alternativeTitle": "Project A-Ko",
+        "id": "project-a-ko-4103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/622e880c2b2c072f4b3143a3d350147b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "You're Under Arrest: No Mercy!!",
+        "alternativeTitle": "Taiho Shichau zo in America",
+        "id": "youre-under-arrest-no-mercy-5524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0f6c7048eeff410e16a96596e8b5b26.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Here Comes the Black Witch!!",
+        "alternativeTitle": "Kuromajo-san ga Tooru!!",
+        "id": "here-comes-the-black-witch-5859",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/792019cffbafe9f7c6a2531225705028.jpg",
+        "episodes": {
+          "sub": 60,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Lupin III: The Secret of Mamo",
+        "alternativeTitle": "Lupin III: Lupin vs. Fukusei-ningen",
+        "id": "lupin-iii-the-secret-of-mamo-3596",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7e753a970e25b43d787734c413b7ab0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "At The Mercy of The Sky Specials",
+        "alternativeTitle": "Sora no Manimani Specials",
+        "id": "at-the-mercy-of-the-sky-specials-5427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd20746020f0f1e3868a3ec3eda9b13e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "More! Magical DoReMi",
+        "alternativeTitle": "Motto! Ojamajo Doremi",
+        "id": "more-magical-doremi-2230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c09f1fcc037fea25a6aa59e721b285a4.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King of Fighters: Another Day",
+        "alternativeTitle": "King of Fighters: Another Day",
+        "id": "king-of-fighters-another-day-6633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09587de5acff2f816d90b9456b1a7e08.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Eien no 831",
+        "alternativeTitle": "Eien no 831",
+        "id": "eien-no-831-17954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42677b31ab740b6d438140cc653198dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "105m"
+      },
+      {
+        "title": "Urusei Yatsura Movie 5: Kanketsu-hen",
+        "alternativeTitle": "Urusei Yatsura Movie 5: Kanketsu-hen",
+        "id": "urusei-yatsura-movie-5-kanketsu-hen-1654",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56201211174109eb925592b5b4d78214.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": ".hack//G.U. Returner",
+        "alternativeTitle": ".hack//G.U. Returner",
+        "id": "hackgu-returner-4688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1ffbfefbf0959ad3ed7ca1d48bf51b0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Getter Robo Arc",
+        "alternativeTitle": "Getter Robo Arc",
+        "id": "getter-robo-arc-17300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e58ca1268788614d3e2839d9ea22e40.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hentatsu (TV)",
+        "alternativeTitle": "Hentatsu (TV)",
+        "id": "hentatsu-tv-10052",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23d6a2bd3537b06a2bed9808d11188f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "You're Under Arrest: Mini Specials",
+        "alternativeTitle": "Taiho Shichau zo Special",
+        "id": "youre-under-arrest-mini-specials-3397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c533501e803db3bb67ca4a2539a8108.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Mobile Suit Gundam Unicorn: Episode EX - 100 Years of Solitude",
+        "alternativeTitle": "Mobile Suit Gundam Unicorn: Episode EX - 100 Years of Solitude",
+        "id": "mobile-suit-gundam-unicorn-episode-ex-100-years-of-solitude-4840",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7666930fed4567f5ef05c0b31d05e059.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Future Card Buddyfight X",
+        "alternativeTitle": "Future Card Buddyfight Battsu",
+        "id": "future-card-buddyfight-x-6732",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2990345fa617a7a28eff6c20959bcbcf.jpg",
+        "episodes": {
+          "sub": 60,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Levius",
+        "alternativeTitle": "Levius",
+        "id": "levius-2422",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4815466f6978a52c23dd70ada5a4d18c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Puppet Princess",
+        "alternativeTitle": "Karakuri no Kimi",
+        "id": "puppet-princess-5785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e24e9f1278fe22503bcb4ab6e4fa95a5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "Ginga Eiyuu Densetsu Gaiden (1999)",
+        "alternativeTitle": "Ginga Eiyuu Densetsu Gaiden (1999)",
+        "id": "ginga-eiyuu-densetsu-gaiden-1999-443",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75b9aec4f00caf34e8e39e9f26294ff4.jpg",
+        "episodes": {
+          "sub": 28,
+          "dub": 0,
+          "eps": 28
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Starship Troopers",
+        "alternativeTitle": "Uchuu no Senshi",
+        "id": "starship-troopers-7130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dd21cfc3acd5ab60e0b125cd2532465.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Honey and Clover Specials",
+        "alternativeTitle": "Hachimitsu to Clover Specials",
+        "id": "honey-and-clover-specials-1010",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b635bfe87c444e0e90e9010d504017f2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Arion",
+        "alternativeTitle": "Arion",
+        "id": "arion-7490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e1f81faf8255291b6edad8cf297987b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Lamune",
+        "alternativeTitle": "Lamune",
+        "id": "lamune-4209",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90d17a4174959781d88e56fde397b818.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BanG Dream! Film Live",
+        "alternativeTitle": "BanG Dream! Film Live",
+        "id": "bang-dream-film-live-1200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/00ac93f2704944e4f79d15d5d0eefaef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "72m"
+      },
+      {
+        "title": "[RAW] Chibi Maruko-chan",
+        "alternativeTitle": "[RAW] Chibi Maruko-chan",
+        "id": "chibi-maruko-chan-1128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5cfcb9f8d24070e7a841f704abbc56a1.jpg",
+        "episodes": {
+          "sub": 142,
+          "dub": 0,
+          "eps": 142
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Platonic Chain",
+        "alternativeTitle": "Platonic Chain",
+        "id": "platonic-chain-9117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c996df5f1d7bc8693ae7d4f68e057275.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "6m"
+      },
+      {
+        "title": "Soul Land: 4th Season",
+        "alternativeTitle": "Douluo Dalu: Qian Hua Xi Jin",
+        "id": "soul-land-4th-season-477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21b14074996e0d5f1d65f5ffd992e5cd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Super Robot Wars OG: The Inspector",
+        "alternativeTitle": "Super Robot Taisen OG: The Inspector",
+        "id": "super-robot-wars-og-the-inspector-2541",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8b56b39647355987ff1eeca337d07f7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Minami-ke Betsubara",
+        "alternativeTitle": "Minami-ke Betsubara",
+        "id": "minami-ke-betsubara-1523",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8d580e3a23bd7983d6cf1f84c6022f9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Xue Ying Ling Zhu 3rd Season",
+        "alternativeTitle": "Xue Ying Ling Zhu 3rd Season",
+        "id": "xue-ying-ling-zhu-3rd-season-18059",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d9d38095ca3adf331f8dedbe557b239.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Slayers Movie 2",
+        "alternativeTitle": "Slayers Return",
+        "id": "slayers-movie-2-2195",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2468588e6a412eabd667601cdf1aaf7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "What's Up Mechadoc",
+        "alternativeTitle": "Yoroshiku Mechadock",
+        "id": "whats-up-mechadoc-6957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7743e1a55ef6bd75cf185b5dedc9221d.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "JK-MESHI!",
+        "alternativeTitle": "JK Meshi!",
+        "id": "jk-meshi-10519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6412e272751c0d04ad80d95a35cf3b4f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "My Senior Brother Is Too Steady",
+        "alternativeTitle": "Shixiong A Shixiong",
+        "id": "my-senior-brother-is-too-steady-18318",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be2b91131b792449fe995e2631636a85.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "You're Under Arrest",
+        "alternativeTitle": "Taiho Shichau zo",
+        "id": "youre-under-arrest-1714",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16e9129622257c46293bb23d3c3e951c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Wake Up, Girls! New Chapter",
+        "alternativeTitle": "Wake Up, Girls! Shin Shou",
+        "id": "wake-up-girls-new-chapter-5824",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c37a20725a874d7850e698e801123a9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hyper Police",
+        "alternativeTitle": "Hyper Police",
+        "id": "hyper-police-3796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4dfdd0d2394a3f2e2cf884555d13a8e0.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+        "alternativeTitle": "Yokohama Kaidashi Kikou: Quiet Country Cafe",
+        "id": "yokohama-kaidashi-kikou-quiet-country-cafe-2851",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba0f1b52d37d63777e7ad51b9049b3a2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Aikatsu Friends!: Kagayaki no Jewel",
+        "alternativeTitle": "Aikatsu Friends!: Kagayaki no Jewel",
+        "id": "aikatsu-friends-kagayaki-no-jewel-3953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b94dbdd4a07ba65d2221ae024b3419a5.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Monster Strike the Movie: Lucifer - Zetsubou no Yoake",
+        "alternativeTitle": "Monster Strike the Movie: Lucifer - Zetsubou no Yoake",
+        "id": "monster-strike-the-movie-lucifer-zetsubou-no-yoake-15816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b1bea73eb482462d4dfdc4d7fbc3fcc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "127m"
+      },
+      {
+        "title": "Show By Rock!! Short!!",
+        "alternativeTitle": "Show By Rock!! Short!!",
+        "id": "show-by-rock-short-6219",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc573b80d3a5b614100f62162a59cdcc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      }
+    ]
+  }
+}

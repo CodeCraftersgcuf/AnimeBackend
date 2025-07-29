@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 170,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Robot Carnival",
+        "alternativeTitle": "Robot Carnival",
+        "id": "robot-carnival-2435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c63db1fea074a2d39ba112018d952a62.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "91m"
+      },
+      {
+        "title": "Pop Team Epic",
+        "alternativeTitle": "Poputepipikku",
+        "id": "pop-team-epic-2433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d8472e388963c1c669ea82e3e417525.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Pet Shop of Horrors",
+        "alternativeTitle": "Petshop of Horrors",
+        "id": "pet-shop-of-horrors-2432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8803698b937dd53a3c72823418b7534b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "One Punch Man 2nd Season Specials",
+        "alternativeTitle": "One Punch Man 2nd Season Specials",
+        "id": "one-punch-man-2nd-season-specials-2430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7a33a567ef4d244b12b6050fa7865ff.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Problem Children Are Coming from Another World, Aren't They? OVA",
+        "alternativeTitle": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?: Onsen Manyuuki",
+        "id": "problem-children-are-coming-from-another-world-arent-they-ova-2428",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e3930dd59008f932dfc6bd6f5d2aed7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha",
+        "alternativeTitle": "Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha",
+        "id": "mob-psycho-100-reigen-shirarezaru-kiseki-no-reinouryokusha-2427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/766a68b4445551c59593f6a9deab987a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Mix",
+        "alternativeTitle": "Mix",
+        "id": "mix-2426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dbda9df6530a5814a29729ebcffd1dad.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mazinger Z",
+        "alternativeTitle": "Mazinger Z",
+        "id": "mazinger-z-2425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a4bbd09e7c63a52a9fd66f4c2e89b5e.jpg",
+        "episodes": {
+          "sub": 92,
+          "dub": 0,
+          "eps": 92
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "My-Otome Zwei",
+        "alternativeTitle": "Mai-Otome Zwei",
+        "id": "my-otome-zwei-2424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fdcdc75e9c0146b5739d3fa29cd27e32.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Levius",
+        "alternativeTitle": "Levius",
+        "id": "levius-2422",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4815466f6978a52c23dd70ada5a4d18c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "The Diary of a Crazed Family",
+        "alternativeTitle": "Kyouran Kazoku Nikki",
+        "id": "the-diary-of-a-crazed-family-2421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee02d0e0a7e07106b957bca17ed825bc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "This Art Club Has a Problem!",
+        "alternativeTitle": "Kono Bijutsubu ni wa Mondai ga Aru!",
+        "id": "this-art-club-has-a-problem-2420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5e0b96896d87691abc3d360d70c6b1d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "KINMOZA!",
+        "alternativeTitle": "Kiniro Mosaic",
+        "id": "kinmoza-2418",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca0fa3c8c8b15d0114a0899668e59c75.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Patlabor: The Mobile Police",
+        "alternativeTitle": "Kidou Keisatsu Patlabor",
+        "id": "patlabor-the-mobile-police-2417",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19f98ef5dfa209bec6570e0abdfcc77d.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Gakuen Utopia Manabi Straight!",
+        "alternativeTitle": "Gakuen Utopia Manabi Straight!",
+        "id": "gakuen-utopia-manabi-straight-2413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9e03da2bee9e8cb2ec0202e8f8fedba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Twin Princesses of the Mysterious Star",
+        "alternativeTitle": "Fushigiboshi no☆Futagohime",
+        "id": "twin-princesses-of-the-mysterious-star-2412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c03797b5d701f4f41677a1b71c0e837.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mysterious Play OVA 2",
+        "alternativeTitle": "Fushigi Yuugi: Dai Ni Bu",
+        "id": "mysterious-play-ova-2-2411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c36c4b80e2131410d79e8d43e9a7447.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Dragon Quest: Adventure of Dai (2020)",
+        "alternativeTitle": "Dragon Quest: Dai no Daibouken (2020)",
+        "id": "dragon-quest-adventure-of-dai-2020-2410",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/567e9a3ead04fec9a8ad1a0c5f363d43.jpg",
+        "episodes": {
+          "sub": 100,
+          "dub": 100,
+          "eps": 100
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Doraemon Movie 37: Great Adventure in the Antarctic Kachi Kochi",
+        "alternativeTitle": "Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken",
+        "id": "doraemon-movie-37-great-adventure-in-the-antarctic-kachi-kochi-2409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8c090174fed7b716c3856f94098018c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "101m"
+      },
+      {
+        "title": "Canaan",
+        "alternativeTitle": "Canaan",
+        "id": "canaan-2405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/470cee673c6639b14c1e66cae9aec8d7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Black Clover",
+        "alternativeTitle": "Black Clover",
+        "id": "black-clover-2404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f58b0204c20ae3310f65ae7b8cb9987e.jpg",
+        "episodes": {
+          "sub": 170,
+          "dub": 170,
+          "eps": 170
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Amanchu!",
+        "alternativeTitle": "Amanchu!",
+        "id": "amanchu-2403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef480e179e7b4853a77da82ba0abcb4c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Alps no Shoujo Heidi",
+        "alternativeTitle": "Alps no Shoujo Heidi",
+        "id": "alps-no-shoujo-heidi-2402",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f318df5ad953d57718f174c2239bced.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Needless",
+        "alternativeTitle": "Needless",
+        "id": "needless-2401",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c37535e89e74eb9d02782dc4ed263f5e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Summer Snow Rendezvous",
+        "alternativeTitle": "Natsuyuki Rendezvous",
+        "id": "a-summer-snow-rendezvous-2400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe87d6e19781f24cf8c5d7099ceb4fc1.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Natsu no Arashi!",
+        "alternativeTitle": "Natsu no Arashi!",
+        "id": "natsu-no-arashi-2399",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c97c45137edbbce2b705d8bc8d3ae58.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED Destiny Special Edition",
+        "alternativeTitle": "Mobile Suit Gundam SEED Destiny Special Edition",
+        "id": "mobile-suit-gundam-seed-destiny-special-edition-2398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/080cd15a0e52f3e74c2dde359c5c851e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Mitaiken Horizon",
+        "alternativeTitle": "Mitaiken Horizon",
+        "id": "mitaiken-horizon-2397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec5f0c3f3246feaaa8e70b79762c6b9e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Music",
+        "duration": "8m"
+      },
+      {
+        "title": "Mirai Nikki OVA",
+        "alternativeTitle": "Mirai Nikki",
+        "id": "mirai-nikki-ova-2396",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da31f4ebbd3f1ad4254441fc0f04d5e8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "8m"
+      },
+      {
+        "title": "Meng Qi Shi Shen",
+        "alternativeTitle": "Meng Qi Shi Shen",
+        "id": "meng-qi-shi-shen-2395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/136d827dac0bb1d8b2000349517dc528.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex: Tachikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi (TV)",
+        "id": "ghost-in-the-shell-stand-alone-complex-tachikomatic-days-2394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4528a4c06420ad3d60abaa159df29fca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Stigma of the Wind",
+        "alternativeTitle": "Kaze no Stigma",
+        "id": "stigma-of-the-wind-2392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf88560885c82b51999e6e7394d28dd3.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Inukami!",
+        "alternativeTitle": "Inukami!",
+        "id": "inukami-2391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2beae31242d41a8299c6f554fc4814f9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Inferno Cop",
+        "alternativeTitle": "Inferno Cop",
+        "id": "inferno-cop-2390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0570298534e9a86ef5cb76e6d1da5c3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "3m"
+      }
+    ]
+  }
+}

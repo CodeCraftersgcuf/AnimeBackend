@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 8,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Golden Time",
+        "alternativeTitle": "Golden Time",
+        "id": "golden-time-849",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db2330c52b71f75c5a5ad9ba6f16167e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Initial D First Stage",
+        "alternativeTitle": "Initial D First Stage",
+        "id": "initial-d-first-stage-236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a05ab08aa49bb9a74d21d4c159a09fcc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Devil is a Part-Timer!!",
+        "alternativeTitle": "Hataraku Maou-sama!!",
+        "id": "the-devil-is-a-part-timer-17678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5356767c62129a5ef0fdc0614071637f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gachiakuta",
+        "alternativeTitle": "Gachiakuta",
+        "id": "gachiakuta-19785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acad8581f1a2eafa8c9d68b899bb1b21.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Dangers in My Heart Season 2",
+        "alternativeTitle": "Boku no Kokoro no Yabai Yatsu Season 2",
+        "id": "the-dangers-in-my-heart-season-2-18868",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e4a334bce531ac33033253bebdf8259.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "I want to eat your pancreas",
+        "alternativeTitle": "Kimi no Suizou wo Tabetai",
+        "id": "i-want-to-eat-your-pancreas-70",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a6d4e47bca47ad4eb3656dbc606ea23.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "Plunderer",
+        "alternativeTitle": "Plunderer",
+        "id": "plunderer-5815",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66ab15cf5954dd482ad4d011156b48c5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Food Wars! The Third Plate",
+        "alternativeTitle": "Shokugeki no Souma: San no Sara",
+        "id": "food-wars-the-third-plate-295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3c916f408e9755523e5116ffe13c9b0.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2",
+        "alternativeTitle": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
+        "id": "the-100-girlfriends-who-really-really-really-really-really-love-you-season-2-19435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e91ce663a30bda517c5a191c575a16c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Flops (Uncensored)",
+        "alternativeTitle": "Renai Flops (Uncensored)",
+        "id": "love-flops-uncensored-18311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45c0872f49abc05a01b91ad3da3b4c3c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Demon Sword Master of Excalibur Academy",
+        "alternativeTitle": "Seiken Gakuin no Makentsukai",
+        "id": "the-demon-sword-master-of-excalibur-academy-18584",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95bf2ef4435253f8882ee603d66727b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Summoned to Another World for a Second Time",
+        "alternativeTitle": "Isekai Shoukan wa Nidome desu",
+        "id": "summoned-to-another-world-for-a-second-time-18346",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98fc1ac81870a0920af1f49fdcc1014a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yarichin Bitch Club",
+        "alternativeTitle": "Yarichin☆Bitch-bu",
+        "id": "yarichin-bitch-club-16015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a725203de019d4e238ab52c8702d01f4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Kaguya-sama: Love is War Season 2",
+        "alternativeTitle": "Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen",
+        "id": "kaguya-sama-love-is-war-season-2-23",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d60c49622dfd7731dd6f664289d2e76f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2",
+        "alternativeTitle": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+        "id": "as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-2-19329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3670b66104179ccff9492aa8158fde3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Black Clover: Sword of the Wizard King",
+        "alternativeTitle": "Black Clover Movie",
+        "id": "black-clover-sword-of-the-wizard-king-17752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/447bc03aeeaffb95729df74c0b98f1ce.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Mother of the Goddess' Dormitory (Uncensored)",
+        "alternativeTitle": "Megami-ryou no Ryoubo-kun. (Uncensored)",
+        "id": "mother-of-the-goddess-dormitory-uncensored-17883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5660fd8253bf74f4cf72afebe3a2f7a5.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Rising of the Shield Hero Season 3",
+        "alternativeTitle": "Tate no Yuusha no Nariagari Season 3",
+        "id": "the-rising-of-the-shield-hero-season-3-15571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17e74704002aeb5bcec7e191c57b790b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I’ll Become a Villainess Who Goes Down in History",
+        "alternativeTitle": "Rekishi ni Nokoru Akujo ni Naru zo",
+        "id": "ill-become-a-villainess-who-goes-down-in-history-19334",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4903e6baa10f5daa8b8ee25fb5eea368.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Medaka Kuroiwa is Impervious to My Charms",
+        "alternativeTitle": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+        "id": "medaka-kuroiwa-is-impervious-to-my-charms-19442",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/231735b91b586da331e59117fdb49e98.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Engage Kiss",
+        "alternativeTitle": "Engage Kiss",
+        "id": "engage-kiss-18082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b59f3e446abfd50808b5abe0f676b57.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bungo Stray Dogs 2",
+        "alternativeTitle": "Bungou Stray Dogs 2nd Season",
+        "id": "bungo-stray-dogs-2-288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b585220a97d25a8d40ec83c763daf3fe.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii-2484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8b8fc19aa42441f4b1b97a4f29952d0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cyberpunk: Edgerunners",
+        "alternativeTitle": "Cyberpunk: Edgerunners",
+        "id": "cyberpunk-edgerunners-15680",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e86efa8fddec162ec4e8550677cd8a86.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Revival of the Commandments",
+        "alternativeTitle": "Nanatsu no Taizai: Imashime no Fukkatsu",
+        "id": "the-seven-deadly-sins-revival-of-the-commandments-604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f20aab9d22941ff2b43411db338bb411.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure",
+        "alternativeTitle": "JoJo no Kimyou na Bouken",
+        "id": "jojos-bizarre-adventure-17864",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e825c9fb2edb7834361f1617e6a9bba9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokémon Horizons: The Series",
+        "alternativeTitle": "Pokemon (2023)",
+        "id": "pokemon-horizons-the-series-18397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b145f650126e400b69e783e3d6cdd2a.jpg",
+        "episodes": {
+          "sub": 103,
+          "dub": 89,
+          "eps": 103
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "KamiKatsu: Working for God in a Godless World",
+        "alternativeTitle": "Kaminaki Sekai no Kamisama Katsudou",
+        "id": "kamikatsu-working-for-god-in-a-godless-world-18361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ddb7ee9c09fb3cd8938ad8a9faaf748.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Elusive Samurai",
+        "alternativeTitle": "Nige Jouzu no Wakagimi",
+        "id": "the-elusive-samurai-19233",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ec60e43741263113cd1287467162fb5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokyo Ghoul:re 2nd Season",
+        "alternativeTitle": "Tokyo Ghoul:re 2nd Season",
+        "id": "tokyo-ghoulre-2nd-season-6585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1018175f05592c650c69c9c6e06b455b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Banished From the Heroes' Party",
+        "alternativeTitle": "Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shima",
+        "id": "banished-from-the-heroes-party-17372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6d02b5aed3045e9e2fb1070dfea3f4e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chivalry of a Failed Knight",
+        "alternativeTitle": "Rakudai Kishi no Cavalry",
+        "id": "chivalry-of-a-failed-knight-1406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b130f28a525b81efe19bc1f55fb351da.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Wrath of the Gods",
+        "alternativeTitle": "Nanatsu no Taizai: Kamigami no Gekirin",
+        "id": "the-seven-deadly-sins-wrath-of-the-gods-6469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a92f10726aa6fe6ba369bacefb61b8a0.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Kingdoms of Ruin",
+        "alternativeTitle": "Hametsu no Oukoku",
+        "id": "the-kingdoms-of-ruin-18586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8a508c8c04da9376e2fc4b6cc0713a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball GT",
+        "alternativeTitle": "Dragon Ball GT",
+        "id": "dragon-ball-gt-5743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa150fd93887a7cbdc4be0882584dc53.jpg",
+        "episodes": {
+          "sub": 64,
+          "dub": 64,
+          "eps": 64
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lord of Mysteries",
+        "alternativeTitle": "Guimi Zhi Zhu: Xiaochou Pian",
+        "id": "lord-of-mysteries-19802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c5a71674d8fc4af6ee57ffeb7b2617.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 2,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "35m"
+      },
+      {
+        "title": "In Another World With My Smartphone",
+        "alternativeTitle": "Isekai wa Smartphone to Tomo ni.",
+        "id": "in-another-world-with-my-smartphone-6705",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/948037c2ba3806e3a36d1480348ddca9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Teen Romantic Comedy SNAFU TOO!",
+        "alternativeTitle": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku",
+        "id": "my-teen-romantic-comedy-snafu-too-229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5888f0c5f7db0e289ad53ff0a0835a5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Hero Academia: Vigilantes",
+        "alternativeTitle": "Vigilante: Boku no Hero Academia Illegals",
+        "id": "my-hero-academia-vigilantes-19544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b06ba20c769cf017ebf654ca8e9fbda.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
+        "alternativeTitle": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+        "id": "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time-19441",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac8389e16478cd7283b8769c7ec9b484.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

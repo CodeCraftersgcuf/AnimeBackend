@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 42,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Fuuto PI",
+        "alternativeTitle": "Fuuto Tantei",
+        "id": "fuuto-pi-17831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c41edb6176739f747b71bd12f737f7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "D-Frag!",
+        "alternativeTitle": "D-Frag!",
+        "id": "d-frag-1268",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7c0f11d6811590fe24fcc48cc138dcb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chihayafuru",
+        "alternativeTitle": "Chihayafuru",
+        "id": "chihayafuru-253",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9211945732fcf5c2dcffda57859fe6cf.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Psycho-Pass 2",
+        "alternativeTitle": "Psycho-Pass 2",
+        "id": "psycho-pass-2-1774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e11304ee40b00691163cb7e9c2f5d709.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shine On! Bakumatsu Bad Boys",
+        "alternativeTitle": "Bucchigire!",
+        "id": "shine-on-bakumatsu-bad-boys-18093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/765737e0d198df7e62e026f990342382.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Diabolik Lovers II: More,Blood",
+        "alternativeTitle": "Diabolik Lovers More,Blood",
+        "id": "diabolik-lovers-ii-moreblood-8831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff02481c8c598b56d5eb943e41b766a1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Naruto OVA2: The Lost Story - Mission: Protect the Waterfall Village",
+        "alternativeTitle": "Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!",
+        "id": "naruto-ova2-the-lost-story-mission-protect-the-waterfall-village-4538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed2ca489d8c438c880056ea507efc93c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "40m"
+      },
+      {
+        "title": "Aishen Qiaokeli-ing...II",
+        "alternativeTitle": "Aishen Qiaokeli-ing...II",
+        "id": "aishen-qiaokeli-ingii-2470",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75fd257e22938239cc8ec8f83888944b.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "The Kawai Complex Guide to Manors and Hostel Behavior",
+        "alternativeTitle": "Bokura wa Minna Kawai-sou",
+        "id": "the-kawai-complex-guide-to-manors-and-hostel-behavior-927",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2597e2036d6b1d6e93517a94c89049d2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Plus-Sized Elf Specials",
+        "alternativeTitle": "Elf-san wa Yaserarenai. Specials",
+        "id": "plus-sized-elf-specials-19398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68a402018a7ca1dd9383eefcf3221935.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Swallowed Star",
+        "alternativeTitle": "Tunshi Xingkong",
+        "id": "swallowed-star-17328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bedf6c29d2edf7597e7295e101a1119c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Compass 2.0: Sentou Setsuri Kaiseki System",
+        "alternativeTitle": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+        "id": "compass-20-sentou-setsuri-kaiseki-system-19599",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ccb96cac6b38eca4a89fb22c8931bab.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex",
+        "id": "ghost-in-the-shell-stand-alone-complex-117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9b5d7aa68642642fc2f1eba2c22a8e9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Inu X Boku Secret Service",
+        "alternativeTitle": "Inu x Boku SS",
+        "id": "inu-x-boku-secret-service-1619",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/148102a5a0b865c69e801c583886f561.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Castle Town Dandelion",
+        "alternativeTitle": "Joukamachi no Dandelion",
+        "id": "castle-town-dandelion-2636",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91db03ca72b99c74fca7acab6c3ec74b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tokyo Twenty Fourth Ward",
+        "alternativeTitle": "Tokyo 24-ku",
+        "id": "tokyo-twenty-fourth-ward-17935",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24b15044482062ead72030e61ddb1a1e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wanna Be the Strongest in the World",
+        "alternativeTitle": "Sekai de Ichiban Tsuyoku Naritai!",
+        "id": "wanna-be-the-strongest-in-the-world-8522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4f008e42d00c9b5af3fbd9b1c996cbb4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Evangelion: 3.0 You Can (Not) Redo",
+        "alternativeTitle": "Evangelion: 3.0 You Can (Not) Redo",
+        "id": "evangelion-30-you-can-not-redo-1314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a24cdbc8138dfabfdcc4cc38edb31dc0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "The Family Circumstances of the Irregular Witch",
+        "alternativeTitle": "Dekoboko Majo no Oyako Jijou",
+        "id": "the-family-circumstances-of-the-irregular-witch-18569",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d80fa2d7a04017e8090125147a80a152.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Girls Bravo",
+        "alternativeTitle": "Girls Bravo: First Season",
+        "id": "girls-bravo-5956",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf45fedd82001116d31ca8d7f5add84b.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Walkure Romanze",
+        "alternativeTitle": "Walkure Romanze",
+        "id": "walkure-romanze-6235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6462dee7d764a125bee74490f05774a4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yusibu: I couldnt become a hero, so I reluctantly decided to get a job.",
+        "alternativeTitle": "Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.",
+        "id": "yusibu-i-couldnt-become-a-hero-so-i-reluctantly-decided-to-get-a-job-3862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87838ab0796ff0159b5441df5ef6ab8c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fog Hill of Five Elements 2nd Season",
+        "alternativeTitle": "Wu Shan Wu Xing (2020): Xichuan Huan Zi Lin",
+        "id": "fog-hill-of-five-elements-2nd-season-18453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad3b2f1d4d3045fb85b52aa7b7dcf27f.png",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "38m"
+      },
+      {
+        "title": "Yowamushi Pedal: Grande Road",
+        "alternativeTitle": "Yowamushi Pedal: Grande Road",
+        "id": "yowamushi-pedal-grande-road-364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b6ca043274ef7013f990e9f0e1308bc.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Beyblade",
+        "alternativeTitle": "Bakuten Shoot Beyblade",
+        "id": "beyblade-4692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c994b2103c5607cf0cba32c90f2b33b1.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mobile Suit Gundam 00",
+        "alternativeTitle": "Mobile Suit Gundam 00",
+        "id": "mobile-suit-gundam-00-354",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eed93ec91a5912c8f18d8b62ba314b73.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arifureta: From Commonplace to World's Strongest Season OVA",
+        "alternativeTitle": "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou",
+        "id": "arifureta-from-commonplace-to-worlds-strongest-season-ova-18113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0a33651b1449caf6b3b21f053f9c432.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "40m"
+      },
+      {
+        "title": "The Royal Tutor",
+        "alternativeTitle": "Oushitsu Kyoushi Heine",
+        "id": "the-royal-tutor-1597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6b5d20e7e0c510380332336840eeacb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mom, I'm Sorry",
+        "alternativeTitle": "Xiehou ta de Shaonu Shidai",
+        "id": "mom-im-sorry-19166",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a2d850b6623731483ad46c1d0d1d711.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "TV",
+        "duration": "17m"
+      },
+      {
+        "title": "Kemono Michi: Rise Up",
+        "alternativeTitle": "Hataage! Kemono Michi",
+        "id": "kemono-michi-rise-up-4746",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc6a352f5eb320dcae22f5cb5534e2e7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Monsters: 103 Mercies Dragon Damnation",
+        "alternativeTitle": "Monsters: Ippyaku Sanjou Hiryuu Jigoku",
+        "id": "monsters-103-mercies-dragon-damnation-18883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a38c7f54c449cb8b177467ae74c3d950.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Haigakura",
+        "alternativeTitle": "Haigakura",
+        "id": "haigakura-19361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c31d079ae74568b981d4168ef478dfa4.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bakuman.",
+        "alternativeTitle": "Bakuman.",
+        "id": "bakuman-252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd5ed101829ac3dd17f277e00e6e1cd1.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saga of Tanya the Evil: The Movie",
+        "alternativeTitle": "Youjo Senki Movie",
+        "id": "saga-of-tanya-the-evil-the-movie-211",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58271e987415c10aa8901374f4afbf93.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "Engaged to the Unidentified",
+        "alternativeTitle": "Mikakunin de Shinkoukei",
+        "id": "engaged-to-the-unidentified-1710",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/396b5f358b7d25ee30998c8fab534c22.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Don't Hurt Me, My Healer!",
+        "alternativeTitle": "Kono Healer, Mendokusai",
+        "id": "dont-hurt-me-my-healer-17989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42d6f6db197bdd7bc9778b71d02c634f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Otaku Elf",
+        "alternativeTitle": "Edomae Elf",
+        "id": "otaku-elf-18366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2e4971bd5e99246d35b407704eb4fcb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Valkyrie Drive: Mermaid Specials",
+        "alternativeTitle": "Valkyrie Drive: Mermaid Specials",
+        "id": "valkyrie-drive-mermaid-specials-7387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/660a857d7de453e80e1fbbebb2cff1db.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Initial D Extra Stage",
+        "alternativeTitle": "Initial D Extra Stage",
+        "id": "initial-d-extra-stage-2160",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cecb4f0ab6435f6916e64eeff5c9f55.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Fate/strange Fake: Whispers of Dawn",
+        "alternativeTitle": "Fate/strange Fake: Whispers of Dawn",
+        "id": "fatestrange-fake-whispers-of-dawn-18424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5813c505d71d0df64967424e746f749a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "55m"
+      }
+    ]
+  }
+}

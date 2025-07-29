@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 35,
+      "currentPage": 2,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Detective Conan Movie 27",
+        "alternativeTitle": "Meitantei Conan Movie 27: 100-man Dollar no Michishirube",
+        "id": "detective-conan-movie-27-19080",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab27c3b5684c5f03f1e007432663c434.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "111m"
+      },
+      {
+        "title": "Oomuro-ke: Dear Friends",
+        "alternativeTitle": "Oomuro-ke: Dear Friends",
+        "id": "oomuro-ke-dear-friends-19079",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ea1257d0c7d2959338e37847888a2c2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "43m"
+      },
+      {
+        "title": "My Oni Girl",
+        "alternativeTitle": "Suki demo Kirai na Amanojaku",
+        "id": "my-oni-girl-19076",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/731d42b1db07294e397cf73acaa59398.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Kuramerukagari",
+        "alternativeTitle": "Kuramerukagari",
+        "id": "kuramerukagari-19075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83b43d4a96a0ed8ca1fe36073ed058a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "62m"
+      },
+      {
+        "title": "i Ris the Movie: Full Energy!!",
+        "alternativeTitle": "i Ris the Movie: Full Energy!!",
+        "id": "i-ris-the-movie-full-energy-19073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28dbeb1e9babb590211ad733a835e177.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "Rascal Does Not Dream of a Sister Venturing Out",
+        "alternativeTitle": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-a-sister-venturing-out-18934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c563da71f1ff4427ee75cc413e75e14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "73m"
+      },
+      {
+        "title": "Dead Dead Demons Dededede Destruction",
+        "alternativeTitle": "Dead Dead Demons Dededede Destruction",
+        "id": "dead-dead-demons-dededede-destruction-18925",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d112670f41684d97015004293a087dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "Haikyu!! Movie: The Dumpster Battle",
+        "alternativeTitle": "Haikyuu!! Movie: Gomisuteba no Kessen",
+        "id": "haikyu-movie-the-dumpster-battle-18922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/013f3a18a20f41ab171794a391b30f07.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "Given Movie (2024)",
+        "alternativeTitle": "Given Movie (2024)",
+        "id": "given-movie-2024-18919",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c093b8b9234865c378afaf617d0e1d6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "70m"
+      },
+      {
+        "title": "Oomuro-ke: Dear Sisters",
+        "alternativeTitle": "Oomuro-ke",
+        "id": "oomuro-ke-dear-sisters-18916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9422d14cbfa41655b7c2e7757fc2b3cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "43m"
+      },
+      {
+        "title": "Ya Boy Kongming!: Road to Summer Sonia",
+        "alternativeTitle": "Paripi Koumei: Road to Summer Sonia",
+        "id": "ya-boy-kongming-road-to-summer-sonia-18913",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6027737328a36a7f1f226d26f6906347.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED Freedom",
+        "alternativeTitle": "Kidou Senshi Gundam SEED Freedom",
+        "id": "mobile-suit-gundam-seed-freedom-18910",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ba02bb512cb1fd9db3a1b30aa4f674a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "124m"
+      },
+      {
+        "title": "Bloody Escape: Jigoku no Tousou Geki",
+        "alternativeTitle": "Bloody Escape: Jigoku no Tousou Geki",
+        "id": "bloody-escape-jigoku-no-tousou-geki-18904",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da72279c0e01dc334a233adf386754d1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Psycho-Pass Movie: Providence",
+        "alternativeTitle": "Psycho-Pass Movie: Providence",
+        "id": "psycho-pass-movie-providence-18715",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98512a2461fa97887ee02fbde4d41c58.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "White Snake 2: The Tribulation of the Green Snake",
+        "alternativeTitle": "Bai She II: Qing She Jie Qi",
+        "id": "white-snake-2-the-tribulation-of-the-green-snake-18682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1beae1edd3598307a2396a04235371a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "132m"
+      },
+      {
+        "title": "Detective Conan Movie 26: Black Iron Submarine",
+        "alternativeTitle": "Meitantei Conan Movie 26: Kurogane no Submarine",
+        "id": "detective-conan-movie-26-black-iron-submarine-18655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7f3b1453a69e57058bf7c002957dd3e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "My Hero Academia: UA Heroes Battle",
+        "alternativeTitle": "Boku no Hero Academia: UA Heroes Battle",
+        "id": "my-hero-academia-ua-heroes-battle-18629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37f9348bd0d3dfc158225e4176d3587b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "23m"
+      },
+      {
+        "title": "Hamefura Movie",
+        "alternativeTitle": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… Movie",
+        "id": "hamefura-movie-18564",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2f482f7a05e8f240825af9cfd1e9a0c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Komada: A Whisky Family",
+        "alternativeTitle": "Komada Jouryuusho e Youkoso",
+        "id": "komada-a-whisky-family-18563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/141c19fcb134c4e39754683e6f424978.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Digimon Adventure 02 Movie",
+        "alternativeTitle": "Digimon Adventure 02: The Beginning",
+        "id": "digimon-adventure-02-movie-18562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2ca4978eb929f6cb449d3455540c51b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "The Imaginary",
+        "alternativeTitle": "Yaneura no Rudger",
+        "id": "the-imaginary-18561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/970f7ea7c174a2d9d76ad32ca990e7f5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "The Concierge",
+        "alternativeTitle": "Hokkyoku Hyakkaten no Concierge-san",
+        "id": "the-concierge-18560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a2a186083b4c2432d9ccf3e1580aea0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "67m"
+      },
+      {
+        "title": "Pole Princess!! Movie",
+        "alternativeTitle": "Pole Princess!! Movie",
+        "id": "pole-princess-movie-18558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75724ae0e564a89163b8b69b669e7b7b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "I Am What I Am",
+        "alternativeTitle": "Xiong Shi Shaonian",
+        "id": "i-am-what-i-am-18555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1caf6775f27fd0cd8c0b7957bee4d0c5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "The Summer",
+        "alternativeTitle": "Geu Yeoreum Movie",
+        "id": "the-summer-18553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48a7a381cfe141c285adc6cab7f64331.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Boonie Bears: Back to Earth",
+        "alternativeTitle": "Xiong Chumo: Chong Fan Di Qiu",
+        "id": "boonie-bears-back-to-earth-18549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/776f6f30237de96f76f6a1eda7b75860.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "Boonie Bears: The Wild Life",
+        "alternativeTitle": "Xiong Chumo: Kuang Ye Dalu",
+        "id": "boonie-bears-the-wild-life-18548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/811e5633ae90a4750f8775b3bb58d9b9.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "Free! Movie 5: The Final Stroke - Kouhen",
+        "alternativeTitle": "Free! Movie 5: The Final Stroke - Kouhen",
+        "id": "free-movie-5-the-final-stroke-kouhen-18504",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/27c8fa9475881ccdfe86175366317156.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Maboroshi",
+        "alternativeTitle": "Alice to Therese no Maboroshi Koujou",
+        "id": "maboroshi-18434",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80668730f0614c76d9dd374052f9d990.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Sound! Euphonium: Ensemble Contest Arc",
+        "alternativeTitle": "Hibike! Euphonium: Ensemble Contest-hen",
+        "id": "sound-euphonium-ensemble-contest-arc-18433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a539fd9e2c7bd1098d2982c5be2bf1b3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "57m"
+      },
+      {
+        "title": "Kaina of the Great Snow Sea: Star Sage",
+        "alternativeTitle": "Ooyukiumi no Kaina: Hoshi no Kenja",
+        "id": "kaina-of-the-great-snow-sea-star-sage-18432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7bcdf57e5a2008712593ee528cdbecd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Resident Evil: Death Island",
+        "alternativeTitle": "Biohazard: Death Island",
+        "id": "resident-evil-death-island-18429",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad6a6c8ef81ccb793cc22c9a42f5dded.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 31: Chounouryoku Daikessen - Tobe Tobe Temakizushi",
+        "alternativeTitle": "Crayon Shin-chan Movie 31: Chounouryoku Daikessen - Tobe Tobe Temakizushi",
+        "id": "crayon-shin-chan-movie-31-chounouryoku-daikessen-tobe-tobe-temakizushi-18427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f5636454096545ece6598937e935213.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Detective Conan Movie: The Story of Haibara Ai - Black Iron Mystery Train",
+        "alternativeTitle": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+        "id": "detective-conan-movie-the-story-of-haibara-ai-black-iron-mystery-train-18412",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1f3ad29aac1a9f9a56e0a84d61b3197.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      }
+    ]
+  }
+}

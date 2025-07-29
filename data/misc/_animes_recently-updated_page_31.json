@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 31,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Ryman's Club",
+        "alternativeTitle": "Ryman's Club",
+        "id": "rymans-club-17939",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5e4f446615021fe369af2800087416e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Ultraman 2",
+        "alternativeTitle": "Ultraman 2",
+        "id": "ultraman-2-15592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66de2539e8365578982e69adc805a1f5.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "All Saints Street 3",
+        "alternativeTitle": "Wan Sheng Jie 3",
+        "id": "all-saints-street-3-17969",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a27aca96da8af27d2fdaa2b1a3e1997a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "Ascendance of a Bookworm Season 3 Recap",
+        "alternativeTitle": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season Recap",
+        "id": "ascendance-of-a-bookworm-season-3-recap-18053",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a32693ab06967141bfdc0e24cb869ccc.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Kyoukai Senki",
+        "alternativeTitle": "Kyoukai Senki",
+        "id": "kyoukai-senki-17703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef568e86a3f334f0730d3be7172a41b2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Immortality",
+        "alternativeTitle": "Yong Sheng",
+        "id": "immortality-18029",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/398172753fd33d730f0601fc7df5c25a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Tiger & Bunny 2",
+        "alternativeTitle": "Tiger & Bunny 2",
+        "id": "tiger-bunny-2-15580",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/897c82bfa04ce2ce12df353cc02e5b02.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tokyo Twenty Fourth Ward",
+        "alternativeTitle": "Tokyo 24-ku",
+        "id": "tokyo-twenty-fourth-ward-17935",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24b15044482062ead72030e61ddb1a1e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Requiem of the Rose King Special",
+        "alternativeTitle": "Baraou no Souretsu Special",
+        "id": "requiem-of-the-rose-king-special-18038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bc5aaa16f9523246603e503dd7aec3c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Bakugan: Geogan Rising",
+        "alternativeTitle": "Bakugan: Geogan Rising",
+        "id": "bakugan-geogan-rising-17765",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/463b03ee7f8088b55bef8495e0473a76.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bakugan: Evolutions",
+        "alternativeTitle": "Bakugan: Evolutions",
+        "id": "bakugan-evolutions-18037",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a4f42f4670502584b7381d19cf788ed.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Yami Shibai 10",
+        "alternativeTitle": "Yami Shibai 10",
+        "id": "yami-shibai-10-17946",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df284eab6cb601dc56ea03d98acc1c1d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Attack on Titan: Final Season, Part 2",
+        "alternativeTitle": "Shingeki no Kyojin: The Final Season Part 2",
+        "id": "attack-on-titan-final-season-part-2-17753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/160831b6a0c1303e1439925d8f8c7395.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magia Record: Puella Magi Madoka Magica Side Story Final Season",
+        "alternativeTitle": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) Final Season - Asaki Yume no Akatsuki",
+        "id": "magia-record-puella-magi-madoka-magica-side-story-final-season-17988",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67e9a27512951a67829b31e5599269c4.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+        "alternativeTitle": "Kaijin Kaihatsu-bu no Kuroitsu-san",
+        "id": "kaijin-kaihatsu-bu-no-kuroitsu-san-17938",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1e3f6e3529ae5595b3241c81c26485b.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "How a Realist Hero Rebuilt the Kingdom Part 2",
+        "alternativeTitle": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2",
+        "id": "how-a-realist-hero-rebuilt-the-kingdom-part-2-17931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1b898989934ca5afaefb06a8318577d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Case Study of Vanitas Part 2",
+        "alternativeTitle": "Vanitas no Karte Part 2",
+        "id": "the-case-study-of-vanitas-part-2-17932",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/69a33eed1eac666829dbcc4b0f0e0c78.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+        "alternativeTitle": "Arifureta Shokugyou de Sekai Saikyou 2nd Season",
+        "id": "arifureta-shokugyou-de-sekai-saikyou-2nd-season-15646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/198b9eee37dbce85c8abd1b9647f6fb4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saiyuuki Reload: Zeroin",
+        "alternativeTitle": "Saiyuuki Reload: Zeroin",
+        "id": "saiyuuki-reload-zeroin-17438",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e489b99361bd7c7c1f9862f5ed655249.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Police in a Pod",
+        "alternativeTitle": "Hakozume: Kouban Joshi no Gyakushuu",
+        "id": "police-in-a-pod-17936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c46153cc22b7e9db575e2e5dc342d6ff.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love of Kill",
+        "alternativeTitle": "Koroshi Ai",
+        "id": "love-of-kill-17404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/27543b652a5b6bb9e4a57fd6470d41e1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Norimono Man: Mobile Land no Car-kun",
+        "alternativeTitle": "Norimono Man: Mobile Land no Car-kun",
+        "id": "norimono-man-mobile-land-no-car-kun-10801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7f6f068b1fe9752d29db1d948c80164.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "She professed herself the pupil of the wise man.",
+        "alternativeTitle": "Kenja no Deshi wo Nanoru Kenja",
+        "id": "she-professed-herself-the-pupil-of-the-wise-man-15762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31cc09da5bc793e7327f114618444142.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Genius Prince's Guide to Raising a Nation Out of Debt",
+        "alternativeTitle": "Tensai Ouji no Akaji Kokka Saisei Jutsu",
+        "id": "the-genius-princes-guide-to-raising-a-nation-out-of-debt-17506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67d9db2506cabd6031721e957a59c97d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+        "alternativeTitle": "Fantasy Bishoujo Juniku Ojisan to",
+        "id": "life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-17934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5984b825a46f169f7287eabf9dc35035.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gensou Sangokushi: Tengen Reishinki",
+        "alternativeTitle": "Gensou Sangokushi: Tengen Reishinki",
+        "id": "gensou-sangokushi-tengen-reishinki-17960",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ffa60b953d16efa3e81f3b54ea110a7.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Princess Connect! Re:Dive Season 2",
+        "alternativeTitle": "Princess Connect! Re:Dive Season 2",
+        "id": "princess-connect-redive-season-2-15520",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d777c4b3da26f8c39ae479ca6099060d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sabikui Bisco",
+        "alternativeTitle": "Sabikui Bisco",
+        "id": "sabikui-bisco-17683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5c8ae985d25c94b064ef6de8e9ebcda.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tribe Nine",
+        "alternativeTitle": "Tribe Nine",
+        "id": "tribe-nine-17937",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12134eae0520bf4402d69ea83bf3bd74.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yu☆Gi☆Oh!: Sevens",
+        "alternativeTitle": "Yu☆Gi☆Oh!: Sevens",
+        "id": "yugioh-sevens-9390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eda25afbd8e3baf78d17e31b7a5506b1.jpg",
+        "episodes": {
+          "sub": 92,
+          "dub": 92,
+          "eps": 92
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sasaki to Miyano",
+        "alternativeTitle": "Sasaki to Miyano",
+        "id": "sasaki-to-miyano-17364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a620ee2bc127407889b1832bfd5b1477.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Futsal Boys!!!!!",
+        "alternativeTitle": "Futsal Boys!!!!!",
+        "id": "futsal-boys-15709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ff8107999c597176f4b5cb975cd8490.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rusted Armors",
+        "alternativeTitle": "Sabiiro no Armor: Reimei",
+        "id": "rusted-armors-15530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df116f098d93551d8c211ca7021f93d8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yashahime: Princess Half-Demon: The Second Act",
+        "alternativeTitle": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou",
+        "id": "yashahime-princess-half-demon-the-second-act-17711",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51d3f0fe20d20d7ba2644f56fa20adf5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "LUPIN THE 3rd PART 6",
+        "alternativeTitle": "Lupin III: Part 6",
+        "id": "lupin-the-3rd-part-6-17913",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15bde8c8123d60a651c83dc25fd2d0b2.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Akebi's Sailor Uniform",
+        "alternativeTitle": "Akebi-chan no Sailor-fuku",
+        "id": "akebis-sailor-uniform-17724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68d88b19bced0cd659aa73737b319566.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Dress-Up Darling",
+        "alternativeTitle": "Sono Bisque Doll wa Koi wo Suru",
+        "id": "my-dress-up-darling-17930",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5567bb1cdafd71b2f2e04e353000517b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shikkakumon no Saikyou Kenja",
+        "alternativeTitle": "Shikkakumon no Saikyou Kenja",
+        "id": "shikkakumon-no-saikyou-kenja-17504",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/527c62fbd859591cafac5727e6b56e36.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dolls' Frontline",
+        "alternativeTitle": "Doll's Frontline",
+        "id": "dolls-frontline-17518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a99dfa563332e3ed8f4e14f04137a7ff.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Teasing Master Takagi-san 3",
+        "alternativeTitle": "Karakai Jouzu no Takagi-san 3",
+        "id": "teasing-master-takagi-san-3-17933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ed8eb9e6316a5bf07a9be9b1944835b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

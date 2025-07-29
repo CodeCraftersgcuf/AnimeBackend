@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 45,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Thermae Romae",
+        "alternativeTitle": "Thermae Romae Specials",
+        "id": "thermae-romae-3933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0aeaead56e842a022db7374bb37412b2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Thermae Romae",
+        "alternativeTitle": "Thermae Romae",
+        "id": "thermae-romae-3479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ae09d10765b0312d99703f95f807cbd.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Place to Place",
+        "alternativeTitle": "Acchi Kocchi (TV)",
+        "id": "place-to-place-1490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34e4aad09c1c33e760b3fb3b765cbd85.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sakura Quest",
+        "alternativeTitle": "Sakura Quest",
+        "id": "sakura-quest-1847",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fee2bdc04746a5d5f72eda07f80f19bc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Joshiraku",
+        "alternativeTitle": "Joshiraku",
+        "id": "joshiraku-1620",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b403cef96d2962fe85eb65a8bb328c4c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shangri-La",
+        "alternativeTitle": "Shangri-La",
+        "id": "shangri-la-3294",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/944c823b33058dc375f38e6eed431b74.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Recovery of an MMO Junkie",
+        "alternativeTitle": "Net-juu no Susume",
+        "id": "recovery-of-an-mmo-junkie-1098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed7b7f660972d7f163d94114246c5910.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "A Centaur's Life",
+        "alternativeTitle": "Centaur no Nayami",
+        "id": "a-centaurs-life-5769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2de3340b8cdb3b9ff98e219ae2bf3695.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Knight's & Magic",
+        "alternativeTitle": "Knight's & Magic",
+        "id": "knights-magic-2919",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6f5e8491c9c78af04d0fe40fe4165d2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Princess Principal",
+        "alternativeTitle": "Princess Principal",
+        "id": "princess-principal-1046",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6121e501dca1cf93dd4b8db1f4dd2caf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "After the Rain",
+        "alternativeTitle": "Koi wa Ameagari no You ni",
+        "id": "after-the-rain-1445",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a922222c3a7778c0038cec52f25b8c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Aesthetica of a Rogue Hero",
+        "alternativeTitle": "Hagure Yuusha no Aesthetica",
+        "id": "aesthetica-of-a-rogue-hero-3795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e46274087ed105037ffe754fb42daa7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Drifters",
+        "alternativeTitle": "Drifters",
+        "id": "drifters-590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/468639f57a4c221f6ed135cef78b926b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Akiba's Trip The Animation",
+        "alternativeTitle": "Akiba's Trip The Animation",
+        "id": "akibas-trip-the-animation-5393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a735cebef8426a61111f58d29c0b5490.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Bride is a Mermaid",
+        "alternativeTitle": "Seto no Hanayome",
+        "id": "my-bride-is-a-mermaid-873",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ef064258d3a3316948bc1f4b2cd3d36.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ryuu no Haisha",
+        "alternativeTitle": "Ryuu no Haisha",
+        "id": "ryuu-no-haisha-1775",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/007303f01ea11aa16e6fb46f5f92b8e4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "46m"
+      },
+      {
+        "title": "Girls Beyond the Wasteland",
+        "alternativeTitle": "Shoujo-tachi wa Kouya wo Mezasu",
+        "id": "girls-beyond-the-wasteland-6564",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cac40422b29b234e6530779640a8d036.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pupa",
+        "alternativeTitle": "Pupa",
+        "id": "pupa-10661",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5a406546d080ca549ff10967acc2625.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Comet Lucifer",
+        "alternativeTitle": "Comet Lucifer",
+        "id": "comet-lucifer-8424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48352ca1c614c60930288348bd1ddea4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Takunomi",
+        "alternativeTitle": "Takunomi.",
+        "id": "takunomi-6133",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39ebbdc7662f3cf8aea459240493b647.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Air Gear",
+        "alternativeTitle": "Air Gear",
+        "id": "air-gear-1449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/590667c5e75bc93230b3429e20a6da02.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Record of Lodoss War: Chronicles of the Heroic Knight",
+        "alternativeTitle": "Lodoss-tou Senki: Eiyuu Kishi Den",
+        "id": "record-of-lodoss-war-chronicles-of-the-heroic-knight-2924",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b92d806e06661883a5131e0f3ad686a.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 27,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Record of Lodoss War",
+        "alternativeTitle": "Lodoss-tou Senki",
+        "id": "record-of-lodoss-war-1893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a18c637c62768846d68f6705ee1924f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Sasami-san@Ganbaranai",
+        "alternativeTitle": "Sasami-san@Ganbaranai",
+        "id": "sasami-sanganbaranai-4868",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dedfdd821c988f2fa34cd5e12497513b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "D-Frag!",
+        "alternativeTitle": "D-Frag!",
+        "id": "d-frag-1268",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7c0f11d6811590fe24fcc48cc138dcb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "FLCL",
+        "alternativeTitle": "FLCL",
+        "id": "flcl-485",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a8c52d06daa37855b9e5725a7c48939.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Ping Pong the Animation",
+        "alternativeTitle": "Ping Pong the Animation",
+        "id": "ping-pong-the-animation-58",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23379118be32fe69cd7128184f93dd8d.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Haruchika: Haruta & Chika",
+        "alternativeTitle": "HaruChika: Haruta to Chika wa Seishun suru",
+        "id": "haruchika-haruta-chika-6457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c58fbe38d3659f50bc0779afb71c7c8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pucca",
+        "alternativeTitle": "Pucca",
+        "id": "pucca-5616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18a0a0343b1935bf22465b877b9ca7fb.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Whispered Words",
+        "alternativeTitle": "Sasameki Koto",
+        "id": "whispered-words-3123",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd0a63429a3dc13eb93b972aeea63953.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Horizon in the Middle of Nowhere II",
+        "alternativeTitle": "Kyoukaisenjou no Horizon II",
+        "id": "horizon-in-the-middle-of-nowhere-ii-1388",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9390571b56e3b23783891a586ad50037.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Coppelion",
+        "alternativeTitle": "Coppelion",
+        "id": "coppelion-5839",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1819d3c40b9fdc999d537162c648d3c8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Armed Librarians: The Book of Bantorra",
+        "alternativeTitle": "Tatakau Shisho: The Book of Bantorra",
+        "id": "armed-librarians-the-book-of-bantorra-2543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c6455da1443aa540277e2c5c8cc7327.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 27,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Angel Tales",
+        "alternativeTitle": "Otogi Story Tenshi no Shippo",
+        "id": "angel-tales-5436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cb9f3376df5478c3ce0be85df7a90d0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Aoharu x Machinegun",
+        "alternativeTitle": "Aoharu x Kikanjuu",
+        "id": "aoharu-x-machinegun-2739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6b6610243eac6a898efb3a46e5ee66c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kuroko's Basketball 2",
+        "alternativeTitle": "Kuroko no Basket 2nd Season",
+        "id": "kurokos-basketball-2-207",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bceccbe201b58e9b21a1122d04c63bc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bamboo Blade",
+        "alternativeTitle": "Bamboo Blade",
+        "id": "bamboo-blade-2112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c107576679a1ba68403beed4d33a495.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Baki: Dai Raitaisai-hen",
+        "alternativeTitle": "Baki: Dai Raitaisai-hen",
+        "id": "baki-dai-raitaisai-hen-1563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b45c40e018680e462d51c2c0c7da181.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Baka & Test - Summon the Beasts",
+        "alternativeTitle": "Baka to Test to Shoukanjuu",
+        "id": "baka-test-summon-the-beasts-1199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e482f96af57358e7c2a1dadab9f79b2f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Back Street Girls: Gokudolls",
+        "alternativeTitle": "Back Street Girls: Gokudolls",
+        "id": "back-street-girls-gokudolls-3888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd99fea6373ea7fe67af5718814b4d0e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

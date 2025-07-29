@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 65,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Welcome to THE SPACE SHOW",
+        "alternativeTitle": "Uchuu Show e Youkoso",
+        "id": "welcome-to-the-space-show-2022",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/651b1678e122599c3f0af02dd9bfbd22.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "136m"
+      },
+      {
+        "title": "Tales of Zestiria the Cross 2nd Season",
+        "alternativeTitle": "Tales of Zestiria the Cross 2nd Season",
+        "id": "tales-of-zestiria-the-cross-2nd-season-2020",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ada27d79368f005ec133f28f2e4783f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Food Wars! The Fifth Plate",
+        "alternativeTitle": "Shokugeki no Souma: Gou no Sara",
+        "id": "food-wars-the-fifth-plate-2018",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eeb135e1c40d01554fbb8cca16062385.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Science Fell in Love, So I Tried to Prove It",
+        "alternativeTitle": "Rikei ga Koi ni Ochita no de Shoumei shitemita.",
+        "id": "science-fell-in-love-so-i-tried-to-prove-it-2014",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f73e54d968adadc96c706494a3acd875.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Flame of Recca",
+        "alternativeTitle": "Rekka no Honoo",
+        "id": "flame-of-recca-2013",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcf1506df4cd01e52e4d6d3f41be4cea.jpg",
+        "episodes": {
+          "sub": 42,
+          "dub": 42,
+          "eps": 42
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tenchi Muyo! Ryo-Ohki: The Night Before The Carnival",
+        "alternativeTitle": "Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!",
+        "id": "tenchi-muyo-ryo-ohki-the-night-before-the-carnival-2005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf42ffc0a017bc1c6115b63011614261.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Tamako Market",
+        "alternativeTitle": "Tamako Market",
+        "id": "tamako-market-2004",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/097279ab80260da003feaf16040768c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "You're Under Arrest The Movie",
+        "alternativeTitle": "Taiho Shichau zo The Movie",
+        "id": "youre-under-arrest-the-movie-2003",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2af493715f0ecd51104db760d593886a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Slayers: The Book of Spells",
+        "alternativeTitle": "Slayers Special",
+        "id": "slayers-the-book-of-spells-2001",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/489d2f8d6aee60b5aeb4ef5d7958622f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Shakugan no Shana S: OVA Series",
+        "alternativeTitle": "Shakugan no Shana S",
+        "id": "shakugan-no-shana-s-ova-series-2000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13db5f35a22618ed530cca4c004da41e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "The Helpful Fox Senko-san",
+        "alternativeTitle": "Sewayaki Kitsune no Senko-san",
+        "id": "the-helpful-fox-senko-san-1999",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb31c3548b53b2645718c62441783913.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "s-CRY-ed",
+        "alternativeTitle": "s.CRY.ed",
+        "id": "s-cry-ed-1996",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a07fd3abe42fd44f77030e2c2d809b2.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rokka: Braves of the Six Flowers",
+        "alternativeTitle": "Rokka no Yuusha",
+        "id": "rokka-braves-of-the-six-flowers-1995",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa2f84517b48e3c7a89853a457f3bc5c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon The Movie 02: The Movie 2000 - The Power of One",
+        "alternativeTitle": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
+        "id": "pokemon-the-movie-02-the-movie-2000-the-power-of-one-1994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d04dc09e43aee4a5c0567b8f718b767.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Lupin III: Farewell to Nostradamus",
+        "alternativeTitle": "Lupin III: Kutabare! Nostradamus",
+        "id": "lupin-iii-farewell-to-nostradamus-1991",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/341a322fb881428da6d6c9a083c3a5be.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Ghost in the Shell: Arise - Border 3: Ghost Tears",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears",
+        "id": "ghost-in-the-shell-arise-border-3-ghost-tears-1990",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e2be40a0291cbc98ac31423bfa14b92.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "58m"
+      },
+      {
+        "title": "Kakegurui××",
+        "alternativeTitle": "Kakegurui××",
+        "id": "kakegurui-1988",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43c62121394e798b44fb0aadab6bbf15.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Himouto! Umaru-chan R",
+        "alternativeTitle": "Himouto! Umaru-chan R",
+        "id": "himouto-umaru-chan-r-1987",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5777f39385f5161607a21550bc742ec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "City Hunter: Million Dollar Conspiracy",
+        "alternativeTitle": "City Hunter: Hyakuman Dollar no Inbou",
+        "id": "city-hunter-million-dollar-conspiracy-1979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80fa65bd453bac285f41ecaf20c60aab.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Chrome Shelled Regios",
+        "alternativeTitle": "Chrome Shelled Regios",
+        "id": "chrome-shelled-regios-1978",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b792f2cfdffc342a1be9a858cc110b7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wave, Listen to Me!",
+        "alternativeTitle": "Nami yo Kiitekure",
+        "id": "wave-listen-to-me-1972",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a27787428f6935f49c18312b0d01ff5c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mardock Scramble: The Second Combustion",
+        "alternativeTitle": "Mardock Scramble: The Second Combustion",
+        "id": "mardock-scramble-the-second-combustion-1970",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13a33931cb652c4b613731271bd004eb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "64m"
+      },
+      {
+        "title": "Dragon Pilot: Hisone and Masotan",
+        "alternativeTitle": "Hisone to Maso-tan",
+        "id": "dragon-pilot-hisone-and-masotan-1966",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f7f5ba3be5bd24802b86bd2d8bb0671.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Date A Live: Date to Date",
+        "alternativeTitle": "Date A Live: Date to Date",
+        "id": "date-a-live-date-to-date-1963",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dea91856f9d5bb38b8af564de1e86574.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Cat",
+        "alternativeTitle": "Black Cat (TV)",
+        "id": "black-cat-1962",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c41deb93e8fdef0ab63f9260ec3f370.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zoids",
+        "alternativeTitle": "Zoids",
+        "id": "zoids-1957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2794ea1274404aa715e5f92e744adbe6.jpg",
+        "episodes": {
+          "sub": 67,
+          "dub": 67,
+          "eps": 67
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Towanoquon: The Ephemeral Petals",
+        "alternativeTitle": "Towa no Quon 1: Utakata no Kaben",
+        "id": "towanoquon-the-ephemeral-petals-1953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a33e5d0bf1536d8e468a8d71e0f30167.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
+        "alternativeTitle": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
+        "id": "soukyuu-no-fafner-dead-aggressor-heaven-and-earth-1947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9834d987279c081d5a8b3b817de3b039.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Shakugan no Shana: The Movie",
+        "alternativeTitle": "Shakugan no Shana Movie",
+        "id": "shakugan-no-shana-the-movie-1943",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c6107b9e10611439612f45ad3f536df.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Sekirei: Pure Engagement",
+        "alternativeTitle": "Sekirei: Pure Engagement",
+        "id": "sekirei-pure-engagement-1942",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3036e93bb1fe5ef63ba1736d11488335.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sankarea: Undying Love",
+        "alternativeTitle": "Sankarea",
+        "id": "sankarea-undying-love-1939",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17c60ce5a71362c43a3cfcbd797348ad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Charge!! Men's Private School",
+        "alternativeTitle": "Sakigake!! Otokojuku",
+        "id": "charge-mens-private-school-1938",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b9c3f87ca7518be23d250d22272c9f3.jpg",
+        "episodes": {
+          "sub": 34,
+          "dub": 34,
+          "eps": 34
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ranma ½: Team Ranma vs. The Legendary Phoenix",
+        "alternativeTitle": "Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou",
+        "id": "ranma-team-ranma-vs-the-legendary-phoenix-1936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42473588dbdc809cf795c5a8cc037da0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "31m"
+      },
+      {
+        "title": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
+        "alternativeTitle": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
+        "id": "nodame-cantabile-nodame-to-chiaki-no-umi-monogatari-1932",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83e02a832394520397f53d4eacf048da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "15m"
+      }
+    ]
+  }
+}

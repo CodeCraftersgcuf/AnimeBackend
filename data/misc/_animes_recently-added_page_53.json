@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 53,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "ItaKiss",
+        "alternativeTitle": "Itazura na Kiss",
+        "id": "itakiss-1398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2c6b34bf0e467936d1e138cbd5c8fcc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tenchi Muyo! Ryo-Ohki 5th Season",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 5th Season",
+        "id": "tenchi-muyo-ryo-ohki-5th-season-7126",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bed5209cfc749c4bfad0edc17ddb3a76.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Tenchi Muyo! Ryo-Ohki 2nd Season",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 2nd Season",
+        "id": "tenchi-muyo-ryo-ohki-2nd-season-1092",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6d652f5444b821796d2b9236cc03fc7.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Tenchi Muyo! Ryo-Ohki 3rd Season",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 3rd Season",
+        "id": "tenchi-muyo-ryo-ohki-3rd-season-2198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/915e0171026fe09daf6e4dc16d581090.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Tenchi Muyo! Ryo-Ohki",
+        "alternativeTitle": "Tenchi Muyou! Ryououki",
+        "id": "tenchi-muyo-ryo-ohki-1103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9db9b9565c0ada51df6dfd60d6b2006a.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Katsugeki Touken Ranbu",
+        "alternativeTitle": "Katsugeki/Touken Ranbu",
+        "id": "katsugeki-touken-ranbu-4643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e7840b694a70fc08c8223dfc5c2a522.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tenchi Muyou! Ryououki 2nd Season - Special",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 2nd Season Picture Drama",
+        "id": "tenchi-muyou-ryououki-2nd-season-special-3929",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2705a9063dc51f08e656e08a9ee672d9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?",
+        "alternativeTitle": "Tenchi Muyou! Ryououki 3rd Season: Tenchi Seirou naredo Namitakashi?",
+        "id": "tenchi-muyou-ryououki-3rd-season-tenchi-seirou-naredo-namitakashi-2463",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04c902a93f749e99078361418e7969d9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Tenchi Muyo! War on Geminar",
+        "alternativeTitle": "Isekai no Seikishi Monogatari",
+        "id": "tenchi-muyo-war-on-geminar-704",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0411e6efcb6748ffb979d72352001fa3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Tenchi Muyo! Ryo-Ohki: The Night Before The Carnival",
+        "alternativeTitle": "Tenchi Muyou! Ryououki: Omatsuri Zenjitsu no Yoru!",
+        "id": "tenchi-muyo-ryo-ohki-the-night-before-the-carnival-2005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf42ffc0a017bc1c6115b63011614261.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "High Score Girl II",
+        "alternativeTitle": "High Score Girl II",
+        "id": "high-score-girl-ii-367",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83f6c49c82a9143d15cdd63c79499dc9.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 9,
+          "eps": 9
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "High Score Girl",
+        "alternativeTitle": "High Score Girl",
+        "id": "high-score-girl-628",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d747aae80886f53ce0ae712d8db56d8c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High Score Girl: Extra Stage",
+        "alternativeTitle": "High Score Girl: Extra Stage",
+        "id": "high-score-girl-extra-stage-436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/982a63018f262d74a0b6dc5a1073a05e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Golden Time",
+        "alternativeTitle": "Golden Time",
+        "id": "golden-time-849",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db2330c52b71f75c5a5ad9ba6f16167e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Great Teacher Onizuka",
+        "alternativeTitle": "Great Teacher Onizuka",
+        "id": "great-teacher-onizuka-42",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48e3444bbb6d58d37977b6e2c6a78cb2.jpg",
+        "episodes": {
+          "sub": 43,
+          "dub": 43,
+          "eps": 43
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ikkitousen: Xtreme Xecutor",
+        "alternativeTitle": "Ikkitousen: Xtreme Xecutor",
+        "id": "ikkitousen-xtreme-xecutor-4395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/911a1fe9d4e38463a1473ab9a6866d66.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ikkitousen: Great Guardians",
+        "alternativeTitle": "Ikkitousen: Great Guardians",
+        "id": "ikkitousen-great-guardians-4394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9697f91e50a5626bbf1e9332e714fbc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ikkitousen: Dragon Destiny",
+        "alternativeTitle": "Ikkitousen: Dragon Destiny",
+        "id": "ikkitousen-dragon-destiny-4311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d247f9e1671a8ddbb5a2473751f776e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ikki Tousen",
+        "alternativeTitle": "Ikkitousen",
+        "id": "ikki-tousen-5962",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e73d906f0c3f37fe7b1d75720b99b539.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "PriPara",
+        "alternativeTitle": "PriPara",
+        "id": "pripara-1660",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d29f181d6418a252bdaf728307d0f68f.jpg",
+        "episodes": {
+          "sub": 140,
+          "dub": 0,
+          "eps": 140
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "KADO: The Right Answer",
+        "alternativeTitle": "Seikaisuru Kado",
+        "id": "kado-the-right-answer-4237",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c06f16afb3d7018a8a514564fe8d258.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kabaneri of the Iron Fortress",
+        "alternativeTitle": "Koutetsujou no Kabaneri",
+        "id": "kabaneri-of-the-iron-fortress-2523",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1bb67a318b2e7463c50bba74bcb5c7b1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Kirby: Right Back at Ya!",
+        "alternativeTitle": "Hoshi no Kirby",
+        "id": "kirby-right-back-at-ya-4561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a4449a100d7ca91a55620d289f3ab27b.jpg",
+        "episodes": {
+          "sub": 70,
+          "dub": 0,
+          "eps": 100
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Miami Guns",
+        "alternativeTitle": "Miami Guns",
+        "id": "miami-guns-5889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5dac4b616ee5e40837029b1636f3408.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ga-Rei-Zero",
+        "alternativeTitle": "Ga-Rei: Zero",
+        "id": "ga-rei-zero-1168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be0e98287d845d37f18b7f4e36d7df13.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Guardian Ninja Mamoru",
+        "alternativeTitle": "Kage kara Mamoru!",
+        "id": "guardian-ninja-mamoru-5186",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61f3a0bb57a740581c75ef468a117bfe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beryl and Sapphire",
+        "alternativeTitle": "Xiao Lu He Xiao Lan",
+        "id": "beryl-and-sapphire-1145",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d91fae1d8ddadba53d38baacdff68ae2.jpg",
+        "episodes": {
+          "sub": 72,
+          "dub": 0,
+          "eps": 72
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Knights of the Zodiac: Saint Seiya",
+        "alternativeTitle": "Knights of the Zodiac: Saint Seiya",
+        "id": "knights-of-the-zodiac-saint-seiya-10079",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8096d76a8820327e75047ca9c5a0db48.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "The King's Avatar",
+        "alternativeTitle": "Quanzhi Gaoshou",
+        "id": "the-kings-avatar-521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63830a1e1fb1ced93679fadc8ecc2461.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Denshin Mamotte Shugogetten",
+        "alternativeTitle": "Denshin Mamotte Shugogetten",
+        "id": "denshin-mamotte-shugogetten-5773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23d78e9ad46988d88b73f87d43e5e9ac.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "The King's Avatar (2018)",
+        "alternativeTitle": "Quanzhi Gaoshou Specials",
+        "id": "the-kings-avatar-2018-183",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66593edc09cc6cb7ab42381a47c8fb64.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "27m"
+      },
+      {
+        "title": "Protect Me, Heavenly Moon Guardian!",
+        "alternativeTitle": "Mamotte Shugogetten!",
+        "id": "protect-me-heavenly-moon-guardian-4904",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2b1e8bea22a1c31670d2482c536a0f5.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beet the Vandel Buster",
+        "alternativeTitle": "Bouken Ou Beet",
+        "id": "beet-the-vandel-buster-3660",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17654cd3efa145f36c9b424f96639ca9.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "High Speed Jessie",
+        "alternativeTitle": "Hi-Speed Jecy",
+        "id": "high-speed-jessie-7529",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b96ab0061d1745dc6aae656b2617397.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Let's Nupu Nupu",
+        "alternativeTitle": "Let's Nupu Nupu",
+        "id": "lets-nupu-nupu-6842",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cbe8e9691ae1594a81ee4b2971858d5.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Beyblade: Metal Masters",
+        "alternativeTitle": "Metal Fight Beyblade: Baku",
+        "id": "beyblade-metal-masters-4570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8733dfe7340dc281f40981e9419abb91.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Chronicles of the Going Home Club",
+        "alternativeTitle": "Kitakubu Katsudou Kiroku",
+        "id": "chronicles-of-the-going-home-club-4451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84b55bd2e7afa9cd436b64a549ac67e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chronicles of the Going Home Club: Chibi Theater",
+        "alternativeTitle": "Kitakubu Katsudou Kiroku: Miniature Theater",
+        "id": "chronicles-of-the-going-home-club-chibi-theater-6896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fb31748c17376656c37e4fa5b89a38c.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Kurau Phantom Memory",
+        "alternativeTitle": "Kurau Phantom Memory",
+        "id": "kurau-phantom-memory-2068",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9060cadfcf1f69f661b84118aa478dce.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "I Tried Asking In Dogeza",
+        "alternativeTitle": "Dogeza de Tanondemita",
+        "id": "i-tried-asking-in-dogeza-15688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a54dc82e3158df1eb8616f87b31c358.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      }
+    ]
+  }
+}

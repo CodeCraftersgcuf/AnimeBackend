@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 185,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Macross Plus Movie Edition",
+        "alternativeTitle": "Macross Plus Movie Edition",
+        "id": "macross-plus-movie-edition-965",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/657e628521563e3f078d859f5b3ec1de.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Black★Rock Shooter (OVA)",
+        "alternativeTitle": "Black★Rock Shooter (OVA)",
+        "id": "blackrock-shooter-ova-3051",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb2ae241ddb3ffed6f22fc325ecd16ef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0083: Stardust Memory Picture Drama - The Mayfly of Space 2",
+        "alternativeTitle": "Mobile Suit Gundam 0083: Stardust Memory Picture Drama - The Mayfly of Space 2",
+        "id": "mobile-suit-gundam-0083-stardust-memory-picture-drama-the-mayfly-of-space-2-9044",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1feb0df11d03e35cdecdbb8f4953056.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space",
+        "alternativeTitle": "Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space",
+        "id": "mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space-8019",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5355e2503db8e89d51824992dee800e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Blue Giant",
+        "alternativeTitle": "Blue Giant",
+        "id": "blue-giant-18260",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5b57665720a276573b5dcdfa0e4b77f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Chalk-iro no People",
+        "alternativeTitle": "Chalk-iro no People",
+        "id": "chalk-iro-no-people-13172",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e104899fbfa72b6a8fd8400f9012fb3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "54m"
+      },
+      {
+        "title": "Otaku no Video",
+        "alternativeTitle": "Otaku no Video",
+        "id": "otaku-no-video-2948",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc21c45619586a6fe3ad15ee3a13fc3d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "Ozma",
+        "alternativeTitle": "Ozma",
+        "id": "ozma-7546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/847ad1c64e4f402c124cac50f21cbbd8.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kyomu Senshi Miroku",
+        "alternativeTitle": "Kyomu Senshi Miroku",
+        "id": "kyomu-senshi-miroku-8100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3a4d4a948a5db73188811a62ebe6394.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Our Home's Fox Deity",
+        "alternativeTitle": "Wagaya no Oinari-sama.",
+        "id": "our-homes-fox-deity-2618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc904f65539866062cb3f8ac30c7bcf9.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dorami-chan: Mini-Dora SOS!!!",
+        "alternativeTitle": "Dorami-chan: Mini-Dora SOS!!!",
+        "id": "dorami-chan-mini-dora-sos-6363",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23ee75f0c611741947b878eea3df3d6e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "Sword Art Online Movie: Ordinal Scale - Sword Art Offline",
+        "alternativeTitle": "Sword Art Online Movie: Ordinal Scale - Sword Art Offline",
+        "id": "sword-art-online-movie-ordinal-scale-sword-art-offline-3928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71a2ea00885463a289e92864ce046104.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "14m"
+      },
+      {
+        "title": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+        "alternativeTitle": "Touken Ranbu Kai: Kyoden Moyuru Honnouji",
+        "id": "touken-ranbu-kai-kyoden-moyuru-honnouji-19102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e305d12d9f685ef3e323d955b0ff6ee8.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Otome Youkai Zakuro Picture Drama",
+        "alternativeTitle": "Otome Youkai Zakuro Picture Drama",
+        "id": "otome-youkai-zakuro-picture-drama-6668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd397175317484a78d9c14718879693b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Otaku no Seiza",
+        "alternativeTitle": "Otaku no Seiza",
+        "id": "otaku-no-seiza-9070",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25c50828b52b5013f22ecd31358ae99a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Bernard-jou Iwaku.: Ofuro Dokusho",
+        "alternativeTitle": "Bernard-jou Iwaku.: Ofuro Dokusho",
+        "id": "bernard-jou-iwaku-ofuro-dokusho-8846",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/becd25ebb88635fd7d864cdfa23eacf7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Spare Me, Great Lord! 2nd Season",
+        "alternativeTitle": "Da Wang Rao Ming 2",
+        "id": "spare-me-great-lord-2nd-season-19164",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b111c87a33d221a6168ff85fc9b96c2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Fabulous Beasts 2nd Season",
+        "alternativeTitle": "You Shou Yan 2nd Season",
+        "id": "fabulous-beasts-2nd-season-18676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c82eb27e46b294e4c5a52b1bd9a1856.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Fabulous Beasts",
+        "alternativeTitle": "You Shou Yan",
+        "id": "fabulous-beasts-18673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c46e8344e1df69cb4b3d7f9cfd0b6af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Once Upon A Time",
+        "alternativeTitle": "Windaria",
+        "id": "once-upon-a-time-5529",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/903dab57fae4756c236f0aaa5789325b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "God Troubles Me 4th Season",
+        "alternativeTitle": "Hanhua Riji 4th Season",
+        "id": "god-troubles-me-4th-season-19162",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2184f1d016d5bf7d633fc128beb8cc0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Dance with Devils: Fortuna",
+        "alternativeTitle": "Dance with Devils: Fortuna",
+        "id": "dance-with-devils-fortuna-6507",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ff3670ff88aeb6029aeaf3e52afce6f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+        "alternativeTitle": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru",
+        "id": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-motenaishi-nazomeite-miru-3483",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68b3126e4bc5be8bacb7c7e396fa7008.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "KADO: The Right Answer – Beyond Information",
+        "alternativeTitle": "Seikaisuru Kado: Beyond Information",
+        "id": "kado-the-right-answer-beyond-information-7398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6e5c6f89e75b63bdd6a91ca3412c3e9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "120m"
+      },
+      {
+        "title": "Chibi Godzilla Raids Again",
+        "alternativeTitle": "Chibi Godzilla no Gyakushuu",
+        "id": "chibi-godzilla-raids-again-19160",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7cddc8c701b70737bdb30f7af3c3a14.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Dirty Pair: Project Eden",
+        "alternativeTitle": "Dirty Pair: The Movie",
+        "id": "dirty-pair-project-eden-3340",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ffe70cd2a4e4c6baf987f263f88dd5a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "81m"
+      },
+      {
+        "title": "Laidbackers",
+        "alternativeTitle": "Laidbackers",
+        "id": "laidbackers-7292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10bf4214c613768ad306d71e2220fc9f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "58m"
+      },
+      {
+        "title": "Captain Bal",
+        "alternativeTitle": "Captain Bal",
+        "id": "captain-bal-13152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88b5c4abba9f6607ccd483c6fb7822ae.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "22m"
+      },
+      {
+        "title": "Boku no Hero Academia: Memories",
+        "alternativeTitle": "Boku no Hero Academia: Memories",
+        "id": "boku-no-hero-academia-memories-19154",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/546255edfb14bcd4725faa09393f3f71.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Video Girl Ai",
+        "alternativeTitle": "Video Girl Ai",
+        "id": "video-girl-ai-2708",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8db85f55cac5de177e39c34342ad3a7.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Sore Ike! Anpanman: Fuwa Fuwa Fuwaly to Kumo no Kuni",
+        "alternativeTitle": "Sore Ike! Anpanman: Fuwa Fuwa Fuwaly to Kumo no Kuni",
+        "id": "sore-ike-anpanman-fuwa-fuwa-fuwaly-to-kumo-no-kuni-15559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15dbb67bbda0a038760f6734d917c952.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "62m"
+      },
+      {
+        "title": "Nadia: The Secret of Blue Water - The Motion Picture",
+        "alternativeTitle": "Fushigi no Umi no Nadia: Original Movie",
+        "id": "nadia-the-secret-of-blue-water-the-motion-picture-9710",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47d65023b490707f93fbe61af317b34c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "87m"
+      },
+      {
+        "title": "Dorami-chan: A Blue Straw Hat",
+        "alternativeTitle": "Dorami-chan: A Blue Straw Hat",
+        "id": "dorami-chan-a-blue-straw-hat-13456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0772e2cb8d118a67bad5ed8c23e3d06.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "15m"
+      },
+      {
+        "title": "Tales of Demons and Gods Season 5",
+        "alternativeTitle": "Yao Shen Ji 5th Season",
+        "id": "tales-of-demons-and-gods-season-5-19157",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23c3dc4b9f2a025cd922a134b69920ae.jpg",
+        "episodes": {
+          "sub": 104,
+          "dub": 0,
+          "eps": 104
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Kaikan Phrase",
+        "alternativeTitle": "Kaikan Phrase",
+        "id": "kaikan-phrase-1889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fcb87276dae6f7b83e4c7591a2e4c47.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "MM! Hidden Camera Shorts",
+        "alternativeTitle": "MM! Specials",
+        "id": "mm-hidden-camera-shorts-5116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2785e19f48ed4982267ffdb10478d240.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Venus Wars",
+        "alternativeTitle": "Venus Senki",
+        "id": "venus-wars-4494",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f3e7ed966cf3f1bff3c31d596d49f32.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "103m"
+      },
+      {
+        "title": "Locke the Superman",
+        "alternativeTitle": "Choujin Locke",
+        "id": "locke-the-superman-6361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ab9f7e5fedbc21e7f768901a9f27d5c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+        "alternativeTitle": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+        "id": "chuunibyou-demo-koi-ga-shitai-movie-take-on-me-328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd7c5226f1587ebcd2c1484090baf4fd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Marudase Kintarou",
+        "alternativeTitle": "Marudase Kintarou",
+        "id": "marudase-kintarou-17189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e8ccd9aec6376634b67f0c594a68125.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "9m"
+      }
+    ]
+  }
+}

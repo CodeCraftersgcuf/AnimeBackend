@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 86,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Pikaia!",
+        "alternativeTitle": "Pikaia!",
+        "id": "pikaia-7834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09a60df301cb9bb382e4ac99beb20430.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Coffee Samurai",
+        "alternativeTitle": "Watashi no Coffee Samurai: Jihanki-teki na Kareshi",
+        "id": "coffee-samurai-7831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73668e335b6b598d1aa79d8636523b8b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "30m"
+      },
+      {
+        "title": "Umayon",
+        "alternativeTitle": "Umayon",
+        "id": "umayon-7830",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b158636782d84dafd98f05b12032aa44.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "TV Yarou Nanaana: Wakuwaku Doukutsu Land",
+        "alternativeTitle": "TV Yarou Nanaana: Wakuwaku Doukutsu Land",
+        "id": "tv-yarou-nanaana-wakuwaku-doukutsu-land-7828",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042dc42da6d572fe0ae1fcbe51aa6986.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Love♥Love? Specials",
+        "alternativeTitle": "Love♥Love? Specials",
+        "id": "lovelove-specials-7815",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11a7c40740d8e9dd455a9f8df6aa3f73.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Kouryuu Densetsu Villgust",
+        "alternativeTitle": "Kouryuu Densetsu Villgust",
+        "id": "kouryuu-densetsu-villgust-7814",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d11bf3b89b525a0f6e71d4fbdb528cb2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Kaze wo Nuke!",
+        "alternativeTitle": "Kaze wo Nuke!",
+        "id": "kaze-wo-nuke-7811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a4a42cc9cdb17511eaae19e4706570f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "Jiu Se Lu",
+        "alternativeTitle": "Jiu Se Lu",
+        "id": "jiu-se-lu-7810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc589674b66f11110f51a6069d2d6458.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "24m"
+      },
+      {
+        "title": "Legend of Crystania: The Motion Picture",
+        "alternativeTitle": "Hajimari no Boukensha-tachi: Legend of Crystania",
+        "id": "legend-of-crystania-the-motion-picture-7808",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6aae3e9f63ac0329bd787514ba9471b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Galaxy Fraulein Yuna",
+        "alternativeTitle": "Ginga Ojousama Densetsu Yuna: Kanashimi no Siren",
+        "id": "galaxy-fraulein-yuna-7802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1c8e320d343591cc57d0b1e5306e26e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Legend of the Mystical Ninja",
+        "alternativeTitle": "Ganbare Goemon",
+        "id": "legend-of-the-mystical-ninja-7801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc20439d2c5a7114de2e4d4cdd043382.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Super High Speed Galvion",
+        "alternativeTitle": "Chou Kousoku Galvion",
+        "id": "super-high-speed-galvion-7799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fa7ee4070c7dd4cbccaa1c9b5fe56d1.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chogattai Majutsu Robot Ginguiser",
+        "alternativeTitle": "Chogattai Majutsu Robot Ginguiser",
+        "id": "chogattai-majutsu-robot-ginguiser-7798",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c5bc34da4cb59e695153a5692430146.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Caligula",
+        "alternativeTitle": "Caligula (TV)",
+        "id": "caligula-7797",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/515411938384d6c88e9cbafa485a767d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Samurai Jam -Bakumatsu Rock-",
+        "alternativeTitle": "Bakumatsu Rock",
+        "id": "samurai-jam-bakumatsu-rock-7796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/326fd8d01aca8e6e70472ffebf361e7b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Night Before Special: The Long-Awaited Utopia",
+        "alternativeTitle": "Monsuto Anime: Katsubou no Hate no Risoukyou",
+        "id": "the-night-before-special-the-long-awaited-utopia-7790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/979ad18c8a4d76524bbad8b636faf69a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Demon Lord Dante",
+        "alternativeTitle": "Maou Dante",
+        "id": "demon-lord-dante-7787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f12f8c794df1bc94e70e177b05454d4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Makyou Densetsu Acrobunch",
+        "alternativeTitle": "Makyou Densetsu Acrobunch",
+        "id": "makyou-densetsu-acrobunch-7786",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/719f666281cc8db42d18d9409fe653d7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Majokko Shimai no Yoyo to Nene Movie Extra: Hatsukoi - Mikako Komatsu",
+        "alternativeTitle": "Majokko Shimai no Yoyo to Nene Movie Extra: Hatsukoi - Mikako Komatsu",
+        "id": "majokko-shimai-no-yoyo-to-nene-movie-extra-hatsukoi-mikako-komatsu-7785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3da3f4e044de7c124d19626f52bba876.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Mahou Shoujo Nante Mouiidesukara Second Season",
+        "alternativeTitle": "Mahou Shoujo Nante Mou Ii Desukara. Second Season",
+        "id": "mahou-shoujo-nante-mouiidesukara-second-season-7784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9eb0fad9536c907d041a589bd023e2fc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Kishin Houkou Demonbane",
+        "alternativeTitle": "Kishin Houkou Demonbane",
+        "id": "kishin-houkou-demonbane-7781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/499116a84601b40d36039a6de8483ee6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Xuan Yuan Sword Luminary",
+        "alternativeTitle": "Ken En Ken: Aoki Kagayaki",
+        "id": "xuan-yuan-sword-luminary-7780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/779b395ffe0f72147b5dfa311fe7d17f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ichigeki Sacchuu!! Hoihoi-san",
+        "alternativeTitle": "Ichigeki Sacchuu!! Hoihoi-san",
+        "id": "ichigeki-sacchuu-hoihoi-san-7778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c146ac1b14091dc8e9e458ae175b940.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "11m"
+      },
+      {
+        "title": "Jewel BEM Hunter Lime",
+        "alternativeTitle": "Houma Hunter Lime",
+        "id": "jewel-bem-hunter-lime-7777",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c32e7d3f898132adc2b46ad22e75a4ce.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Hand Maid Mai",
+        "alternativeTitle": "Hand Maid Mai",
+        "id": "hand-maid-mai-7774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/308af76551438b4a17034059c53c8731.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Giant Robo Gaiden Ginrei",
+        "alternativeTitle": "Giant Robo Gaiden Ginrei",
+        "id": "giant-robo-gaiden-ginrei-7771",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e866f09ca4049a264601ead4523faa2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Dr. Slump and Arale-chan Movie 10: Arale's Surprise",
+        "alternativeTitle": "Dr. Slump Movie 10: Arale no Bikkuriman",
+        "id": "dr-slump-and-arale-chan-movie-10-arales-surprise-7769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/edeccbecda5ce56f6b10e5fba341e940.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "Detective Conan vs. Wooo",
+        "alternativeTitle": "Detective Conan vs. Wooo",
+        "id": "detective-conan-vs-wooo-7768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb8c60023d5338966d421e1d67137c4d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Anju to Zushioumaru",
+        "alternativeTitle": "Anju to Zushioumaru",
+        "id": "anju-to-zushioumaru-7766",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f963ec53c50da3fa210a1c4f5375451.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "83m"
+      },
+      {
+        "title": "Ai no Wakakusa Yama Monogatari",
+        "alternativeTitle": "Ai no Wakakusa Yama Monogatari",
+        "id": "ai-no-wakakusa-yama-monogatari-7764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/483ad503a0649139a14a9c6b3dd5a4dd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Ojisan and Marshmallow Episode 13: Hige-san and Marshmallow",
+        "alternativeTitle": "Ojisan to Marshmallow: Hige-san to Yume Mashmallow",
+        "id": "ojisan-and-marshmallow-episode-13-hige-san-and-marshmallow-7754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54552bead98e449ce9952f7ac78e86a7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "The Guardian of Space",
+        "alternativeTitle": "Uchuu Majin Daikengou",
+        "id": "the-guardian-of-space-7751",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95335b27667b71ca42ee12ffa390e711.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fight!! Iczer-1",
+        "alternativeTitle": "Tatakae!! Iczer-1",
+        "id": "fight-iczer-1-7747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cba253596adcfd4187598ccc26909051.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Quiz Magic Academy: The Original Animation 2",
+        "alternativeTitle": "Quiz Magic Academy: The Original Animation 2",
+        "id": "quiz-magic-academy-the-original-animation-2-7743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7132ce202791305433074112c9bcc70b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "29m"
+      }
+    ]
+  }
+}

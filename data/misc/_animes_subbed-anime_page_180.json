@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 180,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Wave, Listen to Me!",
+        "alternativeTitle": "Nami yo Kiitekure",
+        "id": "wave-listen-to-me-1972",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a27787428f6935f49c18312b0d01ff5c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mardock Scramble: The Second Combustion",
+        "alternativeTitle": "Mardock Scramble: The Second Combustion",
+        "id": "mardock-scramble-the-second-combustion-1970",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13a33931cb652c4b613731271bd004eb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "64m"
+      },
+      {
+        "title": "Crimson",
+        "alternativeTitle": "Kure-nai",
+        "id": "crimson-1968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fa77c35a7d37eea2d01cd3081adfbb6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Honobono Log",
+        "alternativeTitle": "Honobono Log",
+        "id": "honobono-log-1967",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a328c7d14a1ad985bfafba29d6714ec4.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Dragon Pilot: Hisone and Masotan",
+        "alternativeTitle": "Hisone to Maso-tan",
+        "id": "dragon-pilot-hisone-and-masotan-1966",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f7f5ba3be5bd24802b86bd2d8bb0671.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Date A Live: Date to Date",
+        "alternativeTitle": "Date A Live: Date to Date",
+        "id": "date-a-live-date-to-date-1963",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dea91856f9d5bb38b8af564de1e86574.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Cat",
+        "alternativeTitle": "Black Cat (TV)",
+        "id": "black-cat-1962",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c41deb93e8fdef0ab63f9260ec3f370.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bartender",
+        "alternativeTitle": "Bartender",
+        "id": "bartender-1961",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf61fe6649fda3f13d8c4b87bc23fc37.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Amagami SS",
+        "alternativeTitle": "Amagami SS",
+        "id": "amagami-ss-1958",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dcebd03133866920de933e5dc50aa61.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zoids",
+        "alternativeTitle": "Zoids",
+        "id": "zoids-1957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2794ea1274404aa715e5f92e744adbe6.jpg",
+        "episodes": {
+          "sub": 67,
+          "dub": 67,
+          "eps": 67
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Yuyushiki",
+        "alternativeTitle": "Yuyushiki",
+        "id": "yuyushiki-1956",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb3c4dc268458be1ed8ce426869dbdc1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yuki Yuna is a Hero",
+        "alternativeTitle": "Yuuki Yuuna wa Yuusha de Aru",
+        "id": "yuki-yuna-is-a-hero-1955",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c945e6fdca9672097a846b8a78e48b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yowamushi Pedal OVA: Special Ride",
+        "alternativeTitle": "Yowamushi Pedal: Special Ride",
+        "id": "yowamushi-pedal-ova-special-ride-1954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0df739da88e4e906ef5989d4964182f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "Towanoquon: The Ephemeral Petals",
+        "alternativeTitle": "Towa no Quon 1: Utakata no Kaben",
+        "id": "towanoquon-the-ephemeral-petals-1953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a33e5d0bf1536d8e468a8d71e0f30167.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Toshokan Sensou: Koi no Shougai",
+        "alternativeTitle": "Toshokan Sensou: Koi no Shougai",
+        "id": "toshokan-sensou-koi-no-shougai-1952",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b72059220de8156ff22cc8ca1a4431b0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Super Lovers 2",
+        "alternativeTitle": "Super Lovers 2",
+        "id": "super-lovers-2-1949",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e36b8ba217e32d00ac982677d9c26fb3.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Strike Witches: Operation Victory Arrow",
+        "alternativeTitle": "Strike Witches: Operation Victory Arrow",
+        "id": "strike-witches-operation-victory-arrow-1948",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b2e30c94b943c7ac5a8b9c7d861197f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
+        "alternativeTitle": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth",
+        "id": "soukyuu-no-fafner-dead-aggressor-heaven-and-earth-1947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9834d987279c081d5a8b3b817de3b039.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Dead Aggressor - Exodus",
+        "alternativeTitle": "Soukyuu no Fafner: Dead Aggressor - Exodus",
+        "id": "soukyuu-no-fafner-dead-aggressor-exodus-1946",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd4e61e6ce340d41fcdd2d506c4d0849.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sketchbook ~full color's~",
+        "alternativeTitle": "Sketchbook: Full Color's",
+        "id": "sketchbook-full-colors-1945",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d63333f02d2ca7c889ad406e7c21939.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Food Wars! Shokugeki no Soma OVA",
+        "alternativeTitle": "Shokugeki no Souma OVA",
+        "id": "food-wars-shokugeki-no-soma-ova-1944",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af2f72717de0e54019bd74fb2b9e83c5.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Shakugan no Shana: The Movie",
+        "alternativeTitle": "Shakugan no Shana Movie",
+        "id": "shakugan-no-shana-the-movie-1943",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c6107b9e10611439612f45ad3f536df.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Sekirei: Pure Engagement",
+        "alternativeTitle": "Sekirei: Pure Engagement",
+        "id": "sekirei-pure-engagement-1942",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3036e93bb1fe5ef63ba1736d11488335.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Student Council's Discretion (Level 2)",
+        "alternativeTitle": "Seitokai no Ichizon Lv.2",
+        "id": "student-councils-discretion-level-2-1941",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca1f001e9cff370bac44609652d04a5f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama",
+        "alternativeTitle": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama",
+        "id": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai-picture-drama-1940",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/607c4f65ed766a712b7b8ec2f3e7c1a5.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "Sankarea: Undying Love",
+        "alternativeTitle": "Sankarea",
+        "id": "sankarea-undying-love-1939",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17c60ce5a71362c43a3cfcbd797348ad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Charge!! Men's Private School",
+        "alternativeTitle": "Sakigake!! Otokojuku",
+        "id": "charge-mens-private-school-1938",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b9c3f87ca7518be23d250d22272c9f3.jpg",
+        "episodes": {
+          "sub": 34,
+          "dub": 34,
+          "eps": 34
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sabagebu! -Survival Game Club!-",
+        "alternativeTitle": "Sabage-bu!",
+        "id": "sabagebu-survival-game-club-1937",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d8830bdda83ec5b1ce4aeb9a41dc012.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ranma ½: Team Ranma vs. The Legendary Phoenix",
+        "alternativeTitle": "Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou",
+        "id": "ranma-team-ranma-vs-the-legendary-phoenix-1936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42473588dbdc809cf795c5a8cc037da0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "31m"
+      },
+      {
+        "title": "Papa no Iukoto wo Kikinasai! OVA",
+        "alternativeTitle": "Papa no Iukoto wo Kikinasai! OVA",
+        "id": "papa-no-iukoto-wo-kikinasai-ova-1934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f78acc0f676054352cf0a820804ad434.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "One Piece Special: Protect! The Last Great Performance",
+        "alternativeTitle": "One Piece: Mamore! Saigo no Dai Butai",
+        "id": "one-piece-special-protect-the-last-great-performance-1933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c9d06b236c92929ad415f78950dbf43.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "45m"
+      },
+      {
+        "title": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
+        "alternativeTitle": "Nodame Cantabile: Nodame to Chiaki no Umi Monogatari",
+        "id": "nodame-cantabile-nodame-to-chiaki-no-umi-monogatari-1932",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83e02a832394520397f53d4eacf048da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Tales of Demons and Gods: 2nd Season",
+        "alternativeTitle": "Yao Shen Ji 2nd Season",
+        "id": "tales-of-demons-and-gods-2nd-season-1930",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6dd2ff9f508664d91bd954403c1c1f96.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Wataten! An Angel Flew Down to Me",
+        "alternativeTitle": "Watashi ni Tenshi ga Maiorita!",
+        "id": "wataten-an-angel-flew-down-to-me-1928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d99e454a725446616618a2ca0d91a848.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

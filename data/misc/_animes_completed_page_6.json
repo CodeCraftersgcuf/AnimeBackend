@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 6,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Btooom!: Bakusatsu Digest",
+        "alternativeTitle": "Btooom!: Bakusatsu Digest",
+        "id": "btooom-bakusatsu-digest-8444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/313906db957c82c04347cf5e02b80987.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Phantom Quest Corp.",
+        "alternativeTitle": "Yuugen Kaisha",
+        "id": "phantom-quest-corp-5912",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b461582b820e8423ec26e2fb53295a6c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Magical Witch Punie-Chan",
+        "alternativeTitle": "Dai Mahou Touge",
+        "id": "magical-witch-punie-chan-3640",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d27d457a592e1bed565a69c1e508c7f2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Hiiro no Kakera: The Tamayori Princess Saga Season 2",
+        "alternativeTitle": "Hiiro no Kakera Dai Ni Shou",
+        "id": "hiiro-no-kakera-the-tamayori-princess-saga-season-2-2560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/982d99fd41afb74a4400fb85ed8aed4b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Legend of the Mystical Ninja",
+        "alternativeTitle": "Ganbare Goemon",
+        "id": "legend-of-the-mystical-ninja-7801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc20439d2c5a7114de2e4d4cdd043382.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Licensed by Royalty",
+        "alternativeTitle": "L/R: Licensed by Royal",
+        "id": "licensed-by-royalty-5789",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deaa09ec718741996fb0e85c4b22dc01.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Haré+Guu",
+        "alternativeTitle": "Jungle wa Itsumo Hare nochi Guu",
+        "id": "hareguu-726",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42fe60eb2ca9be085e220b9f75033f85.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lycoris Recoil Short Movie",
+        "alternativeTitle": "Lycoris Recoil: Friends Are Thieves of Time.",
+        "id": "lycoris-recoil-short-movie-19637",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ba3a5c0db43f01a8b428d28bfec5485.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Tico and Friends",
+        "alternativeTitle": "Nanatsu no Umi no Tico",
+        "id": "tico-and-friends-1839",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bd959d0dc10e82180acc837f58744f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gakkou no Yuurei",
+        "alternativeTitle": "Gakkou no Yuurei",
+        "id": "gakkou-no-yuurei-13662",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e8d7418c5ae1223c0eaf3b3de0dafd8.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Hori-san to Miyamura-kun",
+        "alternativeTitle": "Hori-san to Miyamura-kun",
+        "id": "hori-san-to-miyamura-kun-2159",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fafebc15a9d2eba44c359dddaf0f5aad.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Sayonara Watashi no Cramer Movie: First Touch",
+        "alternativeTitle": "Sayonara Watashi no Cramer Movie: First Touch",
+        "id": "sayonara-watashi-no-cramer-movie-first-touch-15535",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97238630cc347ddfd95f3568eb3b4165.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Good-bye, Cramer",
+        "alternativeTitle": "Sayonara Watashi no Cramer",
+        "id": "good-bye-cramer-15534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ab61e316e0c130af2530fa699d2f90f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Line Town",
+        "alternativeTitle": "Line Town",
+        "id": "line-town-14950",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb7aa6a7c0b873ed28e84baddb72a1f4.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hua Jianghu: Bu Liang Ren 7th Season",
+        "alternativeTitle": "Hua Jianghu: Bu Liang Ren Qi - Jiu Youxuan Tian",
+        "id": "hua-jianghu-bu-liang-ren-7th-season-19653",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/908def179f132a008552b58cd33a4087.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Thunderbolt Fantasy - The Final Chapter",
+        "alternativeTitle": "Thunderbolt Fantasy - The Final Chapter",
+        "id": "thunderbolt-fantasy-the-final-chapter-19705",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd6c0640cdf2312ff8f8c438eb652701.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "The Boy Who Saw the Wind",
+        "alternativeTitle": "Kaze wo Mita Shounen",
+        "id": "the-boy-who-saw-the-wind-4751",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/626123b68b7610db8991dd1786cc1627.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Komada: A Whisky Family",
+        "alternativeTitle": "Komada Jouryuusho e Youkoso",
+        "id": "komada-a-whisky-family-18563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/141c19fcb134c4e39754683e6f424978.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Ocha-ken: Chokotto Monogatari",
+        "alternativeTitle": "Ocha-ken: Chokotto Monogatari",
+        "id": "ocha-ken-chokotto-monogatari-6751",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d376adfd295fbcd4407e22f37145b757.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Red Fox",
+        "alternativeTitle": "Bulgeun Yeou",
+        "id": "red-fox-19692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2dceb714d618da45806d65e0886b466f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "18m"
+      },
+      {
+        "title": "Lupin III: Part II",
+        "alternativeTitle": "Lupin III: Part II",
+        "id": "lupin-iii-part-ii-823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a36fa0cfc83e12723aa518ccf3a3a90.jpg",
+        "episodes": {
+          "sub": 155,
+          "dub": 79,
+          "eps": 155
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "8 Man After",
+        "alternativeTitle": "Eightman After",
+        "id": "8-man-after-7190",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/964b6c6cda94859bcd0ab82af58068e5.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Honey and Clover Specials",
+        "alternativeTitle": "Hachimitsu to Clover Specials",
+        "id": "honey-and-clover-specials-1010",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b635bfe87c444e0e90e9010d504017f2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Hiiro no Kakera: The Tamayori Princess Saga",
+        "alternativeTitle": "Hiiro no Kakera",
+        "id": "hiiro-no-kakera-the-tamayori-princess-saga-4559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9400b487f2d40a651f3fde13a716913.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cells at Work Special",
+        "alternativeTitle": "Hataraku Saibou: Kaze Shoukougun",
+        "id": "cells-at-work-special-2297",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b142611f8725dc5b9a6c711346013f76.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Attacker You!",
+        "alternativeTitle": "Attacker You!",
+        "id": "attacker-you-5452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cfee59df5a7ba9a4204a8aeafe1e124.jpg",
+        "episodes": {
+          "sub": 57,
+          "dub": 0,
+          "eps": 58
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Neon Genesis Evangelion: Death & Rebirth",
+        "alternativeTitle": "Neon Genesis Evangelion: Death & Rebirth",
+        "id": "neon-genesis-evangelion-death-rebirth-1723",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f05178f0ba98d9f0a6863f4089b2cb6a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Lost in Starlight",
+        "alternativeTitle": "I Byeol-e Pil-yohan",
+        "id": "lost-in-starlight-19702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3868e06531d0ad54eefdf4b5269a91b2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "96m"
+      },
+      {
+        "title": "Batman Ninja vs. Yakuza League",
+        "alternativeTitle": "Ninja Batman tai Yakuza League",
+        "id": "batman-ninja-vs-yakuza-league-19489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4ab884b46d2a0b3cc0ebc8f3241f91c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Batman Ninja",
+        "alternativeTitle": "Ninja Batman",
+        "id": "batman-ninja-7371",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b5588c2990b97578ddb3fb0db48baa7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Brynhildr in the Darkness Special",
+        "alternativeTitle": "Gokukoku no Brynhildr: Kara Sawagi",
+        "id": "brynhildr-in-the-darkness-special-5318",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8bf583eb62e48695c9d2faad0e1a408f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "20m"
+      },
+      {
+        "title": "Detonator Orgun",
+        "alternativeTitle": "Detonator Orgun",
+        "id": "detonator-orgun-5945",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/028da6984167acc92258b245229ad68b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Mighty Space Miners",
+        "alternativeTitle": "Oira Uchuu no Tankoufu",
+        "id": "mighty-space-miners-6646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/865f29e8e72e69427b5edbe90b6385d8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Comic Party Revolution",
+        "alternativeTitle": "Comic Party Revolution",
+        "id": "comic-party-revolution-5587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f8992c26e9915ec3a3d32e119f1c966.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tenshi no Shippo Chu!: Tenshi no Utagoe",
+        "alternativeTitle": "Tenshi no Shippo Chu!: Tenshi no Utagoe",
+        "id": "tenshi-no-shippo-chu-tenshi-no-utagoe-7840",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bdad86a7bb93e16bec3bcce954c70a39.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Tenshi no Shippo Chu!",
+        "alternativeTitle": "Tenshi no Shippo Chu!",
+        "id": "tenshi-no-shippo-chu-5527",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3160a9b91f62b7b01289f9c98ff76cd7.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "14m"
+      },
+      {
+        "title": "Code Geass: Lelouch of the Rebellion Picture Dramas",
+        "alternativeTitle": "Code Geass: Hangyaku no Lelouch Picture Drama",
+        "id": "code-geass-lelouch-of-the-rebellion-picture-dramas-3661",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3040784172dd955e22487af4b6d49c20.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 9,
+          "eps": 9
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Seihou Tenshi Angel Links: Meifon no Special Kaisetsu Corner",
+        "alternativeTitle": "Seihou Tenshi Angel Links: Meifon no Special Kaisetsu Corner",
+        "id": "seihou-tenshi-angel-links-meifon-no-special-kaisetsu-corner-9174",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3beaed9edb3803a180414c1a35e7529e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "All Purpose Cultural Cat Girl Nuku Nuku",
+        "alternativeTitle": "Bannou Bunka Neko-Musume",
+        "id": "all-purpose-cultural-cat-girl-nuku-nuku-4788",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28747f04897612aa2eef0fef603828a4.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "A Certain Magical Index the Movie: The Miracle of Endymion",
+        "alternativeTitle": "Toaru Majutsu no Index Movie: Endymion no Kiseki",
+        "id": "a-certain-magical-index-the-movie-the-miracle-of-endymion-1530",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b6ebb8b0e8df948b291efb8018837d5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      }
+    ]
+  }
+}

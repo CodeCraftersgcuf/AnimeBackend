@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 24,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Flying Witch",
+        "alternativeTitle": "Flying Witch",
+        "id": "flying-witch-1435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3650577a3931c5812f6b96587d6f4e17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fuuka",
+        "alternativeTitle": "Fuuka",
+        "id": "fuuka-5488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c5f8cd67a04b94152ea63ca9e302a29.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Furusato Meguri: Nippon no Mukashibanashi",
+        "alternativeTitle": "Furusato Meguri: Nippon no Mukashibanashi",
+        "id": "furusato-meguri-nippon-no-mukashibanashi-7527",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7dc8a1b769f06d3c080c1f21f56471a.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Gingitsune: Messenger Fox of the Gods",
+        "alternativeTitle": "Gingitsune",
+        "id": "gingitsune-messenger-fox-of-the-gods-2820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5103a24cd0ec3dd421f0ca98259e538c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gifuu Doudou!!: Kanetsugu to Keiji",
+        "alternativeTitle": "Gifuu Doudou!!: Kanetsugu to Keiji",
+        "id": "gifuu-doudou-kanetsugu-to-keiji-5848",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b546723499b6e4237bba57e984d3fe06.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost Stories",
+        "alternativeTitle": "Gakkou no Kaidan",
+        "id": "ghost-stories-1076",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6360bc1c4daff05e1877a6be6e26bb6.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 20,
+          "eps": 19
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gakuen Handsome",
+        "alternativeTitle": "Gakuen Handsome",
+        "id": "gakuen-handsome-5489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90185888906543be6984c2a6d8a4206d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "GA: Geijutsuka Art Design Class",
+        "alternativeTitle": "GA: Geijutsuka Art Design Class",
+        "id": "ga-geijutsuka-art-design-class-2977",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfdc59f2a7f86f6b0b77abb19fc8db95.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gargantia on the Verdurous Planet",
+        "alternativeTitle": "Suisei no Gargantia",
+        "id": "gargantia-on-the-verdurous-planet-1527",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f5472fd4d49397d57d8b4fd0913e29a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Death March to the Parallel World Rhapsody",
+        "alternativeTitle": "Death March kara Hajimaru Isekai Kyousoukyoku",
+        "id": "death-march-to-the-parallel-world-rhapsody-5372",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecc8fb7d813a825064687b3611427795.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Forest Fairy Five ~Fairy Tale~",
+        "alternativeTitle": "Yousei Land Mukashibanashi",
+        "id": "forest-fairy-five-fairy-tale-10319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/17b45a838e0929e932485e920a78b5bb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Forest Fairy Five",
+        "alternativeTitle": "Forest Fairy Five",
+        "id": "forest-fairy-five-10577",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e9b7d2adcedbc1b7f589930e29faa53.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Gurazeni Season 2",
+        "alternativeTitle": "Gurazeni Season 2",
+        "id": "gurazeni-season-2-4620",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46e42e29f3be3e7b707a76224fb3cb1c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gasaraki",
+        "alternativeTitle": "Gasaraki",
+        "id": "gasaraki-5094",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97991db8d4d85f515f3ac22d643ee637.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "gdgd Fairies",
+        "alternativeTitle": "gdgd Fairies",
+        "id": "gdgd-fairies-4361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd8ef94a780a17dcba595da78444b07d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "gdgd Fairies 2",
+        "alternativeTitle": "gdgd Fairies 2",
+        "id": "gdgd-fairies-2-3791",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/495b99faadbcf9472e649af664c4876f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "gdgd men's Party",
+        "alternativeTitle": "gdMen",
+        "id": "gdgd-mens-party-8309",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d21d8262f5ed738a7b5d352e3e30fcb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "8m"
+      },
+      {
+        "title": "Gibiate",
+        "alternativeTitle": "Gibiate",
+        "id": "gibiate-10637",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ab8bc86fc3938b1113d8b2b174657d9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai",
+        "alternativeTitle": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai",
+        "id": "ga-geijutsuka-art-design-class-aozora-ga-kakitai-3230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7235365d87b27b1247f89afe8c86c17b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakamoto Desu ga? Special",
+        "alternativeTitle": "Sakamoto Desu ga? Special",
+        "id": "sakamoto-desu-ga-special-4255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20651331181321a83f0f00eb32785e34.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Aooni The Blue Monster",
+        "alternativeTitle": "Ao Oni The Animation",
+        "id": "aooni-the-blue-monster-10045",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/453f33455af1c69a2c43289f098c528b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Gurazeni: Money Pitch",
+        "alternativeTitle": "Gurazeni",
+        "id": "gurazeni-money-pitch-6543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3ba10742ef50cf2fdbc3ae142f104e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hagane Orchestra",
+        "alternativeTitle": "Hagane Orchestra",
+        "id": "hagane-orchestra-9161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2423e19fa1c92db827923afe23e849f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Gatchaman Crowds",
+        "alternativeTitle": "Gatchaman Crowds",
+        "id": "gatchaman-crowds-2154",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63b6f4087454214d5810082e4b95d6dd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gatchaman Crowds Insight",
+        "alternativeTitle": "Gatchaman Crowds Insight",
+        "id": "gatchaman-crowds-insight-2294",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f456507d36f6da455ed0e75c0e5a74b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hakata Mentai! Pirikarako-chan",
+        "alternativeTitle": "Hakata Mentai! Pirikarako-chan",
+        "id": "hakata-mentai-pirikarako-chan-10230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c3ca4e9b0f0a6b575fe3e35ee9dff45.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "As Miss Beelzebub Likes.",
+        "alternativeTitle": "Beelzebub-jou no Okinimesu mama.",
+        "id": "as-miss-beelzebub-likes-2473",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a88830ae7f955a0dc9eba21642170d47.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ascendance of a Bookworm",
+        "alternativeTitle": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
+        "id": "ascendance-of-a-bookworm-467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47710192a898543bfd1ef6f9ea79ad99.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "AntiMagic Academy 35th Test Platoon",
+        "alternativeTitle": "Taimadou Gakuen 35 Shiken Shoutai",
+        "id": "antimagic-academy-35th-test-platoon-3858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fcd95bce1cfde9a257c319d608e76cb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Arpeggio of Blue Steel -Ars Nova-",
+        "alternativeTitle": "Aoki Hagane no Arpeggio: Ars Nova",
+        "id": "arpeggio-of-blue-steel-ars-nova-1823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0e41be286bcc500eb8fd3c723551536.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "ARP Backstage Pass",
+        "alternativeTitle": "ARP Backstage Pass",
+        "id": "arp-backstage-pass-9134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b6b4b4c15bb9c2a14094796d6996fe7.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Genshiken Second Season",
+        "alternativeTitle": "Genshiken Nidaime",
+        "id": "genshiken-second-season-1672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d08a7d8c9780fdc748b66846b5de9944.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bananya and the Curious Bunch",
+        "alternativeTitle": "Bananya: Fushigi na Nakama-tachi",
+        "id": "bananya-and-the-curious-bunch-5677",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f7ea7c8351ed2b139c64591dd48c5dc.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Bananya",
+        "alternativeTitle": "Bananya",
+        "id": "bananya-4693",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/511b7c363d375ea895fa5a615f789db1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "B-Project: Kodou*Ambitious",
+        "alternativeTitle": "B-Project: Kodou*Ambitious",
+        "id": "b-project-kodouambitious-5078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d04b947462fb733ca1c52a3b28ab09dc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ascendance of a Bookworm Part 2",
+        "alternativeTitle": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
+        "id": "ascendance-of-a-bookworm-part-2-309",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1babb4badb3a62b84a9615736e916e82.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Asura Cryin",
+        "alternativeTitle": "Asura Cryin'",
+        "id": "asura-cryin-3701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a5077dea1fdaca2ed9fc4a7f254e8da.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Asura Cryin",
+        "alternativeTitle": "Asura Cryin' 2",
+        "id": "asura-cryin-2-2235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e794d88cdda0ef7e4cbad86760ab841.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aokana: Four Rhythm Across the Blue",
+        "alternativeTitle": "Ao no Kanata no Four Rhythm",
+        "id": "aokana-four-rhythm-across-the-blue-4691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/921e46f8290d9137e082d2e086019d0c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ao-chan Can't Study!",
+        "alternativeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+        "id": "ao-chan-cant-study-4320",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/702f674cea1ae197a5df90b4f6abc10d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      }
+    ]
+  }
+}

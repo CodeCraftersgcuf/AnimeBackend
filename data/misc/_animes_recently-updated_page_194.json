@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 194,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Honey and Clover Specials",
+        "alternativeTitle": "Hachimitsu to Clover Specials",
+        "id": "honey-and-clover-specials-1010",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b635bfe87c444e0e90e9010d504017f2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "The Legend of Luoxiaohei",
+        "alternativeTitle": "Luo Xiao Hei Zhan Ji",
+        "id": "the-legend-of-luoxiaohei-1266",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ec1a8cb1843e731eeaae4d0ba5ce800.jpg",
+        "episodes": {
+          "sub": 28,
+          "dub": 0,
+          "eps": 28
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Symphogear GX",
+        "alternativeTitle": "Senki Zesshou Symphogear GX",
+        "id": "symphogear-gx-1778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dadfc2d1a496eb33313a3ff2d11ea53c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hyouka: Motsubeki Mono wa",
+        "alternativeTitle": "Hyouka: Motsubeki Mono wa",
+        "id": "hyouka-motsubeki-mono-wa-2034",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4419c973e7a04f513d53182a4fdfd7f4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Cuticle Detective Inaba",
+        "alternativeTitle": "Cuticle Tantei Inaba",
+        "id": "cuticle-detective-inaba-2290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e14b7855cf4240e16f818cb6eb037ba.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Young Black Jack",
+        "alternativeTitle": "Young Black Jack",
+        "id": "young-black-jack-2546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b2b147f4c31129319d9fffe3512152c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Girls & Panzer OVAs",
+        "alternativeTitle": "Girls & Panzer Specials",
+        "id": "girls-panzer-ovas-2802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abd042a01f924ef046dc2131779ec1a5.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "12m"
+      },
+      {
+        "title": "Fate/Kaleid Liner Prisma Illya",
+        "alternativeTitle": "Fate/kaleid liner Prisma☆Illya",
+        "id": "fatekaleid-liner-prisma-illya-3058",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51abc1e6ccab53a9bcb020bf03f7c57b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saint Seiya: Soul of Gold",
+        "alternativeTitle": "Saint Seiya: Soul of Gold",
+        "id": "saint-seiya-soul-of-gold-3314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1f483a5aba071a83ce666c2ec2d2624.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III: Twilight Gemini no Himitsu",
+        "alternativeTitle": "Lupin III: Twilight Gemini no Himitsu",
+        "id": "lupin-iii-twilight-gemini-no-himitsu-3570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d00a810731d51e2e0f658ddb1d538cdf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "The Ones Within",
+        "alternativeTitle": "Nakanohito Genome [Jikkyouchuu]",
+        "id": "the-ones-within-4082",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3147745151f3c6fe2a4e792ddb2bc5f2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Recorder and Randsell",
+        "alternativeTitle": "Recorder to Randoseru Do♪",
+        "id": "recorder-and-randsell-4850",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ad8561e527e3dae44044f39bfc1de48.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "My Cultivator Girlfriend",
+        "alternativeTitle": "Wo de Tian Jie Nu You",
+        "id": "my-cultivator-girlfriend-5362",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b560e6b1d5fe8c43c644752615059033.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "Qualidea Code",
+        "alternativeTitle": "Qualidea Code",
+        "id": "qualidea-code-5618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ecdcade712e93a3bb58214954d73444.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Di Gi Charat Summer Special 2000",
+        "alternativeTitle": "Di Gi Charat Summer Special 2000",
+        "id": "di-gi-charat-summer-special-2000-5874",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b13b09b856fc014a10ff0e89bc1fb35.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "The Qwaser of Stigmata: Portrait of the Empress",
+        "alternativeTitle": "Seikon no Qwaser: Jotei no Shouzou",
+        "id": "the-qwaser-of-stigmata-portrait-of-the-empress-6130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e64c0c372fe5aea56eb2aea6568403e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Penguin Musume Heart Special",
+        "alternativeTitle": "Penguin Musume Heart Special",
+        "id": "penguin-musumeheart-special-6386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba100af3a030ee02acacefcc9b946578.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "[RAW] Youkai Ningen Bem",
+        "alternativeTitle": "[RAW] Youkai Ningen Bem",
+        "id": "youkai-ningen-bem-7922",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c606db77238bb5b170f1ba5f1775627.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Vlad Love",
+        "alternativeTitle": "Vlad Love",
+        "id": "vlad-love-15602",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28605942aafe27fed8092a5c50274926.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Iii Icecrin",
+        "alternativeTitle": "Iii Icecrin",
+        "id": "iii-icecrin-17394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/712126807fa8387f06af132b79ff84f6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!!",
+        "alternativeTitle": "SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!!",
+        "id": "sutopuri-movie-hajimari-no-monogatari-strawberry-school-festival-19186",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/642d1eac7f5166235d7f3a052f9c6db7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "83m"
+      },
+      {
+        "title": "SKET Dance",
+        "alternativeTitle": "SKET Dance",
+        "id": "sket-dance-243",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb1513537e7bf8412f273aa2e123926a.jpg",
+        "episodes": {
+          "sub": 77,
+          "dub": 0,
+          "eps": 77
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece Film: Strong World Episode 0",
+        "alternativeTitle": "One Piece Film: Strong World Episode 0",
+        "id": "one-piece-film-strong-world-episode-0-499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/228ea6c39b625f78ae75fa95cf9e63ee.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "18m"
+      },
+      {
+        "title": "Somali and the Forest Spirit",
+        "alternativeTitle": "Somali to Mori no Kamisama",
+        "id": "somali-and-the-forest-spirit-755",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d3702812d3abc79d790a030a598c486.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Grimgar: Ashes and Illusions",
+        "alternativeTitle": "Hai to Gensou no Grimgar",
+        "id": "grimgar-ashes-and-illusions-1011",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e67e9fc525d338f38d97932a138be65d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mitsudomoe",
+        "alternativeTitle": "Mitsudomoe",
+        "id": "mitsudomoe-1267",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85d97d17bc8f001fcba5fc3291d5dcac.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Minami-ke Betsubara",
+        "alternativeTitle": "Minami-ke Betsubara",
+        "id": "minami-ke-betsubara-1523",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8d580e3a23bd7983d6cf1f84c6022f9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+        "alternativeTitle": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+        "id": "shin-kimagure-orangeroad-soshite-ano-natsu-no-hajimari-1779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/590f96c00daee8faff86b3d408508bb6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Isekai Izakaya: Japanese Food From Another World",
+        "alternativeTitle": "Isekai Izakaya: Koto Aitheria no Izakaya Nobu",
+        "id": "isekai-izakaya-japanese-food-from-another-world-2035",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7a362667433d64cc4d40b2b4256aa90.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Doraemon Movie 21: Nobita's the Legend of the Sun King",
+        "alternativeTitle": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu",
+        "id": "doraemon-the-movie-nobitas-the-legend-of-the-sun-king-2291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/191919a9f527926f06bac7b89b39356f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Zoids Genesis",
+        "alternativeTitle": "Zoids Genesis",
+        "id": "zoids-genesis-2547",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/429ad819fe3a7ca86f98cbe9078fcf56.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "GS Mikami",
+        "alternativeTitle": "GS Mikami",
+        "id": "gs-mikami-2803",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e26fa4cd7ef6ef991ad924fbc3c1b5e2.jpg",
+        "episodes": {
+          "sub": 45,
+          "dub": 0,
+          "eps": 45
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gaiking: Legend of Daiku-Maryu",
+        "alternativeTitle": "Gaiking: Legend of Daiku-Maryu",
+        "id": "gaiking-legend-of-daiku-maryu-3059",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e12aace380667603a0efbc31ff4c094d.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Antique Bakery",
+        "alternativeTitle": "Seiyou Kottou Yougashiten: Antique",
+        "id": "antique-bakery-3315",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3116e540ce83a8b350e2f2bb146abaa4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "IS: Infinite Stratos: A Sextet Yearns to Be in Love",
+        "alternativeTitle": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+        "id": "is-infinite-stratos-a-sextet-yearns-to-be-in-love-3827",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a471bea5cdbc51383c73425bcd6fa79.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Nurse Angel Ririka SOS",
+        "alternativeTitle": "Nurse Angel Ririka SOS",
+        "id": "nurse-angel-ririka-sos-4595",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bce1331ea52303fb87706b526cef438.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Jewelpet",
+        "alternativeTitle": "Jewelpet",
+        "id": "jewelpet-5107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4e85de16acddbbe727cb278ab0a488b.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "X - The Movie",
+        "alternativeTitle": "X/1999",
+        "id": "x-the-movie-5363",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/046fd05208d9ef6ace75f2ff5426713f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "97m"
+      },
+      {
+        "title": "Pokemon the Movie 16: Genesect and the Legend Awakened",
+        "alternativeTitle": "Pokemon Movie 16: Shinsoku no Genosect - Mewtwo Kakusei",
+        "id": "pokemon-the-movie-genesect-and-the-legend-awakened-6387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e0aacf745ca4332db5a57b564b7eb4f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "70m"
+      },
+      {
+        "title": "Memories Off 2nd",
+        "alternativeTitle": "Memories Off 2nd",
+        "id": "memories-off-2nd-6643",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2a5e50920203da86dfbc14cf25b94c5.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      }
+    ]
+  }
+}

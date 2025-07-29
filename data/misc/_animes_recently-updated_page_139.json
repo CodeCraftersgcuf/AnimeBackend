@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 139,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Aikatsu Stars! Movie",
+        "alternativeTitle": "Aikatsu Stars! Movie",
+        "id": "aikatsu-stars-movie-2205",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e65c8f7f6ceb25ab80eb5a0bfc5eadb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Spiral: Bond of Reasoning",
+        "alternativeTitle": "Spiral: Suiri no Kizuna",
+        "id": "spiral-bond-of-reasoning-2461",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54756e4d61cac022bf11403ee76bd26a.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle",
+        "alternativeTitle": "Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle",
+        "id": "crayon-shin-chan-movie-08-arashi-wo-yobu-jungle-2973",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d74979e8165d17f1f7cc480a4fbedc47.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Ze Tian Ji 4th Season",
+        "alternativeTitle": "Ze Tian Ji 4th Season",
+        "id": "ze-tian-ji-4th-season-3485",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d66781a9a2cfc12e194959a36c7c635.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Fushigi Mahou Fun Fun Pharmacy",
+        "alternativeTitle": "Fushigi Mahou Fun Fun Pharmacy",
+        "id": "fushigi-mahou-fun-fun-pharmacy-5021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dbdbd7084697d2305bdaa793452960b4.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Battle Spirits: Sword Eyes",
+        "alternativeTitle": "Battle Spirits: Sword Eyes",
+        "id": "battle-spirits-sword-eyes-5277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4ad66dca71899f1d5df780ab020a84f.jpg",
+        "episodes": {
+          "sub": 29,
+          "dub": 0,
+          "eps": 29
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Licensed by Royalty",
+        "alternativeTitle": "L/R: Licensed by Royal",
+        "id": "licensed-by-royalty-5789",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deaa09ec718741996fb0e85c4b22dc01.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Machikado no Märchen",
+        "alternativeTitle": "Machikado no Märchen",
+        "id": "machikado-no-marchen-6813",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68e27a0a3bf6de08b54787b375754a70.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "54m"
+      },
+      {
+        "title": "Flying Witch Petit Special",
+        "alternativeTitle": "Flying Witch Petit Special",
+        "id": "flying-witch-petit-special-8093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd85af631618fb27439f5b82d1051c74.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Psycho Diver: Soul Siren",
+        "alternativeTitle": "Psycho Diver: Mashou Bosatsu",
+        "id": "psycho-diver-soul-siren-8861",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb3a91b067f73495c94980679a71f312.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "48m"
+      },
+      {
+        "title": "Platonic Chain",
+        "alternativeTitle": "Platonic Chain",
+        "id": "platonic-chain-9117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c996df5f1d7bc8693ae7d4f68e057275.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "6m"
+      },
+      {
+        "title": "Valkisas:The Wings of Ultimate Darkness Pilot Film",
+        "alternativeTitle": "Legend of Lemnear: Kyokuguro no Tsubasa Valkisas Pilot Film",
+        "id": "valkisasthe-wings-of-ultimate-darkness-pilot-film-9373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dddbba3f08f2270e3055c22686757939.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Dies irae",
+        "alternativeTitle": "Dies Irae",
+        "id": "dies-irae-9629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1753799dfa133e6d5bcb719236623f85.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "[RAW] Koguma no Misha",
+        "alternativeTitle": "[RAW] Koguma no Misha",
+        "id": "koguma-no-misha-14749",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dae3f3117ab869268a30f9ecb347da30.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon Movie 23: Coco",
+        "alternativeTitle": "Pokemon Movie 23: Coco",
+        "id": "pokemon-movie-23-coco-15517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6b7fceb562c881fc5724046e35737c6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Buddy Daddies Recap",
+        "alternativeTitle": "Buddy Daddies Recap",
+        "id": "buddy-daddies-recap-18333",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b46df7ba03181a147386e88c87b96914.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Psycho-Pass",
+        "alternativeTitle": "Psycho-Pass",
+        "id": "psycho-pass-158",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/beb3713889a579eb4d3f088ee704c565.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Garden of Words",
+        "alternativeTitle": "Kotonoha no Niwa",
+        "id": "the-garden-of-words-414",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd2425b4fb8fe7aec860e4706d981392.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "46m"
+      },
+      {
+        "title": "Mobile Suit Gundam Thunderbolt: December Sky",
+        "alternativeTitle": "Mobile Suit Gundam Thunderbolt: December Sky",
+        "id": "mobile-suit-gundam-thunderbolt-december-sky-670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5dc72d9c36ca2bf8041da5bd2586635.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "69m"
+      },
+      {
+        "title": "Good Luck Girl!",
+        "alternativeTitle": "Binbougami ga!",
+        "id": "good-luck-girl-926",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec3c1075d8aaf7c4ed1bc6bef4a2c2b3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Valkyria Chronicles",
+        "alternativeTitle": "Senjou no Valkyria",
+        "id": "valkyria-chronicles-1182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45362ea4b60b381b0ffa7ce832cbf20f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+        "alternativeTitle": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+        "id": "fatestay-night-unlimited-blade-works-2nd-season-sunny-day-1694",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8624fc7eb9e8409b0591e2e32c3b8e1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Air",
+        "alternativeTitle": "Air",
+        "id": "air-2206",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a875c32f0817ed90ca672d59d477f9ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Suite Precure",
+        "alternativeTitle": "Suite Precure♪",
+        "id": "suite-precure-2462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28a56ac481f2ae10d85f7ddba4d51366.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Devilman: The Birth",
+        "alternativeTitle": "Devilman: Tanjou-hen",
+        "id": "devilman-the-birth-2974",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aab4093ce5b616ce8f6120a481cad7b1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai",
+        "alternativeTitle": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai",
+        "id": "ga-geijutsuka-art-design-class-aozora-ga-kakitai-3230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7235365d87b27b1247f89afe8c86c17b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Air Master",
+        "alternativeTitle": "Air Master",
+        "id": "air-master-3486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86019217f47f0835c0ffc88bf308deed.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 0,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Linebarrels of Iron",
+        "alternativeTitle": "Kurogane no Linebarrels",
+        "id": "linebarrels-of-iron-3742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce62722d6ab3c8900710a0fe439fc6da.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "RIN-NE",
+        "alternativeTitle": "Kyoukai no Rinne (TV)",
+        "id": "rin-ne-3998",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4fc32c08bc9c5a8902529dc90ee6f089.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
+        "alternativeTitle": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
+        "id": "saint-seiya-saishuu-seisen-no-senshi-tachi-4254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49a4b590d7752be371cb6410e19ce609.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "UFO Ultramaiden Valkyrie",
+        "alternativeTitle": "UFO Princess Valkyrie",
+        "id": "ufo-ultramaiden-valkyrie-4510",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b23683e3dc56369bfdc6496d1c2de695.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Space Battleship Yamato: The New Voyage",
+        "alternativeTitle": "Uchuu Senkan Yamato: Aratanaru Tabidachi",
+        "id": "space-battleship-yamato-the-new-voyage-4766",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c735e7d7a42dc26914760e1cebf4f1e9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "95m"
+      },
+      {
+        "title": "Gilgamesh",
+        "alternativeTitle": "Gilgamesh",
+        "id": "gilgamesh-5022",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/357c3e4b004d3e008f789e1137eda77d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Betterman",
+        "alternativeTitle": "Betterman",
+        "id": "betterman-5278",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7f69e7b62c572fbb911ee7a98ae5db6.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gonna be the Twin-Tail!!",
+        "alternativeTitle": "Ore, Twintail ni Narimasu.",
+        "id": "gonna-be-the-twin-tail-5534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1fe0a4e1e50d3433a5e700020fbac08.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Last Exile: Fam, the Silver Wing Recaps",
+        "alternativeTitle": "Last Exile: Ginyoku no Fam - Adjournment",
+        "id": "last-exile-fam-the-silver-wing-recaps-5790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b8b26703a1a506dd8b94b8548b6ca8a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Yurumates 3D Plus",
+        "alternativeTitle": "Yurumates 3D Plus",
+        "id": "yurumates-3d-plus-6302",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85e5f7cb23216ea906c603b1fbfde721.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Macross FB7: Ore no Uta wo Kike!",
+        "alternativeTitle": "Macross FB7: Ore no Uta wo Kike!",
+        "id": "macross-fb7-ore-no-uta-wo-kike-6814",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92907aa7a4efe5e3a9c791d7a745d6ee.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Fables of the Green Forest",
+        "alternativeTitle": "Yama Nezumi Rocky Chuck",
+        "id": "fables-of-the-green-forest-7582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6ed2ded253c3e8712817416844504fc.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Schoolgirl Strikers: Animation Channel",
+        "alternativeTitle": "Schoolgirl Strikers: Animation Channel",
+        "id": "schoolgirl-strikers-animation-channel-8862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79c27dc60be50fcd843a2349c31df5ef.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

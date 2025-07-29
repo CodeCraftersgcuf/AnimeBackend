@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 68,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Hakkenden -Eight Dogs of the East-",
+        "alternativeTitle": "Hakkenden: Touhou Hakken Ibun",
+        "id": "hakkenden-eight-dogs-of-the-east-1745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab59201ec9f721bad0c76bab7424f5db.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Grappler Baki: Saidai Tournament-hen",
+        "alternativeTitle": "Grappler Baki: Saidai Tournament-hen",
+        "id": "grappler-baki-saidai-tournament-hen-1744",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e4f3d6893d68ff6bbffb4c840a6d457.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Grappler Baki (TV)",
+        "alternativeTitle": "Grappler Baki (TV)",
+        "id": "grappler-baki-tv-1743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/382d238ffecb013927e773bb0454f15a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Golden Kamuy 2nd Season OVA",
+        "alternativeTitle": "Golden Kamuy 2nd Season OVA",
+        "id": "golden-kamuy-2nd-season-ova-1742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a2c5105a32bd237431b1731068ddf3a.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Captain Tsubasa (2018)",
+        "alternativeTitle": "Captain Tsubasa (2018)",
+        "id": "captain-tsubasa-2018-1738",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3a85094a86f0afd6476fa2d2a346d26.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Tenchi Muyou!",
+        "alternativeTitle": "Tenchi Muyou!",
+        "id": "tenchi-muyou-1734",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/737791945b195ed66555e6c0baed2074.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Heaven's Lost Property OVA",
+        "alternativeTitle": "Sora no Otoshimono: Project Pink",
+        "id": "heavens-lost-property-ova-1730",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c10966a5c0f77e3edea53dd398f0b21.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Rozen Maiden",
+        "alternativeTitle": "Rozen Maiden",
+        "id": "rozen-maiden-1726",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20cb8f4a16d295c2bf87e041217288b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Neon Genesis Evangelion: Death & Rebirth",
+        "alternativeTitle": "Neon Genesis Evangelion: Death & Rebirth",
+        "id": "neon-genesis-evangelion-death-rebirth-1723",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f05178f0ba98d9f0a6863f4089b2cb6a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Yu☆Gi☆Oh! The Dark Side of Dimensions",
+        "alternativeTitle": "Yu☆Gi☆Oh! The Dark Side of Dimensions",
+        "id": "yugioh-the-dark-side-of-dimensions-1722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aeb4121b092921aef38cf892f4482555.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "A Certain Magical Index",
+        "alternativeTitle": "Toaru Majutsu no Index",
+        "id": "a-certain-magical-index-1716",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/365354a46619dd7a0492c15294c36d7a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Birdy the Mighty: Decode",
+        "alternativeTitle": "Tetsuwan Birdy Decode",
+        "id": "birdy-the-mighty-decode-1715",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cdf363f3e0ce31ffeeb53664cbc1045.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You're Under Arrest",
+        "alternativeTitle": "Taiho Shichau zo",
+        "id": "youre-under-arrest-1714",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16e9129622257c46293bb23d3c3e951c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Mardock Scramble: The Third Exhaust",
+        "alternativeTitle": "Mardock Scramble: The Third Exhaust",
+        "id": "mardock-scramble-the-third-exhaust-1709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a766b943a005794de5b1ae19e2b68dd5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "68m"
+      },
+      {
+        "title": "Love Live! School Idol Project",
+        "alternativeTitle": "Love Live! School Idol Project",
+        "id": "love-live-school-idol-project-1706",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4559d51c5ada25b3dbc8a08095ed55ef.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Level E",
+        "alternativeTitle": "Level E",
+        "id": "level-e-1705",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16b33fbe28d08ebe57f7ee7d5feeda45.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Koutetsujou no Kabaneri Movie 1: Tsudou Hikari",
+        "alternativeTitle": "Koutetsujou no Kabaneri Movie 1: Tsudou Hikari",
+        "id": "koutetsujou-no-kabaneri-movie-1-tsudou-hikari-1704",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2917d91cec1de94ceca5bd4235635ee.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "107m"
+      },
+      {
+        "title": "Ghost in the Shell: Arise - Border 4: Ghost Stands Alone",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone",
+        "id": "ghost-in-the-shell-arise-border-4-ghost-stands-alone-1703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fbd296e171ae4981c99a9a5f2f1d75a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Is This a Zombie?",
+        "alternativeTitle": "Kore wa Zombie Desu ka?",
+        "id": "is-this-a-zombie-1702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e407dacf5138ca98f053375ec7967631.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kiznaiver",
+        "alternativeTitle": "Kiznaiver",
+        "id": "kiznaiver-1701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91df960552e6bf8ba75129145300ebd6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High School DxD BorN: Yomigaeranai Fushichou",
+        "alternativeTitle": "High School DxD BorN: Yomigaeranai Fushichou",
+        "id": "high-school-dxd-born-yomigaeranai-fushichou-1698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04aa1cc88ed580094fc6c6789a6305af.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+        "alternativeTitle": "Fate/stay night: Unlimited Blade Works 2nd Season - Sunny Day",
+        "id": "fatestay-night-unlimited-blade-works-2nd-season-sunny-day-1694",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8624fc7eb9e8409b0591e2e32c3b8e1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion-1693",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/35356c13f5a026be1c0612ee546b2078.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Dragon Ball Super",
+        "alternativeTitle": "Dragon Ball Super",
+        "id": "dragon-ball-super-1692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6908f85a069414d40530042f2cdd8c8a.jpg",
+        "episodes": {
+          "sub": 131,
+          "dub": 131,
+          "eps": 131
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chio's School Road",
+        "alternativeTitle": "Chio-chan no Tsuugakuro",
+        "id": "chios-school-road-1688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16f35b17737bdffdf90aee558a7d1048.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bleach the Movie: Memories of Nobody",
+        "alternativeTitle": "Bleach Movie 1: Memories of Nobody",
+        "id": "bleach-the-movie-memories-of-nobody-1687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/774d607087dbaf2e2d850647903edc14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Ayakashi: Japanese Classic Horror",
+        "alternativeTitle": "Ayakashi: Japanese Classic Horror",
+        "id": "ayakashi-japanese-classic-horror-1686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ee1e96d9ae086ec585a0ed597da71b8.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aldnoah.Zero",
+        "alternativeTitle": "Aldnoah.Zero",
+        "id": "aldnoahzero-1683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eee2f5b71e3f1de9f20a53b6fd93dec1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My-Hime",
+        "alternativeTitle": "Mai-HiME",
+        "id": "my-hime-1681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b527af2addef6a18d6cec47003d169df.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Magic Knight Rayearth",
+        "alternativeTitle": "Magic Knight Rayearth",
+        "id": "magic-knight-rayearth-1680",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/742e7f9ba21188b5282e76029167c1d5.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 20,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kakegurui: Compulsive Gambler",
+        "alternativeTitle": "Kakegurui",
+        "id": "kakegurui-compulsive-gambler-1677",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ba5e9d506abda2f0b0c92dd91a24f90.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High School DxD BorN",
+        "alternativeTitle": "High School DxD BorN",
+        "id": "high-school-dxd-born-1676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0a14c3dec143bd24ace0779a5eac4b6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Brave Story",
+        "alternativeTitle": "Brave Story",
+        "id": "brave-story-1670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d99726f0435947758b82e0aeac4473f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      },
+      {
+        "title": "Bleach the Movie: The DiamondDust Rebellion",
+        "alternativeTitle": "Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru",
+        "id": "bleach-the-movie-the-diamonddust-rebellion-1669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dbe550d596d8f48422e3bf27ebdeb811.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      }
+    ]
+  }
+}

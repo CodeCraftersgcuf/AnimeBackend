@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 32,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Wolf Girl & Black Prince",
+        "alternativeTitle": "Ookami Shoujo to Kuro Ouji",
+        "id": "wolf-girl-black-prince-2689",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41790e7066f6101736a4da79a0dedab0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Duke of Death and His Maid Season 2",
+        "alternativeTitle": "Shinigami Bocchan to Kuro Maid 2nd Season",
+        "id": "the-duke-of-death-and-his-maid-season-2-18489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1581fb1cc0d929f11fdd190ff5f6a7b.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Code Geass: Lelouch of the Re;surrection",
+        "alternativeTitle": "Code Geass: Fukkatsu no Lelouch",
+        "id": "code-geass-lelouch-of-the-resurrection-529",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26494563f47d839f949722ac54a6f6f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      },
+      {
+        "title": "World Trigger 3rd Season",
+        "alternativeTitle": "World Trigger 3rd Season",
+        "id": "world-trigger-3rd-season-17391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6817b64d239ffcd95c5db40339bb4e20.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Teasing Master Takagi-san 2",
+        "alternativeTitle": "Karakai Jouzu no Takagi-san 2",
+        "id": "teasing-master-takagi-san-2-305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe55c80160987eb301dfb3283c9748fa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sekirei: Pure Engagement",
+        "alternativeTitle": "Sekirei: Pure Engagement",
+        "id": "sekirei-pure-engagement-1942",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3036e93bb1fe5ef63ba1736d11488335.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To the Abandoned Sacred Beasts",
+        "alternativeTitle": "Katsute Kami Datta Kemono-tachi e",
+        "id": "to-the-abandoned-sacred-beasts-6163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/201eadf2331f22da6d386744129f333b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ao-chan Can't Study!",
+        "alternativeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+        "id": "ao-chan-cant-study-4320",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/702f674cea1ae197a5df90b4f6abc10d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Love Stage!!",
+        "alternativeTitle": "Love Stage!!",
+        "id": "love-stage-2039",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6be31d0f417487cd1f166195154223f1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/stay night: Heaven's Feel - I. Presage Flower",
+        "alternativeTitle": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+        "id": "fatestay-night-heavens-feel-i-presage-flower-222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51e6974a9c4f51c1b9671533933f680f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "TONIKAWA: Over The Moon For You - High School Days",
+        "alternativeTitle": "Tonikaku Kawaii: Joshikou-hen",
+        "id": "tonikawa-over-the-moon-for-you-high-school-days-18457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/071ea756f7a46b9745d0337ec2a59253.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Haikyuu!!: To the Top 2nd Season",
+        "alternativeTitle": "Haikyuu!!: To the Top 2nd Season",
+        "id": "haikyuu-to-the-top-2nd-season-35",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b956e64e19a837a10b881c05fa81455.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hortensia SAGA",
+        "alternativeTitle": "Hortensia Saga (TV)",
+        "id": "hortensia-saga-15734",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e287014b89006e2ef7509f36a47d5425.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Beastars 2nd Season",
+        "alternativeTitle": "Beastars 2nd Season",
+        "id": "beastars-2nd-season-15658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6744035fceac4bb01b636c59ba2f4993.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "AKIRA",
+        "alternativeTitle": "Akira",
+        "id": "akira-337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b4628ccc255bd2e628f48ccce80848f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "124m"
+      },
+      {
+        "title": "Mobile Suit Gundam: Iron-Blooded Orphans",
+        "alternativeTitle": "Mobile Suit Gundam: Iron-Blooded Orphans",
+        "id": "mobile-suit-gundam-iron-blooded-orphans-515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7734c495b8df742ca7567a70daca3462.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Goblin Slayer: Goblin",
+        "alternativeTitle": "Goblin Slayer: Goblin's Crown",
+        "id": "goblin-slayer-goblins-crown-2878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042a07b44abbae9af200bc1ca2fdde16.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Claymore",
+        "alternativeTitle": "Claymore",
+        "id": "claymore-844",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c3408d612c15928293728909118eef8.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ergo Proxy",
+        "alternativeTitle": "Ergo Proxy",
+        "id": "ergo-proxy-626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0f4a394b5a28a57816676b9474970d5.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Play It Cool, Guys",
+        "alternativeTitle": "Cool Doji Danshi",
+        "id": "play-it-cool-guys-18172",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd6cc124389350b4657397e6e15c02a4.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Super Dragon Ball Heroes: Ultra God Mission",
+        "alternativeTitle": "Super Dragon Ball Heroes: Ultra God Mission",
+        "id": "super-dragon-ball-heroes-ultra-god-mission-17971",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/af201f52c76d14bfd5f01984f537a88d.png",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Quality Assurance in Another World",
+        "alternativeTitle": "Kono Sekai wa Fukanzen Sugiru",
+        "id": "quality-assurance-in-another-world-19221",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38aefd81846638369e16a91700306000.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "FLCL",
+        "alternativeTitle": "FLCL",
+        "id": "flcl-485",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a8c52d06daa37855b9e5725a7c48939.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Mashle: Magic and Muscles (Specials)",
+        "alternativeTitle": "Mashle Specials",
+        "id": "mashle-magic-and-muscles-specials-18407",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b92187bc6390ab5d1e13b5f1c9c60cdc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "A Certain Magical Index II",
+        "alternativeTitle": "Toaru Majutsu no Index II",
+        "id": "a-certain-magical-index-ii-1187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b83281717238275d76005c9de2e4ebc.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragon Ball Z: Battle of Gods",
+        "alternativeTitle": "Dragon Ball Z Movie 14: Kami to Kami",
+        "id": "dragon-ball-z-battle-of-gods-1760",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/129327e47ae1ddc83a88ccf15e6e5f20.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Shiki",
+        "alternativeTitle": "Shiki",
+        "id": "shiki-797",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fff7f14c1511e7d580739aa99699f5a7.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Evangelion: 1.0 You Are (Not) Alone",
+        "alternativeTitle": "Evangelion: 1.0 You Are (Not) Alone",
+        "id": "evangelion-10-you-are-not-alone-433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/417b1d0c5ad84200d68cc2335d20cc80.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "101m"
+      },
+      {
+        "title": "AntiMagic Academy 35th Test Platoon",
+        "alternativeTitle": "Taimadou Gakuen 35 Shiken Shoutai",
+        "id": "antimagic-academy-35th-test-platoon-3858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fcd95bce1cfde9a257c319d608e76cb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Raven of the Inner Palace",
+        "alternativeTitle": "Koukyuu no Karasu",
+        "id": "raven-of-the-inner-palace-18168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc4d9dcda8d3e701301c1d389bca49ca.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Spriggan (ONA)",
+        "alternativeTitle": "Spriggan (ONA)",
+        "id": "spriggan-ona-15562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b03461937f3fce0ab679004983c0b16.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "45m"
+      },
+      {
+        "title": "The Stunned Hero and the Assassin Princesses",
+        "alternativeTitle": "Kizetsu Yuusha to Ansatsu Hime",
+        "id": "the-stunned-hero-and-the-assassin-princesses-19753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b26ecc3bfec1e0e448830968361ccfea.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To LOVE Ru Darkness",
+        "alternativeTitle": "To LOVE-Ru Darkness",
+        "id": "to-love-ru-darkness-1477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d9a247977b4d5881fa6a24f88eecf8f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kengan Ashura 2nd Season Part 2",
+        "alternativeTitle": "Kengan Ashura Season 2 Part 2",
+        "id": "kengan-ashura-2nd-season-part-2-19201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/934e7dd1ef1a07c7e9f0fe6f6cd6c3a1.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Castlevania 4th Season",
+        "alternativeTitle": "Castlevania 4th Season",
+        "id": "castlevania-4th-season-17873",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/142c64dbfdf537d59ee02db7b33856ef.jpeg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "Beyblade Burst Turbo",
+        "alternativeTitle": "Beyblade Burst Chouzetsu",
+        "id": "beyblade-burst-turbo-6820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9aed05d602eb185211a6310245583087.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rent-a-Girlfriend Season 4",
+        "alternativeTitle": "Kanojo, Okarishimasu 4th Season",
+        "id": "rent-a-girlfriend-season-4-19782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b24508cfaff6a3b0778d656d30c3a422.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 1,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Princess of the Bibliophile.",
+        "alternativeTitle": "Mushikaburi-hime",
+        "id": "princess-of-the-bibliophile-18170",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67aebbc1089f0baa39d345833678184c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ushio and Tora",
+        "alternativeTitle": "Ushio to Tora (TV)",
+        "id": "ushio-and-tora-1252",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da2bc3526c8c60b7bbd9d0a671fecdde.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dorohedoro",
+        "alternativeTitle": "Dorohedoro",
+        "id": "dorohedoro-385",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8258c3b1cabf1a1f273453e59ef1a55.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

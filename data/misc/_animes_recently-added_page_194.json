@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 194,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Ultraman 2",
+        "alternativeTitle": "Ultraman 2",
+        "id": "ultraman-2-15592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66de2539e8365578982e69adc805a1f5.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Non Non Biyori Nonstop OVA",
+        "alternativeTitle": "Non Non Biyori Nonstop OVA",
+        "id": "non-non-biyori-nonstop-ova-18033",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70ccd8cc0a611ee05dd255f2de5a417d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Komi Can't Communicate",
+        "alternativeTitle": "Komi-san wa, Comyushou desu.",
+        "id": "komi-cant-communicate-17906",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e3dc1cb11c11d8e7d315865689425c4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kimetsu Academy: Valentine Edition",
+        "alternativeTitle": "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen",
+        "id": "kimetsu-academy-valentine-edition-17495",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e6432baae78b6b8a2874c696347a3ef.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Re-Main",
+        "alternativeTitle": "Re-Main",
+        "id": "re-main-17670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef591ac1976c4432ffe07ebc522385ce.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "How a Realist Hero Rebuilt the Kingdom",
+        "alternativeTitle": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
+        "id": "how-a-realist-hero-rebuilt-the-kingdom-15711",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2eee0c63a0bad64a2a58aeeed469bf39.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sonny Boy",
+        "alternativeTitle": "Sonny Boy",
+        "id": "sonny-boy-17876",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bde6315a3932e21295a2385c2f763860.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Life Lessons with Uramichi Oniisan",
+        "alternativeTitle": "Uramichi Oniisan",
+        "id": "life-lessons-with-uramichi-oniisan-15594",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d377f833c2c25f955d677df87a34aa56.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BanG Dream! Movie: Episode of Roselia - I: Yakusoku",
+        "alternativeTitle": "BanG Dream! Movie: Episode of Roselia - I: Yakusoku",
+        "id": "bang-dream-movie-episode-of-roselia-i-yakusoku-15652",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba2d2762c640fa3e6c1285edeeb5205a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "The Dungeon of Black Company",
+        "alternativeTitle": "Meikyuu Black Company",
+        "id": "the-dungeon-of-black-company-15801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4ed02683ab2d8936ded597a7c698c0f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+        "alternativeTitle": "BanG Dream! Movie: Episode of Roselia - II: Song I Am.",
+        "id": "bang-dream-movie-episode-of-roselia-ii-song-i-am-15653",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e5a44a6eb6e84254281aa4628a0ba12.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "64m"
+      },
+      {
+        "title": "86-Eighty Six- Special Edition - Coquelicots Blooming Across the Battlefield",
+        "alternativeTitle": "86 Special Edition: Senya ni Akaku Hinageshi no Saku",
+        "id": "86eighty-six-special-edition-coquelicots-blooming-across-the-battlefield-17948",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e9448521e5959e8db0a6857569d80e5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "The Case Study of Vanitas",
+        "alternativeTitle": "Vanitas no Carte",
+        "id": "the-case-study-of-vanitas-17754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a85ec1a6967840ab41a15829dd135d9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Violet Evergarden: The Movie (2020)",
+        "alternativeTitle": "Violet Evergarden Movie",
+        "id": "violet-evergarden-the-movie-2020-159",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed1c6fd65a6dab12e75dc038acc2fec2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "140m"
+      },
+      {
+        "title": "Toradora!: Bento Battle",
+        "alternativeTitle": "Toradora!: Bentou no Gokui",
+        "id": "toradora-bento-battle-1667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/398b7ab78159a17f932af8eab8cf4d38.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure Part 6: Stone Ocean",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
+        "id": "jojos-bizarre-adventure-part-6-stone-ocean-17826",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/523d71be1895a9426b94ad2a756d6720.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Kageki Shojo!! The Curtain Rises",
+        "alternativeTitle": "Kageki Shoujo!!",
+        "id": "kageki-shojo-the-curtain-rises-17312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea0e58b7961f5650f262bc6e95963c85.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Higurashi: When They Cry – SOTSU",
+        "alternativeTitle": "Higurashi no Naku Koro ni Sotsu",
+        "id": "higurashi-when-they-cry-sotsu-17709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43d2679094e41592838d66ec523acc37.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 15,
+          "eps": 15
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Miss Kobayashi's Dragon Maid 2nd Season",
+        "alternativeTitle": "Kobayashi-san Chi no Maid Dragon 2nd Season",
+        "id": "miss-kobayashis-dragon-maid-2nd-season-17878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9488f6f6af65c6a0af6e2d32ba74a6a7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaleido Star: Good da yo! Goood!!",
+        "alternativeTitle": "Kaleido Star: Good da yo! Goood!!",
+        "id": "kaleido-star-good-da-yo-goood-4450",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a92bc5877949552dbbddd6be728b40ff.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "The Girl From the Other Side: Siúil, a Rún",
+        "alternativeTitle": "Totsukuni no Shoujo",
+        "id": "the-girl-from-the-other-side-siuil-a-run-1592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/917d422b49d25c962fdffbdd91001c60.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "10m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime 2nd Season Part 2",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken 2nd Season Part 2",
+        "id": "that-time-i-got-reincarnated-as-a-slime-2nd-season-part-2-15576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e68f6d1a80303c65d654d94d2d71e1e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Battle in 5 seconds after meeting.",
+        "alternativeTitle": "Deatte 5-byou de Battle",
+        "id": "battle-in-5-seconds-after-meeting-17278",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74e454bec76a13100056b8ad8b403723.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "I'm standing on 1,000,000 lives.",
+        "alternativeTitle": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
+        "id": "im-standing-on-1000000-lives-17393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78b0e3418f039f90352a3c81f3fadc12.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Next Life as a Villainess: All Routes Lead to Doom! 2nd Season",
+        "alternativeTitle": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X",
+        "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-2nd-season-15511",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4a176c1ece67cc2d9bba4cebbbecb3c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sailor Moon SuperS Plus: Ami's First Love",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi",
+        "id": "sailor-moon-supers-plus-amis-first-love-2312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/062f7a04cad455cddf9b1cb0482329b9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "The Honor Student at Magic High School",
+        "alternativeTitle": "Mahouka Koukou no Yuutousei",
+        "id": "the-honor-student-at-magic-high-school-17466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6767fbc29ead271ee16f9268433a0bd9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Getter Robo Arc",
+        "alternativeTitle": "Getter Robo Arc",
+        "id": "getter-robo-arc-17300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e58ca1268788614d3e2839d9ea22e40.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mother of the Goddess' Dormitory (Uncensored)",
+        "alternativeTitle": "Megami-ryou no Ryoubo-kun. (Uncensored)",
+        "id": "mother-of-the-goddess-dormitory-uncensored-17883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5660fd8253bf74f4cf72afebe3a2f7a5.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mother of the Goddess' Dormitory",
+        "alternativeTitle": "Megami-ryou no Ryoubo-kun.",
+        "id": "mother-of-the-goddess-dormitory-15799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4baa39376c62b622a5bf42a2d4c597f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fena: Pirate Princess",
+        "alternativeTitle": "Kaizoku Oujo",
+        "id": "fena-pirate-princess-17888",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d77b8f7ebe76236c26a2ffba239fd9ec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon Movie 23: Coco",
+        "alternativeTitle": "Pokemon Movie 23: Coco",
+        "id": "pokemon-movie-23-coco-15517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6b7fceb562c881fc5724046e35737c6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Gokushufudou Part 2",
+        "alternativeTitle": "Gokushufudou Part 2",
+        "id": "gokushufudou-part-2-17843",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc52f99d54f48e5486b0d0385595ff8f.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "D_Cide Traumerei",
+        "alternativeTitle": "D_Cide Traumerei",
+        "id": "dcide-traumerei-17702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc68e665ab695c3f0cfdcf1fc11d56c9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime: Tales - Veldora's Journal",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki",
+        "id": "that-time-i-got-reincarnated-as-a-slime-tales-veldoras-journal-5909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bfff7301bf672f318002200765e7667.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Trinity Seven: Eternity Library & Alchemic Girl",
+        "alternativeTitle": "Trinity Seven Movie 1: Eternity Library to Alchemic Girl",
+        "id": "trinity-seven-eternity-library-alchemic-girl-2362",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22bffc5733361b02cc30455caf4f949c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "55m"
+      },
+      {
+        "title": "Trinity Seven Movie 2: Heavens Library to Crimson Lord",
+        "alternativeTitle": "Trinity Seven Movie 2: Heavens Library to Crimson Lord",
+        "id": "trinity-seven-movie-2-heavens-library-to-crimson-lord-2091",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a4853d602689328330ed36a3a4c86f4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "The World God Only Knows: Four Girls and an Idol",
+        "alternativeTitle": "Kami nomi zo Shiru Sekai: 4-nin to Idol",
+        "id": "the-world-god-only-knows-four-girls-and-an-idol-2218",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/292fa3452a3d92262c7eb622321b77b4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "The World God Only Knows: Flag 0",
+        "alternativeTitle": "Kami nomi zo Shiru Sekai: Flag 0",
+        "id": "the-world-god-only-knows-flag-0-3907",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f09b05a57d370578faf99447036e6fb8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "1m"
+      },
+      {
+        "title": "Rio: Rainbow Gate! Special",
+        "alternativeTitle": "Rio: Rainbow Gate! Special",
+        "id": "rio-rainbow-gate-special-7549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c3d00442e31224269ce7a8b34595d9c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      }
+    ]
+  }
+}

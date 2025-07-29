@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 70,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Hans Christian Anderson's The Little Mermaid",
+        "alternativeTitle": "Andersen Douwa: Ningyohime",
+        "id": "hans-christian-andersons-the-little-mermaid-3633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cec416ebff795e8eff654057da0cc0d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "68m"
+      },
+      {
+        "title": "Gourmet Girl Graffiti",
+        "alternativeTitle": "Koufuku Graffiti",
+        "id": "gourmet-girl-graffiti-4401",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acae7f89b8302df33d109be39b1a7c7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Tyrant",
+        "alternativeTitle": "Renai Boukun",
+        "id": "love-tyrant-4657",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/476e9992eaf5b498ad24dd3fca922d36.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wedding Peach DX",
+        "alternativeTitle": "Ai Tenshi Densetsu Wedding Peach DX",
+        "id": "wedding-peach-dx-4913",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baf0d985bb3574bdf481e0f81f9a3170.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Arifureta: From Commonplace to World's Strongest",
+        "alternativeTitle": "Arifureta Shokugyou de Sekai Saikyou Specials",
+        "id": "arifureta-from-commonplace-to-worlds-strongest-5937",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acb042c40dd50c70ed804060175dc692.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "In Another World With My Smartphone",
+        "alternativeTitle": "Isekai wa Smartphone to Tomo ni.",
+        "id": "in-another-world-with-my-smartphone-6705",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/948037c2ba3806e3a36d1480348ddca9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ogre Slayer",
+        "alternativeTitle": "Onikirimaru",
+        "id": "ogre-slayer-6961",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c723278fe8c9bc13294e6f514119f2ef.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Akuma-kun (Movie)",
+        "alternativeTitle": "Akuma-kun (Movie)",
+        "id": "akuma-kun-movie-8241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/197cfaa5c4524f3d9e46fcfb0e66f0e7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "Yichang Shengwu Jianwenlu Specials",
+        "alternativeTitle": "Yichang Shengwu Jianwenlu Specials",
+        "id": "yichang-shengwu-jianwenlu-specials-12593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47cac3455e7149b4a069dedaef0b21bd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Famous Dog Lassie: Yume ni Mukatte Hashire!",
+        "alternativeTitle": "Meiken Lassie: Yume ni Mukatte Hashire!",
+        "id": "famous-dog-lassie-yume-ni-mukatte-hashire-15153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a4925718a83f492b6f97720deeef3d1a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Xue Ying Ling Zhu 2nd Season",
+        "alternativeTitle": "Xue Ying Ling Zhu 2nd Season",
+        "id": "xue-ying-ling-zhu-2nd-season-17457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d41a6033b961cd43bfb609fbfa564ebe.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Detective Conan Movie 25: The Bride of Halloween",
+        "alternativeTitle": "Detective Conan Movie 25: Halloween no Hanayome",
+        "id": "detective-conan-movie-25-the-bride-of-halloween-18225",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f853b563b758977252bcfc34c7b34f0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "The Disappearance of Haruhi Suzumiya",
+        "alternativeTitle": "Suzumiya Haruhi no Shoushitsu",
+        "id": "the-disappearance-of-haruhi-suzumiya-50",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c3c7e39de63f6ad112978f00e1bd76b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "162m"
+      },
+      {
+        "title": "Detective Conan Movie 20: The Darkest Nightmare",
+        "alternativeTitle": "Detective Conan Movie 20: The Darkest Nightmare",
+        "id": "detective-conan-movie-20-the-darkest-nightmare-306",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7bfefb79337183dc0b660bf7f0fe46f0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "112m"
+      },
+      {
+        "title": "ef - a tale of memories.",
+        "alternativeTitle": "ef: A Tale of Memories.",
+        "id": "ef-a-tale-of-memories-562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/176253371c5f3889265656c1b8a5590c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Teasing Master Takagi-san",
+        "alternativeTitle": "Karakai Jouzu no Takagi-san",
+        "id": "teasing-master-takagi-san-818",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ad397f0b14749d60f2853d4395df988.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Emma: A Victorian Romance",
+        "alternativeTitle": "Eikoku Koi Monogatari Emma",
+        "id": "emma-a-victorian-romance-1074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1bc1dfa3057246a473669ada93fa83b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Another",
+        "alternativeTitle": "Another",
+        "id": "another-1330",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7adb325bcfe1ab8376c0af800c0ab9e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Samurai 7",
+        "alternativeTitle": "Samurai 7",
+        "id": "samurai-7-1586",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d085a58668c74337b52e07f959c2d701.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "ORESUKI Are you the only one who loves me?",
+        "alternativeTitle": "Ore wo Suki nano wa Omae dake ka yo",
+        "id": "oresuki-are-you-the-only-one-who-loves-me-1842",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b338ebdb328ded1b4d0725589c96acd1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chibi Maruko-chan Movie",
+        "alternativeTitle": "Chibi Maruko-chan Movie",
+        "id": "chibi-maruko-chan-movie-2866",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b5d0c0ac76b3998d80d316967a25142.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Battle Spirits: Shounen Gekiha Dan",
+        "alternativeTitle": "Battle Spirits: Shounen Gekiha Dan",
+        "id": "battle-spirits-shounen-gekiha-dan-3634",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1a469ed6c7b129ea9eb6ca7ed43b45b.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gauche the Cellist",
+        "alternativeTitle": "Cello Hiki no Gauche (1982)",
+        "id": "gauche-the-cellist-3890",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5103eeed1aca09bf667c0b2e42cc5759.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Dragon Ball Z: The Return of Cooler",
+        "alternativeTitle": "Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi",
+        "id": "dragon-ball-z-the-return-of-cooler-4146",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42ce92e38a558f868219d8d13b485312.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Crows",
+        "alternativeTitle": "Koukou Butouden Crows",
+        "id": "crows-4402",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c2b983044b7cfeb5d5cb60ded8df6e0.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Sengoku Musou",
+        "alternativeTitle": "Sengoku Musou",
+        "id": "sengoku-musou-5426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1108806cbf91aa088bec8f156a0f487.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fragtime",
+        "alternativeTitle": "Fragtime",
+        "id": "fragtime-5682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bb26a35386231be9e7b3d156054e65d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "Isuca: Gokuraku",
+        "alternativeTitle": "Isuca: Gokuraku",
+        "id": "isuca-gokuraku-6706",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a17a1f88ef57e848d5a056b2ace1d6c0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Kemono to Chat",
+        "alternativeTitle": "Kemono to Chat",
+        "id": "kemono-to-chat-7730",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/149090123b4791fd5a4507ecc05f8eac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Oam Monogatari: Sono Natsu, Watashi ga Shitta koto",
+        "alternativeTitle": "Oam Monogatari: Sono Natsu, Watashi ga Shitta koto",
+        "id": "oam-monogatari-sono-natsu-watashi-ga-shitta-koto-8754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ed285b03eecf081a5a7b8f0367c579e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Obsolete",
+        "alternativeTitle": "Obsolete",
+        "id": "obsolete-9010",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f835fb84b5c36e4742a86b8f898f99dc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "TONIKAWA: Over The Moon For You Episode 12.5 – Flashbacks",
+        "alternativeTitle": "Tonikaku Kawaii: Kaisou",
+        "id": "tonikawa-over-the-moon-for-you-episode-125-flashbacks-17458",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e28ebe08a89e9daefb7a618864bad1c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Super Dragon Ball Heroes: Big Bang Mission!!!",
+        "alternativeTitle": "Super Dragon Ball Heroes: Big Bang Mission!!!",
+        "id": "super-dragon-ball-heroes-big-bang-mission-17970",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/440f62e68ca62b339b712bd3051e2133.jpg",
+        "episodes": {
+          "sub": 19,
+          "dub": 0,
+          "eps": 19
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Youths and Golden Coffin 2: Part 2",
+        "alternativeTitle": "Shaonian Ge Xing: Feng Hua Xue Yue Pian Part 2",
+        "id": "youths-and-golden-coffin-2-part-2-18994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eecee043586bdf41d162fe834ec1543e.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Martial Universe 4th Season",
+        "alternativeTitle": "Wu Dong Qian Kun 4th Season",
+        "id": "martial-universe-4th-season-19506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91bfa4e4b03ba0020352988fab60ca59.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Wolf Children",
+        "alternativeTitle": "Ookami Kodomo no Ame to Yuki",
+        "id": "wolf-children-51",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16df6aa7008fcc7c3fff07a5441c4422.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "Keep Your Hands Off Eizouken!",
+        "alternativeTitle": "Eizouken ni wa Te wo Dasu na!",
+        "id": "keep-your-hands-off-eizouken-307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8498ea8911ccfaf26a316ca284f4a6e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Eyeshield 21",
+        "alternativeTitle": "Eyeshield 21",
+        "id": "eyeshield-21-563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f1ddd12d434ad07e012c717c1e4d1b5.jpg",
+        "episodes": {
+          "sub": 145,
+          "dub": 0,
+          "eps": 145
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Miss Kobayashi's Dragon Maid Episode 14: Valentine's, and Then Hot Springs! - Please Don't Get Your Hopes Up",
+        "alternativeTitle": "Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen!",
+        "id": "miss-kobayashis-dragon-maid-episode-14-valentines-and-then-hot-springs-please-dont-get-your-hopes-up-819",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7ccff5afe1e2de540028a972ff34869.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Gabriel DropOut Specials",
+        "alternativeTitle": "Gabriel DropOut Specials",
+        "id": "gabriel-dropout-specials-1075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/571e7ad41865d979ba71e1bc9ed085c8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "15m"
+      }
+    ]
+  }
+}

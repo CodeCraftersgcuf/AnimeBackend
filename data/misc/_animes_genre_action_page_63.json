@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 63,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Katsugeki Shoujo Tanteidan",
+        "alternativeTitle": "Katsugeki Shoujo Tanteidan",
+        "id": "katsugeki-shoujo-tanteidan-10432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df2a3396d510f45dbd8c2c8c45bb5857.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+        "alternativeTitle": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+        "id": "harukanaru-toki-no-naka-de-3-owarinaki-unmei-5100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/543824165fd344fffdca8d3991bd4c34.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "56m"
+      },
+      {
+        "title": "What's Wrong with My Big Brother",
+        "alternativeTitle": "Wo Jia Da Shixiong You Dian Kaopu",
+        "id": "whats-wrong-with-my-big-brother-18271",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18e8c10cad85b25123b49783c507fc2e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Carp Reborn 3rd Season",
+        "alternativeTitle": "Yuan Long 3rd Season",
+        "id": "carp-reborn-3rd-season-18012",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72ca73640186fe87e00dfe5c0b5680cd.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Bungo Stray Dogs 4",
+        "alternativeTitle": "Bungou Stray Dogs 4th Season",
+        "id": "bungo-stray-dogs-4-18240",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bbab679c7d4036d15bd0e13a8a94c0e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gall Force 2: Destruction",
+        "alternativeTitle": "Gall Force 2: Destruction",
+        "id": "gall-force-2-destruction-6152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/833e612bad14515b6f8c54875c242709.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Gall Force 3: Stardust War",
+        "alternativeTitle": "Gall Force 3: Stardust War",
+        "id": "gall-force-3-stardust-war-6273",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddd013f371c2c181e5198722c623e562.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "61m"
+      },
+      {
+        "title": "Gall Force 1: Eternal Story",
+        "alternativeTitle": "Gall Force 1: Eternal Story",
+        "id": "gall-force-1-eternal-story-5954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c577cb0a1a0e15f534df82ca579e564b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "86m"
+      },
+      {
+        "title": "Judo Story",
+        "alternativeTitle": "Sugata Sanshirou",
+        "id": "judo-story-11846",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aac47e19b3969715d15d1b3a535b0462.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "70m"
+      },
+      {
+        "title": "Karasu Tengu Kabuto",
+        "alternativeTitle": "Karasu Tengu Kabuto",
+        "id": "karasu-tengu-kabuto-5882",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1f0e4a655f0bca5af3a6f1cf524a1c7.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Spy Classroom",
+        "alternativeTitle": "Spy Kyoushitsu",
+        "id": "spy-classroom-18250",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e58ccb788a8d716221458f031459d170.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Karasu Tengu Kabuto: Ougon no Me no Kemono",
+        "alternativeTitle": "Karasu Tengu Kabuto: Ougon no Me no Kemono",
+        "id": "karasu-tengu-kabuto-ougon-no-me-no-kemono-8685",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a02f6f6b6992ee021a9e71a02ae55d7c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime OAD",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken OVA",
+        "id": "that-time-i-got-reincarnated-as-a-slime-oad-1650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7497d0d333e297d83555b94233812e7.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
+        "alternativeTitle": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
+        "id": "psycho-pass-sinners-of-the-system-case1-tsumi-to-bachi-3119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d38bceed7cf19dc3191e8ad1959f20a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
+        "alternativeTitle": "Psycho-Pass: Sinners of the System Case.2 - First Guardian",
+        "id": "psycho-pass-sinners-of-the-system-case2-first-guardian-1585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2892d420b206e78cbf2f8be7c35db80b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿",
+        "alternativeTitle": "Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿",
+        "id": "psycho-pass-sinners-of-the-system-case3-onshuu-no-kanata-ni-905",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/097e5a2187caf3bd7e84de200f7359b1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "67m"
+      },
+      {
+        "title": "Arms Alchemy",
+        "alternativeTitle": "Busou Renkin",
+        "id": "arms-alchemy-2028",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4226e1a0904c177ce0cb533182e77c18.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BeyWarriors: Cyborg",
+        "alternativeTitle": "BeyWarriors: Cyborg",
+        "id": "beywarriors-cyborg-18054",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4cab3c0abd6d2d82ffb476951d4f390.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BeyWarriors Cyborg Special",
+        "alternativeTitle": "BeyWarriors Cyborg Special",
+        "id": "beywarriors-cyborg-special-18395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ee38781cc52514fd9d313da23a184f2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Sorcerous Stabber Orphen -Chaos in Urbanrama-",
+        "alternativeTitle": "Majutsushi Orphen Hagure Tabi: Urbanrama-hen",
+        "id": "sorcerous-stabber-orphen-chaos-in-urbanrama-18305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c753fcb742dea64a06c7a0e1ac4e23d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokyo Revengers: Christmas Showdown",
+        "alternativeTitle": "Tokyo Revengers: Seiya Kessen-hen",
+        "id": "tokyo-revengers-christmas-showdown-18244",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb663be9a427cc4c9556a5a124b060e8.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Buddy Daddies",
+        "alternativeTitle": "Buddy Daddies",
+        "id": "buddy-daddies-18288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b77a37286aac229ab2fed5c4624aca1f.jpeg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mob Psycho 100 III",
+        "alternativeTitle": "Mob Psycho 100 III",
+        "id": "mob-psycho-100-iii-18153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3d22899f42d913cf47a96b7b575aab3.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Boruto: Naruto Next Generations",
+        "alternativeTitle": "Boruto: Naruto Next Generations",
+        "id": "boruto-naruto-next-generations-8143",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32c83e2ad4a43229996356840db3982c.jpg",
+        "episodes": {
+          "sub": 293,
+          "dub": 293,
+          "eps": 293
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Stratos 4: Logbook",
+        "alternativeTitle": "Stratos 4: Logbook",
+        "id": "stratos-4-logbook-6485",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e7e06596ce568fa60fb08dc196cd3ca.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "30m"
+      },
+      {
+        "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
+        "alternativeTitle": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA",
+        "id": "keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana-ova-8015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48be0a8be7e137ae217950f4272335f7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Space Adventure Cobra",
+        "alternativeTitle": "Space Cobra",
+        "id": "space-adventure-cobra-995",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/260c7a38b8a2eebf76194c4806ee3390.jpg",
+        "episodes": {
+          "sub": 31,
+          "dub": 0,
+          "eps": 31
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ride Back",
+        "alternativeTitle": "RideBack",
+        "id": "ride-back-2353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/072910b80247ff910a15e01eeda511a9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Red Baron",
+        "alternativeTitle": "Red Baron",
+        "id": "red-baron-3464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a5d936c29d9e567322f05618bcda7dd.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Reincarnation of the Strongest Exorcist in Another World",
+        "alternativeTitle": "Saikyou Onmyouji no Isekai Tenseiki",
+        "id": "the-reincarnation-of-the-strongest-exorcist-in-another-world-18290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abfb85788cbcf278acd411a4f2e7a161.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Eminence in Shadow",
+        "alternativeTitle": "Kage no Jitsuryokusha ni Naritakute!",
+        "id": "the-eminence-in-shadow-17473",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bca4a71e271a30fb1b44d33d56db8f8f.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 20,
+          "eps": 20
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Epic of Divinity Light",
+        "alternativeTitle": "Dinghai Fusheng Lu",
+        "id": "epic-of-divinity-light-17359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db31f3c2f9db403cc39e2ec5299a6f26.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Legend of Exorcism",
+        "alternativeTitle": "Tian Bao Fuyao Lu",
+        "id": "legend-of-exorcism-17357",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/094552df0d811e5b43d041b97fbb729e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Legend of Exorcism 2nd Season",
+        "alternativeTitle": "Tian Bao Fuyao Lu 2nd Season",
+        "id": "legend-of-exorcism-2nd-season-3625",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/611ef2062d4387ff9d1a36605ce2a305.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      }
+    ]
+  }
+}

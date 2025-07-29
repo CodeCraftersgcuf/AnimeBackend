@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 2,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Rascal Does Not Dream of Santa Claus",
+        "alternativeTitle": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+        "id": "rascal-does-not-dream-of-santa-claus-19788",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e9109398449cbeab3228d6ea05c5b1d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 1,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bad Girl",
+        "alternativeTitle": "Bad Girl",
+        "id": "bad-girl-19759",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a886802f75f0dfb2b0f5580e480a37c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Scooped Up by an S-Rank Adventurer!",
+        "alternativeTitle": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
+        "id": "scooped-up-by-an-s-rank-adventurer-19764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b94b16fa2b966943695c1696637c4bc7.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fermat's Cuisine",
+        "alternativeTitle": "Fermat no Ryouri",
+        "id": "fermats-cuisine-19746",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4623b9c59ef7376b07e7ab2217df9efe.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kaiju No. 8 Season 2",
+        "alternativeTitle": "Kaijuu 8-gou 2nd Season",
+        "id": "kaiju-no-8-season-2-19792",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a3c3a24bc6aebc4b3c01ca82a5033ed.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Stunned Hero and the Assassin Princesses",
+        "alternativeTitle": "Kizetsu Yuusha to Ansatsu Hime",
+        "id": "the-stunned-hero-and-the-assassin-princesses-19753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b26ecc3bfec1e0e448830968361ccfea.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ling Cage Season 2",
+        "alternativeTitle": "Ling Long 2nd Season",
+        "id": "ling-cage-season-2-19655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/285e45ec36a2d1b95e32eb29b1468dad.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Anne Shirley",
+        "alternativeTitle": "Anne Shirley",
+        "id": "anne-shirley-19565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2e271a9e9498aa1dde79ae78a7e97ca.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 15,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Case Closed",
+        "alternativeTitle": "Detective Conan",
+        "id": "case-closed-323",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b185ed9d10aa300bb0cb7fc35b84999.jpg",
+        "episodes": {
+          "sub": 1169,
+          "dub": 123,
+          "eps": 1169
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "YAIBA: Samurai Legend",
+        "alternativeTitle": "Shin Samurai-den Yaiba",
+        "id": "yaiba-samurai-legend-19575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc237f80ce02963acf93eb8797e12f9f.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Will Eternal 3rd Season",
+        "alternativeTitle": "Yi Nian Yong Heng 3rd Season",
+        "id": "a-will-eternal-3rd-season-19200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80fae8c171a9c529865f3162cfa45b84.jpg",
+        "episodes": {
+          "sub": 59,
+          "dub": 0,
+          "eps": 59
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Soul Land 2: Peerless Tang Sect",
+        "alternativeTitle": "Douluo Dalu II: Jueshi Tangmen",
+        "id": "soul-land-2-peerless-tang-sect-18416",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e6c128b8320125011627ced44aaced.jpg",
+        "episodes": {
+          "sub": 111,
+          "dub": 0,
+          "eps": 104
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Ling Jian Zun 4th Season",
+        "alternativeTitle": "Ling Jian Zun 4th Season",
+        "id": "ling-jian-zun-4th-season-14951",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6a150a93ecc1af79d26860e85177210.jpg",
+        "episodes": {
+          "sub": 612,
+          "dub": 0,
+          "eps": 612
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Perfect World",
+        "alternativeTitle": "Wanmei Shijie",
+        "id": "perfect-world-17492",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76a4c54d2b7d76cc4aecd8151b977e25.jpg",
+        "episodes": {
+          "sub": 225,
+          "dub": 0,
+          "eps": 234
+        },
+        "type": "ONA",
+        "duration": "17m"
+      },
+      {
+        "title": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+        "alternativeTitle": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+        "id": "cardfight-vanguard-divinez-deluxe-kesshou-hen-19732",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b453481167c7fd55103c67c77115514.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Psychic Princess Season 2",
+        "alternativeTitle": "Tong Ling Fei 2nd Season",
+        "id": "psychic-princess-season-2-19816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c33e91791632c269f7c52c4e73ff6f1a.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Himitsu no AiPri 2nd Season",
+        "alternativeTitle": "Himitsu no AiPri: Ring-hen",
+        "id": "himitsu-no-aipri-2nd-season-19608",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ead9be2fb46dcbc79df2d1dab9bea65.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yu-Gi-Oh! Card Game: The Chronicles",
+        "alternativeTitle": "Yu-Gi-Oh! Card Game: The Chronicles",
+        "id": "yu-gi-oh-card-game-the-chronicles-19609",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56e86bcb87b3de63006fedd3ca3ba93b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "Lord of Mysteries",
+        "alternativeTitle": "Guimi Zhi Zhu: Xiaochou Pian",
+        "id": "lord-of-mysteries-19802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38c5a71674d8fc4af6ee57ffeb7b2617.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 2,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "35m"
+      },
+      {
+        "title": "Nukitashi the Animation",
+        "alternativeTitle": "Nukitashi the Animation",
+        "id": "nukitashi-the-animation-19806",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33d4163485c2892aad7b42ddcf4ef7d8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Betrothed to My Sister's Ex",
+        "alternativeTitle": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+        "id": "betrothed-to-my-sisters-ex-19766",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7726d03ae15975c080df874ca8e3d8a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Secrets of the Silent Witch",
+        "alternativeTitle": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+        "id": "secrets-of-the-silent-witch-19777",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80041e1c6d7346e561fd39d10507ddf9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Watari-kun's ****** Is about to Collapse",
+        "alternativeTitle": "Watari-kun no xx ga Houkai Sunzen",
+        "id": "watari-kuns-is-about-to-collapse-19769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7353719ac2fd26e6af72fe773c37a06a.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tougen Anki",
+        "alternativeTitle": "Tougen Anki",
+        "id": "tougen-anki-19779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5e326f8234a54e407d7e3c86f9d68e2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Takopi's Original Sin",
+        "alternativeTitle": "Takopii no Genzai",
+        "id": "takopis-original-sin-19799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be519acac4c3a026e537a674b608d860.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Arknights: Rise from Ember",
+        "alternativeTitle": "Arknights: Rise from Ember",
+        "id": "arknights-rise-from-ember-19768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/761de12ac14d81fb28a5e991d9db31a9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Call of the Night Season 2",
+        "alternativeTitle": "Yofukashi no Uta Season 2",
+        "id": "call-of-the-night-season-2-19791",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e19ae2576c697406e319f26ac939fce.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Bouquet for an Ugly Girl",
+        "alternativeTitle": "Busu ni Hanataba wo.",
+        "id": "a-bouquet-for-an-ugly-girl-19767",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6e5447f50616963c3225364896c8be4.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Keyboard Immortal",
+        "alternativeTitle": "Ludi Jian Xian",
+        "id": "keyboard-immortal-19526",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61ad8df68ec8f92be9c6610225168745.jpg",
+        "episodes": {
+          "sub": 137,
+          "dub": 0,
+          "eps": 150
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "The Sovereign's Ascension 2nd Season",
+        "alternativeTitle": "Yishi Du Zun 2nd Season",
+        "id": "the-sovereigns-ascension-2nd-season-19534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/193cb452f35e1f25f408d704d055006e.jpg",
+        "episodes": {
+          "sub": 98,
+          "dub": 0,
+          "eps": 98
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Love Between Fairy and Devil 2nd Season",
+        "alternativeTitle": "Cang Lan Jue 2",
+        "id": "love-between-fairy-and-devil-2nd-season-19818",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ac67f7a6216609585a552172bb18d11.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "I am the Blade",
+        "alternativeTitle": "Wo Wei Dao Zong",
+        "id": "i-am-the-blade-19815",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f4185a2a52b35993d4ad4f1d17e27c2.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Embers",
+        "alternativeTitle": "Yujin Xingzhe",
+        "id": "embers-19709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4934288465aa1722c34ab905c4faea17.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Celestial Bonds",
+        "alternativeTitle": "Xian Chong",
+        "id": "celestial-bonds-19708",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c42c38928dc41a8890e3cc418cd7b0f9.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Word of Honor 2nd Season",
+        "alternativeTitle": "Jun You Yun 2nd Season",
+        "id": "word-of-honor-2nd-season-19638",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1d85dbe80457636ed63ce69990576fc.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Dragon Raja Season 2",
+        "alternativeTitle": "Long Zu II: Daowangzhe Zhi Tong",
+        "id": "dragon-raja-season-2-19811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cda2c84e268ea0ccad62300808dfaf5e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Araiguma Calcal-dan",
+        "alternativeTitle": "Araiguma Calcal-dan",
+        "id": "araiguma-calcal-dan-19650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f73edc5ab4fb09128b2e462c7463d836.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 0,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "The Water Magician",
+        "alternativeTitle": "Mizu Zokusei no Mahoutsukai",
+        "id": "the-water-magician-19770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3de30534cd752a56b7323d979cd08b9.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 2,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kamitsubaki City Under Construction",
+        "alternativeTitle": "Kamitsubaki-shi Kensetsuchuu.",
+        "id": "kamitsubaki-city-under-construction-19742",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/577e52a7c7e82186ce0ffb9b6f90d743.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Solo Camping for Two",
+        "alternativeTitle": "Futari Solo Camp",
+        "id": "solo-camping-for-two-19752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/352ec6644247a3fb28cd1f9199f991f4.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 21,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Garo: Crimson Moon",
+        "alternativeTitle": "Garo: Guren no Tsuki",
+        "id": "garo-crimson-moon-8308",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5e3b0062a442600f6900cc7118d18ac.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Laughing Under the Clouds",
+        "alternativeTitle": "Donten ni Warau",
+        "id": "laughing-under-the-clouds-1454",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ea4809607f1babc8cb514979ce0ce92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dance with Devils",
+        "alternativeTitle": "Dance with Devils",
+        "id": "dance-with-devils-6186",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ff8e966e240508627bfa062350c4b49.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Danchigai",
+        "alternativeTitle": "Danchigai",
+        "id": "danchigai-5482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60fd28fe59fcf836d7e27aa0eac6a519.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "This Ugly Yet Beautiful World",
+        "alternativeTitle": "Kono Minikuku mo Utsukushii Sekai",
+        "id": "this-ugly-yet-beautiful-world-4477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6bb6eeb84110887dbe9e20cf6cfa59f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dallos",
+        "alternativeTitle": "Dallos",
+        "id": "dallos-8088",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f296b41f62733b4412c4fd413aa52288.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Beck: Mongolian Chop Squad",
+        "alternativeTitle": "Beck",
+        "id": "beck-mongolian-chop-squad-204",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd5e8b207bb07b68d7d9d72980709cf7.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED Destiny Special Edition",
+        "alternativeTitle": "Mobile Suit Gundam SEED Destiny Special Edition",
+        "id": "mobile-suit-gundam-seed-destiny-special-edition-2398",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/080cd15a0e52f3e74c2dde359c5c851e.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+        "alternativeTitle": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+        "id": "mobile-suit-gundam-seed-ce73-stargazer-2926",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc7e76c670b938c442b648cffa774571.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED Special Edition",
+        "alternativeTitle": "Mobile Suit Gundam SEED Special Edition",
+        "id": "mobile-suit-gundam-seed-special-edition-2229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5acf54964dc4699ff6d4fe7cc43660b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "95m"
+      },
+      {
+        "title": "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront",
+        "alternativeTitle": "Mobile Suit Gundam MS IGLOO 2: Gravity of the Battlefront",
+        "id": "mobile-suit-gundam-ms-igloo-2-gravity-of-the-battlefront-4571",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91c8b595bbf12c1c40cc0d04c11c3a2e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+        "alternativeTitle": "Mobile Suit Gundam MS IGLOO: The Hidden One Year War",
+        "id": "mobile-suit-gundam-ms-igloo-the-hidden-one-year-war-4839",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5fa42ab092fa248d97cf81adeec592c.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+        "alternativeTitle": "Mobile Suit Gundam MS IGLOO: Apocalypse 0079",
+        "id": "mobile-suit-gundam-ms-igloo-apocalypse-0079-4156",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd25d4b3979423c2d74e0aa3d794ee1f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Mokei Senshi Gunpla Builders Beginning G",
+        "alternativeTitle": "Mokei Senshi Gunpla Builders Beginning G",
+        "id": "mokei-senshi-gunpla-builders-beginning-g-5002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59e88cc9de02f84b978eec452e01d9dd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Mobile Suit Gundam Wing: Operation Meteor",
+        "alternativeTitle": "Mobile Suit Gundam Wing: Operation Meteor",
+        "id": "mobile-suit-gundam-wing-operation-meteor-1682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4357e7db0348e7a510f3376f7df86731.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "1m"
+      },
+      {
+        "title": "Mobile Suit Gundam AGE: Memory of Eden",
+        "alternativeTitle": "Mobile Suit Gundam AGE: Memory of Eden",
+        "id": "mobile-suit-gundam-age-memory-of-eden-5034",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8726917b5e3074c1d2af0b0321450c49.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "75m"
+      },
+      {
+        "title": "The Reflection",
+        "alternativeTitle": "The Reflection",
+        "id": "the-reflection-10102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90606a6a7871972d38fd09c580c47cf2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Space Battleship Tiramisu Zwei",
+        "alternativeTitle": "Uchuu Senkan Tiramisù II",
+        "id": "space-battleship-tiramisu-zwei-5627",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebe8b471dc7df7675d672b8b2cdb8583.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Mobile Suit Gundam Unicorn: Episode EX - 100 Years of Solitude",
+        "alternativeTitle": "Mobile Suit Gundam Unicorn: Episode EX - 100 Years of Solitude",
+        "id": "mobile-suit-gundam-unicorn-episode-ex-100-years-of-solitude-4840",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7666930fed4567f5ef05c0b31d05e059.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Hakuoki ~Demon of the Fleeting Blossom~",
+        "alternativeTitle": "Hakuouki",
+        "id": "hakuoki-demon-of-the-fleeting-blossom-1815",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e739c8ed5b1d33066a35f318e7e8298a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hakuoki ~Demon of the Fleeting Blossom~ A Memory of Snow Flowers",
+        "alternativeTitle": "Hakuouki Sekkaroku",
+        "id": "hakuoki-demon-of-the-fleeting-blossom-a-memory-of-snow-flowers-1130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa0ec14c1a90f98a3c847f8ef8868579.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Getbackers",
+        "alternativeTitle": "GetBackers",
+        "id": "getbackers-1217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f674dc8fa34c16c78bac8f46e1efee36.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Space Battleship Tiramisu",
+        "alternativeTitle": "Uchuu Senkan Tiramisù",
+        "id": "space-battleship-tiramisu-6415",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1862ff4935570d8af9c856177afad3eb.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Ronja Rövardotter",
+        "alternativeTitle": "Sanzoku no Musume Ronja",
+        "id": "ronja-rovardotter-2935",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c276432a3522e4affd6ea346a51922c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Maria†Holic Alive",
+        "alternativeTitle": "Maria†Holic Alive",
+        "id": "mariaholic-alive-3655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b228f71f76dcfba752a4026dc04a8762.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Endride",
+        "alternativeTitle": "Endride",
+        "id": "endride-8988",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba49198a3b58a8e24031f47b8527286f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cobra The Animation: The Psycho-Gun",
+        "alternativeTitle": "Cobra The Animation: The Psycho-Gun",
+        "id": "cobra-the-animation-the-psycho-gun-3869",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e8afba6416fd3833aa5d540d96c485c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Hakuoki ~Demon of the Fleeting Blossom~ Record of the Jade Blood",
+        "alternativeTitle": "Hakuouki Hekketsuroku",
+        "id": "hakuoki-demon-of-the-fleeting-blossom-record-of-the-jade-blood-1207",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e0269e60bc40022434da58e2a0f2656a.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aikatsu on Parade! (ONA)",
+        "alternativeTitle": "Aikatsu on Parade! (ONA)",
+        "id": "aikatsu-on-parade-ona-6075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c573abe71b3e70569127082f4498155.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Cobra The Animation: Time Drive",
+        "alternativeTitle": "Cobra The Animation: Time Drive",
+        "id": "cobra-the-animation-time-drive-3813",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/71ff7ffe164342a091e2a0f9eb2818e0.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Afro Samurai",
+        "alternativeTitle": "Afro Samurai",
+        "id": "afro-samurai-2047",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46017c7aa6824d6665315c0795bd45af.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "TV",
+        "duration": "27m"
+      },
+      {
+        "title": "Cowboy Bebop",
+        "alternativeTitle": "Cowboy Bebop",
+        "id": "cowboy-bebop-27",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce5e539af63e42431621fc66a47fbec1.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED MSV Astray",
+        "alternativeTitle": "Mobile Suit Gundam SEED MSV Astray",
+        "id": "mobile-suit-gundam-seed-msv-astray-6468",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b619e429113183d2af584215312fafa.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "7m"
+      },
+      {
+        "title": "Aquarion Logos",
+        "alternativeTitle": "Aquarion Logos",
+        "id": "aquarion-logos-8762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b97f48f6682cb87d039e08a519a6e79.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cobra The Animation",
+        "alternativeTitle": "Cobra The Animation",
+        "id": "cobra-the-animation-3167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82073c5f7157083b205f089d9d171c38.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aikatsu on Parade!",
+        "alternativeTitle": "Aikatsu on Parade!",
+        "id": "aikatsu-on-parade-4376",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bedff09fdcccae89a77435e8a24b02e6.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Appleseed",
+        "alternativeTitle": "Appleseed",
+        "id": "appleseed-5200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecb2fa76829e9b9c644df52eda9ae111.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "66m"
+      },
+      {
+        "title": "The Silver Guardian",
+        "alternativeTitle": "Gin no Guardian",
+        "id": "the-silver-guardian-6920",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/732e4c9acaacbfc4f0fc1954ffa5dc5d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Space Adventure Cobra",
+        "alternativeTitle": "Space Cobra",
+        "id": "space-adventure-cobra-995",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/260c7a38b8a2eebf76194c4806ee3390.jpg",
+        "episodes": {
+          "sub": 31,
+          "dub": 0,
+          "eps": 31
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
+        "alternativeTitle": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors",
+        "id": "chou-deneiban-sd-gundam-sangokuden-brave-battle-warriors-8365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2abeffbddd407e91a533729b15c7ed8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "13m"
+      }
+    ]
+  }
+}

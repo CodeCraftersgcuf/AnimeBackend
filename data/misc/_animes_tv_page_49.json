@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 121,
+      "currentPage": 49,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Azur Lane",
+        "alternativeTitle": "Azur Lane",
+        "id": "azur-lane-6687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7aaa1c3656b720bafbb3e0024fa239cd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sky of Connection",
+        "alternativeTitle": "Yosuga no Sora: In Solitude, Where We Are Least Alone.",
+        "id": "sky-of-connection-6683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8380af552adcb0f577802a9d6611152c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Senran Kagura: Shinovi Master",
+        "alternativeTitle": "Senran Kagura Shinovi Master: Tokyo Youma-hen",
+        "id": "senran-kagura-shinovi-master-6674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3081700adf482758e63290f4eb53d5c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ground Defense Force! Mao-chan",
+        "alternativeTitle": "Rikujou Bouei-tai Mao-chan",
+        "id": "ground-defense-force-mao-chan-6671",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d31e66333e199d735fa117f8057f4ec3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Popotan",
+        "alternativeTitle": "Popotan",
+        "id": "popotan-6669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34430083a3acd5a3e98ebc9396d94a62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Leviathan: The Last Defense",
+        "alternativeTitle": "Zettai Bouei Leviathan",
+        "id": "leviathan-the-last-defense-6663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d01cd7bc2688ca3a5208dfb5ffc4342.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Blessing of the Campanella",
+        "alternativeTitle": "Shukufuku no Campanella",
+        "id": "blessing-of-the-campanella-6656",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/643e2582b3abc244062c5b18fa0d118c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Seiren",
+        "alternativeTitle": "Seiren",
+        "id": "seiren-6653",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31c367f90c01e96a92b9b247b917565a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Machine Robo: Revenge of Cronos",
+        "alternativeTitle": "Machine Robo: Cronos no Dai Gyakushuu",
+        "id": "machine-robo-revenge-of-cronos-6639",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b64dba834f3aa7a6a24468358713b9c.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 0,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Koutetsu Sangokushi",
+        "alternativeTitle": "Koutetsu Sangokushi",
+        "id": "koutetsu-sangokushi-6635",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1646630e87aa60102c055eb66e646103.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Flint the Time Detective",
+        "alternativeTitle": "Jikuu Tantei Genshi-kun",
+        "id": "flint-the-time-detective-6631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21189e4c4b098a96a4eb5ff6cd5a42a4.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Galactic Patrol Lensman",
+        "alternativeTitle": "Galactic Patrol Lensman",
+        "id": "galactic-patrol-lensman-6628",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c3dd419ecddc3ca855e7b181d33f3e2.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fate/Extra: Last Encore",
+        "alternativeTitle": "Fate/Extra: Last Encore",
+        "id": "fateextra-last-encore-6627",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ea13d723041a8e44eda3605d4441f6f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BBK/BRNK",
+        "alternativeTitle": "Bubuki Buranki",
+        "id": "bbkbrnk-6624",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7813d9400b893a3f1ba03847f0dd7cb5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The White Whale of Mu",
+        "alternativeTitle": "Muu no Hakugei",
+        "id": "the-white-whale-of-mu-6620",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85d56547adc9d63710a77d1aebd9280d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Convenience Store Boy Friends",
+        "alternativeTitle": "Konbini Kareshi",
+        "id": "convenience-store-boy-friends-6616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6092cdd99bf420a20b1c0c46c65e65a8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Human Crossing",
+        "alternativeTitle": "Human Crossing",
+        "id": "human-crossing-6610",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c86cc5ad9458debdb2a19afcd6cbae85.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gundam Build Divers",
+        "alternativeTitle": "Gundam Build Divers",
+        "id": "gundam-build-divers-6606",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d59c0f0060eb746ee129f2b8939c210.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Giniro no Olynsis: Tokito",
+        "alternativeTitle": "Giniro no Olynsis: Tokito",
+        "id": "giniro-no-olynsis-tokito-6605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe8c89234fe10813d404b0d3663a3ab0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Genji Tsuushin Agedama",
+        "alternativeTitle": "Genji Tsuushin Agedama",
+        "id": "genji-tsuushin-agedama-6604",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa341275f6d08817d701de7d8889242b.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] D.I.C.E.",
+        "alternativeTitle": "[RAW] D.I.C.E.",
+        "id": "dice-6601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/29ecd0e14aeb8a4f2dfab964c3196dfe.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tokyo Ghoul:re 2nd Season",
+        "alternativeTitle": "Tokyo Ghoul:re 2nd Season",
+        "id": "tokyo-ghoulre-2nd-season-6585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1018175f05592c650c69c9c6e06b455b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Girls Beyond the Wasteland",
+        "alternativeTitle": "Shoujo-tachi wa Kouya wo Mezasu",
+        "id": "girls-beyond-the-wasteland-6564",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cac40422b29b234e6530779640a8d036.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "SD Gundam Sangokuden Brave Battle Warriors",
+        "alternativeTitle": "SD Gundam Sangokuden Brave Battle Warriors",
+        "id": "sd-gundam-sangokuden-brave-battle-warriors-6562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c4651667f29ebae1b39ce8fbde56c28.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Queen's Blade: Rebellion",
+        "alternativeTitle": "Queen's Blade: Rebellion",
+        "id": "queens-blade-rebellion-6559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07ec691c0ae716434f9d448ca3fcf233.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nyanbo!",
+        "alternativeTitle": "Nyanbo!",
+        "id": "nyanbo-6556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38fbb5e94bcd3c7fc7c9ca24478ce86e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Eagle Riders (2)",
+        "alternativeTitle": "Kagaku Ninja-tai Gatchaman F",
+        "id": "eagle-riders-2-6549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/008b376e4d5753c56bb8e87670f3b04a.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chronos Ruler",
+        "alternativeTitle": "Jikan no Shihaisha",
+        "id": "chronos-ruler-6548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2de4876dc0bce537a08331d04cb0e59.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Working Buddies!",
+        "alternativeTitle": "Hataraku Onii-san!",
+        "id": "working-buddies-6545",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a2299a4d1b8bc4da713b195f7daba17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "My First Girlfriend is a Gal",
+        "alternativeTitle": "Hajimete no Gal",
+        "id": "my-first-girlfriend-is-a-gal-6544",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c15cf87270b03f744bf6da611ebc8f77.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gurazeni: Money Pitch",
+        "alternativeTitle": "Gurazeni",
+        "id": "gurazeni-money-pitch-6543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3ba10742ef50cf2fdbc3ae142f104e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "DT Eightron",
+        "alternativeTitle": "DT Eightron",
+        "id": "dt-eightron-6541",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b08ade5bfc54c75b5e9e7c65c77b638f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Bono Bono",
+        "alternativeTitle": "Bonobono (TV 2016)",
+        "id": "bono-bono-6535",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a345da1df8b687c8a9b3ba7c671ad38c.jpg",
+        "episodes": {
+          "sub": 154,
+          "dub": 89,
+          "eps": 154
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Magical Girl Spec-Ops Asuka",
+        "alternativeTitle": "Mahou Shoujo Tokushusen Asuka",
+        "id": "magical-girl-spec-ops-asuka-6532",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96cac7824fad0fc8d37aaae87a51b8d1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

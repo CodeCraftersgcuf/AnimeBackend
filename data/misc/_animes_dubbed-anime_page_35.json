@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 35,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Anime-Gataris",
+        "alternativeTitle": "Animegataris",
+        "id": "anime-gataris-6078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34285b893f9414d1262a9886c2375d72.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Boy Who Carried a Guitar: Kikaider vs. Inazuman",
+        "alternativeTitle": "Guitar wo Motta Shounen: Kikaider vs. Inazuman",
+        "id": "the-boy-who-carried-a-guitar-kikaider-vs-inazuman-6063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e9e02205260153f843328cd76d5826f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "28m"
+      },
+      {
+        "title": "Gangsta.",
+        "alternativeTitle": "Gangsta. Recap",
+        "id": "gangsta-6061",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32e67093cdb795012d76cdfe52d5036a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "FLCL Progressive",
+        "alternativeTitle": "FLCL Progressive",
+        "id": "flcl-progressive-6059",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70d14e8f2c969abf65974114a711381f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Movie",
+        "duration": "20m"
+      },
+      {
+        "title": "MegaMan: Wishing upon a Star",
+        "alternativeTitle": "Rockman Hoshi ni Negai wo",
+        "id": "megaman-wishing-upon-a-star-6034",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c9d35a49c1f3e2a162cc910c05c822f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ninja Hattori (2012)",
+        "alternativeTitle": "Ninja Hattori-kun (2012)",
+        "id": "ninja-hattori-kun-2012-6029",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/619988d7d778ba126d937d9eea904a6a.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "If I See You in My Dreams: OVA",
+        "alternativeTitle": "Yume de Aetara",
+        "id": "if-i-see-you-in-my-dreams-ova-6027",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce558d72bc353877e0614bab1d82c275.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Sonic X",
+        "alternativeTitle": "Sonic X",
+        "id": "sonic-x-6020",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c8a52c9ff9a1a122f9049d1798a497f.jpg",
+        "episodes": {
+          "sub": 78,
+          "dub": 78,
+          "eps": 78
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakura Wars: The Movie",
+        "alternativeTitle": "Sakura Taisen: Katsudou Shashin",
+        "id": "sakura-wars-the-movie-6015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fd7414f9749f9feeb0a6fd989a77944.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Pokemon the Movie 15: Kyurem VS. The Sword of Justice",
+        "alternativeTitle": "Pokemon Movie 15: Kyurem vs. Seikenshi",
+        "id": "pokemon-the-movie-kyurem-vs-the-sword-of-justice-6012",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed4c9c820203914a27bed6cd12d5b525.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "71m"
+      },
+      {
+        "title": "Japan Sinks: 2020",
+        "alternativeTitle": "Nihon Chinbotsu 2020",
+        "id": "japan-sinks-2020-6011",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebba1d5b02fc586e2612544d81271c53.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Lupin III (2015): Italian Game",
+        "alternativeTitle": "Lupin III (2015): Italian Game",
+        "id": "lupin-iii-2015-italian-game-6007",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97056ec65f57388607b86021c2b1c6e3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "91m"
+      },
+      {
+        "title": "Fatal Fury: Legend of the Hungry Wolf",
+        "alternativeTitle": "Fatal Fury: Legend of the Hungry Wolf",
+        "id": "fatal-fury-legend-of-the-hungry-wolf-5990",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee6b860eb6d412beead7a8ab0a51a253.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Digimon Fusion",
+        "alternativeTitle": "Digimon Xros Wars: Toki wo Kakeru Shounen Hunter-tachi",
+        "id": "digimon-fusion-5986",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88d918b15f770e5b6c3e85fd17e9ae79.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Boys Be...",
+        "alternativeTitle": "Boys Be...",
+        "id": "boys-be-5980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/523dae63d95cee0ff0d03498c88a623d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bottle Fairy",
+        "alternativeTitle": "Binzume Yousei",
+        "id": "bottle-fairy-5979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9dd0cb9faf502318057b61632927b481.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Berserk (2016)",
+        "alternativeTitle": "Berserk",
+        "id": "berserk-2016-5978",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9dbe9a5ae53e4e3ab262ffed4b057670.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ikki Tousen",
+        "alternativeTitle": "Ikkitousen",
+        "id": "ikki-tousen-5962",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e73d906f0c3f37fe7b1d75720b99b539.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Girls Bravo",
+        "alternativeTitle": "Girls Bravo: First Season",
+        "id": "girls-bravo-5956",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf45fedd82001116d31ca8d7f5add84b.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gall Force 1: Eternal Story",
+        "alternativeTitle": "Gall Force 1: Eternal Story",
+        "id": "gall-force-1-eternal-story-5954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c577cb0a1a0e15f534df82ca579e564b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "86m"
+      },
+      {
+        "title": "Detonator Orgun",
+        "alternativeTitle": "Detonator Orgun",
+        "id": "detonator-orgun-5945",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/028da6984167acc92258b245229ad68b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "If I See You in My Dreams",
+        "alternativeTitle": "Yume de Aetara (TV)",
+        "id": "if-i-see-you-in-my-dreams-5935",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a8e41e7743dc8077fe6d49166da38bbc.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Phantom Quest Corp.",
+        "alternativeTitle": "Yuugen Kaisha",
+        "id": "phantom-quest-corp-5912",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b461582b820e8423ec26e2fb53295a6c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime: Tales - Veldora's Journal",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken: Kanwa - Veldora Nikki",
+        "id": "that-time-i-got-reincarnated-as-a-slime-tales-veldoras-journal-5909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bfff7301bf672f318002200765e7667.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Ragnarok the Animation",
+        "alternativeTitle": "Ragnarök The Animation",
+        "id": "ragnarok-the-animation-5898",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3e1168428fd3e42dba1116a23ed99f2.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Project A-ko: Love & Robots",
+        "alternativeTitle": "Project A-Ko 4: Final",
+        "id": "project-a-ko-love-robots-5897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2dfb7ac89d820e89b185e3d56320c947.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "53m"
+      },
+      {
+        "title": "Power Stone",
+        "alternativeTitle": "Power Stone",
+        "id": "power-stone-5896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96645fa9f6abe9045027edd1a1b6620d.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "Nande Koko ni Sensei ga!?",
+        "alternativeTitle": "Nande Koko ni Sensei ga!?",
+        "id": "nande-koko-ni-sensei-ga-5893",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e32280f91c5da6549ac576130577646.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Goku: Midnight Eye",
+        "alternativeTitle": "Midnight Eye: Gokuu",
+        "id": "goku-midnight-eye-5890",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be1a75146d8ac872fa2125903b4d36da.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Miami Guns",
+        "alternativeTitle": "Miami Guns",
+        "id": "miami-guns-5889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5dac4b616ee5e40837029b1636f3408.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kenka Bancho Otome -Girl Beats Boys-",
+        "alternativeTitle": "Kenka Banchou Otome: Girl Beats Boys",
+        "id": "kenka-bancho-otome-girl-beats-boys-5884",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8eb0768acb2b448fb6b282d27b5871e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "8m"
+      },
+      {
+        "title": "Kämpfer",
+        "alternativeTitle": "Kämpfer",
+        "id": "kampfer-5883",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57851e0113097734a073e8e41b5094b5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Clockwork Planet",
+        "alternativeTitle": "Clockwork Planet",
+        "id": "clockwork-planet-5872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c06dc615c8e9d10517f14a281dc12152.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shattered Angels",
+        "alternativeTitle": "Kyoushirou to Towa no Sora",
+        "id": "shattered-angels-5860",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6751e8c65c3ca0b24dbc4ca6106126fe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 49,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Elfen Lied",
+        "alternativeTitle": "Elfen Lied",
+        "id": "elfen-lied-1313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89f91abd99e05a925a033adeb0b169f4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Elemental Gelade",
+        "alternativeTitle": "Erementar Gerad",
+        "id": "elemental-gelade-2293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d811acee5b524f163dd718a7d6fe2855.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Pilot: Hisone and Masotan",
+        "alternativeTitle": "Hisone to Maso-tan",
+        "id": "dragon-pilot-hisone-and-masotan-1966",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f7f5ba3be5bd24802b86bd2d8bb0671.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Muhyo & Roji's Bureau of Supernatural Investigation 2nd Season",
+        "alternativeTitle": "Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season",
+        "id": "muhyo-rojis-bureau-of-supernatural-investigation-2nd-season-4722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d2fc50f45c99db31fe12b5860b3328e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fractale",
+        "alternativeTitle": "Fractale",
+        "id": "fractale-3711",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c3c1d9ddb4bf0c99e86726b757f0315.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Legends of the Dark King: A Fist of the North Star Story",
+        "alternativeTitle": "Hokuto no Ken: Raoh Gaiden Ten no Haoh",
+        "id": "legends-of-the-dark-king-a-fist-of-the-north-star-story-2979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/769b415bbf9c89d6d7a11895b0b88b2e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/Extra: Last Encore",
+        "alternativeTitle": "Fate/Extra: Last Encore",
+        "id": "fateextra-last-encore-6627",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ea13d723041a8e44eda3605d4441f6f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Familiar of Zero",
+        "alternativeTitle": "Zero no Tsukaima",
+        "id": "the-familiar-of-zero-2093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddb9a0a77bc6d8fed4b4b5c4226974e1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mitsuboshi Colors",
+        "alternativeTitle": "Mitsuboshi Colors",
+        "id": "mitsuboshi-colors-1770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7aefffb1d6b2fb298ca8d313d7025e5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Emma: A Victorian Romance Season Two",
+        "alternativeTitle": "Eikoku Koi Monogatari Emma: Molders-hen",
+        "id": "emma-a-victorian-romance-season-two-693",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59ea46b379679703c8073d4e28ea20ee.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fruits Basket 1st Season",
+        "alternativeTitle": "Fruits Basket 1st Season",
+        "id": "fruits-basket-1st-season-273",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef8bb193718c36782dd4ee5f402981e0.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Speed Grapher",
+        "alternativeTitle": "Speed Grapher",
+        "id": "speed-grapher-2087",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d1236eed92437e02dcd3fb4327737068.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Prison School",
+        "alternativeTitle": "Prison School",
+        "id": "prison-school-938",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31e74486df1ea17d7a4e0963124e5701.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gankutsuou: The Count of Monte Cristo",
+        "alternativeTitle": "Gankutsuou",
+        "id": "gankutsuou-the-count-of-monte-cristo-326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88ffa8743fa2e4ad9507adf85b5ac98f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "From the New World",
+        "alternativeTitle": "Shinsekai yori",
+        "id": "from-the-new-world-169",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fcd74153bcfc4b4309989ce998235d0.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Code:Breaker",
+        "alternativeTitle": "Code:Breaker",
+        "id": "codebreaker-4277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5e84568ad62124dc6f06c193b9fbe27.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hellsing",
+        "alternativeTitle": "Hellsing",
+        "id": "hellsing-1555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4feb42b614d2fb5d692a335d30895c69.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Princess Tutu",
+        "alternativeTitle": "Princess Tutu",
+        "id": "princess-tutu-356",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cce65b6af6dc69381d6da88dfe403bd.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "16m"
+      },
+      {
+        "title": "Hellsing: The Dawn",
+        "alternativeTitle": "Hellsing: The Dawn",
+        "id": "hellsing-the-dawn-2722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e98fcc80a8a2eb1d22cccb66ab3b70ad.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Cross Ange: Rondo of Angel and Dragon",
+        "alternativeTitle": "Cross Ange: Tenshi to Ryuu no Rondo",
+        "id": "cross-ange-rondo-of-angel-and-dragon-1824",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd38b48a68825a9c696a866504b0bb4c.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Live! School Idol Project: 2nd Season",
+        "alternativeTitle": "Love Live! School Idol Project 2nd Season",
+        "id": "love-live-school-idol-project-2nd-season-773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48f7cbbfec4ce6478344de2cddedd4b6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Live! Nijigasaki High School Idol Club",
+        "alternativeTitle": "Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+        "id": "love-live-nijigasaki-high-school-idol-club-520",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/00b52dd436135bc6d7d9d3a1f781f38e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Generator Gawl",
+        "alternativeTitle": "Generator Gawl",
+        "id": "generator-gawl-3822",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7adba7795da1f727593fabf1aa9839b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Live! School Idol Project",
+        "alternativeTitle": "Love Live! School Idol Project",
+        "id": "love-live-school-idol-project-1706",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4559d51c5ada25b3dbc8a08095ed55ef.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "GARO: THE ANIMATION",
+        "alternativeTitle": "Garo: Honoo no Kokuin",
+        "id": "garo-the-animation-1831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e74d3f74076f6111d0df592e092775f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gear Fighter Dendoh",
+        "alternativeTitle": "Gear Fighter Dendoh",
+        "id": "gear-fighter-dendoh-2800",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f01e1ce490b4e0b1ffc1672c982638e3.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Getter Robo",
+        "alternativeTitle": "Getter Robo",
+        "id": "getter-robo-4390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23956a8a821b0a89e312c83f5ab810bb.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Genshiken 2",
+        "alternativeTitle": "Genshiken 2",
+        "id": "genshiken-2-862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bb870764ec7afc1e8d0b9e41354d7cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Genshiken",
+        "alternativeTitle": "Genshiken",
+        "id": "genshiken-1117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a5f23381c33826fa000db72f3c042c3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Genshiken OVA",
+        "alternativeTitle": "Genshiken OVA",
+        "id": "genshiken-ova-1118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70ab08b1f0a031cf7ed6602a4a170939.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Geneshaft",
+        "alternativeTitle": "Geneshaft",
+        "id": "geneshaft-6333",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91bdb140e07590dc6f221f1727bf4258.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokko",
+        "alternativeTitle": "Tokkou",
+        "id": "tokko-5360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1da146517e250f1f7d7bb549acbba4a5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yoshinaga-san'chi no Gargoyle: Specials",
+        "alternativeTitle": "Yoshinaga-san'chi no Gargoyle Specials",
+        "id": "yoshinaga-sanchi-no-gargoyle-specials-6400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e4ec8e36c92a4ae0e047dd99faeadcc0.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Gargoyle of Yoshinaga House",
+        "alternativeTitle": "Yoshinaga-sanchi no Gargoyle",
+        "id": "gargoyle-of-yoshinaga-house-4497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7175cbfc26e514c2d8984a41c64ee53.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ginga Hyouryuu Vifam",
+        "alternativeTitle": "Ginga Hyouryuu Vifam",
+        "id": "ginga-hyouryuu-vifam-3177",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deae91dbd275988432ffe217bd48d28f.jpg",
+        "episodes": {
+          "sub": 46,
+          "dub": 0,
+          "eps": 46
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ghost Hunt",
+        "alternativeTitle": "Ghost Hunt",
+        "id": "ghost-hunt-782",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54e61085269b3560af128e735ec9cfcb.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ghost Hound",
+        "alternativeTitle": "Shinreigari",
+        "id": "ghost-hound-1663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb9146e7226e5409391914109c578d04.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ground Defense Force! Mao-chan",
+        "alternativeTitle": "Rikujou Bouei-tai Mao-chan",
+        "id": "ground-defense-force-mao-chan-6671",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d31e66333e199d735fa117f8057f4ec3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "3000 Leagues in Search of Mother",
+        "alternativeTitle": "Haha wo Tazunete Sanzenri",
+        "id": "3000-leagues-in-search-of-mother-1985",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85f01c8d9a411347e9df7dec8ae6a205.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Galaxy Express 999",
+        "alternativeTitle": "Ginga Tetsudou 999",
+        "id": "galaxy-express-999-800",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7492d0756cfb6ed296ca53aa376b8af4.jpg",
+        "episodes": {
+          "sub": 113,
+          "dub": 0,
+          "eps": 113
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

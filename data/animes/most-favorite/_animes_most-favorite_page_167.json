@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 167,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Akai Hayate",
+        "alternativeTitle": "Akai Hayate",
+        "id": "akai-hayate-9444",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2805494bd76d15df2e2de0c8dd6d840d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Wooser's Hand-to-Mouth Life: Phantasmagoric Arc",
+        "alternativeTitle": "Wooser no Sono Higurashi: Mugen-hen",
+        "id": "woosers-hand-to-mouth-life-phantasmagoric-arc-5350",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8d88b4f808de7e97f2cfc27bf1be1f1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Battle of Clay",
+        "alternativeTitle": "Nendo no Tatakai (2019)",
+        "id": "battle-of-clay-10620",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52f54bfd9733dcb3b3a0e7379141d782.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
+        "alternativeTitle": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
+        "id": "saint-seiya-saishuu-seisen-no-senshi-tachi-4254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49a4b590d7752be371cb6410e19ce609.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "[RAW] Chouja Raideen",
+        "alternativeTitle": "[RAW] Chouja Raideen",
+        "id": "chouja-raideen-6691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ddb48e13cbec621ac855f806d375739.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ginga Hyouryuu Vifam",
+        "alternativeTitle": "Ginga Hyouryuu Vifam",
+        "id": "ginga-hyouryuu-vifam-3177",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/deae91dbd275988432ffe217bd48d28f.jpg",
+        "episodes": {
+          "sub": 46,
+          "dub": 0,
+          "eps": 46
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Super High Speed Galvion",
+        "alternativeTitle": "Chou Kousoku Galvion",
+        "id": "super-high-speed-galvion-7799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fa7ee4070c7dd4cbccaa1c9b5fe56d1.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shouwa Ahozoushi Akanuke Ichiban!",
+        "alternativeTitle": "Shouwa Ahozoushi Akanuke Ichiban!",
+        "id": "shouwa-ahozoushi-akanuke-ichiban-11652",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8ae41ed11163f50a8e518e6f79a3637.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fantasy of a Kitten",
+        "alternativeTitle": "Wata no Kuni Hoshi",
+        "id": "fantasy-of-a-kitten-4021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b333d6d36c50a9fac7dd0e544dddd327.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Cute High Earth Defense Club LOVE! LOVE! LOVE!",
+        "alternativeTitle": "Binan Koukou Chikyuu Boueibu LOVE! LOVE! LOVE!",
+        "id": "cute-high-earth-defense-club-love-love-love-4354",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee11fdd003259e91a1104ee971d26d3c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "56m"
+      },
+      {
+        "title": "Future Police Urashiman",
+        "alternativeTitle": "Mirai Keisatsu Urashiman",
+        "id": "future-police-urashiman-5227",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f702ca94a2eff5792c39e30c6c9aeac1.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Meow Meow Japanese History",
+        "alternativeTitle": "Neko Neko Nihonshi 3rd Season",
+        "id": "meow-meow-japanese-history-15475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66e0c0040ae0b517bd0d56f2a8925e93.jpg",
+        "episodes": {
+          "sub": 32,
+          "dub": 0,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Love City",
+        "alternativeTitle": "Ai City",
+        "id": "love-city-8823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe740b92b975061e35877d62d5ebc351.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "86m"
+      },
+      {
+        "title": "Tenchi the Movie 2: Daughter of Darkness",
+        "alternativeTitle": "Tenchi Muyou! Manatsu no Eve",
+        "id": "tenchi-the-movie-2-daughter-of-darkness-2953",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/242debeafe5471b9324a1493e27ddb1e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Keep it a Secret from Maria-sama",
+        "alternativeTitle": "Maria-sama ga Miteru 3rd Specials",
+        "id": "keep-it-a-secret-from-maria-sama-2132",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0de536d46482152dec998d4c94bb472b.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Mayoi Neko Overrun! Specials",
+        "alternativeTitle": "Mayoi Neko Overrun! Specials",
+        "id": "mayoi-neko-overrun-specials-4719",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8514b6c3563145044816b6a727c3f6a2.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "[RAW] Duel Masters Victory V",
+        "alternativeTitle": "[RAW] Duel Masters Victory V",
+        "id": "duel-masters-victory-v-8090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b77957b93a2b3bd8129ab6bbce6ddd58.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Charlotte of the Young Grass",
+        "alternativeTitle": "Wakakusa no Charlotte",
+        "id": "charlotte-of-the-young-grass-4513",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e084712f9f7204eb7227e77b1fe54b8.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Himitsu no Akko-chan 2",
+        "alternativeTitle": "[RAW] Himitsu no Akko-chan 2",
+        "id": "himitsu-no-akko-chan-2-7328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e7068674c89706095a699bb31083c66.jpg",
+        "episodes": {
+          "sub": 61,
+          "dub": 0,
+          "eps": 61
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Duel Masters Victory V3",
+        "alternativeTitle": "[RAW] Duel Masters Victory V3",
+        "id": "duel-masters-victory-v3-8391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/602c9e0309c774b17f9a9c6f001f2028.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Esper Mami",
+        "alternativeTitle": "[RAW] Esper Mami",
+        "id": "raw-esper-mami-5876",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5022d372f5605edf897e11af9eb10b9.jpg",
+        "episodes": {
+          "sub": 119,
+          "dub": 0,
+          "eps": 119
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Joker Game: Kuroneko Yoru no Bouken",
+        "alternativeTitle": "Joker Game: Kuroneko Yoru no Bouken",
+        "id": "joker-game-kuroneko-yoru-no-bouken-4934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73aeb434f962289d14b2e783b07737fb.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Bird of Fire",
+        "alternativeTitle": "Hi no Tori",
+        "id": "bird-of-fire-3180",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e366379c6ecfca27a3f670eb55471e67.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Cute High Earth Defense Club HAPPY KISS!",
+        "alternativeTitle": "Binan Koukou Chikyuu Bouei-bu Happy Kiss!",
+        "id": "cute-high-earth-defense-club-happy-kiss-5764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fc0634b47e945f6942cf274cb1ef348.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Macross Flash Back 2012",
+        "alternativeTitle": "Macross Flash Back 2012",
+        "id": "macross-flash-back-2012-3975",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b990ac858cf135c31240bb7ff12ec95a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "[RAW] Paul in Fantasy Island",
+        "alternativeTitle": "[RAW] Paul no Miracle Daisakusen",
+        "id": "paul-in-fantasy-island-6032",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3980f5c00125bc4c94335643dc37033b.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Getter Robo G",
+        "alternativeTitle": "Getter Robo G",
+        "id": "getter-robo-g-5658",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9e594aeffdf5976c03cc8ecb74d65b1.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "New Dream Hunter Rem: Yume no Kishitachi",
+        "alternativeTitle": "New Dream Hunter Rem: Yume no Kishitachi",
+        "id": "new-dream-hunter-rem-yume-no-kishitachi-7209",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c150042995ba81609b5ceab7563114c5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "How to Steal 55 Kisses 3rd Season",
+        "alternativeTitle": "Guomin Laogong Dai Huijia 3rd Season",
+        "id": "how-to-steal-55-kisses-3rd-season-7254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/068a633645fcc83c5ed22fdad9dbce6d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Yamato 2520",
+        "alternativeTitle": "Yamato 2520",
+        "id": "yamato-2520-8537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62a1bd4109f8f6e460e43aac30b930f6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "57m"
+      },
+      {
+        "title": "Pigtails",
+        "alternativeTitle": "Mitsuami no Kamisama",
+        "id": "pigtails-4484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c6f35fe102ac8d23889b720a2a10ec90.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "28m"
+      },
+      {
+        "title": "Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!",
+        "alternativeTitle": "Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!",
+        "id": "nurarihyon-no-mago-gekitou-dai-futsal-taikai-nuragumi-w-cup-5796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd722d8e64272fb484a7f48e75eb9716.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "13m"
+      },
+      {
+        "title": "Chibi Maruko-chan",
+        "alternativeTitle": "Chibi Maruko-chan",
+        "id": "chibi-maruko-chan-17856",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/322b01d45d523d145dc96988b6c1efc2.jpg",
+        "episodes": {
+          "sub": 77,
+          "dub": 0,
+          "eps": 77
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Karuizawa Syndrome",
+        "alternativeTitle": "Karuizawa Syndrome",
+        "id": "karuizawa-syndrome-8641",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d7f711195221eb6c9a9d8c61f578b86.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "69m"
+      },
+      {
+        "title": "Combat Mecha Xabungle",
+        "alternativeTitle": "Sentou Mecha Xabungle",
+        "id": "combat-mecha-xabungle-2768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/812230e62a039ab715f4b1ea924151e2.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soukyuu no Fafner: Behind the Line",
+        "alternativeTitle": "Soukyuu no Fafner: Behind the Line",
+        "id": "soukyuu-no-fafner-behind-the-line-18259",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fece2ca2d8d116be4212dae0d1d3e7f4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "53m"
+      },
+      {
+        "title": "Mini Toji",
+        "alternativeTitle": "Mini Toji",
+        "id": "mini-toji-7511",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/516085f8443c2e4dc8336ddc8092c7f8.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Pikotaro's Lullaby La La By (TV)",
+        "alternativeTitle": "Pikotarou no Lullaby Lullaby (TV)",
+        "id": "pikotaros-lullaby-la-la-by-tv-9323",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7f2c07d565abac95e8d78b880500965c.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Gall Force 3: Stardust War",
+        "alternativeTitle": "Gall Force 3: Stardust War",
+        "id": "gall-force-3-stardust-war-6273",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddd013f371c2c181e5198722c623e562.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "61m"
+      },
+      {
+        "title": "Web Ghosts PiPoPa",
+        "alternativeTitle": "Net Ghost Pipopa",
+        "id": "web-ghosts-pipopa-4322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/522e643417bed025ec1e4509a1306007.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

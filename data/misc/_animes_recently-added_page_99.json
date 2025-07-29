@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 99,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "[RAW] Jarinko Chie (TV)",
+        "alternativeTitle": "[RAW] Jarinko Chie (TV)",
+        "id": "jarinko-chie-tv-14296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c8415c9a805fadeb82d466745feaf455.jpg",
+        "episodes": {
+          "sub": 64,
+          "dub": 0,
+          "eps": 64
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Kiteretsu Encyclopedia",
+        "alternativeTitle": "[RAW] Kiteretsu Daihyakka",
+        "id": "kiteretsu-encyclopedia-5109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8beff2cc3c008a73df62ff897e3b009e.jpg",
+        "episodes": {
+          "sub": 331,
+          "dub": 0,
+          "eps": 331
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Chimpui Specials",
+        "alternativeTitle": "[RAW] Chinpui Specials",
+        "id": "chinpui-specials-13255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d84d4c31ffbae9b9b5d5a2c37e3528a9.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "[RAW] Mahoutsukai Sally 2",
+        "alternativeTitle": "[RAW] Mahoutsukai Sally 2",
+        "id": "mahoutsukai-sally-2-6255",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9291d0d2eaeb247d1f644c2eaf883ab7.jpg",
+        "episodes": {
+          "sub": 88,
+          "dub": 0,
+          "eps": 88
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "[RAW] Mouretsu Atarou",
+        "alternativeTitle": "[RAW] Mouretsu Atarou",
+        "id": "mouretsu-atarou-15337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0da350324a6b5712248ff63a54a88c5a.jpg",
+        "episodes": {
+          "sub": 90,
+          "dub": 0,
+          "eps": 90
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Happy☆Lucky Bikkuriman",
+        "alternativeTitle": "[RAW] Happy☆Lucky Bikkuriman",
+        "id": "happylucky-bikkuriman-13909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ef8820c9cfbf6f3358d712a16a0550f.jpg",
+        "episodes": {
+          "sub": 46,
+          "dub": 0,
+          "eps": 46
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Funny Faces in High School",
+        "alternativeTitle": "[RAW] High School! Kimengumi",
+        "id": "funny-faces-in-high-school-2416",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/70b2be440688859d3c22811df098b7eb.jpg",
+        "episodes": {
+          "sub": 86,
+          "dub": 0,
+          "eps": 86
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Jungle Kurobee",
+        "alternativeTitle": "[RAW] Jungle Kurobee",
+        "id": "jungle-kurobee-14359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd571ed551e741a079789a3134aebb4e.jpg",
+        "episodes": {
+          "sub": 31,
+          "dub": 0,
+          "eps": 31
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Magical★Taruruuto-kun",
+        "alternativeTitle": "[RAW] Magical★Taruruuto-kun",
+        "id": "magicaltaruruuto-kun-5759",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc4d613991388e8bc7a1ea8d04a6dbf9.jpg",
+        "episodes": {
+          "sub": 87,
+          "dub": 0,
+          "eps": 87
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] 21 Emon",
+        "alternativeTitle": "[RAW] 21 Emon",
+        "id": "21-emon-7616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8f20c31434245aeaa791d906bea08e04.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Obake no Q-tarou (1985)",
+        "alternativeTitle": "[RAW] Obake no Q-tarou (1985)",
+        "id": "obake-no-q-tarou-1985-10834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4da8b1c3251e92c784876069ddc7186e.jpg",
+        "episodes": {
+          "sub": 510,
+          "dub": 0,
+          "eps": 510
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "[RAW] Bikkuriman",
+        "alternativeTitle": "[RAW] Bikkuriman",
+        "id": "bikkuriman-13048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9724ceada330708c47fa120bd645fb46.jpg",
+        "episodes": {
+          "sub": 75,
+          "dub": 0,
+          "eps": 75
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Bikkuriman 2000",
+        "alternativeTitle": "[RAW] Bikkuriman 2000",
+        "id": "bikkuriman-2000-13049",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ca442e11d83dd49896c63587c7916ab.jpg",
+        "episodes": {
+          "sub": 66,
+          "dub": 0,
+          "eps": 68
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Guru Guru Town Hanamaru-kun",
+        "alternativeTitle": "[RAW] Guru Guru Town Hanamaru-kun",
+        "id": "guru-guru-town-hanamaru-kun-13832",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/643df57dff2e8ef208801bc2b3000f5c.jpg",
+        "episodes": {
+          "sub": 101,
+          "dub": 0,
+          "eps": 101
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Wakusei Robo Danguard Ace tai Konchuu Robot Gundan",
+        "alternativeTitle": "Wakusei Robo Danguard Ace tai Konchuu Robot Gundan",
+        "id": "wakusei-robo-danguard-ace-tai-konchuu-robot-gundan-9276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bba36cd514d7b00dc134dcc97be763f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Pro Golfer Saru: Kouga Hikyou! Kage no Ninpou Golfer Sanjou!",
+        "alternativeTitle": "[RAW] Pro Golfer Saru: Kouga Hikyou! Kage no Ninpou Golfer Sanjou!",
+        "id": "pro-golfer-saru-11201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcf9519d467e91f81109a9232a42b120.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "40m"
+      },
+      {
+        "title": "Wakusei Robo Danguard Ace: Uchuu Daikaisen",
+        "alternativeTitle": "Wakusei Robo Danguard Ace: Uchuu Daikaisen",
+        "id": "wakusei-robo-danguard-ace-uchuu-daikaisen-8702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bd7dfa5644fb5c458dc7c1f7e1c0ac7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "[RAW] Pro Golfer Saru",
+        "alternativeTitle": "[RAW] Pro Golfer Saru",
+        "id": "raw-pro-golfer-saru-11203",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8860e072ba6bae47794378d00bb191e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "[RAW] Kaibutsu-kun (1980)",
+        "alternativeTitle": "[RAW] Kaibutsu-kun (1980)",
+        "id": "kaibutsu-kun-1980-5852",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a6fe268668383b7174342330e4e2405.jpg",
+        "episodes": {
+          "sub": 188,
+          "dub": 0,
+          "eps": 188
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "ReLIFE: Kanketsu-hen",
+        "alternativeTitle": "ReLIFE: Kanketsu-hen",
+        "id": "relife-kanketsu-hen-264",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75aaf55bfd5dda101e356c5582034721.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Web Ghosts PiPoPa",
+        "alternativeTitle": "Net Ghost Pipopa",
+        "id": "web-ghosts-pipopa-4322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/522e643417bed025ec1e4509a1306007.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "ReLIFE",
+        "alternativeTitle": "ReLIFE",
+        "id": "relife-471",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74bef7f824fb05ac7b6cbc4c166b621c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rio - Rainbow Gate!: Reshuffle",
+        "alternativeTitle": "Rio: Rainbow Gate!",
+        "id": "rio-rainbow-gate-reshuffle-8278",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f3164b6e62e0ded25f75187d1cafd00.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rowdy Sumo Wrestler Matsutaro!!",
+        "alternativeTitle": "Abarenbou Rikishi!! Matsutarou",
+        "id": "rowdy-sumo-wrestler-matsutaro-7514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67260a1d6c6e22fb14e297e90c1014fb.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "When Supernatural Battles Became Commonplace",
+        "alternativeTitle": "Inou-Battle wa Nichijou-kei no Naka de",
+        "id": "when-supernatural-battles-became-commonplace-2884",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53ba14e98e6e32ebe0e0d028923744af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wake Up, Girls! ZOO",
+        "alternativeTitle": "Wake Up, Girl Zoo!",
+        "id": "wake-up-girls-zoo-7464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f58c1cdcb95d241c93393546e60380f3.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Wake Up, Girls! New Chapter",
+        "alternativeTitle": "Wake Up, Girls! Shin Shou",
+        "id": "wake-up-girls-new-chapter-5824",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c37a20725a874d7850e698e801123a9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Welcome to the JAPARI PARK",
+        "alternativeTitle": "Youkoso Japari Park",
+        "id": "welcome-to-the-japari-park-9026",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ece51ede80ec1c146460d5f47f8a9bf1.jpg",
+        "episodes": {
+          "sub": 36,
+          "dub": 0,
+          "eps": 36
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "We Rent Tsukumogami",
+        "alternativeTitle": "Tsukumogami Kashimasu",
+        "id": "we-rent-tsukumogami-4764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62384439efeeb178772af968d6fef8de.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Pokemon Journeys: The Series",
+        "alternativeTitle": "Pokemon (2019)",
+        "id": "pokemon-journeys-the-series-2098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31832ab802714689c70d25afff794179.jpg",
+        "episodes": {
+          "sub": 146,
+          "dub": 60,
+          "eps": 136
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Walkure Romanze",
+        "alternativeTitle": "Walkure Romanze",
+        "id": "walkure-romanze-6235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6462dee7d764a125bee74490f05774a4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wataten! An Angel Flew Down to Me",
+        "alternativeTitle": "Watashi ni Tenshi ga Maiorita!",
+        "id": "wataten-an-angel-flew-down-to-me-1928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d99e454a725446616618a2ca0d91a848.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "We Never Learn!: Bokuben",
+        "alternativeTitle": "Bokutachi wa Benkyou ga Dekinai!",
+        "id": "we-never-learn-bokuben-2027",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0915702b2d3dafb9dcb56f111d316b6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+        "alternativeTitle": "TV Yarou Nanaana: Kaibutsu Kraken wo Oe!",
+        "id": "tv-yarou-nanaana-kaibutsu-kraken-wo-oe-12251",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c819a06f8bd3fc36879b0c7b59f3b74.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "TV Yarou Nanaana: Wakuwaku Doukutsu Land",
+        "alternativeTitle": "TV Yarou Nanaana: Wakuwaku Doukutsu Land",
+        "id": "tv-yarou-nanaana-wakuwaku-doukutsu-land-7828",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/042dc42da6d572fe0ae1fcbe51aa6986.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "We Never Learn: BOKUBEN",
+        "alternativeTitle": "Bokutachi wa Benkyou ga Dekinai",
+        "id": "we-never-learn-bokuben-2143",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/51915cdb1d981eec699761a734c8bdbe.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wacky TV Na Na Na",
+        "alternativeTitle": "TV Yarou Nanaana",
+        "id": "wacky-tv-na-na-na-7385",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d9b99e8bfa59759e28872c3fb04a862.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Wagamama High Spec",
+        "alternativeTitle": "Wagamama High Spec",
+        "id": "wagamama-high-spec-9615",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46f3e18f63e0a70c5548e08d197a0de1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Wake Up, Girls!",
+        "alternativeTitle": "Wake Up, Girls!",
+        "id": "wake-up-girls-3613",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab5854a42cba265984793fb0ed8b74c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wakakozake",
+        "alternativeTitle": "Wakako-zake",
+        "id": "wakakozake-5077",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2371eccc157ae015e4575d77dddf34d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      }
+    ]
+  }
+}

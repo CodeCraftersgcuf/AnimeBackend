@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "data": {
+    "episode": 1,
+    "sub": [
+      {
+        "index": 4,
+        "type": "sub",
+        "id": "636850",
+        "name": "HD-1"
+      },
+      {
+        "index": 6,
+        "type": "sub",
+        "id": "1230172",
+        "name": "HD-3"
+      },
+      {
+        "index": 1,
+        "type": "sub",
+        "id": "414272",
+        "name": "HD-2"
+      },
+      {
+        "index": null,
+        "type": "sub",
+        "id": null,
+        "name": "HD-4"
+      }
+    ],
+    "dub": [
+      {
+        "index": 4,
+        "type": "dub",
+        "id": "588852",
+        "name": "HD-1"
+      },
+      {
+        "index": 6,
+        "type": "dub",
+        "id": "1182387",
+        "name": "HD-3"
+      },
+      {
+        "index": 1,
+        "type": "dub",
+        "id": "9478",
+        "name": "HD-2"
+      },
+      {
+        "index": null,
+        "type": "dub",
+        "id": null,
+        "name": "HD-4"
+      }
+    ]
+  }
+}

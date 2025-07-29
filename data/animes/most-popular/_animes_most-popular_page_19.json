@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 19,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Full-Time Magister 2",
+        "alternativeTitle": "Quanzhi Fashi II",
+        "id": "full-time-magister-2-4670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/123bdc3fd50bd203f0a7c1069fd0f40c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Haganai: I don't have many friends",
+        "alternativeTitle": "Boku wa Tomodachi ga Sukunai",
+        "id": "haganai-i-dont-have-many-friends-2286",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd99ca099fb2071f954dd7de93a1c160.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Level 1 Demon Lord and One Room Hero",
+        "alternativeTitle": "Lv1 Maou to One Room Yuusha",
+        "id": "level-1-demon-lord-and-one-room-hero-18465",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40a75a631e0c29da6d093d4e089a11d0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Spirited Away",
+        "alternativeTitle": "Sen to Chihiro no Kamikakushi",
+        "id": "spirited-away-20",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d226c74f7248dda6aac32d8f915b8f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "124m"
+      },
+      {
+        "title": "The Legend of the Legendary Heroes",
+        "alternativeTitle": "Densetsu no Yuusha no Densetsu",
+        "id": "the-legend-of-the-legendary-heroes-1202",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df6295f5fe59c82f988817a042b54ddb.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Snow White with the Red Hair",
+        "alternativeTitle": "Akagami no Shirayuki-hime",
+        "id": "snow-white-with-the-red-hair-799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b34ddeb1d4e2db809b4c0b8510c2149.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Takt Op. Destiny",
+        "alternativeTitle": "Takt Op.",
+        "id": "takt-op-destiny-17764",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5880fc8fe1e9b910aeda7ce7f42d9ffe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Spy x Family Code: White",
+        "alternativeTitle": "Spy x Family Movie: Code: White",
+        "id": "spy-x-family-code-white-19291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16a4b832318665b71dfe9fbd699158dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Beyond the Boundary",
+        "alternativeTitle": "Kyoukai no Kanata",
+        "id": "beyond-the-boundary-855",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2458f1490e5d3d7cd8a071a8fa0e561b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "BASTARD!! Heavy Metal, Dark Fantasy",
+        "alternativeTitle": "Bastard!! Ankoku no Hakaishin (ONA)",
+        "id": "bastard-heavy-metal-dark-fantasy-18042",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1746282c04f8ef1349d3ea160bc0fe2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Witch Craft Works",
+        "alternativeTitle": "Witch Craft Works",
+        "id": "witch-craft-works-3217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f833d32db551eb942a8e97a401f2aa2a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Howl's Moving Castle",
+        "alternativeTitle": "Howl no Ugoku Shiro",
+        "id": "howls-moving-castle-49",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a95f578cbd5a9893ccb70e709656620.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "The Gorilla God's Go-To Girl",
+        "alternativeTitle": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+        "id": "the-gorilla-gods-go-to-girl-19572",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/32702e8c262af3c1798230915d83ce35.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Grimgar: Ashes and Illusions",
+        "alternativeTitle": "Hai to Gensou no Grimgar",
+        "id": "grimgar-ashes-and-illusions-1011",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e67e9fc525d338f38d97932a138be65d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Given",
+        "alternativeTitle": "Given",
+        "id": "given-223",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/537be05554e183f06edbb3eba8df53f4.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Moriarty the Patriot",
+        "alternativeTitle": "Yuukoku no Moriarty",
+        "id": "moriarty-the-patriot-1801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e687903b6158d03723a0c431df36b4ac.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ron Kamonohashi's Forbidden Deductions",
+        "alternativeTitle": "Kamonohashi Ron no Kindan Suiri",
+        "id": "ron-kamonohashis-forbidden-deductions-18582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/114a624ebfada1fd3fe12991668cf810.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "I've Been Killing Slimes for 300 Years and Maxed Out My Level",
+        "alternativeTitle": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+        "id": "ive-been-killing-slimes-for-300-years-and-maxed-out-my-level-15557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d75b2c818c650c8ff1468a5017c4e5e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "The Devil is a Part-Timer!! 2nd Season",
+        "alternativeTitle": "Hataraku Maou-sama!! 2nd Season",
+        "id": "the-devil-is-a-part-timer-2nd-season-18491",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cf9075abde514382e329869a9dbb704.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Love Story!!",
+        "alternativeTitle": "Ore Monogatari!!",
+        "id": "my-love-story-551",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0041c23faf1900d05d91a8469530735.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Toriko",
+        "alternativeTitle": "Toriko",
+        "id": "toriko-1300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82f0ba3df246ee32b51e16e976d074d3.jpg",
+        "episodes": {
+          "sub": 147,
+          "dub": 0,
+          "eps": 147
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+        "alternativeTitle": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+        "id": "i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability-season-2-19781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc90c348158e7ee0df92885576ad7603.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 1,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mignon",
+        "alternativeTitle": "Mignon",
+        "id": "mignon-18539",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5857bcfa71dff47fded9dd3eeb98be3c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Demon Lord, Retry!",
+        "alternativeTitle": "Maou-sama, Retry!",
+        "id": "demon-lord-retry-5760",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30924e16893e2a00543056a115cf7473.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Initial D Second Stage",
+        "alternativeTitle": "Initial D Second Stage",
+        "id": "initial-d-second-stage-376",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c029deda2b66b6c044122b3c8b12ec94.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Berserk: The Golden Age Arc - Memorial Edition",
+        "alternativeTitle": "Berserk: Ougon Jidai-hen - Memorial Edition",
+        "id": "berserk-the-golden-age-arc-memorial-edition-18206",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47c5be77f083a305b73753175aeb0002.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Edens Zero",
+        "alternativeTitle": "Edens Zero",
+        "id": "edens-zero-15695",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cdc4f7d4fe76b38ee6acc9bc4fcd8058.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Girlfriend is Shobitch",
+        "alternativeTitle": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+        "id": "my-girlfriend-is-shobitch-6688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d62b1f954ebf3fed312a99b8cf7e05c1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "I'm Living with an Otaku NEET Kunoichi!?",
+        "alternativeTitle": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+        "id": "im-living-with-an-otaku-neet-kunoichi-19452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4538326d3a2347cbe9f18a772f4a66b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 5,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Go! Go! Loser Ranger! Season 2",
+        "alternativeTitle": "Sentai Daishikkaku 2nd Season",
+        "id": "go-go-loser-ranger-season-2-19547",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d6c3b332db6dcf996acdb9533b8523c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 11,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Teogonia",
+        "alternativeTitle": "Teogonia",
+        "id": "teogonia-19593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/442a769d5c81f4943b9b5552422550f3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Strongest Tank's Labyrinth Raids: A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party",
+        "alternativeTitle": "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru",
+        "id": "the-strongest-tanks-labyrinth-raids-a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party-18760",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0ef64b10c1046ce678a1132b9bc347b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fluffy Paradise",
+        "alternativeTitle": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.",
+        "id": "fluffy-paradise-18799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8eb5c6f92a85d2ea805a7812cec2c1e3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Most Heretical Last Boss Queen: From Villainess to Savior",
+        "alternativeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
+        "id": "the-most-heretical-last-boss-queen-from-villainess-to-savior-18478",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bce0354a0a8564007fd97bc7ef41bc8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Art Online Alternative: Gun Gale Online II",
+        "alternativeTitle": "Sword Art Online Alternative: Gun Gale Online II",
+        "id": "sword-art-online-alternative-gun-gale-online-ii-19325",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8350339168eac7db814635a3fdcba5e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout",
+        "alternativeTitle": "Fantasy Bishoujo Juniku Ojisan to",
+        "id": "life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout-17934",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5984b825a46f169f7287eabf9dc35035.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Boruto: Naruto the Movie",
+        "alternativeTitle": "Boruto: Naruto the Movie",
+        "id": "boruto-naruto-the-movie-1391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0ad5b3ee01703cc817638973b535aa2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Mr. Villain's Day Off",
+        "alternativeTitle": "Kyuujitsu no Warumono-san",
+        "id": "mr-villains-day-off-18802",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7218ec5ad46bf1866c55c944aa447911.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hundred",
+        "alternativeTitle": "Hundred",
+        "id": "hundred-6276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7c905fc9dc44a80d07e7b90478ded23.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "alternativeTitle": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+        "id": "demon-slayer-kimetsu-no-yaiba-infinity-castle-19722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61297ee36cf2c6c51a4a055b2999a709.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "155m"
+      }
+    ]
+  }
+}

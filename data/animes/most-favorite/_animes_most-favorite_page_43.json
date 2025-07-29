@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 43,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "The Cat Returns",
+        "alternativeTitle": "Neko no Ongaeshi",
+        "id": "the-cat-returns-776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83f1897749c4fb95b0aaada76c151dd2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "75m"
+      },
+      {
+        "title": "White Album",
+        "alternativeTitle": "White Album",
+        "id": "white-album-5448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c8191c54f25dd75b3690a197156c7409.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Good Luck Girl!",
+        "alternativeTitle": "Binbougami ga!",
+        "id": "good-luck-girl-926",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec3c1075d8aaf7c4ed1bc6bef4a2c2b3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fairy Tail Movie 1: Houou no Miko",
+        "alternativeTitle": "Fairy Tail Movie 1: Houou no Miko",
+        "id": "fairy-tail-movie-1-houou-no-miko-1761",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/587677f1c36def2d32cf9cc29af15cff.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "86m"
+      },
+      {
+        "title": "Mom, I'm Sorry",
+        "alternativeTitle": "Xiehou ta de Shaonu Shidai",
+        "id": "mom-im-sorry-19166",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a2d850b6623731483ad46c1d0d1d711.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 0,
+          "eps": 18
+        },
+        "type": "TV",
+        "duration": "17m"
+      },
+      {
+        "title": "Laughing Under the Clouds",
+        "alternativeTitle": "Donten ni Warau",
+        "id": "laughing-under-the-clouds-1454",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ea4809607f1babc8cb514979ce0ce92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Golden Kamuy: Season 2",
+        "alternativeTitle": "Golden Kamuy 2nd Season",
+        "id": "golden-kamuy-season-2-348",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0add286cc8d69edd2dd938e391a7031.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Oblivion Battery",
+        "alternativeTitle": "Boukyaku Battery (TV)",
+        "id": "oblivion-battery-19103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5979976bedce7d9ad42771296a411ea.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Black Cat",
+        "alternativeTitle": "Black Cat (TV)",
+        "id": "black-cat-1962",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c41deb93e8fdef0ab63f9260ec3f370.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Owarimonogatari",
+        "alternativeTitle": "Owarimonogatari",
+        "id": "owarimonogatari-109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f25630911145108fd5c2bff98cd737de.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "07-Ghost",
+        "alternativeTitle": "07-Ghost",
+        "id": "07-ghost-2503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcbadaeb8aa3aee97f9fbf575754c329.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Punch Man 2nd Season Commemorative Special",
+        "alternativeTitle": "One Punch Man 2nd Season Commemorative Special",
+        "id": "one-punch-man-2nd-season-commemorative-special-4768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2980949001f919dced6f4912004890e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "momokuri",
+        "alternativeTitle": "Momokuri",
+        "id": "momokuri-3090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a4a3e1e9b2e985e7ee6eb1e623c9a2ba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Wonder Egg Priority Special",
+        "alternativeTitle": "Wonder Egg Priority Special",
+        "id": "untitled-17805",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c906c8f42c12c44254ddae5a67f4918.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "46m"
+      },
+      {
+        "title": "Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai",
+        "alternativeTitle": "Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai",
+        "id": "saenai-heroine-no-sodatekata-ai-to-seishun-no-service-kai-3403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6efe6d0d9dd0b7ed4df1fef29aac5fb0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "The Labyrinth of Grisaia: The Cocoon of Caprice 0",
+        "alternativeTitle": "Grisaia no Meikyuu: Caprice no Mayu 0",
+        "id": "the-labyrinth-of-grisaia-the-cocoon-of-caprice-0-619",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0c621adc1dc8894103da875c905c447f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "47m"
+      },
+      {
+        "title": "Hanasaku Iroha: Blossoms for Tomorrow",
+        "alternativeTitle": "Hanasaku Iroha",
+        "id": "hanasaku-iroha-blossoms-for-tomorrow-592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2efd08cf24f4efebf9d54886b49e8b3.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+        "alternativeTitle": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
+        "id": "chuunibyou-demo-koi-ga-shitai-movie-take-on-me-328",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd7c5226f1587ebcd2c1484090baf4fd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Unnamed Memory",
+        "alternativeTitle": "Unnamed Memory",
+        "id": "unnamed-memory-19135",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9083491750ce69aae1a916304b4cf3ce.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ping Pong the Animation",
+        "alternativeTitle": "Ping Pong the Animation",
+        "id": "ping-pong-the-animation-58",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23379118be32fe69cd7128184f93dd8d.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "IS: Infinite Stratos 2 - World Purge",
+        "alternativeTitle": "IS: Infinite Stratos 2 - World Purge-hen",
+        "id": "is-infinite-stratos-2-world-purge-3669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1945e6e62caa6e6104f413815e6adaf7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Rift",
+        "alternativeTitle": "Rift",
+        "id": "rift-18055",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa90b14ebd2aaa4c7056a6d198364fdd.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Princess Principal",
+        "alternativeTitle": "Princess Principal",
+        "id": "princess-principal-1046",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6121e501dca1cf93dd4b8db1f4dd2caf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Devils and Realist",
+        "alternativeTitle": "Makai Ouji: Devils and Realist",
+        "id": "devils-and-realist-3282",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/429d98e3690bfd19dc7417e9057c2eb8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Squid Girl",
+        "alternativeTitle": "Shinryaku! Ika Musume",
+        "id": "the-squid-girl-1646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1172ad215994d0a4b2d06c46ee04b50.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "After-School Hanako-kun",
+        "alternativeTitle": "Houkago Shounen Hanako-kun",
+        "id": "after-school-hanako-kun-18592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c95031220a7a3203dc56d47195b40d09.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "Dragon Ball Z: Resurrection 'F'",
+        "alternativeTitle": "Dragon Ball Z Movie 15: Fukkatsu no \"F\"",
+        "id": "dragon-ball-z-resurrection-f-2975",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c6a15cd6d86f5cfb8bf5c636f4d1234.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "107m"
+      },
+      {
+        "title": "Basilisk",
+        "alternativeTitle": "Basilisk: Kouga Ninpou Chou",
+        "id": "basilisk-1307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/191cb6319fff579a08f97a2d9cbb1c33.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kingdom 4th Season",
+        "alternativeTitle": "Kingdom 4th Season",
+        "id": "kingdom-4th-season-17986",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be62d4245131f40fd344f3b51d8003d6.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Is the Order a Rabbit?",
+        "alternativeTitle": "Gochuumon wa Usagi Desu ka?",
+        "id": "is-the-order-a-rabbit-1501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2fc50d41fcbfe9583f6ebaab781e0c09.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Butareba -The Story of a Man Who Turned into a Pig-",
+        "alternativeTitle": "Buta no Liver wa Kanetsu Shiro",
+        "id": "butareba-the-story-of-a-man-who-turned-into-a-pig-18603",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/30f8299ce907173aab15c0eca6344640.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magia Record: Puella Magi Madoka Magica Side Story",
+        "alternativeTitle": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)",
+        "id": "magia-record-puella-magi-madoka-magica-side-story-4716",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4d925c9f3174e219c6db15817b4b21b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Carole & Tuesday",
+        "alternativeTitle": "Carole & Tuesday",
+        "id": "carole-tuesday-528",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ddac3b17fd5d8847edb95a608a0d554.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "86-Eighty Six- Special Edition - Coquelicots Blooming Across the Battlefield",
+        "alternativeTitle": "86 Special Edition: Senya ni Akaku Hinageshi no Saku",
+        "id": "86eighty-six-special-edition-coquelicots-blooming-across-the-battlefield-17948",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e9448521e5959e8db0a6857569d80e5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Rin: Daughters of Mnemosyne",
+        "alternativeTitle": "Mnemosyne: Mnemosyne no Musume-tachi",
+        "id": "rin-daughters-of-mnemosyne-2168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baa4127997480a34e5ac0c5c4c1d8426.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "45m"
+      },
+      {
+        "title": "Masamune-kun's Revenge OVA",
+        "alternativeTitle": "Masamune-kun no Revenge OVA",
+        "id": "masamune-kuns-revenge-ova-5500",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a5924d55235d7b9e47fe3c459284aa4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Pretty Boy Detective Club",
+        "alternativeTitle": "Bishounen Tanteidan",
+        "id": "pretty-boy-detective-club-15663",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3aef8d95fe920778aa7e00156acce41.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "One Piece: Clockwork Island Adventure",
+        "alternativeTitle": "One Piece Movie 2: Nejimaki-jima no Daibouken",
+        "id": "one-piece-clockwork-island-adventure-2776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec524a9783f942b07a6ddd8d775b2cdb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "55m"
+      },
+      {
+        "title": "Gintama.: Slip Arc",
+        "alternativeTitle": "Gintama.: Porori-hen",
+        "id": "gintama-slip-arc-88",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c3ebf11a61fc9738817e679cf1ae7ea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Lab",
+        "alternativeTitle": "Love Lab",
+        "id": "love-lab-2038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75ea981fac0ae41136eb44cfff7a87b3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

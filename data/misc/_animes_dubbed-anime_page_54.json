@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 54,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Astro Boy",
+        "alternativeTitle": "Tetsuwan Atom",
+        "id": "astro-boy-3200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b405050618ecd117285e6464631430a.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 104,
+          "eps": 193
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "You're Under Arrest: Diverting Traffic at the Beach",
+        "alternativeTitle": "Taiho Shichau zo: Nagisa no Koutsuu Yuudou",
+        "id": "youre-under-arrest-diverting-traffic-at-the-beach-3198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb0d5e9392974d4371b041a35a67b3c6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Space Adventure Cobra: The Movie",
+        "alternativeTitle": "Space Adventure Cobra",
+        "id": "space-adventure-cobra-the-movie-3197",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ada5874d1511ffad5b3d282ea021ad8d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "Pokémon the Movie 20: I Choose You!",
+        "alternativeTitle": "Pokemon Movie 20: Kimi ni Kimeta!",
+        "id": "pokemon-the-movie-20-i-choose-you-3191",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c081fe3ce48bc6194833a5424c361676.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "Pokemon: Advanced",
+        "alternativeTitle": "Pokemon Advanced Generation",
+        "id": "pokemon-advanced-3190",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/562b056f57113f8f899800f4badadde4.jpg",
+        "episodes": {
+          "sub": 192,
+          "dub": 192,
+          "eps": 192
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lupin III: Alcatraz Connection",
+        "alternativeTitle": "Lupin III: Alcatraz Connection",
+        "id": "lupin-iii-alcatraz-connection-3184",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad263f9db37bc6102d45ca54ee53f611.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "91m"
+      },
+      {
+        "title": "Last Exile: Fam, the Silver Wing",
+        "alternativeTitle": "Last Exile: Ginyoku no Fam",
+        "id": "last-exile-fam-the-silver-wing-3183",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d989264b79773194ce894febc679e10a.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 21,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Our Last Crusade or the Rise of a New World",
+        "alternativeTitle": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+        "id": "our-last-crusade-or-the-rise-of-a-new-world-3181",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b402178880fda0efc08c65175cf56ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Battle Angel Alita",
+        "alternativeTitle": "Gunnm",
+        "id": "battle-angel-alita-3178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f07a0f51c498662f569aaef4784c2f57.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Gantz: Second Stage",
+        "alternativeTitle": "Gantz 2nd Stage",
+        "id": "gantz-second-stage-3174",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/404776e79fd9086a44a6efd6edc301fd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dual! Parallel Trouble Adventure",
+        "alternativeTitle": "Dual! Parallel Lun-Lun Monogatari",
+        "id": "dual-parallel-trouble-adventure-3171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db3cbe46cc25851954a625511966b610.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Dirty Pair OVA",
+        "alternativeTitle": "Dirty Pair OVA",
+        "id": "dirty-pair-ova-3170",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/44085c772d401143fe61c7fd6e3c46bb.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Naruto Movie 1: Ninja Clash in the Land of Snow",
+        "alternativeTitle": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+        "id": "naruto-the-movie-ninja-clash-in-the-land-of-snow-3162",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1ab85f1eb75ec0a986e4c9d5fe04b49.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA",
+        "id": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-is-it-wrong-to-expect-a-hot-spring-in-a-dungeon-3152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d41439ca9f294d934718b555f9804f82.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Donten: Laughing Under the Clouds - Gaiden: Chapter 3 - Conspiracy of the Military",
+        "alternativeTitle": "Donten ni Warau Gaiden: Ouka, Tenbou no Kakehashi",
+        "id": "donten-laughing-under-the-clouds-gaiden-chapter-3-conspiracy-of-the-military-3147",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64d225eaaf25782d2e0015e5bc811979.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "57m"
+      },
+      {
+        "title": "Bubblegum Crisis Tokyo 2040",
+        "alternativeTitle": "Bubblegum Crisis Tokyo 2040",
+        "id": "bubblegum-crisis-tokyo-2040-3143",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb328fae99b425cae79c25b42a9ca0f8.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Boogiepop and Others",
+        "alternativeTitle": "Boogiepop wa Warawanai (2019)",
+        "id": "boogiepop-and-others-3142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ba3c4230a9b4f2a8208f60187270272.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 18,
+          "eps": 18
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Haganai: A Round-Robin Story's Ending Is Way Extreme",
+        "alternativeTitle": "Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai",
+        "id": "haganai-a-round-robin-storys-ending-is-way-extreme-3141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f42c67b20eb8db5bcb6e74b5620f3f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Appleseed (Movie)",
+        "alternativeTitle": "Appleseed (Movie)",
+        "id": "appleseed-movie-3140",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/080e88e9c8f3def0d74dfc1dddf6feef.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "All Out!!",
+        "alternativeTitle": "All Out!!",
+        "id": "all-out-3138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c302c65c62e68ce9b636d3f2109e7a81.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Uzaki-chan Wants to Hang Out!",
+        "alternativeTitle": "Uzaki-chan wa Asobitai!",
+        "id": "uzaki-chan-wants-to-hang-out-3134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a70e9e7de36c50fd3ede04307a62293.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tokyo Ghoul √A",
+        "alternativeTitle": "Tokyo Ghoul √A",
+        "id": "tokyo-ghoul-a-3130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8798db1ca7bd21638202c622c770b313.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shuffle!",
+        "alternativeTitle": "Shuffle!",
+        "id": "shuffle-3125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc5d3f551a8af43e8519212699eba21b.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Red Garden",
+        "alternativeTitle": "Red Garden",
+        "id": "red-garden-3120",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6644bba5e75c3fc7be8b550cb7d9d2d8.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
+        "alternativeTitle": "Psycho-Pass: Sinners of the System Case.1 - Tsumi to Bachi",
+        "id": "psycho-pass-sinners-of-the-system-case1-tsumi-to-bachi-3119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d38bceed7cf19dc3191e8ad1959f20a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "Pokemon The Movie 03: Spell Of The Unown",
+        "alternativeTitle": "Pokemon Movie 03: Kesshoutou no Teiou Entei",
+        "id": "pokemon-the-movie-03-spell-of-the-unown-3117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/651c4305c39587c86e39a68ef5946909.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Grimoire of Zero",
+        "alternativeTitle": "Zero kara Hajimeru Mahou no Sho",
+        "id": "grimoire-of-zero-3113",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fae4589f5811c9bc44323ee5007de58b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sing \"Yesterday\" for Me",
+        "alternativeTitle": "Yesterday wo Utatte",
+        "id": "sing-yesterday-for-me-3112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc56ae3722488155d336de22a32d4ba.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Birdy the Mighty",
+        "alternativeTitle": "Tetsuwan Birdy",
+        "id": "birdy-the-mighty-3107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09fd690406d0e751b55f3db8b60b404b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Sword Art Online Alternative: Gun Gale Online",
+        "alternativeTitle": "Sword Art Online Alternative: Gun Gale Online",
+        "id": "sword-art-online-alternative-gun-gale-online-3106",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19fdf9012efd098ddcb762dfc09c9e7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aquarion",
+        "alternativeTitle": "Sousei no Aquarion",
+        "id": "aquarion-3103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3ce89f37d377cc8ab4e03b552322c32.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shadow Skill: Eigi",
+        "alternativeTitle": "Shadow Skill: Eigi",
+        "id": "shadow-skill-eigi-3101",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c8437bf6d75fa9664d1bfc1de88ea2c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "One Piece: Episode of Skypiea",
+        "alternativeTitle": "One Piece: Episode of Sorajima",
+        "id": "one-piece-episode-of-skypiea-3097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a593442adebb95308e506e969852aa0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "105m"
+      },
+      {
+        "title": "Muv-Luv Alternative: Total Eclipse",
+        "alternativeTitle": "Muv-Luv Alternative: Total Eclipse",
+        "id": "muv-luv-alternative-total-eclipse-3094",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5b42c626ef877ff47a396b284d104dc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 24,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

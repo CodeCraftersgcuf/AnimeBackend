@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 113,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Dino Mech Gaiking",
+        "alternativeTitle": "Daikuu Maryuu Gaiking",
+        "id": "dino-mech-gaiking-4980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/469311f063b64ed604fd6dfa45757bf5.jpg",
+        "episodes": {
+          "sub": 44,
+          "dub": 0,
+          "eps": 44
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shugo Chara! Party!",
+        "alternativeTitle": "Shugo Chara! Party!",
+        "id": "shugo-chara-party-5236",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef2607b39107929630fd9e3a3a4a2865.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "21m"
+      },
+      {
+        "title": "Flower Witch Mary Bell",
+        "alternativeTitle": "Hana no Mahoutsukai Mary Bell",
+        "id": "flower-witch-mary-bell-5492",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8babb240cfd27f7b8e74523311a1ab9f.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Galaxy Express 999: Can You Live Like A Warrior?",
+        "alternativeTitle": "Ginga Tetsudou 999: Kimi wa Senshi no You ni Ikirareru ka?",
+        "id": "galaxy-express-999-can-you-live-like-a-warrior-5748",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e126b58db5cdba623b778493eec0b454.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "93m"
+      },
+      {
+        "title": "Last Exile: Fam, the Silver Wing - Over the Wishes",
+        "alternativeTitle": "Last Exile: Ginyoku no Fam Movie - Over the Wishes",
+        "id": "last-exile-fam-the-silver-wing-over-the-wishes-6004",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a870a54941b87f240a491873f43b06b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Argento Soma Special",
+        "alternativeTitle": "Argento Soma Special",
+        "id": "argento-soma-special-6260",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/392302a82b6e7c4b0d9d3fb4b26585ac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Ozanari Dungeon: Kaze no Tou",
+        "alternativeTitle": "Ozanari Dungeon: Kaze no Tou",
+        "id": "ozanari-dungeon-kaze-no-tou-6772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ab2200417baf84f06aee3f57847a0c7.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Samurai Jam -Bakumatsu Rock-",
+        "alternativeTitle": "Bakumatsu Rock",
+        "id": "samurai-jam-bakumatsu-rock-7796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/326fd8d01aca8e6e70472ffebf361e7b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Garo: Crimson Moon",
+        "alternativeTitle": "Garo: Guren no Tsuki",
+        "id": "garo-crimson-moon-8308",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c5e3b0062a442600f6900cc7118d18ac.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ryokunohara Meikyuu",
+        "alternativeTitle": "Ryokunohara Meikyuu",
+        "id": "ryokunohara-meikyuu-10100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/77e92957597114bc581de047355e7bfd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "40m"
+      },
+      {
+        "title": "Chalk-iro no People",
+        "alternativeTitle": "Chalk-iro no People",
+        "id": "chalk-iro-no-people-13172",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e104899fbfa72b6a8fd8400f9012fb3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "54m"
+      },
+      {
+        "title": "Boonie Bears: The Wild Life",
+        "alternativeTitle": "Xiong Chumo: Kuang Ye Dalu",
+        "id": "boonie-bears-the-wild-life-18548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/811e5633ae90a4750f8775b3bb58d9b9.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "The Outcast Movie: The Rusted Blade Resurfaces",
+        "alternativeTitle": "Yi Ren Zhi Xia: Xiu Tie Chong Xian",
+        "id": "the-outcast-movie-the-rusted-blade-resurfaces-19828",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4712933ba28b0629c0d4677f18bdb0eb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "70m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex",
+        "id": "ghost-in-the-shell-stand-alone-complex-117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9b5d7aa68642642fc2f1eba2c22a8e9.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Darker than Black",
+        "alternativeTitle": "Darker than Black: Kuro no Keiyakusha",
+        "id": "darker-than-black-373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/307f414bf33ef9ea887048b68fceb9f9.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "ID: INVADED",
+        "alternativeTitle": "Id:Invaded",
+        "id": "id-invaded-629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d44a05f2cfb4ca5de32e8257501b6245.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokémon the Series: XYZ",
+        "alternativeTitle": "Pokemon XY&Z",
+        "id": "pokemon-the-series-xyz-1141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bf7d8ce4d7f5449d3e848531f279929.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 48,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Isekai Quartet 2",
+        "alternativeTitle": "Isekai Quartet 2",
+        "id": "isekai-quartet-2-1909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40c55ad9079f0fde0967b0418f3b3ddb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "KimiKiss: Pure Rouge",
+        "alternativeTitle": "KimiKiss Pure Rouge",
+        "id": "kimikiss-pure-rouge-2165",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc69d631c98eca2cff23067186e6acc1.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Diary of a Crazed Family",
+        "alternativeTitle": "Kyouran Kazoku Nikki",
+        "id": "the-diary-of-a-crazed-family-2421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee02d0e0a7e07106b957bca17ed825bc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "MegaMan: Axess",
+        "alternativeTitle": "Rockman.EXE Axess",
+        "id": "megaman-axess-2933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ab320ded46f2c3d6a3f15f99e6fe83b.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Little Sister Can't Be This Cute 2",
+        "alternativeTitle": "Ore no Imouto ga Konnani Kawaii Wake ga Nai.",
+        "id": "my-little-sister-cant-be-this-cute-2-3189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92cdc9832fab7ed9c6039c7ff3e14744.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Asura Cryin",
+        "alternativeTitle": "Asura Cryin'",
+        "id": "asura-cryin-3701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a5077dea1fdaca2ed9fc4a7f254e8da.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Crayon Shin-chan: Action Mask vs. Leotard Devil",
+        "alternativeTitle": "Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou",
+        "id": "crayon-shin-chan-action-mask-vs-leotard-devil-3957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a79dda83f63668d07f5cb3ef101b3cc1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "93m"
+      },
+      {
+        "title": "Happiness Charge Precure!",
+        "alternativeTitle": "Happiness Charge Precure!",
+        "id": "happiness-charge-precure-4469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5966ffcc22c22967a2f8ca274a47d308.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 1,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nakanohito Genome [Jikkyouchuu]: Knots of Memories",
+        "alternativeTitle": "Nakanohito Genome [Jikkyouchuu]: Knots of Memories",
+        "id": "nakanohito-genome-jikkyouchuu-knots-of-memories-4725",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dec47f6bb0457a5b9d9fd6ac2b0f9cb4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "The Devil Lady",
+        "alternativeTitle": "Devilman Lady",
+        "id": "the-devil-lady-4981",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afce8a88602d0e8c4125dc81ac9524f0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Last Period: The Journey to the End of the Despair",
+        "alternativeTitle": "Last Period: Owarinaki Rasen no Monogatari",
+        "id": "last-period-the-journey-to-the-end-of-the-despair-6005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13b07994b40a7b3fb54c8379112ab350.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aru Tabibito no Nikki Specials",
+        "alternativeTitle": "Aru Tabibito no Nikki Specials",
+        "id": "aru-tabibito-no-nikki-specials-6261",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cbe4781f64b69cfb3cbd8e5c7592860.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Heroman Specials",
+        "alternativeTitle": "Heroman Specials",
+        "id": "heroman-specials-6517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81731ad1d51ce3a8d5fe722a2e67ad3f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+        "alternativeTitle": "Scramble Wars: Tsuppashire! Genom Trophy Rally",
+        "id": "scramble-wars-tsuppashire-genom-trophy-rally-7029",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78da5056b598d57a943a409788661cb3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Caligula",
+        "alternativeTitle": "Caligula (TV)",
+        "id": "caligula-7797",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/515411938384d6c88e9cbafa485a767d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "gdgd men's Party",
+        "alternativeTitle": "gdMen",
+        "id": "gdgd-mens-party-8309",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d21d8262f5ed738a7b5d352e3e30fcb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "8m"
+      },
+      {
+        "title": "Hoshizora Kiseki",
+        "alternativeTitle": "Hoshizora Kiseki",
+        "id": "hoshizora-kiseki-8565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ed0519c3f15dfa198963d4361df1acc8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "27m"
+      },
+      {
+        "title": "Ladyspo",
+        "alternativeTitle": "Ladyspo",
+        "id": "ladyspo-10613",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be77bff2bf423d5bac698a258fb88758.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "You're My Love Prize",
+        "alternativeTitle": "Finder Series",
+        "id": "youre-my-love-prize-16245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e94982ae55f3f51d2821df63fc9c577d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Boonie Bears: Back to Earth",
+        "alternativeTitle": "Xiong Chumo: Chong Fan Di Qiu",
+        "id": "boonie-bears-back-to-earth-18549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/776f6f30237de96f76f6a1eda7b75860.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "99m"
+      },
+      {
+        "title": "Mysterious Treasures",
+        "alternativeTitle": "Shen Cang",
+        "id": "mysterious-treasures-19061",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6491e09dd46122ae007f898bac564d5a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Nana (2006)",
+        "alternativeTitle": "Nana",
+        "id": "nana-2006-118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f958494d616f3cbce35de4f926fd3d5.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 47,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ace of Diamond",
+        "alternativeTitle": "Diamond no Ace",
+        "id": "ace-of-diamond-374",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57cfd69b78c0ed9a6b9c08216be41dec.jpg",
+        "episodes": {
+          "sub": 75,
+          "dub": 0,
+          "eps": 75
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

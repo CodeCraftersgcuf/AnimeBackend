@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 39,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Oreca Battle",
+        "alternativeTitle": "Oreca Battle",
+        "id": "oreca-battle-8231",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b7282998eb49634f05187b5fe842b8b.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Kaitou Reinya",
+        "alternativeTitle": "Kaitou Reinya",
+        "id": "kaitou-reinya-8853",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48628415eb2dbbfa96a19a8ea2999a94.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "One Room Third Season",
+        "alternativeTitle": "One Room Third Season",
+        "id": "one-room-third-season-6959",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14f2be76eee4a497ad81a5039425ff06.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "ORESUKI Are you the only one who loves me?",
+        "alternativeTitle": "Ore wo Suki nano wa Omae dake ka yo",
+        "id": "oresuki-are-you-the-only-one-who-loves-me-1842",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b338ebdb328ded1b4d0725589c96acd1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Phantasy Star Online 2 The Animation",
+        "alternativeTitle": "Phantasy Star Online 2 The Animation",
+        "id": "phantasy-star-online-2-the-animation-6403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eecfbfa63eb920883a04684672c6b17d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Oreshura",
+        "alternativeTitle": "Ore no Kanojo to Osananajimi ga Shuraba Sugiru",
+        "id": "oreshura-3115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28cc90bf9f7a725dd1fb1af5d7f8a8b2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Orange",
+        "alternativeTitle": "Orange",
+        "id": "orange-1229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98a953ed53cc03cdd46950ade51237d4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Orenchi no Furo Jijou",
+        "alternativeTitle": "Orenchi no Furo Jijou",
+        "id": "orenchi-no-furo-jijou-3534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0ad2058409835e523cb2e30c6297683.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Our love has always been 10 centimeters apart.",
+        "alternativeTitle": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+        "id": "our-love-has-always-been-10-centimeters-apart-1440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c1f6f86a996527385045ae499695e65.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "If it's for My Daughter, I'd Even Defeat a Demon Lord",
+        "alternativeTitle": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+        "id": "if-its-for-my-daughter-id-even-defeat-a-demon-lord-3411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1776c83175cd72d9eebf011493881c0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ooya-san wa Shishunki!",
+        "alternativeTitle": "Ooyasan wa Shishunki!",
+        "id": "ooya-san-wa-shishunki-5435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1af08329526578763c8caf8a8f9ffd1c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Outbreak Company",
+        "alternativeTitle": "Outbreak Company",
+        "id": "outbreak-company-2187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d685ca618180d3608a60d721cb8b62af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ozmafia!!",
+        "alternativeTitle": "Ozmafia!!",
+        "id": "ozmafia-9515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ea297f40303ea9454f522e15041bf27.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Onyankopon",
+        "alternativeTitle": "Onyankopon",
+        "id": "onyankopon-10559",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18d653e16b27a17d82e043a1372f981c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Pan de Peace!",
+        "alternativeTitle": "Pan de Peace!",
+        "id": "pan-de-peace-9128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33189769162ee1984e619c0cfa4497ed.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Idol Time PriPara",
+        "alternativeTitle": "Idol Time PriPara",
+        "id": "idol-time-pripara-3003",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e82e26d0d0488d3103b02ded93eca04c.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "IDOLiSH7",
+        "alternativeTitle": "IDOLiSH7",
+        "id": "idolish7-803",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7563a120d632cfcd49357b43fea4377.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 0,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nogizaka Haruka no Himitsu: Purezza",
+        "alternativeTitle": "Nogizaka Haruka no Himitsu: Purezza",
+        "id": "nogizaka-haruka-no-himitsu-purezza-2686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7934cca556f6080e007db17b2457b66.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nyanbo!",
+        "alternativeTitle": "Nyanbo!",
+        "id": "nyanbo-6556",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38fbb5e94bcd3c7fc7c9ca24478ce86e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Haruka Nogizaka's Secret",
+        "alternativeTitle": "Nogizaka Haruka no Himitsu",
+        "id": "haruka-nogizakas-secret-2536",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83c0f23f2be8f8f29ac4a3c586f1a470.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Nobunagun",
+        "alternativeTitle": "Nobunagun",
+        "id": "nobunagun-4757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/007fa18121502c60a0e4e8c358f8dd11.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Zeta Gundam",
+        "alternativeTitle": "Mobile Suit Zeta Gundam",
+        "id": "mobile-suit-zeta-gundam-633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d73a1f59ec9c6b62c26f6d4a0628f557.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pretty Cure Max Heart",
+        "alternativeTitle": "Futari wa Precure: Max Heart",
+        "id": "pretty-cure-max-heart-3819",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c5adf63262ff6721700da694a3677ae.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 0,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Glitter Force Doki Doki",
+        "alternativeTitle": "Dokidoki! Precure",
+        "id": "glitter-force-doki-doki-5086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d329e2bd1ff272503bce0a6c6bf3986c.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Heartcatch Precure!",
+        "alternativeTitle": "Heartcatch Precure!",
+        "id": "heartcatch-precure-801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a6eec912fb9bc89a74fb62bd4ba706f.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fresh Precure!",
+        "alternativeTitle": "Fresh Precure!",
+        "id": "fresh-precure-2241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/127665b67bef48641fcfeed679d6cb58.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Blue Comet SPT Layzner",
+        "alternativeTitle": "Aoki Ryuusei SPT Layzner",
+        "id": "blue-comet-spt-layzner-3810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/285293c1597248209b1d1fa1bd5a2d15.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Eagle Riders (2)",
+        "alternativeTitle": "Kagaku Ninja-tai Gatchaman F",
+        "id": "eagle-riders-2-6549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/008b376e4d5753c56bb8e87670f3b04a.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bobobo-bo Bo-bobo",
+        "alternativeTitle": "Bobobo-bo Bo-bobo",
+        "id": "bobobo-bo-bo-bobo-1564",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/262354c97ba27178cba053556a7deedc.jpg",
+        "episodes": {
+          "sub": 76,
+          "dub": 76,
+          "eps": 76
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Mobile Police Patlabor: The New Files",
+        "alternativeTitle": "Kidou Keisatsu Patlabor: New OVA",
+        "id": "mobile-police-patlabor-the-new-files-1577",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98018081e5d61f6fcff4a4fb420754e1.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 4,
+          "eps": 16
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Ginga e Kickoff!!",
+        "alternativeTitle": "Ginga e Kickoff!!",
+        "id": "ginga-e-kickoff-2512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6753c78f28db1a9f2c3cdb2f1b7fb069.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Patlabor: The Mobile Police - The TV Series",
+        "alternativeTitle": "Kidou Keisatsu Patlabor: On Television",
+        "id": "patlabor-the-mobile-police-the-tv-series-1125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/de539b2d55cfb7b7c6c0b575de178065.jpg",
+        "episodes": {
+          "sub": 47,
+          "dub": 47,
+          "eps": 47
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Natsume's Book of Friends Season 6",
+        "alternativeTitle": "Natsume Yuujinchou Roku",
+        "id": "natsumes-book-of-friends-season-6-53",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dc5a81d240745566faa4da6f12ae7df3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Natsume's Book of Friends Season 4",
+        "alternativeTitle": "Natsume Yuujinchou Shi",
+        "id": "natsumes-book-of-friends-season-4-48",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/857ade1388459c0511cdff4c07146691.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Natsume's Book of Friends Season 5",
+        "alternativeTitle": "Natsume Yuujinchou Go",
+        "id": "natsumes-book-of-friends-season-5-71",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aaf0b6dc164e4ffed2c5cc9ad04927d6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 11,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Natsume's Book of Friends Season 3",
+        "alternativeTitle": "Natsume Yuujinchou San",
+        "id": "natsumes-book-of-friends-season-3-69",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/338b3e1777a4e134007b9381c2fb7a1f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Natsume's Book of Friends Season 2",
+        "alternativeTitle": "Zoku Natsume Yuujinchou",
+        "id": "natsumes-book-of-friends-season-2-75",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/190d97dfb57b1c76bad9f9bd5dd17cd2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Macross",
+        "alternativeTitle": "Macross",
+        "id": "macross-623",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a429000fbc9c2f6ec7bb5e0b7c130867.jpg",
+        "episodes": {
+          "sub": 36,
+          "dub": 36,
+          "eps": 36
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Natsume's Book of Friends",
+        "alternativeTitle": "Natsume Yuujinchou",
+        "id": "natsumes-book-of-friends-195",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/be01946291c844b60a4566349453e176.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ninja Hattori-kun",
+        "alternativeTitle": "Ninja Hattori-kun",
+        "id": "ninja-hattori-kun-4234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/588226890cddf502ff85b8dd909241f3.jpg",
+        "episodes": {
+          "sub": 224,
+          "dub": 224,
+          "eps": 224
+        },
+        "type": "TV",
+        "duration": "25m"
+      }
+    ]
+  }
+}

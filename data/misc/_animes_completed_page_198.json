@@ -1,0 +1,142 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 198,
+      "hasNextPage": false
+    },
+    "response": [
+      {
+        "title": "Love Live! Superstar!!",
+        "alternativeTitle": "Love Live! Superstar!!",
+        "id": "love-live-superstar-15780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dac058a7120331dfb0cfd03da2657961.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Heion Sedai no Idaten-tachi",
+        "alternativeTitle": "Heion Sedai no Idaten-tachi",
+        "id": "heion-sedai-no-idaten-tachi-15727",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebc35d92127e6db87d9512f287bde202.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "IDOLiSH7: Third Beat!",
+        "alternativeTitle": "IDOLiSH7: Third Beat!",
+        "id": "idolish7-third-beat-17464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b11ca5b01e091c60f210029d07a7c591.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Peach Boy Riverside",
+        "alternativeTitle": "Peach Boy Riverside",
+        "id": "peach-boy-riverside-15513",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/27aa094510683b18809d80d02a91b6cf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Demon Slayer: Kimetsu no Yaiba – To the Swordsmith Village",
+        "alternativeTitle": "Kimetsu no Yaiba: To the Katanakaji no Sato-hen",
+        "id": "demon-slayer-kimetsu-no-yaiba-to-the-swordsmith-village-18335",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e9e91f6f86322d2d38c817cc42cb9284.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "48m"
+      },
+      {
+        "title": "Demon Slayer Movie: Mugen Train",
+        "alternativeTitle": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "id": "kimetsu-no-yaiba-movie-mugen-ressha-hen-15763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab45afa989aa5a2e06ef973c8482b015.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "This Boy Suffers From Crystallization",
+        "alternativeTitle": "Kono Danshi, Sekka ni Nayandemasu.",
+        "id": "this-boy-suffers-from-crystallization-3566",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b8b014208b8b91fc2fa1426ba7d1281.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Sasaki and Miyano: A Little Story Before I Realized Love",
+        "alternativeTitle": "Sasaki to Miyano: Koi ni Kizuku Mae no Chotto Shita Hanashi.",
+        "id": "sasaki-and-miyano-a-little-story-before-i-realized-love-18112",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd5d3335b6efe23708e82e1fde2650bd.png",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Doraemon Movie 21: Nobita's the Legend of the Sun King",
+        "alternativeTitle": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu",
+        "id": "doraemon-the-movie-nobitas-the-legend-of-the-sun-king-2291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/191919a9f527926f06bac7b89b39356f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure: Stone Ocean Part 3",
+        "alternativeTitle": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
+        "id": "jojos-bizarre-adventure-stone-ocean-part-3-18230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b59e46f13d954d950eeae33bed2b5df8.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "ONA",
+        "duration": "22m"
+      }
+    ]
+  }
+}

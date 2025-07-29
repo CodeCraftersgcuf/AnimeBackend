@@ -1,0 +1,480 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 14,
+      "currentPage": 11,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "A Portrait of Jianghu: Mourning Toast",
+        "alternativeTitle": "Hua Jianghu Zhi Bei Mo Ting",
+        "id": "a-portrait-of-jianghu-mourning-toast-5465",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb2a973bd5405fb5716bdf7f33fc5619.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "A Portrait of Jianghu: Spirit Master",
+        "alternativeTitle": "Hua Jianghu Zhi Ling Zhu",
+        "id": "a-portrait-of-jianghu-spirit-master-4282",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e6a8f45f7e51852a9007e3a39c5eb7d.jpg",
+        "episodes": {
+          "sub": 41,
+          "dub": 0,
+          "eps": 41
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "A Portrait of Jianghu Xia Lan",
+        "alternativeTitle": "Hua Jianghu Zhi Xia Lan",
+        "id": "a-portrait-of-jianghu-xia-lan-17287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f2cbaf9c17a9a787c8bf9056cbd7872.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "A Portrait of Jianghu: Reincarnated Disciple",
+        "alternativeTitle": "Hua Jianghu: Huan Shi Men Sheng",
+        "id": "a-portrait-of-jianghu-reincarnated-disciple-14150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fcf45b704f8430a28533a23d4660d7b.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "A Portrait of Jianghu: Reincarnated Disciple 2nd Season",
+        "alternativeTitle": "Hua Jianghu: Huan Shi Men Sheng 2nd Season",
+        "id": "a-portrait-of-jianghu-reincarnated-disciple-2nd-season-18538",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/554e0a1487d09699630ac1ad3d717fd0.jpg",
+        "episodes": {
+          "sub": 19,
+          "dub": 0,
+          "eps": 19
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "A Sister's All You Need",
+        "alternativeTitle": "Imouto sae Ireba Ii.",
+        "id": "a-sisters-all-you-need-1887",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f4285e61df1b6efae0c9c7382b2d1bc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Harem in a Fantasy World Labyrinth",
+        "alternativeTitle": "Isekai Meikyuu de Harem wo",
+        "id": "a-harem-in-a-fantasy-world-labyrinth-17403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9553d7b03b7e61849fb20faccca10543.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Apocalypse Bringer Mynoghra",
+        "alternativeTitle": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+        "id": "apocalypse-bringer-mynoghra-19772",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5158a52746ac1a0af5ca85fd2ff25366.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Journey Through Another World: Raising Kids While Adventuring",
+        "alternativeTitle": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
+        "id": "a-journey-through-another-world-raising-kids-while-adventuring-19227",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21df7271be7ffee5518ddfa5cd749e62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Dark Rabbit has Seven Lives",
+        "alternativeTitle": "Itsuka Tenma no Kuro Usagi",
+        "id": "a-dark-rabbit-has-seven-lives-5185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04b3f3016fb22cf12691d0f51ce36f7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Another Journey to the West",
+        "alternativeTitle": "Ji Yao Lu: Qicheng Pian",
+        "id": "another-journey-to-the-west-19402",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62bedeee4bea3081ef9591aae542d9d1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "m"
+      },
+      {
+        "title": "Antidote",
+        "alternativeTitle": "Jie Yao",
+        "id": "antidote-3649",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6041e168e3988da6af75f866b1299e58.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "Android Kikaider",
+        "alternativeTitle": "Jinzou Ningen Kikaider The Animation",
+        "id": "android-kikaider-3650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/363bf0d7715f2eb263309b9389fc4535.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Am I Actually the Strongest?",
+        "alternativeTitle": "Jitsu wa Ore, Saikyou deshita?",
+        "id": "am-i-actually-the-strongest-18481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5143ba1266a0f80f5ea770e92721b47.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Actually, I am...",
+        "alternativeTitle": "Jitsu wa Watashi wa",
+        "id": "actually-i-am-3799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b420c4a6f2d747aaa2a073c93e770c4b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Couple of Cuckoos",
+        "alternativeTitle": "Kakkou no Iinazuke",
+        "id": "a-couple-of-cuckoos-17849",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3176a2690d7ace98cb4d39532232ded.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Couple of Cuckoos Season 2",
+        "alternativeTitle": "Kakkou no Iinazuke Season 2",
+        "id": "a-couple-of-cuckoos-season-2-19778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ff05305e6d9951f288f55e9ba12287f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 1,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Apocalypse Zero",
+        "alternativeTitle": "Kakugo no Susume",
+        "id": "apocalypse-zero-10469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61da6c7d8f77cc3339de9f3e3a2af059.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "A Girl in a Lower Grade (TV)",
+        "alternativeTitle": "Kakyuusei (TV)",
+        "id": "a-girl-in-a-lower-grade-tv-6997",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/581df09df4d0a323368eb7cb79a381bb.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "A Girl in a Lower Grade (TV): Hajimemashite Tina!",
+        "alternativeTitle": "Kakyuusei (TV): Hajimemashite Tina!",
+        "id": "a-girl-in-a-lower-grade-tv-hajimemashite-tina-8776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fbd695f36b3116748a9ab5097ef70004.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "Astra Lost in Space",
+        "alternativeTitle": "Kanata no Astra",
+        "id": "astra-lost-in-space-310",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66194119aff8f7f9df17db840f037480.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "28m"
+      },
+      {
+        "title": "A Wind Named Amnesia",
+        "alternativeTitle": "Kaze no Na wa Amnesia",
+        "id": "a-wind-named-amnesia-6278",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea219976e6f21fae202a69b8a3b4f2f2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "A Returner's Magic Should Be Special",
+        "alternativeTitle": "Kikansha no Mahou wa Tokubetsu desu",
+        "id": "a-returners-magic-should-be-special-18600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f77c2a8d9163d22b4c8c5376189c56c1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Armored Fleet Dairugger XV",
+        "alternativeTitle": "Kikou Kantai Dairugger XV",
+        "id": "armored-fleet-dairugger-xv-6199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9ad9890079ea4633f31ea22cc1449b2.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "A Town Where You Live",
+        "alternativeTitle": "Kimi no Iru Machi",
+        "id": "a-town-where-you-live-3670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c456fed0fe24033b65e5983c99dfd25b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "20m"
+      },
+      {
+        "title": "A Silent Voice",
+        "alternativeTitle": "Koe no Katachi",
+        "id": "a-silent-voice-11",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fc61d82b89949dff4319bd73ff2d456.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "After the Rain",
+        "alternativeTitle": "Koi wa Ameagari no You ni",
+        "id": "after-the-rain-1445",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a922222c3a7778c0038cec52f25b8c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Asteroid in Love",
+        "alternativeTitle": "Koisuru Asteroid",
+        "id": "asteroid-in-love-3996",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c899082514f4f6a369def4fdb3e85c92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Asteroid in Love Episode 6.5",
+        "alternativeTitle": "Koisuru Asteroid: Furikaeri - KiraKira Special!",
+        "id": "asteroid-in-love-episode-65-7701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4c570f080f9ad6e95f73cc966a0966c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Anemone: Eureka Seven Hi-Evolution",
+        "alternativeTitle": "Koukyoushihen Eureka Seven Hi-Evolution 2: Anemone",
+        "id": "anemone-eureka-seven-hi-evolution-4314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4be08b055fae4616ee5d6154d38e0d60.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "AMAIM Warrior at the Borderline",
+        "alternativeTitle": "Kyoukai Senki Part 2",
+        "id": "amaim-warrior-at-the-borderline-18007",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c4991410e6c50eb931032c873658492.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ambassador Magma",
+        "alternativeTitle": "Magma Taishi",
+        "id": "ambassador-magma-8303",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9640690ff423d9d59e38da9976bbd6a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "A Story of a Girl that was Unable to Become a Mage",
+        "alternativeTitle": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
+        "id": "a-story-of-a-girl-that-was-unable-to-become-a-mage-19366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae7ba7214a69dc0c2d0b95cedef4db09.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "An Archdemon's Dilemma: How to Love Your Elf Bride",
+        "alternativeTitle": "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",
+        "id": "an-archdemons-dilemma-how-to-love-your-elf-bride-19130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c03a34d9cb5e32348d90271798190fd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ao-chan Can't Study!",
+        "alternativeTitle": "Midara na Ao-chan wa Benkyou ga Dekinai",
+        "id": "ao-chan-cant-study-4320",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/702f674cea1ae197a5df90b4f6abc10d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "A Nobody's Way Up to an Exploration Hero LV",
+        "alternativeTitle": "Mob kara Hajimaru Tansaku Eiyuutan",
+        "id": "a-nobodys-way-up-to-an-exploration-hero-lv-19223",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6b6d4a43555afa74323871b9dcf107e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

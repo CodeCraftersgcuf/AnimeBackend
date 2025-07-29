@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 193,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Hyakka Ryouran: Samurai Girls Specials",
+        "alternativeTitle": "Hyakka Ryouran: Samurai Girls Specials",
+        "id": "hyakka-ryouran-samurai-girls-specials-5104",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5174793ff8b3d6361293d617f1d6137.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Tokko",
+        "alternativeTitle": "Tokkou",
+        "id": "tokko-5360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1da146517e250f1f7d7bb549acbba4a5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pucca",
+        "alternativeTitle": "Pucca",
+        "id": "pucca-5616",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18a0a0343b1935bf22465b877b9ca7fb.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Big First-Grader and the Small Second-Grader",
+        "alternativeTitle": "Ookii 1 Nensei to Chiisana 2 Nensei",
+        "id": "the-big-first-grader-and-the-small-second-grader-6384",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5bde206be54be19f493bd725e29de22b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "Chronicles of the Going Home Club: Chibi Theater",
+        "alternativeTitle": "Kitakubu Katsudou Kiroku: Miniature Theater",
+        "id": "chronicles-of-the-going-home-club-chibi-theater-6896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fb31748c17376656c37e4fa5b89a38c.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Final Fantasy: Unlimited",
+        "alternativeTitle": "Final Fantasy: Unlimited",
+        "id": "final-fantasy-unlimited-7152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d63569e7f687eb377342c2341b7191d6.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nanatsu no Bitoku Specials",
+        "alternativeTitle": "Nanatsu no Bitoku Specials",
+        "id": "nanatsu-no-bitoku-specials-9456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7fc981acbfa89101e9edbb0b9fdbc2a4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Tekkaman Blade II: Virgin Memory",
+        "alternativeTitle": "Uchuu no Kishi Tekkaman Blade II: Virgin Memory",
+        "id": "tekkaman-blade-ii-virgin-memory-12272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fceb3428d8138180578848220d792ed9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "26m"
+      },
+      {
+        "title": "The Westward 2nd Season",
+        "alternativeTitle": "Xi Xing Ji Jijie Pian",
+        "id": "the-westward-2nd-season-12528",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39e3ba1c0d0bd6d56a9d80073cc2de31.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Tonikaku Kawaii: SNS",
+        "alternativeTitle": "Tonikaku Kawaii OVA",
+        "id": "tonikaku-kawaii-sns-17392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/12e5c11916ae80916f86d44dac276551.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon Concierge",
+        "alternativeTitle": "Pokemon Concierge",
+        "id": "pokemon-concierge-18928",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b06abbc813b0f822abc206a97228ecb8.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Iii Icecrin 2",
+        "alternativeTitle": "Iii Icecrin Double",
+        "id": "iii-icecrin-2-19696",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26853b6a2fc94de495202719ba568aa6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "A Certain Scientific Railgun T",
+        "alternativeTitle": "Toaru Kagaku no Railgun T",
+        "id": "a-certain-scientific-railgun-t-241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57c29ad41c8214e567ed79dda1200336.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nura: Rise of the Yokai Clan: Demon Capital",
+        "alternativeTitle": "Nurarihyon no Mago: Sennen Makyou",
+        "id": "nura-rise-of-the-yokai-clan-demon-capital-497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b5308b83095f43ba4817316c00c0dec.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Free! - Eternal Summer",
+        "alternativeTitle": "Free!: Eternal Summer",
+        "id": "free-eternal-summer-1009",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e161569d403dd27d4adcba8d34df0b0a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kino's Journey: Tower Country",
+        "alternativeTitle": "Kino no Tabi: The Beautiful World - Tou no Kuni - Free Lance",
+        "id": "kinos-journey-tower-country-1265",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b52963a3eb0b130b051954b38e8ec59.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "14m"
+      },
+      {
+        "title": "The File of Young Kindaichi Returns",
+        "alternativeTitle": "Kindaichi Shounen no Jikenbo Returns",
+        "id": "the-file-of-young-kindaichi-returns-1521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4187f5c12a3a3b173be08668ece921e4.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beautiful Bones -Sakurako's Investigation-",
+        "alternativeTitle": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+        "id": "beautiful-bones-sakurakos-investigation-1777",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2df07dc598d49a412f6360abc612747.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Majestic Prince",
+        "alternativeTitle": "Ginga Kikoutai Majestic Prince",
+        "id": "majestic-prince-2033",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ded1d09ea81a969e9a9e89a11278d53.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+        "alternativeTitle": "Crayon Shin-chan Movie 18: Chou Jikuu! Arashi wo Yobu Ora no Hanayome",
+        "id": "crayon-shin-chan-movie-18-chou-jikuu-arashi-wo-yobu-ora-no-hanayome-2289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/452799e6c26d3368afc532c68820d240.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Yes! Precure 5 Movie: Kagami no Kuni no Miracle Daibouken!",
+        "alternativeTitle": "Yes! Precure 5 Movie: Kagami no Kuni no Miracle Daibouken!",
+        "id": "yes-precure-5-movie-kagami-no-kuni-no-miracle-daibouken-2545",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0238db927a44f7f0ae316e89dc4169eb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "70m"
+      },
+      {
+        "title": "Rental Magica",
+        "alternativeTitle": "Rental Magica",
+        "id": "rental-magica-3313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85c10c75b496c879dd695f97cd523c3b.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "In/Spectre",
+        "alternativeTitle": "Kyokou Suiri",
+        "id": "inspectre-3569",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8879157734fc30ba22d50a3831d62c23.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Demon King Daimao",
+        "alternativeTitle": "Ichiban Ushiro no Daimaou",
+        "id": "demon-king-daimao-3825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/632f0f439448857e63e57ee2dd15a0a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Westward",
+        "alternativeTitle": "Xixing Ji",
+        "id": "the-westward-4593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b64c32f06ad61e50f34df53b593e9c2d.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Puzzle & Dragons X",
+        "alternativeTitle": "Puzzle & Dragons Cross",
+        "id": "puzzle-dragons-x-5617",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e146dc07e4fc5b97b887f84adfc87481.jpg",
+        "episodes": {
+          "sub": 89,
+          "dub": 0,
+          "eps": 89
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakura Wars: School of Paris",
+        "alternativeTitle": "Sakura Taisen: Ecole de Paris",
+        "id": "sakura-wars-school-of-paris-6129",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9cf53b4ca20532cb63ef20b9ce1f040.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Komori-san Can't Decline!",
+        "alternativeTitle": "Komori-san wa Kotowarenai!",
+        "id": "komori-san-cant-decline-6897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/537cd760a064d3bb4308e1b18d6a5bea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Futari Ecchi (2014)",
+        "alternativeTitle": "Futari Ecchi (2014)",
+        "id": "futari-ecchi-2014-7153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6becfd3db1f5e08bddd1bede4d66a3c.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Kaze no Matasaburou",
+        "alternativeTitle": "Kaze no Matasaburou",
+        "id": "kaze-no-matasaburou-8433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4aa71c13a2e40a7b110cd071293cd933.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Ariel Visual",
+        "alternativeTitle": "Ariel Visual",
+        "id": "ariel-visual-9457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf9fe33cd1e29bc30a79f3dea4c20ebd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "The Island of Giant Insects Movie",
+        "alternativeTitle": "Kyochuu Rettou Movie",
+        "id": "the-island-of-giant-insects-movie-10481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0192f3ce3205e948f581a0adac2f3af.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "76m"
+      },
+      {
+        "title": "The Totem Warrior",
+        "alternativeTitle": "Shen Ming Zhi Zhou",
+        "id": "the-totem-warrior-11505",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4197c5d5d9d333ba0734d4254368882.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "The Westward",
+        "alternativeTitle": "Xixing Ji Zhi Zaijian Wukong",
+        "id": "the-westward-12529",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3acbdd41c5d632dde90d696ee19a261.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "65m"
+      },
+      {
+        "title": "Mr. Pen Pen",
+        "alternativeTitle": "Mr. Pen Pen",
+        "id": "mr-pen-pen-15345",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa2efaf3b6fd44aa45f8085fc15f29ea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "47m"
+      },
+      {
+        "title": "Vampire in the Garden",
+        "alternativeTitle": "Vampire in the Garden",
+        "id": "vampire-in-the-garden-15601",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e145423608b631b148e1b63bd35ee90.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "26m"
+      },
+      {
+        "title": "Fabulous Beasts",
+        "alternativeTitle": "You Shou Yan",
+        "id": "fabulous-beasts-18673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c46e8344e1df69cb4b3d7f9cfd0b6af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki",
+        "alternativeTitle": "Crayon Shin-chan Movie 32: Ora-tachi no Kyouyuu Nikki",
+        "id": "crayon-shin-chan-movie-32-ora-tachi-no-kyouyuu-nikki-19185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eddef77cd5a333456aa1afce3791bdc1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Laid-Back Camp",
+        "alternativeTitle": "Yuru Camp△",
+        "id": "laid-back-camp-242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/00ae4a23f642388cbd3d297e50ea5ef5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Slayers Try",
+        "alternativeTitle": "Slayers Try",
+        "id": "slayers-try-754",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37dc6d68e1c812a5f72166ab894d8a01.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

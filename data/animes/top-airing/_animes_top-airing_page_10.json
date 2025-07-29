@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 11,
+      "currentPage": 10,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Sotsugyou ** Densha",
+        "alternativeTitle": "Sotsugyou ** Densha",
+        "id": "sotsugyou-densha-16964",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0b221b4d21876eb684cbe6e7fda2095.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "White Blue",
+        "alternativeTitle": "White Blue",
+        "id": "white-blue-17173",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5d91cd986a9fa4f62241e099c922dda.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Yuutousei Ayaka no Uraomote",
+        "alternativeTitle": "Yuutousei Ayaka no Uraomote",
+        "id": "yuutousei-ayaka-no-uraomote-17176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60c11ea2f53604876cb3fc6abf3966c3.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Hajimete no Orusuban",
+        "alternativeTitle": "Hajimete no Orusuban",
+        "id": "hajimete-no-orusuban-17199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca0eaa7acc2437671e9512be99698aad.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA",
+        "duration": "17m"
+      },
+      {
+        "title": "Arknights",
+        "alternativeTitle": "Arknights",
+        "id": "arknights-17200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c780845ee4e47ff449c1a88b91fc714d.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "30m"
+      },
+      {
+        "title": "Chou Futsuu Toshi Kashiwa Densetsu: Kashiwa no Gotouji Yuru Anime",
+        "alternativeTitle": "Chou Futsuu Toshi Kashiwa Densetsu: Kashiwa no Gotouji Yuru Anime",
+        "id": "chou-futsuu-toshi-kashiwa-densetsu-kashiwa-no-gotouji-yuru-anime-17213",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5f38ca9ccda64fa92fabb77ec81f9f0.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Chou Futsuu Toshi Kashiwa Densetsu: Ekimae Housou UDC2-hen",
+        "alternativeTitle": "Chou Futsuu Toshi Kashiwa Densetsu: Ekimae Housou UDC2-hen",
+        "id": "chou-futsuu-toshi-kashiwa-densetsu-ekimae-housou-udc2-hen-17214",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3175dd0f2b5046901f0fb4f28df6f45.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Melting Juice Lolis' Spa Services: Let Us Do Slurp-Slurp-Melting Care!",
+        "alternativeTitle": "Toromitsu Musume no Hitou Service: Torottoro Churu Churu Gohoushi Sasete Kudasai",
+        "id": "melting-juice-lolis-spa-services-let-us-do-slurp-slurp-melting-care-17280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75aef02ab297f12b4b3f47ca6a45a473.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Motto! Majime ni Fumajime Kaiketsu Zorori 2nd Season",
+        "alternativeTitle": "Motto! Majime ni Fumajime Kaiketsu Zorori 2nd Season",
+        "id": "motto-majime-ni-fumajime-kaiketsu-zorori-2nd-season-17284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cee45f043cb7e5de6ee5e41a0a625ee.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Rikujoubu Joshi wa Ore no Nama Onaho!!! The Animation",
+        "alternativeTitle": "Rikujoubu Joshi wa Ore no Nama Onaho!!! The Animation",
+        "id": "rikujoubu-joshi-wa-ore-no-nama-onaho-the-animation-17330",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41d8b49b0890bc718395db1aae207fad.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "20m"
+      },
+      {
+        "title": "Haitoku no Kyoukai",
+        "alternativeTitle": "Haitoku no Kyoukai",
+        "id": "haitoku-no-kyoukai-17336",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff192f66467de5b4970bee436e922bb8.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA",
+        "duration": "0m"
+      },
+      {
+        "title": "Tokyo Gambo",
+        "alternativeTitle": "Tokyo Gambo",
+        "id": "tokyo-gambo-17363",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3b53080711fe4ed05baace04a13f269.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV",
+        "duration": "0m"
+      },
+      {
+        "title": "Zetsumetsu Kigu-shun. (2020)",
+        "alternativeTitle": "Zetsumetsu Kigu-shun. (2020)",
+        "id": "zetsumetsu-kigu-shun-2020-17366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/794dfac0d08baf820443c5904ab0d0c2.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "0m"
+      },
+      {
+        "title": "Moshi Juexing Zhi Suyuan",
+        "alternativeTitle": "Moshi Juexing Zhi Suyuan",
+        "id": "moshi-juexing-zhi-suyuan-17376",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d38f50b8d10fb35deefd0467b4111d7b.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "0m"
+      },
+      {
+        "title": "An Jie Shen Shi",
+        "alternativeTitle": "An Jie Shen Shi",
+        "id": "an-jie-shen-shi-17382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f453d3893495c106b8892d701d8dc1ae.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 22
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Shinkansen Henkei Robo Shinkalion Z the Animation",
+        "alternativeTitle": "Shinkansen Henkei Robo Shinkalion Z the Animation",
+        "id": "shinkansen-henkei-robo-shinkalion-z-the-animation-17426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d18852bfc820be3fa4c36bff1cc8cc54.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV",
+        "duration": "0m"
+      },
+      {
+        "title": "Mashiro no Oto Mini",
+        "alternativeTitle": "Mashiro no Oto Mini",
+        "id": "mashiro-no-oto-mini-17428",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/878c35d346c468365795689c716bbb29.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Enen no Shouboutai Mini Anime",
+        "alternativeTitle": "Enen no Shouboutai Mini Anime",
+        "id": "enen-no-shouboutai-mini-anime-17436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6176ff402d4ca5b06baa91218874b0ea.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Dinosaur Biyori",
+        "alternativeTitle": "Dinosaur Biyori",
+        "id": "dinosaur-biyori-17448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f12ee0a74a2f865f2d08758fa11c20b.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Immemorial Love For You 2nd Season",
+        "alternativeTitle": "Ai Zai Xiyuan Qian 2nd Season",
+        "id": "immemorial-love-for-you-2nd-season-17480",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d036e3d627873160c49847a0c1c36967.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "0m"
+      },
+      {
+        "title": "Kuro Gal ni Natta kara Shinyuu to shitemita.",
+        "alternativeTitle": "Kuro Gal ni Natta kara Shinyuu to shitemita.",
+        "id": "kuro-gal-ni-natta-kara-shinyuu-to-shitemita-17489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b215ba04a00fcc21eb5666db64a97510.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "AICis the Supernatural",
+        "alternativeTitle": "Inou no AICis: ESP & High School Detective",
+        "id": "aicis-the-supernatural-17490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90d38366db7b2fc783eaa21bfd2ab891.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "0m"
+      },
+      {
+        "title": "Liu Xing Huan Jian",
+        "alternativeTitle": "Liu Xing Huan Jian",
+        "id": "liu-xing-huan-jian-17516",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92cc9f715a0ab3c1bc0965b44d25356d.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Jueding",
+        "alternativeTitle": "Jue Ding",
+        "id": "jueding-17517",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6397d540a0069e84e9a2d094db23bd69.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Zoids Wild Senki",
+        "alternativeTitle": "Zoids Wild Senki",
+        "id": "zoids-wild-senki-17582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a3d4dde87e6fc80ef66addaf849567a.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Sunoko-tan. Promotion anime",
+        "alternativeTitle": "Sunoko-tan. Promotion anime",
+        "id": "sunoko-tan-promotion-anime-17597",
+        "poster": "/images/no-thumb.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Special",
+        "duration": "1m"
+      },
+      {
+        "title": "Xiong Chumo·Kuang Ye Dalu",
+        "alternativeTitle": "Xiong Chumo·Kuang Ye Dalu",
+        "id": "xiong-chumokuang-ye-dalu-17610",
+        "poster": "/images/no-thumb.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Zhu Zhu Xia Zhi Shenhai Xiao Yingxiong",
+        "alternativeTitle": "Zhu Zhu Xia Zhi Shenhai Xiao Yingxiong",
+        "id": "zhu-zhu-xia-zhi-shenhai-xiao-yingxiong-17617",
+        "poster": "/images/no-thumb.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 104
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "Live Animation Heart × Algorhythm 3rd Season",
+        "alternativeTitle": "Chokkan × Algorhythm♪ 3rd Season",
+        "id": "live-animation-heart-algorhythm-3rd-season-17622",
+        "poster": "/images/no-thumb.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "0m"
+      },
+      {
+        "title": "Atsumare! Minna no Kontematsu-san!",
+        "alternativeTitle": "Atsumare! Minna no Kontematsu-san!",
+        "id": "atsumare-minna-no-kontematsu-san-17645",
+        "poster": "/images/no-thumb.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Special",
+        "duration": "20m"
+      },
+      {
+        "title": "Youkai Watch ♪",
+        "alternativeTitle": "Youkai Watch ♪",
+        "id": "youkai-watch-17646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f57dfe53924764d88bde9d778184406.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV",
+        "duration": "0m"
+      },
+      {
+        "title": "Dou Luo Dalu Zhi Hanhai Qiankun Pian",
+        "alternativeTitle": "Dou Luo Dalu Zhi Hanhai Qiankun Pian",
+        "id": "dou-luo-dalu-zhi-hanhai-qiankun-pian-17664",
+        "poster": "/images/no-thumb.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Oshiri Tantei 5th Season",
+        "alternativeTitle": "Oshiri Tantei 5th Season",
+        "id": "oshiri-tantei-5th-season-17707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/307efaea10e454294d582f6248bf53c2.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "19m"
+      },
+      {
+        "title": "S-ke ni Totsuida M-jou no Nichijou",
+        "alternativeTitle": "S-ke ni Totsuida M-jou no Nichijou",
+        "id": "s-ke-ni-totsuida-m-jou-no-nichijou-17717",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5426cde89fceab57ea8e9cea40aa2c03.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Toilet no Hanako-san vs Kukkyou Taimashi",
+        "alternativeTitle": "Toilet no Hanako-san vs Kukkyou Taimashi",
+        "id": "toilet-no-hanako-san-vs-kukkyou-taimashi-17720",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5f897a72e020c8844f8c91e75045d7bc.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA",
+        "duration": "16m"
+      },
+      {
+        "title": "Real Eroge Situation! 2 The Animation",
+        "alternativeTitle": "Real Eroge Situation! 2 The Animation",
+        "id": "real-eroge-situation-2-the-animation-17721",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d97889201aa0e95d19a51a89a45e9fc.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Meijyou",
+        "alternativeTitle": "Meijyou",
+        "id": "meijyou-17722",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8dba06df199a9a35743f1c3743ecc029.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Shouxi Yu Ling Shi 2",
+        "alternativeTitle": "Shouxi Yu Ling Shi 2",
+        "id": "shouxi-yu-ling-shi-2-17727",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46e6cc83431fd2f06119de584b7dcef2.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Dosukoi Sushi Zumou",
+        "alternativeTitle": "Dosukoi Sushi Zumou",
+        "id": "dosukoi-sushi-zumou-17731",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8e073ea50ea35c49c155237eeea35c1.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Yichan Xiao Heshang",
+        "alternativeTitle": "Yichan Xiao Heshang",
+        "id": "yichan-xiao-heshang-17736",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a2331993839545d0aa92d0ef1dc9c6b.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA",
+        "duration": "2m"
+      }
+    ]
+  }
+}

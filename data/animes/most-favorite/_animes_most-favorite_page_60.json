@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 60,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "JoJo's Bizarre Adventure",
+        "alternativeTitle": "JoJo no Kimyou na Bouken: Adventure",
+        "id": "jojos-bizarre-adventure-2885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a74a6ec03d674502dd4442806fbb3d06.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Dragon Ball Z: Dead Zone",
+        "alternativeTitle": "Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!",
+        "id": "dragon-ball-z-dead-zone-4739",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c8e99d3890528e9c7e81589db71fa8cd.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "41m"
+      },
+      {
+        "title": "the Garden of sinners Chapter 3: Remaining Sense of Pain",
+        "alternativeTitle": "Kara no Kyoukai 3: Tsuukaku Zanryuu",
+        "id": "the-garden-of-sinners-chapter-3-remaining-sense-of-pain-422",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7be668ed257e57554ef3a51159f70bb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "alternativeTitle": "One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura",
+        "id": "one-piece-movie-9-episode-of-chopper-plus-fuyu-ni-saku-kiseki-no-sakura-1481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/65f80950ef7dd9fe39ee705123d90265.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "113m"
+      },
+      {
+        "title": "Valkyrie Drive: Mermaid Specials",
+        "alternativeTitle": "Valkyrie Drive: Mermaid Specials",
+        "id": "valkyrie-drive-mermaid-specials-7387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/660a857d7de453e80e1fbbebb2cff1db.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season",
+        "alternativeTitle": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season",
+        "id": "a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized-2nd-season-19367",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f5abb230576afc9894520bd66de30b5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "The Promised Neverland Season 2 Episode 5.5",
+        "alternativeTitle": "Yakusoku no Neverland 2nd Season: Michishirube",
+        "id": "the-promised-neverland-season-2-episode-55-17487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/261f9e28069e8c80b7ac01e2bfc5479b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "the Garden of sinners Chapter 4: The Hollow Shrine",
+        "alternativeTitle": "Kara no Kyoukai 4: Garan no Dou",
+        "id": "the-garden-of-sinners-chapter-4-the-hollow-shrine-650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/56bd5d7186cfa90e1b4cedd1a33ad62f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "46m"
+      },
+      {
+        "title": "Mushishi: The Next Chapter",
+        "alternativeTitle": "Mushishi Zoku Shou",
+        "id": "mushishi-the-next-chapter-38",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37a39e7eef7ce37b926ff6c6ccf9d3c4.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 9,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blue Reflection",
+        "alternativeTitle": "Blue Reflection Ray",
+        "id": "blue-reflection-17485",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89154dba38b3044a14a44f88338056be.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maria†Holic",
+        "alternativeTitle": "Maria†Holic",
+        "id": "mariaholic-3387",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb29e95f6d90c7c6861a5f44344c23ba.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Live! Superstar!!",
+        "alternativeTitle": "Love Live! Superstar!!",
+        "id": "love-live-superstar-15780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dac058a7120331dfb0cfd03da2657961.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ninja Scroll: The Series",
+        "alternativeTitle": "Juubee Ninpuuchou: Ryuuhougyoku-hen",
+        "id": "ninja-scroll-the-series-4830",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86c8b494b1e90898fa300fcc2c7cbec1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Myriad Colors Phantom World: The Polka Dot Miracle (OVA)",
+        "alternativeTitle": "Musaigen no Phantom World: Mizutama no Kiseki",
+        "id": "myriad-colors-phantom-world-the-polka-dot-miracle-ova-4407",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6498167d274f4d78512d5ca197fd7f3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Xyrin Empire",
+        "alternativeTitle": "Xiling Jiyuan",
+        "id": "xyrin-empire-18383",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82cae0c68edb30c1edddf30a7911769c.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "18m"
+      },
+      {
+        "title": "A Day Before Us 2",
+        "alternativeTitle": "Yeon-ae Halujeon 2",
+        "id": "a-day-before-us-2-3554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3436e8463771c39dc9e710d01412f55b.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Big Windup!",
+        "alternativeTitle": "Ookiku Furikabutte",
+        "id": "big-windup-580",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23aba27696d496a8f35fb32c4de9179d.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Phantom of the Idol",
+        "alternativeTitle": "Kami Kuzu☆Idol",
+        "id": "phantom-of-the-idol-18096",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abf860f85d90bd4f798f3370f398d970.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "KanColle: Kantai Collection",
+        "alternativeTitle": "Kantai Collection: KanColle",
+        "id": "kancolle-kantai-collection-3968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96e33265c9e7d7eaced8dcb9f77e57a3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Daemon",
+        "alternativeTitle": "Boku no Daemon",
+        "id": "my-daemon-18931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26af91e178b9556af2cd7c5a7595d2b6.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Vision of Escaflowne",
+        "alternativeTitle": "Tenkuu no Escaflowne",
+        "id": "the-vision-of-escaflowne-1038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3d99d15c59a5fc1ac5b33ada1d2af18.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Towanoquon: Eternal Quon",
+        "alternativeTitle": "Towa no Quon 6: Towa no Quon",
+        "id": "towanoquon-eternal-quon-1144",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e532389c2f0ede612954f05cf9a2296.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "48m"
+      },
+      {
+        "title": "Air",
+        "alternativeTitle": "Air",
+        "id": "air-2206",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a875c32f0817ed90ca672d59d477f9ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kuroko no Basket: Saikou no Present Desu",
+        "alternativeTitle": "Kuroko no Basket: Saikou no Present Desu",
+        "id": "kuroko-no-basket-saikou-no-present-desu-378",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5794415b91f0421ff726c3113da1829.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Asteroid in Love",
+        "alternativeTitle": "Koisuru Asteroid",
+        "id": "asteroid-in-love-3996",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c899082514f4f6a369def4fdb3e85c92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Housing Complex C",
+        "alternativeTitle": "C Danchi",
+        "id": "housing-complex-c-18179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38156841df926aff6db8db363b6fa67f.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Love Live! School Idol Project: Sunshine!!",
+        "alternativeTitle": "Love Live! Sunshine!!",
+        "id": "love-live-school-idol-project-sunshine-1837",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2b16197aaca7c3b973cf632c4096780.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dies Irae: To the Ring Reincarnation",
+        "alternativeTitle": "Dies Irae: To the Ring Reincarnation",
+        "id": "dies-irae-to-the-ring-reincarnation-7878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/324b641937b477853fe0c0db7a4b92e6.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "28m"
+      },
+      {
+        "title": "The Severing Crime Edge",
+        "alternativeTitle": "Dansai Bunri no Crime Edge",
+        "id": "the-severing-crime-edge-4629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57e239d353f263628c08d1eb22df957d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sekai Ichi Hatsukoi - World's Greatest First Love 2",
+        "alternativeTitle": "Sekaiichi Hatsukoi 2",
+        "id": "sekai-ichi-hatsukoi-worlds-greatest-first-love-2-502",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f3c21d189e4018df10fef82fe4dc413.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Murai in Love",
+        "alternativeTitle": "Murai no Koi",
+        "id": "murai-in-love-19314",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8fb9359fcc5247ad916f47c6762ff187.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hunter x Hunter: Greed Island",
+        "alternativeTitle": "Hunter x Hunter: Greed Island",
+        "id": "hunter-x-hunter-greed-island-276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48fcdaf3ba5ddcbcda344a682841b234.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+        "alternativeTitle": "Boku no Hero Academia: Sukue! Kyuujo Kunren!",
+        "id": "boku-no-hero-academia-sukue-kyuujo-kunren-2050",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9484b591fed3f87708b504ad369a6579.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Pokemon The Movie 02: The Movie 2000 - The Power of One",
+        "alternativeTitle": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
+        "id": "pokemon-the-movie-02-the-movie-2000-the-power-of-one-1994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d04dc09e43aee4a5c0567b8f718b767.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Please tell me! Galko-chan",
+        "alternativeTitle": "Oshiete! Galko-chan",
+        "id": "please-tell-me-galko-chan-3028",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0556c7f12893fb6c11403b42f6f8462.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "the Garden of sinners Chapter 7: Murder Speculation Part B",
+        "alternativeTitle": "Kara no Kyoukai 7: Satsujin Kousatsu (Go)",
+        "id": "the-garden-of-sinners-chapter-7-murder-speculation-part-b-124",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bfa26a58f5cd0663be5309f4be07d44e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "121m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Grudge of Edinburgh Part 2",
+        "alternativeTitle": "Nanatsu no Taizai: Ensa no Edinburgh Part 2",
+        "id": "the-seven-deadly-sins-grudge-of-edinburgh-part-2-18452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dbe662914562fefe66e4db4ec7e69879.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "54m"
+      },
+      {
+        "title": "Dragon Ball Z: The Tree of Might",
+        "alternativeTitle": "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen",
+        "id": "dragon-ball-z-the-tree-of-might-4554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc7213a72e81793dd573e7086fed3d17.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "61m"
+      },
+      {
+        "title": "Arata: The Legend",
+        "alternativeTitle": "Arata Kangatari",
+        "id": "arata-the-legend-5676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e86e26320673bcdbdbfa59ddf7e24ba3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wo de Ni Tian Shen Qi",
+        "alternativeTitle": "Wo de Ni Tian Shen Qi",
+        "id": "wo-de-ni-tian-shen-qi-5548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e9fc34a31a6ddf29e21b25a71963733.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "17m"
+      }
+    ]
+  }
+}

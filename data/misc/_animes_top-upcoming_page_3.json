@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 6,
+      "currentPage": 3,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Green and Blue",
+        "alternativeTitle": "Xiao Lu He Xiao Lan 2nd Season",
+        "id": "green-and-blue-18449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f91ede22b7889dc5ec0a865334453dd1.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "Jul 12, 2023"
+      },
+      {
+        "title": "Monster Diner",
+        "alternativeTitle": "Guaishou Xiao Guan",
+        "id": "monster-diner-18437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a4ec5a6440bc055b03baf6f4cd3b651.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "Jul 13, 2023"
+      },
+      {
+        "title": "Azur Lane: Queen's Orders",
+        "alternativeTitle": "Azur Lane: Queen's Orders",
+        "id": "azur-lane-queens-orders-18390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a345d71c1b387ffab503b09795956e7.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA (2 eps)",
+        "duration": "Jul 27, 2023"
+      },
+      {
+        "title": "City Hunter The Movie: Angel Dust",
+        "alternativeTitle": "City Hunter Movie: Tenshi no Namida",
+        "id": "city-hunter-the-movie-angel-dust-18431",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20f0eaf51482bbb987374a21174d2b7c.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (1 eps)",
+        "duration": "Sep 8, 2023"
+      },
+      {
+        "title": "Mr. Osomatsu",
+        "alternativeTitle": "Osomatsu-san: Tamashii no Takoyaki Party to Densetsu no Otomarikai",
+        "id": "mr-osomatsu-18428",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/584556a367b3a328cf0ce68acd0617a7.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (? eps)",
+        "duration": "Jul 21, 2023"
+      },
+      {
+        "title": "Volicia of Pluto: Vapor Trail Another Age 2006",
+        "alternativeTitle": "Wasure Hoshi no Volicia",
+        "id": "volicia-of-pluto-vapor-trail-another-age-2006-18426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20a12e07330941414e7995aa1433484f.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (1 eps)",
+        "duration": "Jul 3, 2023"
+      },
+      {
+        "title": "Oh! My goddess!",
+        "alternativeTitle": "Nushen You Dian Ling",
+        "id": "oh-my-goddess-18388",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc84f68f22a3fb62fce90ef85238b4b7.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "Apr 24, 2023"
+      },
+      {
+        "title": "Wulin Buer Zhoukan",
+        "alternativeTitle": "Wulin Buer Zhoukan",
+        "id": "wulin-buer-zhoukan-18386",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3196f91cec5369cc8251a49ccdbd5015.png",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "Apr 10, 2023"
+      },
+      {
+        "title": "Ensemble Stars!! Tsuioku Selection Element",
+        "alternativeTitle": "Ensemble Stars!! Tsuioku Selection Element",
+        "id": "ensemble-stars-tsuioku-selection-element-18382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb91c8876633b6460acc260666a44fa1.png",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "Apr 6, 2023"
+      },
+      {
+        "title": "Eternal Boys Next Stage",
+        "alternativeTitle": "Eternal Boys Next Stage",
+        "id": "eternal-boys-next-stage-17519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f34573b68fff78a2ace7b2d73fe0476.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (? eps)",
+        "duration": "Jun 9, 2023"
+      },
+      {
+        "title": "Flaglia: Natsuyasumi no Monogatari",
+        "alternativeTitle": "Flaglia: Natsuyasumi no Monogatari",
+        "id": "flaglia-natsuyasumi-no-monogatari-18309",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62b4f92f91a59301a382e344f38348e0.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (6 eps)",
+        "duration": "Jan 17, 2023"
+      },
+      {
+        "title": "Hirano to Kagiura",
+        "alternativeTitle": "Hirano to Kagiura",
+        "id": "hirano-to-kagiura-18262",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3842e125de076855c6ff1d6bcbd71dcf.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (1 eps)",
+        "duration": "Feb 17, 2023"
+      },
+      {
+        "title": "Argonavis Movie: Axia",
+        "alternativeTitle": "Gekijouban Argonavis: Axia",
+        "id": "argonavis-movie-axia-17441",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f93844b4c74c38f3a482065a138e792d.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (1 eps)",
+        "duration": "Mar 24, 2023"
+      },
+      {
+        "title": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+        "alternativeTitle": "Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train",
+        "id": "detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train-18257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9494cde5400585c288ddb876fe2aa35.png",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (1 eps)",
+        "duration": "Jan 6, 2023"
+      },
+      {
+        "title": "Aikatsu! 10th Story: Mirai e no Starway (2023)",
+        "alternativeTitle": "Aikatsu! 10th Story: Mirai e no Starway (2023)",
+        "id": "aikatsu-10th-story-mirai-e-no-starway-2023-18251",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6a62d9bfd3dafb27d198485be8cf3fd.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (? eps)",
+        "duration": "Jan 20, 2023"
+      },
+      {
+        "title": "KJ File",
+        "alternativeTitle": "KJ File",
+        "id": "kj-file-18100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41d320d926b98fd1634f23b29ecac829.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "Jan 8, 2023"
+      },
+      {
+        "title": "Mamekichi Mameko NEET no Nichijou",
+        "alternativeTitle": "Mamekichi Mameko NEET no Nichijou",
+        "id": "mamekichi-mameko-neet-no-nichijou-18200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2ba68a4dd3d1b574fe647aabc816588.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "Oct 3, 2022"
+      },
+      {
+        "title": "Hoshi of Girls' Garden",
+        "alternativeTitle": "Onna no Sono no Hoshi",
+        "id": "hoshi-of-girls-garden-18192",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0f1942660ef1f76b41bb7df66133c2c.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA (? eps)",
+        "duration": "Dec 8, 2022"
+      },
+      {
+        "title": "A Turtle's Shell Is a Human's Ribs",
+        "alternativeTitle": "Kame no Koura wa Abarabone",
+        "id": "a-turtles-shell-is-a-humans-ribs-18184",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3231e5d2ee81be2f5ba3581b7280680.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (? eps)",
+        "duration": "Oct 28, 2022"
+      },
+      {
+        "title": "Shanghai Melody",
+        "alternativeTitle": "Shanghai Gushi",
+        "id": "shanghai-melody-18123",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f39f33f4fffb695a593d943a58958603.png",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (8 eps)",
+        "duration": "Jul 10, 2022"
+      },
+      {
+        "title": "Huanmeng Shan Hai Yao",
+        "alternativeTitle": "Huanmeng Shan Hai Yao",
+        "id": "huanmeng-shan-hai-yao-18111",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2669638e494d709aba537cae17a8bc6.png",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "Jul 4, 2022"
+      },
+      {
+        "title": "Kaiju Yi Zuo Shan",
+        "alternativeTitle": "Kaiju Yi Zuo Shan",
+        "id": "kaiju-yi-zuo-shan-18049",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/065d4005be8312e9cbecc48be37c645f.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "Apr 15, 2022"
+      },
+      {
+        "title": "Scumbag System",
+        "alternativeTitle": "Chuan Shu Zijiu Zhinan 2nd Season",
+        "id": "scumbag-system-17227",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9049deb0e6d288c8bab4c82228bf5a36.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "Jan 1, 2021"
+      },
+      {
+        "title": "Otome wa Boku ni Koishiteru: Trinkle Stars The Animation",
+        "alternativeTitle": "Otome wa Boku ni Koishiteru: Trinkle Stars The Animation",
+        "id": "otome-wa-boku-ni-koishiteru-trinkle-stars-the-animation-17952",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48c9db8afc7822c4deb1bda7dbe47f24.png",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "OVA (? eps)",
+        "duration": "Jan 28, 2022"
+      },
+      {
+        "title": "Garugaku. II: Lucky Stars",
+        "alternativeTitle": "Garugaku. II: Lucky Stars",
+        "id": "garugaku-ii-lucky-stars-17944",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ac275f279269a3d541775890bfc6539.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "Jan 10, 2022"
+      },
+      {
+        "title": "On Air Dekinai!",
+        "alternativeTitle": "On Air Dekinai!",
+        "id": "on-air-dekinai-17941",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a612ad6ca76535926e6dbaea6189847.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "Jan 9, 2022"
+      },
+      {
+        "title": "Gundam Breaker: Battlogue",
+        "alternativeTitle": "Gundam Breaker: Battlogue",
+        "id": "gundam-breaker-battlogue-17916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aaa911e70a2bfdb5ed6f4ef277cfd0cc.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "BanG Dream! Garupa Pico Fever!",
+        "alternativeTitle": "BanG Dream! Garupa☆Pico Fever!",
+        "id": "bang-dream-garupapico-fever-17909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24a8a93920b370e60d4f5311f48d34c6.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Chickip Dancers",
+        "alternativeTitle": "Chickip Dancers",
+        "id": "chickip-dancers-17694",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7e9b89d2efac2e17d9b671f53a843a9.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "Oct 1, 2021"
+      },
+      {
+        "title": "Kimi to Fit Boxing",
+        "alternativeTitle": "Kimi to Fit Boxing",
+        "id": "kimi-to-fit-boxing-17904",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10630cb39bd2ae41285a79b92184851b.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Blue Reflection Ray!",
+        "alternativeTitle": "Blue Reflection Ray!",
+        "id": "blue-reflection-ray-17744",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4bcda03983d4abc8174744425b575ff.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "Apr 1, 2021"
+      },
+      {
+        "title": "Nijuuseiki Denki Mokuroku",
+        "alternativeTitle": "Nijuuseiki Denki Mokuroku",
+        "id": "nijuuseiki-denki-mokuroku-15496",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63b247e583948e5fe43a9d3f160faf1a.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "N/A (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Ninja Bear the Animation★",
+        "alternativeTitle": "Ninja Bear the Animation★",
+        "id": "ninja-bear-the-animation-15497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da5ada272793c83952c17ad74b107204.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Nora to Oujo to Noraneko Heart (Shin Anime)",
+        "alternativeTitle": "Nora to Oujo to Noraneko Heart (Shin Anime)",
+        "id": "nora-to-oujo-to-noraneko-heart-shin-anime-15499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a27eb35e3d347833ae434eda2e7d58fb.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "N/A (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Oni (TV)",
+        "alternativeTitle": "Oni (TV)",
+        "id": "oni-tv-15503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/38e2e0eba97a8df4ae7c1569969fd857.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Onmyou Hyakki Monogatari",
+        "alternativeTitle": "Onmyou Hyakki Monogatari",
+        "id": "onmyou-hyakki-monogatari-15504",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a77cb38a0d3846571a3cd99f98dba434.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Orbital Era",
+        "alternativeTitle": "Orbital Era",
+        "id": "orbital-era-15506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b32a40719e49fcafb73682e3694b1c4.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "Movie (1 eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Peng Ran Xindong",
+        "alternativeTitle": "Peng Ran Xindong",
+        "id": "peng-ran-xindong-15514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e51bfe379885d4d3da67daf9114bb0a0.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "ONA (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Pretty All Friends",
+        "alternativeTitle": "Pretty All Friends",
+        "id": "pretty-all-friends-15519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d89c67b2553f941746571494eb8eecb.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "TV (? eps)",
+        "duration": "?"
+      },
+      {
+        "title": "Project758",
+        "alternativeTitle": "Project758",
+        "id": "project758-15523",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0bc99c0062d10033e6533bef02681390.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 0,
+          "eps": 0
+        },
+        "type": "N/A (? eps)",
+        "duration": "?"
+      }
+    ]
+  }
+}

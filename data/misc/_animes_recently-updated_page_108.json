@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 108,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA",
+        "alternativeTitle": "Kaitou Tenshi Twin Angel: Kyun Kyun Tokimeki Paradise!! OVA",
+        "id": "kaitou-tenshi-twin-angel-kyun-kyuntokimeki-paradise-ova-8300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63f25472c061e538d4be34ed8e1085de.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "TAMAYOMI: The Baseball Girls",
+        "alternativeTitle": "Tamayomi",
+        "id": "tamayomi-the-baseball-girls-8812",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84d00d7632dc2c3254b00bee2da97cfd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pikaia!!",
+        "alternativeTitle": "Pikaia!!",
+        "id": "pikaia-11116",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ca46ed113f212dbe19998f9a261b9da9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "The Westward: The Fantasy Cave",
+        "alternativeTitle": "Xi Xing Ji: Qiong Qi Didong",
+        "id": "the-westward-the-fantasy-cave-18540",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5106986266eed91ea17063f090acb6db.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "77m"
+      },
+      {
+        "title": "Time Prisoner 2",
+        "alternativeTitle": "Shijian Qiutu Zhi Miwu",
+        "id": "time-prisoner-2-18796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41befcf67957ce0c2581b6fa2e14d2ce.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Owarimonogatari",
+        "alternativeTitle": "Owarimonogatari",
+        "id": "owarimonogatari-109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f25630911145108fd5c2bff98cd737de.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "My Hero Academia 4",
+        "alternativeTitle": "Boku no Hero Academia 4th Season",
+        "id": "my-hero-academia-4-365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a727d8e34cba9a4bb8f151397533e662.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Haikyuu!! Movie 2: Shousha to Haisha",
+        "alternativeTitle": "Haikyuu!! Movie 2: Shousha to Haisha",
+        "id": "haikyuu-movie-2-shousha-to-haisha-621",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24931525035956a5a82d12653923e15d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "Hell Girl: Three Vessels",
+        "alternativeTitle": "Jigoku Shoujo Mitsuganae",
+        "id": "hell-girl-three-vessels-1133",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd05be7b27f5f97ea06407e2b0c0ed44.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mobile Suit Gundam Unicorn RE:0096",
+        "alternativeTitle": "Mobile Suit Gundam Unicorn RE:0096",
+        "id": "mobile-suit-gundam-unicorn-re0096-1389",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f3e2ff04b03e8f27f4155a8959502cc.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rage of Bahamut: Virgin Soul",
+        "alternativeTitle": "Shingeki no Bahamut: Virgin Soul",
+        "id": "rage-of-bahamut-virgin-soul-1645",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1dc8d9350f80e28fe21117ede19d6b6c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Space Pirate Captain Harlock",
+        "alternativeTitle": "Captain Herlock",
+        "id": "space-pirate-captain-harlock-1901",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6353d9f3c1a9802c75d9b9295f0b3aec.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Hetalia: The World Twinkle",
+        "alternativeTitle": "Hetalia: The World Twinkle",
+        "id": "hetalia-the-world-twinkle-2157",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a92ef34260d81d71ce1b62632cc3713f.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Gakuen Utopia Manabi Straight!",
+        "alternativeTitle": "Gakuen Utopia Manabi Straight!",
+        "id": "gakuen-utopia-manabi-straight-2413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9e03da2bee9e8cb2ec0202e8f8fedba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Moyashimon Returns",
+        "alternativeTitle": "Moyashimon Returns",
+        "id": "moyashimon-returns-2669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4d5ae9fbc70815bab5a45f6c623ae41.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Live! School Idol Festival All Stars",
+        "alternativeTitle": "Love Live! School Idol Festival All Stars",
+        "id": "love-live-school-idol-festival-all-stars-2925",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c084ac0d67b30c4b7d75dc1ec419d360.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "4m"
+      },
+      {
+        "title": "Our Last Crusade or the Rise of a New World",
+        "alternativeTitle": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+        "id": "our-last-crusade-or-the-rise-of-a-new-world-3181",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b402178880fda0efc08c65175cf56ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Crayon Kingdom of Dreams",
+        "alternativeTitle": "Yume no Crayon Oukoku",
+        "id": "crayon-kingdom-of-dreams-3949",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/33512cc6d1301d6292af7669874433c2.jpg",
+        "episodes": {
+          "sub": 70,
+          "dub": 67,
+          "eps": 70
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kodomo no Jikan (TV)",
+        "alternativeTitle": "Kodomo no Jikan (TV)",
+        "id": "kodomo-no-jikan-tv-4205",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/092cf71e3aac6e321e637164f42b2128.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maruruk's Everday",
+        "alternativeTitle": "Marulk-chan no Nichijou",
+        "id": "maruruks-everday-4717",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67a7209461193f841e75fcf3a84e2dce.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Movie",
+        "duration": "3m"
+      },
+      {
+        "title": "Cagaster of an Insect Cage",
+        "alternativeTitle": "Mushikago no Cagaster",
+        "id": "cagaster-of-an-insect-cage-5229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce3783fbc0521bb3c77d35ce8890fe1a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "28m"
+      },
+      {
+        "title": "801 T.T.S. Airbats",
+        "alternativeTitle": "Aozora Shoujo-tai",
+        "id": "801-tts-airbats-5741",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d49c6c742274109729f2945215b13bfe.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 7,
+          "eps": 7
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Hitorigurashi no Shougakusei",
+        "alternativeTitle": "Hitorigurashi no Shougakusei",
+        "id": "hitorigurashi-no-shougakusei-5997",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebc29cab3c49077f836794a0c2328b9e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Lupin III: Pilot Film",
+        "alternativeTitle": "Lupin III: Pilot Film",
+        "id": "lupin-iii-pilot-film-6253",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8053f82a7cd8d19f9dc1fe14015d9564.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "12m"
+      },
+      {
+        "title": "Dino Girl Gauko Season 2",
+        "alternativeTitle": "Kyouryuu Shoujo Gauko 2nd Season",
+        "id": "dino-girl-gauko-season-2-7021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7fb2b254795c682bbf2e5b1fa2a8ce0.jpg",
+        "episodes": {
+          "sub": 19,
+          "dub": 0,
+          "eps": 19
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Kujibiki Unbalance (OVA)",
+        "alternativeTitle": "Kujibiki Unbalance",
+        "id": "kujibiki-unbalance-7533",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e03327ac05f651c78a7f6a47310fe66e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Kakyusei 2",
+        "alternativeTitle": "Kakyuusei 2: Hitomi no Naka no Shoujo-tachi",
+        "id": "kakyusei-2-8301",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae72e69e609042fcbf8159fcf92c5b66.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Oedo wa Nemurenai!",
+        "alternativeTitle": "Oedo wa Nemurenai!",
+        "id": "oedo-wa-nemurenai-9069",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d743a2a3bb78ebee388b4128648efed0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ryukyu Timeline: The Girl from Future and the Ancient King",
+        "alternativeTitle": "Ryuukyuu Timeline: Mirai Shoujo to Inishie no Ou",
+        "id": "ryukyu-timeline-the-girl-from-future-and-the-ancient-king-18541",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a94e000195a856295997dc2e43efed7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Soul Land Movie - Sword Dao Chen Xin",
+        "alternativeTitle": "Douluo Dalu: Jiandao Chen Xin",
+        "id": "soul-land-movie-sword-dao-chen-xin-19821",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ed1a32a25dfe8f6378b2d4c28c128a8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "92m"
+      },
+      {
+        "title": "Maquia: When the Promised Flower Blooms",
+        "alternativeTitle": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "id": "maquia-when-the-promised-flower-blooms-110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9b19137629f50c8bf9cb40353ecd52b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "Ginga Eiyuu Densetsu Gaiden",
+        "alternativeTitle": "Ginga Eiyuu Densetsu Gaiden",
+        "id": "ginga-eiyuu-densetsu-gaiden-366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d7a257f2f7f1b66293de03317ec3987.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Hidamari Sketch x Honeycomb",
+        "alternativeTitle": "Hidamari Sketch x Honeycomb",
+        "id": "hidamari-sketch-x-honeycomb-622",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b14c84248b4dce077e1a42f5fb126284.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saint Seiya: The Hades Chapter - Inferno",
+        "alternativeTitle": "Saint Seiya: Meiou Hades Meikai-hen",
+        "id": "saint-seiya-the-hades-chapter-inferno-878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c8bb5f54a0e7adf5b1f84624be29573.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "O Maidens in Your Savage Season",
+        "alternativeTitle": "Araburu Kisetsu no Otome-domo yo.",
+        "id": "o-maidens-in-your-savage-season-1390",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef1171b31165b085629ba10d811e493e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Squid Girl",
+        "alternativeTitle": "Shinryaku! Ika Musume",
+        "id": "the-squid-girl-1646",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b1172ad215994d0a4b2d06c46ee04b50.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "High School DxD BorN Specials",
+        "alternativeTitle": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video",
+        "id": "high-school-dxd-born-specials-2158",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7c9ecbed19e480f0fb69f8c347d5c17.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+        "alternativeTitle": "Mobile Suit Gundam SEED C.E.73: Stargazer",
+        "id": "mobile-suit-gundam-seed-ce73-stargazer-2926",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc7e76c670b938c442b648cffa774571.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "TSUKIUTA. The Animation",
+        "alternativeTitle": "Tsukiuta. The Animation",
+        "id": "tsukiuta-the-animation-3694",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b3863f71fa2cc1e07ddfa43ec5f7b15.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ze Tian Ji 3rd Season",
+        "alternativeTitle": "Ze Tian Ji 3rd Season",
+        "id": "ze-tian-ji-3rd-season-3950",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a591c840cf706cf933c00f0ab33b63a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      }
+    ]
+  }
+}

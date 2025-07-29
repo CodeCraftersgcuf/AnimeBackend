@@ -1,0 +1,480 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 14,
+      "currentPage": 13,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Attack on Titan: Chronicle",
+        "alternativeTitle": "Shingeki no Kyojin: Chronicle",
+        "id": "attack-on-titan-chronicle-2600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3713cf887e4098f283fef5b0336e6083.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "121m"
+      },
+      {
+        "title": "Attack on Titan: Final Season, Part 1",
+        "alternativeTitle": "Shingeki no Kyojin: Final Season, Part 1",
+        "id": "attack-on-titan-final-season-part-1-15548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83da53919d7a20332be01686141f18f6.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 16,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Attack on Titan: No Regrets",
+        "alternativeTitle": "Shingeki no Kyojin: Kuinaki Sentaku",
+        "id": "attack-on-titan-no-regrets-168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b1d36294038c6094016be2c5176dd79.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Attack on Titan: Lost Girls",
+        "alternativeTitle": "Shingeki no Kyojin: Lost Girls",
+        "id": "attack-on-titan-lost-girls-947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae9effd6c9aba5c4ba6b68f2901c20c9.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Attack on Titan: The Final Season Part 3",
+        "alternativeTitle": "Shingeki no Kyojin: The Final Season - Kanketsu-hen",
+        "id": "attack-on-titan-the-final-season-part-3-18329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54d3f59bcc7caf1539c701eb0a064ec9.png",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "TV",
+        "duration": "61m"
+      },
+      {
+        "title": "Attack on Titan: Final Season, Part 2",
+        "alternativeTitle": "Shingeki no Kyojin: The Final Season Part 2",
+        "id": "attack-on-titan-final-season-part-2-17753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/160831b6a0c1303e1439925d8f8c7395.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Attack on Titan: Junior High",
+        "alternativeTitle": "Shingeki! Kyojin Chuugakkou",
+        "id": "attack-on-titan-junior-high-3609",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f3f8b29c4c90a31b150ba24f13c98fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "17m"
+      },
+      {
+        "title": "Argevollen",
+        "alternativeTitle": "Shirogane no Ishi: Argevollen",
+        "id": "argevollen-5724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a112098ccdc43c15520f5e5e0ca9983.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aquatope of White Sand",
+        "alternativeTitle": "Shiroi Suna no Aquatope",
+        "id": "aquatope-of-white-sand-17432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a0147b5a16598c715624135e0cdc409.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Altair: A Record of Battles",
+        "alternativeTitle": "Shoukoku no Altair",
+        "id": "altair-a-record-of-battles-1475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16baa2046f9c67bd694919ade7a2e50d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "A Little Princess Sara",
+        "alternativeTitle": "Shoukoujo Sara",
+        "id": "a-little-princess-sara-1049",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a56159dea49c6ac8ea32948f74d1061b.jpg",
+        "episodes": {
+          "sub": 46,
+          "dub": 0,
+          "eps": 46
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "AFTERLOST",
+        "alternativeTitle": "Shoumetsu Toshi",
+        "id": "afterlost-9475",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e5003c2eec1c169b361238570b8039c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "At The Mercy of The Sky",
+        "alternativeTitle": "Sora no Manimani",
+        "id": "at-the-mercy-of-the-sky-3196",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e944a76870f57a1ca36f48eded5d1ddd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "At The Mercy of The Sky Specials",
+        "alternativeTitle": "Sora no Manimani Specials",
+        "id": "at-the-mercy-of-the-sky-specials-5427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd20746020f0f1e3868a3ec3eda9b13e.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "A Place Further Than The Universe",
+        "alternativeTitle": "Sora yori mo Tooi Basho",
+        "id": "a-place-further-than-the-universe-73",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e63e96b0a804ae9663a002662414e383.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "And Yet The Town Moves",
+        "alternativeTitle": "Soredemo Machi wa Mawatteiru",
+        "id": "and-yet-the-town-moves-1731",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2acf8ef2bfbb76314781fa5c5a05ea8d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Armored Trooper Votoms",
+        "alternativeTitle": "Soukou Kihei Votoms",
+        "id": "armored-trooper-votoms-948",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7db5afa494f5ad04b77d2ddc858f3da.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Phantom Arc",
+        "alternativeTitle": "Soukou Kihei Votoms: Genei-hen",
+        "id": "armored-trooper-votoms-phantom-arc-4581",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7964fcabc0fce4be072cac9abb93485e.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Shining Heresy",
+        "alternativeTitle": "Soukou Kihei Votoms: Kakuyaku taru Itan",
+        "id": "armored-trooper-votoms-shining-heresy-3757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c4867f20c20d330516ab555247a67a9d.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Alone Again",
+        "alternativeTitle": "Soukou Kihei Votoms: Koei Futatabi",
+        "id": "armored-trooper-votoms-alone-again-3926",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baa7866a4d0fccaae022530b1287f2c4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "49m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Pailsen Files",
+        "alternativeTitle": "Soukou Kihei Votoms: Pailsen Files",
+        "id": "armored-trooper-votoms-pailsen-files-2439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2370c6181f52b14042f4df4b86df04dd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Pailsen Files The Movie",
+        "alternativeTitle": "Soukou Kihei Votoms: Pailsen Files Movie",
+        "id": "armored-trooper-votoms-pailsen-files-the-movie-5153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/409a0b0c0f1cbe7e34432f333fcccbc3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "118m"
+      },
+      {
+        "title": "Are You Lost?",
+        "alternativeTitle": "Sounan Desu ka?",
+        "id": "are-you-lost-5071",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e65f62f7126a2dbeace7171ff21b1e52.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Aquarion",
+        "alternativeTitle": "Sousei no Aquarion",
+        "id": "aquarion-3103",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3ce89f37d377cc8ab4e03b552322c32.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Aquarion: Myth of Emotions",
+        "alternativeTitle": "Sousei no Aquarion: Myth of Emotions",
+        "id": "aquarion-myth-of-emotions-19476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2477fa93438bbca1798d0cd764f3eb21.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "AntiMagic Academy 35th Test Platoon",
+        "alternativeTitle": "Taimadou Gakuen 35 Shiken Shoutai",
+        "id": "antimagic-academy-35th-test-platoon-3858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fcd95bce1cfde9a257c319d608e76cb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Love Too Captivating",
+        "alternativeTitle": "Tamaranai no wa Koi nano ka",
+        "id": "a-love-too-captivating-19644",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6360b6382be12f54787d62bafc58246.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "13m"
+      },
+      {
+        "title": "Armed Librarians: The Book of Bantorra",
+        "alternativeTitle": "Tatakau Shisho: The Book of Bantorra",
+        "id": "armed-librarians-the-book-of-bantorra-2543",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c6455da1443aa540277e2c5c8cc7327.jpg",
+        "episodes": {
+          "sub": 27,
+          "dub": 27,
+          "eps": 27
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+        "alternativeTitle": "Tensei Kizoku, Kantei Skill de Nariagaru",
+        "id": "as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-19127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa8451169753e07cdbfddc5507c1c01e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2",
+        "alternativeTitle": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+        "id": "as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-2-19329",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3670b66104179ccff9492aa8158fde3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Angel's 3Piece!",
+        "alternativeTitle": "Tenshi no 3P!",
+        "id": "angels-3piece-4947",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2073932fa4aed6239ecb4eb94efee46f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Angel's Drop",
+        "alternativeTitle": "Tenshi no Drop",
+        "id": "angels-drop-10659",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53b5dd127b7e241a5aec74b91a9035f6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Angel's Egg",
+        "alternativeTitle": "Tenshi no Tamago",
+        "id": "angels-egg-1093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e826f8b8d8f80f6de413bde593801a79.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "71m"
+      },
+      {
+        "title": "Astro Boy",
+        "alternativeTitle": "Tetsuwan Atom",
+        "id": "astro-boy-3200",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b405050618ecd117285e6464631430a.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 104,
+          "eps": 193
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Astro Boy (1980)",
+        "alternativeTitle": "Tetsuwan Atom (1980)",
+        "id": "astro-boy-1980-2956",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f42dca9f72686d1c7b5e92b2909cf19.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Apocalypse Day",
+        "alternativeTitle": "Tian Qi Ri",
+        "id": "apocalypse-day-19512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c376ed1ff5e9d07ee353cffecb3b5d9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "19m"
+      }
+    ]
+  }
+}

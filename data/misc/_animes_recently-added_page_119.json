@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 119,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Emma: A Victorian Romance - Intermission",
+        "alternativeTitle": "Eikoku Koi Monogatari Emma: Intermission",
+        "id": "emma-a-victorian-romance-intermission-3343",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/162dfe995bcdce98ea06794bfc076ffa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Persona 3 the Movie 2: Midsummer Knight's Dream",
+        "alternativeTitle": "Persona 3 the Movie 2: Midsummer Knight's Dream",
+        "id": "persona-3-the-movie-2-midsummer-knights-dream-1088",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df558db9dee49afec3e1abe6b597df99.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "IS: Infinite Stratos 2 - World Purge",
+        "alternativeTitle": "IS: Infinite Stratos 2 - World Purge-hen",
+        "id": "is-infinite-stratos-2-world-purge-3669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1945e6e62caa6e6104f413815e6adaf7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Danganronpa 3: The End of Hope's Peak High School - Hope Arc",
+        "alternativeTitle": "Danganronpa 3: The End of Kibougamine Gakuen - Kibou-hen",
+        "id": "danganronpa-3-the-end-of-hopes-peak-high-school-hope-arc-1331",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/01cab2c67b74836f0880fd8018a54203.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Love, Chunibyo & Other Delusions!: Heart Throb - The Rikka Wars",
+        "alternativeTitle": "Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars",
+        "id": "love-chunibyo-other-delusions-heart-throb-the-rikka-wars-1630",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6dc82315468b039d803af394fe654a6b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Night Raid 1931: The Prophecy",
+        "alternativeTitle": "Senkou no Night Raid: Yogen",
+        "id": "night-raid-1931-the-prophecy-6579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53507e862e89e29bc561c042e992d107.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "IS: Infinite Stratos: A Sextet Yearns to Be in Love",
+        "alternativeTitle": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+        "id": "is-infinite-stratos-a-sextet-yearns-to-be-in-love-3827",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a471bea5cdbc51383c73425bcd6fa79.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "March comes in like a lion",
+        "alternativeTitle": "3-gatsu no Lion",
+        "id": "march-comes-in-like-a-lion-119",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e180b296778df8a296b4532d11058183.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Kizumonogatari III: Reiketsu-hen",
+        "alternativeTitle": "Kizumonogatari III: Reiketsu-hen",
+        "id": "kizumonogatari-iii-reiketsu-hen-22",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fbf9f604cd3bf564317f54536671b003.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "83m"
+      },
+      {
+        "title": "Clannad: Another World, Tomoyo Chapter",
+        "alternativeTitle": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
+        "id": "clannad-another-world-tomoyo-chapter-516",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/205f891c94de306383c57f7664cc944d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Macross 7: The Movie - The Galaxy is Calling Me",
+        "alternativeTitle": "Macross 7 Movie: Ginga ga Ore wo Yondeiru!",
+        "id": "macross-7-the-movie-the-galaxy-is-calling-me-3882",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6bc8f6108040dc52a69a8b9417a75bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "33m"
+      },
+      {
+        "title": "Bottom-Tier Character Tomozaki OVA",
+        "alternativeTitle": "Jaku-Chara Tomozaki-kun OVA",
+        "id": "bottom-tier-character-tomozaki-ova-17455",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f0f6e0a203c82f36fade0b204b947e6.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "10m"
+      },
+      {
+        "title": "Myriad Colors Phantom World: The Polka Dot Miracle (OVA)",
+        "alternativeTitle": "Musaigen no Phantom World: Mizutama no Kiseki",
+        "id": "myriad-colors-phantom-world-the-polka-dot-miracle-ova-4407",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a6498167d274f4d78512d5ca197fd7f3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Ao Haru Ride OVA",
+        "alternativeTitle": "Ao Haru Ride OVA",
+        "id": "ao-haru-ride-ova-1215",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/998e27e91da1d67f7a8f0863dcc78616.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "21m"
+      },
+      {
+        "title": "Hell Teacher Nube: Summer Holiday of Fear! Legend of the Sea of Suspicion",
+        "alternativeTitle": "Jigoku Sensei Nube: Kyoufu no Natsuyasumi!! Ayashi no Umi no Densetsu!",
+        "id": "hell-teacher-nube-summer-holiday-of-fear-legend-of-the-sea-of-suspicion-4801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/25814e69cbd5d039677465c309c2e56f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "38m"
+      },
+      {
+        "title": "Afro Samurai: Resurrection",
+        "alternativeTitle": "Afro Samurai: Resurrection",
+        "id": "afro-samurai-resurrection-2024",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4146cf859589e9891c80ecd089cd735.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Hetalia Axis Powers: Paint it, White!",
+        "alternativeTitle": "Hetalia Axis Powers Movie: Paint it, White",
+        "id": "hetalia-axis-powers-paint-it-white-2805",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c1f7b50d38a1af979e21fd3fba2b331.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Sugar: A Little Snow Fairy Summer Special",
+        "alternativeTitle": "Chicchana Yukitsukai Sugar Specials",
+        "id": "sugar-a-little-snow-fairy-summer-special-3558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cf350dcd9e60753739bdb879769feaa.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Di Gi Charat Ohanami Special",
+        "alternativeTitle": "Di Gi Charat Ohanami Special",
+        "id": "di-gi-charat-ohanami-special-5017",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96021adb2af3f730b66ddb98c5228c3b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Samurai X: The Motion Picture - Requiem for the Restoration Royalists",
+        "alternativeTitle": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka",
+        "id": "samurai-x-the-motion-picture-requiem-for-the-restoration-royalists-1361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64624cd1cde09536960631cc981c172b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Gintama: The Semi-Final",
+        "alternativeTitle": "Gintama: The Semi-Final",
+        "id": "gintama-the-semi-final-17344",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b9c8ba4ae53d789f9b8db783c6c08a74.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Perfect Blue",
+        "alternativeTitle": "Perfect Blue",
+        "id": "perfect-blue-127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cfd262bb234567057c90a4549931445.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "81m"
+      },
+      {
+        "title": "Clannad ~After Story~: Another World, Kyou Chapter",
+        "alternativeTitle": "Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen",
+        "id": "clannad-after-story-another-world-kyou-chapter-690",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b64746bb3104a3c3f874f3e7a50ceac5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Ikkitousen: Western Wolves",
+        "alternativeTitle": "Ikkitousen: Western Wolves",
+        "id": "ikkitousen-western-wolves-6436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9066f11604d4e6caa8f4b3909fcdf90.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Sankarea: I, Too, Am... A Zombie...",
+        "alternativeTitle": "Sankarea: Wagahai mo... Zombie de Aru...",
+        "id": "sankarea-i-too-am-a-zombie-2369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6d0d04c600daa6440b37c21005a22ae6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "KADO: The Right Answer - Ninovo",
+        "alternativeTitle": "Seikaisuru Kado: Ninovo",
+        "id": "kado-the-right-answer-ninovo-4759",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4e47c0ead7a87d9bbd8e70fb05fdad9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Liz and the Blue Bird",
+        "alternativeTitle": "Liz to Aoi Tori",
+        "id": "liz-and-the-blue-bird-278",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/131d51ac1974206630c35027ca083667.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Mary and the Witch's Flower",
+        "alternativeTitle": "Mary to Majo no Hana",
+        "id": "mary-and-the-witchs-flower-2337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ac717f83469c2459c40c83213a8b310.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Armored Trooper Votoms: Pailsen Files The Movie",
+        "alternativeTitle": "Soukou Kihei Votoms: Pailsen Files Movie",
+        "id": "armored-trooper-votoms-pailsen-files-the-movie-5153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/409a0b0c0f1cbe7e34432f333fcccbc3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "118m"
+      },
+      {
+        "title": "Gintama: The Movie 1 - Crimson Sakura Chapter",
+        "alternativeTitle": "Gintama Movie 1: Shinyaku Benizakura-hen",
+        "id": "gintama-the-movie-1-crimson-sakura-chapter-90",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f49c68615de927edcf8b57e8da064a87.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "009-1: R&B",
+        "alternativeTitle": "009-1: R&B",
+        "id": "009-1-rb-6590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8cf7735a70766edfbb1c857d49b09a4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Pleasant Goat and Big Big Wolf: Movie 06 - Meet The Pegasus",
+        "alternativeTitle": "Xi Yang Yang Yu Hui Tai Lang: Zhi Fei Ma Qi Yu Ji",
+        "id": "pleasant-goat-and-big-big-wolf-movie-06-meet-the-pegasus-12481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d30ddabf552cf529c22aa95a17fa09ea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Fighting Spirit: Champion Road",
+        "alternativeTitle": "Hajime no Ippo: Champion Road",
+        "id": "fighting-spirit-champion-road-217",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4c8d1bfd3c4a2dbf84c23ced8c284eb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Wicked City",
+        "alternativeTitle": "Youjuu Toshi",
+        "id": "wicked-city-6121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37beeb4e5e51d3700a40a3056a510a8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Haikyuu!!: To the Top 2nd Season",
+        "alternativeTitle": "Haikyuu!!: To the Top 2nd Season",
+        "id": "haikyuu-to-the-top-2nd-season-35",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b956e64e19a837a10b881c05fa81455.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Gintama.: Silver Soul Arc",
+        "alternativeTitle": "Gintama.: Shirogane no Tamashii-hen",
+        "id": "gintama-silver-soul-arc-24",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cbb72fff690d4fbff95541d481eea5f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Pokemon The Movie 02: The Movie 2000 - The Power of One",
+        "alternativeTitle": "Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan",
+        "id": "pokemon-the-movie-02-the-movie-2000-the-power-of-one-1994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d04dc09e43aee4a5c0567b8f718b767.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "GARO: THE ANIMATION - HOME",
+        "alternativeTitle": "Garo: Honoo no Kokuin - Home",
+        "id": "garo-the-animation-home-4360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dacc612c9aaa8b4a64f670fef372ff56.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+        "alternativeTitle": "Fullmetal Alchemist: The Conqueror of Shamballa",
+        "id": "fullmetal-alchemist-the-movie-conqueror-of-shamballa-1316",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d4c682cf1010fad892ca2f2706869be2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Kandagawa Jet Girls Recap",
+        "alternativeTitle": "Kandagawa Jet Girls Recap",
+        "id": "kandagawa-jet-girls-recap-9844",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b74c01e2d6c1de0a3fcc843667cb2583.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      }
+    ]
+  }
+}

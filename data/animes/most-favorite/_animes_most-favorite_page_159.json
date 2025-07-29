@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 159,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Sadamitsu the Destroyer",
+        "alternativeTitle": "Hakaima Sadamitsu",
+        "id": "sadamitsu-the-destroyer-3991",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb601bc4fe20656c02b46a1d4cd82e00.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "THE IDOLM@STER CINDERELLA GIRLS Theater (Web) 3rd Season",
+        "alternativeTitle": "Cinderella Girls Gekijou: Kayou Cinderella Theater 3rd Season",
+        "id": "the-idolmster-cinderella-girls-theater-web-3rd-season-6327",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb4fa498fd32f33d73cd250222b85ad1.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Bikkurimen",
+        "alternativeTitle": "Bikkurimen",
+        "id": "bikkurimen-18618",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/541685ca04cf91b0edcef0c2e155aa18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Baggy",
+        "alternativeTitle": "Daishizen no Majuu: Bagi",
+        "id": "baggy-6537",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a497283bf7f1e4081dd39dc7cb93784d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Diabolik Lovers Recap",
+        "alternativeTitle": "Diabolik Lovers Recap",
+        "id": "diabolik-lovers-recap-9660",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab7f9bc402a1a99803747f2f63d6ae14.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "Tentai Senshi Sunred",
+        "alternativeTitle": "Tentai Senshi Sunred",
+        "id": "tentai-senshi-sunred-788",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8774beb4794f530f42a46531c3f843a0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Famous Dog Lassie",
+        "alternativeTitle": "Meiken Lassie",
+        "id": "famous-dog-lassie-4651",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a9232a21e64d96793d44905ebe3eee7.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Hans Christian Anderson's The Little Mermaid",
+        "alternativeTitle": "Andersen Douwa: Ningyohime",
+        "id": "hans-christian-andersons-the-little-mermaid-3633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cec416ebff795e8eff654057da0cc0d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "68m"
+      },
+      {
+        "title": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+        "alternativeTitle": "Harukanaru Toki no Naka de 3: Owarinaki Unmei",
+        "id": "harukanaru-toki-no-naka-de-3-owarinaki-unmei-5100",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/543824165fd344fffdca8d3991bd4c34.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "56m"
+      },
+      {
+        "title": "Famous Dog Lassie: Yume ni Mukatte Hashire!",
+        "alternativeTitle": "Meiken Lassie: Yume ni Mukatte Hashire!",
+        "id": "famous-dog-lassie-yume-ni-mukatte-hashire-15153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a4925718a83f492b6f97720deeef3d1a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Eternal Alice",
+        "alternativeTitle": "Kagi Hime Monogatari: Eikyuu Alice Rondo",
+        "id": "eternal-alice-7091",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bdc5d056a9bd119f3fe9ea2aa46d206.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "[RAW] Dokonjou Gaeru",
+        "alternativeTitle": "[RAW] Dokonjou Gaeru",
+        "id": "raw-dokonjou-gaeru-6083",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d6561f46d3aea06d2a829487fd9aebf.jpg",
+        "episodes": {
+          "sub": 103,
+          "dub": 0,
+          "eps": 103
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Barangay 143 2nd Season",
+        "alternativeTitle": "Barangay 143 2nd Season",
+        "id": "barangay-143-2nd-season-17862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/15b1278bd06edd30306dd2e6a23931bf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Magnificent Kotobuki",
+        "alternativeTitle": "Kouya no Kotobuki Hikoutai Kanzenban",
+        "id": "the-magnificent-kotobuki-14817",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/448eee8d675ccc63f6e71bdd50c56cea.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Devil Hunter Yohko",
+        "alternativeTitle": "Mamono Hunter Youko",
+        "id": "devil-hunter-yohko-6744",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8059bba93f9fbec00a722419dba3ff8f.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "36m"
+      },
+      {
+        "title": "Hoshi no Umi no Amuri",
+        "alternativeTitle": "Hoshi no Umi no Amuri",
+        "id": "hoshi-no-umi-no-amuri-8552",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df0d06e835db178c8036298ab95a44bb.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Tonkatsu DJ Agetarou",
+        "alternativeTitle": "Tonkatsu DJ Agetarou",
+        "id": "tonkatsu-dj-agetarou-2957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b2349574bcfb866069d3673c8b4deac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "Fushigi na Somera-chan",
+        "alternativeTitle": "Fushigi na Somera-chan",
+        "id": "fushigi-na-somera-chan-8368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1f02ce27e27fa372d0f6fd7408f7651.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Arabian Nights: Sinbad's Adventures",
+        "alternativeTitle": "Arabian Nights: Sindbad no Bouken",
+        "id": "arabian-nights-sinbads-adventures-9499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a16bff44c52d487a9280b60b28d507f0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "81m"
+      },
+      {
+        "title": "Time-Patrol Bon 2nd Season",
+        "alternativeTitle": "T.P BON Season 2",
+        "id": "time-patrol-bon-2nd-season-19263",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e669705ab6d1d49cb365d8c548dc84b4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "27m"
+      },
+      {
+        "title": "Da Shen Xian",
+        "alternativeTitle": "Wo Shi Da Shenxian 2nd Season",
+        "id": "da-shen-xian-17526",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e782ad0f368ed2845782dd930770573.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Robot Carnival",
+        "alternativeTitle": "Robot Carnival",
+        "id": "robot-carnival-2435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c63db1fea074a2d39ba112018d952a62.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "91m"
+      },
+      {
+        "title": "Yurei Deco",
+        "alternativeTitle": "Yurei Deco",
+        "id": "yurei-deco-18098",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa4e36b7390a204ac6fd48a7f23ccd90.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Saint Seiya: The Heaven Chapter - Overture",
+        "alternativeTitle": "Saint Seiya: Tenkai-hen Josou - Overture",
+        "id": "saint-seiya-the-heaven-chapter-overture-2598",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52e2157c332e52c725035e4153c33823.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Saiyuuki Gaiden: Kouga no Shou",
+        "alternativeTitle": "Saiyuuki Gaiden: Kouga no Shou",
+        "id": "saiyuuki-gaiden-kouga-no-shou-2368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fb87642a0f83e1ddaf53d9062d1e508.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Letter Bee: Light and Blue Night Fantasy",
+        "alternativeTitle": "Tegamibachi: Hikari to Ao no Gensou Yawa",
+        "id": "letter-bee-light-and-blue-night-fantasy-1648",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc25cd1a585459bb5a989e3107c37092.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "27m"
+      },
+      {
+        "title": "Wo Jiao Bai Xiaofei",
+        "alternativeTitle": "Wo Jiao Bai Xiaofei",
+        "id": "wo-jiao-bai-xiaofei-7057",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cab5c12651f31dd4d2192c12943d3721.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Yi Shijie Zhongyao Pu",
+        "alternativeTitle": "Yi Shijie Zhongyao Pu",
+        "id": "yi-shijie-zhongyao-pu-12592",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75fe960d86b82e9ce3eedf9828dafba4.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Galaxy Express 999: Eternal Fantasy",
+        "alternativeTitle": "Ginga Tetsudou 999: Eternal Fantasy",
+        "id": "galaxy-express-999-eternal-fantasy-5097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfff6e92ae899ee4d3642d21feaab190.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "54m"
+      },
+      {
+        "title": "Aoki Honoo",
+        "alternativeTitle": "Aoki Honoo",
+        "id": "aoki-honoo-10273",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f05df847806d9162ec63f92e9609295d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "47m"
+      },
+      {
+        "title": "Azure Nihon Data Center",
+        "alternativeTitle": "Azure Nihon Data Center",
+        "id": "azure-nihon-data-center-10047",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49fe2ae64bee937ab1b995266d3d9c8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Nanocore 2nd Season",
+        "alternativeTitle": "Nanocore 2nd Season",
+        "id": "nanocore-2nd-season-15439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a12cc9ce51deca4830d5ecd5cf45218.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Mitaiken Horizon",
+        "alternativeTitle": "Mitaiken Horizon",
+        "id": "mitaiken-horizon-2397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec5f0c3f3246feaaa8e70b79762c6b9e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Music",
+        "duration": "8m"
+      },
+      {
+        "title": "Galaxy Angel Rune",
+        "alternativeTitle": "Galaxy Angel Rune",
+        "id": "galaxy-angel-rune-6272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/97935f7a461e109d96b72969ae11da8c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sakura Wars OVA 2: The Gorgeous Blooming Cherry Blossoms",
+        "alternativeTitle": "Sakura Taisen: Gouka Kenran",
+        "id": "sakura-wars-ova-2-the-gorgeous-blooming-cherry-blossoms-4166",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45c50c0bea19de233d639bc36dead017.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Twin Angel: Twinkle Paradise",
+        "alternativeTitle": "Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!",
+        "id": "twin-angel-twinkle-paradise-7856",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40c17b9e9ac0d90576070fc6578c6f33.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Perman (1983)",
+        "alternativeTitle": "Perman",
+        "id": "perman-1983-18142",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea29478b5f4562aaa7462549fe9cd0a7.jpg",
+        "episodes": {
+          "sub": 295,
+          "dub": 0,
+          "eps": 526
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "[RAW] Mojakou",
+        "alternativeTitle": "[RAW] Mojakou",
+        "id": "mojakou-3070",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b71951af3637fc5813f3860b6ce3727b.jpg",
+        "episodes": {
+          "sub": 74,
+          "dub": 0,
+          "eps": 74
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Teekyu 6",
+        "alternativeTitle": "Teekyuu 6",
+        "id": "teekyu-6-5156",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a3f76a5b823039c2362652f95ec3413.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Macross II: Lovers Again",
+        "alternativeTitle": "Macross II: Lovers Again",
+        "id": "macross-ii-lovers-again-6553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ebca6a32d7a52063127ca80d62c1784.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "24m"
+      }
+    ]
+  }
+}

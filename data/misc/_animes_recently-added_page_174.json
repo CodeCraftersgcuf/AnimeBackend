@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 174,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Delico's Nursery",
+        "alternativeTitle": "Delico's Nursery",
+        "id": "delicos-nursery-19228",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50c6c30a9483d34f95102462976fa596.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "KamiErabi GOD.app Season 2",
+        "alternativeTitle": "Kamierabi 2nd Season",
+        "id": "kamierabi-godapp-season-2-19364",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92c79228d8fac9c29829efa2d324fd3b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Ketsuekigata-kun! Featuring Yuri & Nasuno",
+        "alternativeTitle": "Ketsuekigata-kun! Featuring Yuri & Nasuno",
+        "id": "ketsuekigata-kun-featuring-yuri-nasuno-10404",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/213afff0b087433928222d923fbd58de.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Kick-Heart",
+        "alternativeTitle": "Kick-Heart",
+        "id": "kick-heart-6344",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c839a54c7451dd2e48759c6cb9edd33d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "12m"
+      },
+      {
+        "title": "Delico's Nursery Recap",
+        "alternativeTitle": "Delico's Nursery: Ikuji Nisshi",
+        "id": "delicos-nursery-recap-19493",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/422695be5384ccf43ec934d8f8a685c2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Ketsuekigata-kun! 3",
+        "alternativeTitle": "Ketsuekigata-kun! 3",
+        "id": "ketsuekigata-kun-3-6279",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0f2dda035e7cf521838b32a34afbd990.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Ketsuekigata-kun! 2",
+        "alternativeTitle": "Ketsuekigata-kun! 2",
+        "id": "ketsuekigata-kun-2-5598",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11b94b4088a58024916addbfb5a59491.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Ketsuekigata-kun!",
+        "alternativeTitle": "Ketsuekigata-kun!",
+        "id": "ketsuekigata-kun-5297",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e57f3d332077e78679917ce6152e3d80.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Ketsuekigata-kun! 4",
+        "alternativeTitle": "Ketsuekigata-kun! 4",
+        "id": "ketsuekigata-kun-4-6522",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20bacfc81de60629814544e945ba9378.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Kimagure Orange☆Road: Ano Hi ni Kaeritai",
+        "alternativeTitle": "Kimagure Orange☆Road: Ano Hi ni Kaeritai",
+        "id": "kimagure-orangeroad-ano-hi-ni-kaeritai-1158",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2c14925afdfe59b9f9d4c899cae066bc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "69m"
+      },
+      {
+        "title": "King of Prism: Pride the Hero",
+        "alternativeTitle": "King of Prism: Pride the Hero",
+        "id": "king-of-prism-pride-the-hero-4127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/356609e9ad51ae0c6c934f7846a695a5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "69m"
+      },
+      {
+        "title": "Kimama ni Idol",
+        "alternativeTitle": "Kimama ni Idol",
+        "id": "kimama-ni-idol-14639",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecdf3e8eb8ec50a2ca8c2979e6be633f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Kimi no Matsu Mirai (Basho) e",
+        "alternativeTitle": "Kimi no Matsu Mirai (Basho) e",
+        "id": "kimi-no-matsu-mirai-basho-e-8319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6e68e0624884a0272edea47f6d88f7e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "King of Prism by Pretty Rhythm",
+        "alternativeTitle": "King of Prism by Pretty Rhythm",
+        "id": "king-of-prism-by-pretty-rhythm-7289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6819a674c890ab05c60bdd99fb29e067.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Neon The Animation",
+        "alternativeTitle": "Neon The Animation",
+        "id": "neon-the-animation-9513",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1256a70629b598f72c787c4c735977d.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Kimagure Orange Road TV Pilot",
+        "alternativeTitle": "Kimagure Orange☆Road: Shounen Jump Special",
+        "id": "kimagure-orange-road-tv-pilot-5298",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c4663dc5d6f879c45694b7a9a8b82c4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Neko Hiki no Oruorane",
+        "alternativeTitle": "Neko Hiki no Oruorane",
+        "id": "neko-hiki-no-oruorane-6750",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/247206ce98117568245ee566bc15c70b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Neo Ranga",
+        "alternativeTitle": "Neo Ranga",
+        "id": "neo-ranga-5695",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/093992d99e1c7dd2dfd0f364e48999b2.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "TV",
+        "duration": "15m"
+      },
+      {
+        "title": "The Island of Siliang 2nd Season",
+        "alternativeTitle": "Juan Siliang 2nd Season",
+        "id": "the-island-of-siliang-2nd-season-19177",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0522046e2ce8be7098f826628607563d.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+        "alternativeTitle": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
+        "id": "the-most-notorious-talker-runs-the-worlds-greatest-clan-19353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45c98fe078dbf6b4c28dc3df58fd422a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Azumanga Web Daioh",
+        "alternativeTitle": "Azumanga Web Daioh",
+        "id": "azumanga-web-daioh-4786",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2df8eb46daf2c540de6dc4d723dc227b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Head Start at Birth",
+        "alternativeTitle": "0-saiji Start Dash Monogatari",
+        "id": "head-start-at-birth-19207",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fcd6ba7881014b8213af4c05e8d0a29.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "If My Wife Becomes an Elementary School Student.",
+        "alternativeTitle": "Tsuma, Shougakusei ni Naru.",
+        "id": "if-my-wife-becomes-an-elementary-school-student-19343",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/056d7a03d9caf1d3ab4bafe1e4a7e2ec.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Swallowed Star: Blood Luo Continent",
+        "alternativeTitle": "Tunshi Xingkong Movie: Xueluo Dalu",
+        "id": "swallowed-star-blood-luo-continent-19433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a6a40862ba374caf0ca9e3ce2ca934f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "93m"
+      },
+      {
+        "title": "DragonBlade: The Legend of Lang",
+        "alternativeTitle": "Long Dao Qi Yuan",
+        "id": "dragonblade-the-legend-of-lang-8740",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8ff0785f4a38fc3a320d73bac045b0b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "Sound! Euphonium",
+        "alternativeTitle": "Hibike! Euphonium",
+        "id": "sound-euphonium-518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5eee6991a03ed8f402f7ae806099d220.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kenritsu Umisora Koukou Yakyuubu-in Yamashita Tarou-kun",
+        "alternativeTitle": "Kenritsu Umisora Koukou Yakyuubu-in Yamashita Tarou-kun",
+        "id": "kenritsu-umisora-koukou-yakyuubu-in-yamashita-tarou-kun-14580",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78eaff8463e39572e0dbbb8ebf0ffccc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "34m"
+      },
+      {
+        "title": "The Elusive Samurai: Interlude (1333-1334) \"History\"",
+        "alternativeTitle": "Nige Jouzu no Wakagimi: Makuai (1333-nen - 1334-nen) \"Rekishi\"",
+        "id": "the-elusive-samurai-interlude-1333-1334-history-19315",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c8794d5c98c3e9609837055cf39bb007.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Kizumonogatari: Koyomi Vamp",
+        "alternativeTitle": "Kizumonogatari: Koyomi Vamp",
+        "id": "kizumonogatari-koyomi-vamp-19428",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3445be1bff97246f6f9b1d6fba2b1df.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "144m"
+      },
+      {
+        "title": "Ishii Hisaichi no Nanda Kanda Gekijou",
+        "alternativeTitle": "Ishii Hisaichi no Nanda Kanda Gekijou",
+        "id": "ishii-hisaichi-no-nanda-kanda-gekijou-14261",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad09e217cf9040190dbfd0a9de4f27e9.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Maiden Rose Specials",
+        "alternativeTitle": "Hyakujitsu no Bara: Jinginaki Nikukyuu-hen",
+        "id": "maiden-rose-specials-16075",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28ac7f280b3c8fa79c8a27a495fdc407.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "SSSS.Dynazenon Movie",
+        "alternativeTitle": "SSSS.Dynazenon Movie",
+        "id": "ssssdynazenon-movie-19427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/049f94ac8dda02ae66f84ae917053d01.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "The Concierge",
+        "alternativeTitle": "Hokkyoku Hyakkaten no Concierge-san",
+        "id": "the-concierge-18560",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a2a186083b4c2432d9ccf3e1580aea0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "67m"
+      },
+      {
+        "title": "Maiden Rose",
+        "alternativeTitle": "Hyakujitsu no Bara",
+        "id": "maiden-rose-16130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60f472c28bc5c9c8b9da9d2a92e5e5d8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "OL Kaizou Kouza",
+        "alternativeTitle": "OL Kaizou Kouza",
+        "id": "ol-kaizou-kouza-10897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da93b8e7ccf9668ee565b7ae972c0882.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "91m"
+      },
+      {
+        "title": "You're My Love Prize",
+        "alternativeTitle": "Finder Series",
+        "id": "youre-my-love-prize-16245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e94982ae55f3f51d2821df63fc9c577d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Ensemble Stars!! Road to Show!!",
+        "alternativeTitle": "Ensemble Stars!! Road to Show!!",
+        "id": "ensemble-stars-road-to-show-19424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19de34e8d175ded3869e0efae120523b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "72m"
+      },
+      {
+        "title": "No Love Zone",
+        "alternativeTitle": "Yeon-aejehanguyeog",
+        "id": "no-love-zone-19423",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c3cf105fa347e6d38ba927dd597d10a7.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Acro Trip",
+        "alternativeTitle": "Acro Trip",
+        "id": "acro-trip-19360",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d19dfa4c4fa2d159fc5503ec47fed75.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized 2nd Season",
+        "alternativeTitle": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming 2nd Season",
+        "id": "a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized-2nd-season-19367",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f5abb230576afc9894520bd66de30b5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "10m"
+      }
+    ]
+  }
+}

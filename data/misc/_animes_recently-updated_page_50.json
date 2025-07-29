@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 50,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Hal",
+        "alternativeTitle": "Hal",
+        "id": "hal-1554",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e8539ed4b8f3dc340d5dfb9375ded27.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "Donten: Laughing Under the Clouds - Gaiden: Chapter 2 - The Tragedy of Fuuma Ninja Tribe",
+        "alternativeTitle": "Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma",
+        "id": "donten-laughing-under-the-clouds-gaiden-chapter-2-the-tragedy-of-fuuma-ninja-tribe-1810",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3793d6eff6b1181d2ca66d3324448138.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "60m"
+      },
+      {
+        "title": "Diary of Our Days at the Breakwater",
+        "alternativeTitle": "Houkago Teibou Nisshi",
+        "id": "diary-of-our-days-at-the-breakwater-2066",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/580e16a12d12047b9aa667e109ac233e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Night on the Galactic Railroad",
+        "alternativeTitle": "Ginga Tetsudou no Yoru",
+        "id": "night-on-the-galactic-railroad-2322",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3626353a662712f25802b22d1245f251.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Bodacious Space Pirates",
+        "alternativeTitle": "Mouretsu Pirates",
+        "id": "bodacious-space-pirates-2834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66babc10f6d9432ecfd135fa69155d20.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "momokuri",
+        "alternativeTitle": "Momokuri",
+        "id": "momokuri-3090",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a4a3e1e9b2e985e7ee6eb1e623c9a2ba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "AntiMagic Academy 35th Test Platoon",
+        "alternativeTitle": "Taimadou Gakuen 35 Shiken Shoutai",
+        "id": "antimagic-academy-35th-test-platoon-3858",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fcd95bce1cfde9a257c319d608e76cb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Black Rock Shooter",
+        "alternativeTitle": "Black★Rock Shooter (TV)",
+        "id": "black-rock-shooter-4114",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fda244829c8c02864b952baeed4c7843.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kyoukai no Kanata: Mini Gekijou",
+        "alternativeTitle": "Kyoukai no Kanata: Mini Gekijou",
+        "id": "kyoukai-no-kanata-mini-gekijou-4370",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bab7195020e26d6d788dbf94c02bdc3f.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "Mahou Shoujo Lyrical Nanoha ViVid",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha ViVid",
+        "id": "mahou-shoujo-lyrical-nanoha-vivid-4626",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4bbd443e9dd8777d73b48d67459f28be.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Long Riders!",
+        "alternativeTitle": "Long Riders!",
+        "id": "long-riders-5138",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1418a8ccc4d01ccbe57971a184ceb802.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "BLOOD-C",
+        "alternativeTitle": "Blood-C",
+        "id": "blood-c-5394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5197d2a66cff19f958e0e0631b2696d3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "THE IDOLM@STER CINDERELLA GIRLS Theater (Web) 2nd Season",
+        "alternativeTitle": "Cinderella Girls Gekijou: Kayou Cinderella Theater 2nd Season",
+        "id": "the-idolmster-cinderella-girls-theater-web-2nd-season-5650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/067bee0b269480304f09ab0ae45761a2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Senran Kagura: Shinovi Master",
+        "alternativeTitle": "Senran Kagura Shinovi Master: Tokyo Youma-hen",
+        "id": "senran-kagura-shinovi-master-6674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3081700adf482758e63290f4eb53d5c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kanojo, Okarishimasu Petit",
+        "alternativeTitle": "Kanojo, Okarishimasu Petit",
+        "id": "kanojo-okarishimasu-petit-6930",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5071183da67600ce2e2a0182e0770868.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Usagi-chan de Cue!!",
+        "alternativeTitle": "Usagi-chan de Cue!!",
+        "id": "usagi-chan-de-cue-8978",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4367ef24758d2c59f7430e7b0b37dfd6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Garaga",
+        "alternativeTitle": "Hyper-Psychic Geo Garaga",
+        "id": "garaga-10002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b53f124248cdb94f2b804e6452d93b2d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Fureru.",
+        "alternativeTitle": "Fureru.",
+        "id": "fureru-19730",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a48ca2168948ea5e38820c35a5a0fddb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "106m"
+      },
+      {
+        "title": "Mob Psycho 100 II",
+        "alternativeTitle": "Mob Psycho 100 II",
+        "id": "mob-psycho-100-ii-19",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/488e740746ded4e21aa9737ed2a68008.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hinamatsuri",
+        "alternativeTitle": "Hinamatsuri (TV)",
+        "id": "hinamatsuri-275",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0c50d8456f876eb6eafc884a18ecf16.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Haibane Renmei",
+        "alternativeTitle": "Haibane Renmei",
+        "id": "haibane-renmei-531",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/39a7be3d1d16fe9537d1347133122fc3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shiki Specials",
+        "alternativeTitle": "Shiki Specials",
+        "id": "shiki-specials-787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/558823ed5a52cafcd362c2b5dc2a6e7a.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece: Baron Omatsuri and the Secret Island",
+        "alternativeTitle": "One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima",
+        "id": "one-piece-baron-omatsuri-and-the-secret-island-1043",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1101d8772c508a881d49595b7c86679.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Hellsing",
+        "alternativeTitle": "Hellsing",
+        "id": "hellsing-1555",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4feb42b614d2fb5d692a335d30895c69.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/stay night: Unlimited Blade Works",
+        "alternativeTitle": "Fate/stay night Movie: Unlimited Blade Works",
+        "id": "fatestay-night-unlimited-blade-works-1811",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3cb57f25ec05311e25c9ae527e01f8ed.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "La croisée dans un labyrinthe étranger Special",
+        "alternativeTitle": "Ikoku Meiro no Croisée The Animation: Ongakkai \"Récital\"",
+        "id": "la-croisee-dans-un-labyrinthe-etranger-special-2067",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f87141ff6b03af747ed3150fbbae501e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Monster Musume: Everyday Life with Monster Girls",
+        "alternativeTitle": "Monster Musume no Iru Nichijou",
+        "id": "monster-musume-everyday-life-with-monster-girls-3091",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ebdd47ffeb5a5e75c45b1dbda9bbb05d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shingu: Secret of the Stellar Wars",
+        "alternativeTitle": "Gakuen Senki Muryou",
+        "id": "shingu-secret-of-the-stellar-wars-3347",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/527a3d9159e563573d3b4a3616aece58.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Candy Boy: EX01 - Mirai Yohouzu",
+        "alternativeTitle": "Candy Boy Episode: EX01 - Mirai Yohouzu",
+        "id": "candy-boy-ex01-mirai-yohouzu-4115",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/093ee0ae8629cd86c14a3a8d34eb9695.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "7m"
+      },
+      {
+        "title": "Lupin III: Prison of the Past",
+        "alternativeTitle": "Lupin III: Prison of the Past",
+        "id": "lupin-iii-prison-of-the-past-4371",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/340c4f43c54ebbf0fadbbfe9f06f90a3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "92m"
+      },
+      {
+        "title": "Buzzer Beater",
+        "alternativeTitle": "Buzzer Beater",
+        "id": "buzzer-beater-5395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/941c8ca56b38818a6781c5a97fa6223f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Citrus",
+        "alternativeTitle": "Citrus",
+        "id": "citrus-5651",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfb5d396d17c1935fe491764285fb702.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "To the Abandoned Sacred Beasts",
+        "alternativeTitle": "Katsute Kami Datta Kemono-tachi e",
+        "id": "to-the-abandoned-sacred-beasts-6163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/201eadf2331f22da6d386744129f333b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ghost in the Shell: Arise - Logicoma Beat",
+        "alternativeTitle": "Koukaku Kidoutai Arise: Ghost in the Shell - Logicoma Specials",
+        "id": "koukaku-kidoutai-arise-ghost-in-the-shell-logicoma-specials-6931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b86832aafb3ffba29856a9474088a78.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Marvel Future Avengers 2nd Season",
+        "alternativeTitle": "Marvel Future Avengers 2nd Season",
+        "id": "marvel-future-avengers-2nd-season-7443",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/509222af5bba5128d688d519f2a3a447.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Utopa",
+        "alternativeTitle": "Utopa",
+        "id": "utopa-8979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac4bec8b7403441a1e1177c5bc7a41c9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "23m"
+      },
+      {
+        "title": "Spirited Away",
+        "alternativeTitle": "Sen to Chihiro no Kamikakushi",
+        "id": "spirited-away-20",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d226c74f7248dda6aac32d8f915b8f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "124m"
+      },
+      {
+        "title": "Hunter x Hunter: Greed Island",
+        "alternativeTitle": "Hunter x Hunter: Greed Island",
+        "id": "hunter-x-hunter-greed-island-276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48fcdaf3ba5ddcbcda344a682841b234.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Fist of the North Star",
+        "alternativeTitle": "Hokuto no Ken",
+        "id": "fist-of-the-north-star-532",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e5e50def1e24e973918f791f95ed2c3.jpg",
+        "episodes": {
+          "sub": 152,
+          "dub": 0,
+          "eps": 152
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tentai Senshi Sunred",
+        "alternativeTitle": "Tentai Senshi Sunred",
+        "id": "tentai-senshi-sunred-788",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8774beb4794f530f42a46531c3f843a0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "13m"
+      }
+    ]
+  }
+}

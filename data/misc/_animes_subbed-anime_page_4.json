@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 4,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "The Dangerous Convenience Store",
+        "alternativeTitle": "Wiheomhan Pyeonuijeom",
+        "id": "the-dangerous-convenience-store-19703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/390afd25ae456195af9d7c1cd028aedd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Lost in Starlight",
+        "alternativeTitle": "I Byeol-e Pil-yohan",
+        "id": "lost-in-starlight-19702",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3868e06531d0ad54eefdf4b5269a91b2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "96m"
+      },
+      {
+        "title": "Noble Farmer 2nd Season Specials",
+        "alternativeTitle": "Hyakushou Kizoku 2nd Season Specials",
+        "id": "noble-farmer-2nd-season-specials-19701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98bd6d2988234367100961d2e43e6df8.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Noble Farmer Specials",
+        "alternativeTitle": "Hyakushou Kizoku Specials",
+        "id": "noble-farmer-specials-19700",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8db0906981424c3e5fd4e7746e49bb7e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "One Piece: Dr. Chopper's Adventure Checkup - The Ballad of a Father and Daughter",
+        "alternativeTitle": "One Piece: Dr. Chopper no Bouken Karte - Chichi to Musume no Ballad",
+        "id": "one-piece-dr-choppers-adventure-checkup-the-ballad-of-a-father-and-daughter-19699",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1309e43d3236c9ec32f604b040591e9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Any and All Living Things",
+        "alternativeTitle": "Gekkan! Nanmono Anime",
+        "id": "any-and-all-living-things-19698",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/390172b777f9b391b2f8bad08eed508a.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Nmeneko",
+        "alternativeTitle": "Nmeneko",
+        "id": "nmeneko-19697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cc697363ca9cfa1498346961d0c9717.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Iii Icecrin 2",
+        "alternativeTitle": "Iii Icecrin Double",
+        "id": "iii-icecrin-2-19696",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26853b6a2fc94de495202719ba568aa6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Let's Roll, Cinnamoroll!",
+        "alternativeTitle": "Let's Roll, Cinnamoroll!",
+        "id": "lets-roll-cinnamoroll-19695",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/119ff91691fb067e08251a284dd82ed9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Kaijuu Sekai Seifuku (TV)",
+        "alternativeTitle": "Kaijuu Sekai Seifuku (TV)",
+        "id": "kaijuu-sekai-seifuku-tv-19694",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e714aedfe3964df45f9dbbe3489d23fc.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Poppin'Party's Ordinary Days",
+        "alternativeTitle": "Tsurezure PoPiPa",
+        "id": "poppinpartys-ordinary-days-19693",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10c14d58925f7dc621e78bd18238b5b1.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Red Fox",
+        "alternativeTitle": "Bulgeun Yeou",
+        "id": "red-fox-19692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2dceb714d618da45806d65e0886b466f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "18m"
+      },
+      {
+        "title": "U Takes Terra",
+        "alternativeTitle": "Terra Live",
+        "id": "u-takes-terra-19691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a07e8bd63a0756edb568441b10ca68b4.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Gaksital",
+        "alternativeTitle": "Gaksital",
+        "id": "gaksital-19690",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d3ecf7508ef23a08fed474a3d996863.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "66m"
+      },
+      {
+        "title": "In/Spectre Mini Anime Season 2",
+        "alternativeTitle": "Kyokou Suiri Mini Anime Season 2",
+        "id": "inspectre-mini-anime-season-2-19688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e8990880d2747950de4c593e19cf866.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "The iDOLM@STER Million Live!: The Backstage",
+        "alternativeTitle": "The iDOLM@STER Million Live!: The Backstage",
+        "id": "the-idolm-at-ster-million-live-the-backstage-19687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e54a270bbf6ecbb8e4e2ae15a8df2d96.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "21m"
+      },
+      {
+        "title": "One Piece: A Project to Fully Enjoy! `Surgeon of Death` Trafalgar Law",
+        "alternativeTitle": "One Piece: Dai Tannou Kikaku! \"Shi no Gekai\" Trafalgar Law",
+        "id": "one-piece-a-project-to-fully-enjoy-surgeon-of-death-trafalgar-law-19686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8a83e302e8412083a0aa17124bc287e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Ephemere",
+        "alternativeTitle": "Ephemere",
+        "id": "ephemere-19685",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/636d14c764bdea9f7deff2634d78c3e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Made in Abyss: The Golden City of the Scorching Sun - Together with Papa",
+        "alternativeTitle": "Made in Abyss: Retsujitsu no Ougonkyou - Papa to Issho",
+        "id": "made-in-abyss-the-golden-city-of-the-scorching-sun-together-with-papa-19684",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec2068167cceccc5b5cd4c7e896c1277.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "6m"
+      },
+      {
+        "title": "One Piece: Recapping Fierce Fights! The Countercharge Alliance vs. Big Mom",
+        "alternativeTitle": "One Piece: Dai Gekisen Tokushuu! Hangeki Doumei vs. Big Mom",
+        "id": "one-piece-recapping-fierce-fights-the-countercharge-alliance-vs-big-mom-19683",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a30a09db1d100f1dd710c3e5fac4e93.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: Recapping Fierce Fights! Zoro vs. a Lead Performer!",
+        "alternativeTitle": "One Piece: Dai Gekisen Tokushuu! Zoro vs. Ookanban!",
+        "id": "one-piece-recapping-fierce-fights-zoro-vs-a-lead-performer-19682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c508d9a80fc99a46264ae1cb37f9ce4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Lonely Castle in the Mirror: Before and After",
+        "alternativeTitle": "Kagami no Kojou no Mae to Ato",
+        "id": "lonely-castle-in-the-mirror-before-and-after-19681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e083c122ca029b57ab64948236011b47.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Sound! Euphonium 3: Extra Episodes",
+        "alternativeTitle": "Hibike! Euphonium 3: Extra Episodes",
+        "id": "sound-euphonium-3-extra-episodes-19678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/29580627319d2ac9a7a353aac75343a6.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "One Piece: Making History! The Turbulent Old and New Four Emperors!",
+        "alternativeTitle": "One Piece: Kizamareru Rekishi! Gekidou no Shinkyuu Yonkou!",
+        "id": "one-piece-making-history-the-turbulent-old-and-new-four-emperors-19677",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d33097bcac119e6f740e3895059d0c74.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "One Piece: The Log of the Rivalry! The Straw Hats vs. Cipher Pol",
+        "alternativeTitle": "One Piece: Innen no Log! Mugiwara no Ichimi to Cipher Pol",
+        "id": "one-piece-the-log-of-the-rivalry-the-straw-hats-vs-cipher-pol-19676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5627cb205cdf2959cc59314b3a18b42.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Laid-Back Camp Season 3 Specials",
+        "alternativeTitle": "Yuru Camp△ Season 3 Specials",
+        "id": "laid-back-camp-season-3-specials-19675",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5076904ac8f65a276df212dd580f7635.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "One Piece: Unwavering Justice! The Navy's Proud Log!",
+        "alternativeTitle": "One Piece: Yuruganu Seigi! Kaigun no Hokoritakaki Log!",
+        "id": "one-piece-unwavering-justice-the-navys-proud-log-19674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83104ddcf71cb4ef8be9289d041b8d6b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece Egghead Arc Recap",
+        "alternativeTitle": "One Piece Egghead Arc Recap",
+        "id": "one-piece-egghead-arc-recap-19673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07b6c5a73ca9444b153faca33ba25275.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "80m"
+      },
+      {
+        "title": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+        "alternativeTitle": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+        "id": "aldnoahzero-ame-no-danshou-the-penultimate-truth-19672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b428fd90db23f8b71558cdfd651354b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Tamagawa Wants to be a Cat",
+        "alternativeTitle": "Neko ni Naritai Tamagawa-kun",
+        "id": "tamagawa-wants-to-be-a-cat-19671",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a938254a2001ed0d60f1aec41e9e5f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "17m"
+      },
+      {
+        "title": "Martial Universe 5th Season",
+        "alternativeTitle": "Wu Dong Qian Kun 5th Season",
+        "id": "martial-universe-5th-season-19670",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/362e9973278195904045f8821ae057bf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "The Quintessential Quintuplets*",
+        "alternativeTitle": "5-toubun no Hanayome*",
+        "id": "the-quintessential-quintuplets-19669",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a411d580dc7bb5e495de18fe4c53341e.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Tiger Crane",
+        "alternativeTitle": "Hu He Yao Shi Lu",
+        "id": "tiger-crane-19668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bac9518af4ade8e8d3ad0a494ff98f5e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "The iDOLM@STER Shiny Colors 2nd Season: SHHis",
+        "alternativeTitle": "The iDOLM@STER Shiny Colors 2nd Season: SHHis",
+        "id": "the-idolm-at-ster-shiny-colors-2nd-season-shhis-19667",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f34a23c1531b9bb2d69d6e7e5a30735e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "20m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 184,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Magic Kaito",
+        "alternativeTitle": "Magic Kaito",
+        "id": "magic-kaito-747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a39366b3315f5671f0aed8fbcf52e12d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Daitoshokan no Hitsujikai Picture Drama",
+        "alternativeTitle": "Daitoshokan no Hitsujikai Picture Drama",
+        "id": "daitoshokan-no-hitsujikai-picture-drama-6506",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c1b7ada83770737d58303d0528b92a1.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Magi: Sinbad no Bouken",
+        "alternativeTitle": "Magi: Sinbad no Bouken",
+        "id": "magi-sinbad-no-bouken-706",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16749cb84de2c34c981e172ce00bf178.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Shigofumi: Letters from the Departed Special",
+        "alternativeTitle": "Shigofumi: Sore kara",
+        "id": "shigofumi-letters-from-the-departed-special-2016",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0e6f994d944ab9d6b07c9dcebb87d5e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Shigofumi: Letters from the Departed",
+        "alternativeTitle": "Shigofumi",
+        "id": "shigofumi-letters-from-the-departed-1587",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/910dff713de30dc6cadb92e5a28eed46.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hanma Baki vs. Kengan Ashura",
+        "alternativeTitle": "Hanma Baki vs. Kengan Ashura",
+        "id": "hanma-baki-vs-kengan-ashura-19093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e77e5fcd851270cd5541e97b87692a89.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "62m"
+      },
+      {
+        "title": "Death Hall",
+        "alternativeTitle": "Shiyakusho",
+        "id": "death-hall-19178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4a557386a14c128196614d18d80b37ad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Vampire Hunter D",
+        "alternativeTitle": "Vampire Hunter D",
+        "id": "vampire-hunter-d-3202",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cb677dca30c80bab8c19bf02969c0dc9.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
+        "alternativeTitle": "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+        "id": "mobile-suit-gundam-0083-the-afterglow-of-zeon-4909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/703580c3d5c2860e64c6e5040f34f944.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Sinbad: Mahou no Lamp to Ugoku Shima",
+        "alternativeTitle": "Sinbad: Mahou no Lamp to Ugoku Shima",
+        "id": "sinbad-mahou-no-lamp-to-ugoku-shima-7032",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4d940c83eba4c982b6b831b2bd20bbac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "49m"
+      },
+      {
+        "title": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD",
+        "alternativeTitle": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD",
+        "id": "idolish7-movie-live-4bit-beyond-the-period-19176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da7db51aaf278283e526632d29fe1ee5.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Detective Conan vs. Wooo",
+        "alternativeTitle": "Detective Conan vs. Wooo",
+        "id": "detective-conan-vs-wooo-7768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb8c60023d5338966d421e1d67137c4d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Buddha 2: The Endless Journey",
+        "alternativeTitle": "Tezuka Osamu no Buddha: Owarinaki Tabi",
+        "id": "buddha-2-the-endless-journey-3932",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bb3b667c1258ff68b8906e52c2b934c3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+        "alternativeTitle": "Shin Kimagure Orange☆Road: Soshite, Ano Natsu no Hajimari",
+        "id": "shin-kimagure-orangeroad-soshite-ano-natsu-no-hajimari-1779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/590f96c00daee8faff86b3d408508bb6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Macross II: Lovers Again",
+        "alternativeTitle": "Macross II: Lovers Again",
+        "id": "macross-ii-lovers-again-6553",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ebca6a32d7a52063127ca80d62c1784.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Zetsumetsu Kigu Shoujo: Amazing Twins",
+        "alternativeTitle": "Zetsumetsu Kigu Shoujo: Amazing Twins",
+        "id": "zetsumetsu-kigu-shoujo-amazing-twins-6319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb5ebbe1ff7ecc37c627ccb6b8bdd856.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Carpenter Assassin",
+        "alternativeTitle": "Jinyi Shen Jiang",
+        "id": "carpenter-assassin-19173",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fac2bf3ab225fd2ec316acebd33e9e10.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "21m"
+      },
+      {
+        "title": "Digimon Adventure 02 Movie",
+        "alternativeTitle": "Digimon Adventure 02: The Beginning",
+        "id": "digimon-adventure-02-movie-18562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2ca4978eb929f6cb449d3455540c51b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Demon Prince Enma",
+        "alternativeTitle": "Kikoushi Enma",
+        "id": "demon-prince-enma-2982",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89443f6209e77397a757aa45602804f6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "40m"
+      },
+      {
+        "title": "Chu-Bra",
+        "alternativeTitle": "Chu-Bra!!",
+        "id": "chu-bra-7007",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4438802299b4bda787fe3b9b65a65b2b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Three Thousand Roads 2nd Season",
+        "alternativeTitle": "Wu Ying Sanqian Dao 2nd Season",
+        "id": "three-thousand-roads-2nd-season-19169",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae767ae8656d9fdda697dc2eb9211406.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Three Thousand Roads",
+        "alternativeTitle": "Wu Ying Sanqian Dao",
+        "id": "three-thousand-roads-19168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b318a36469e4eeff495d3810873ae6c8.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "The Imaginary",
+        "alternativeTitle": "Yaneura no Rudger",
+        "id": "the-imaginary-18561",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/970f7ea7c174a2d9d76ad32ca990e7f5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "The Island of Siliang",
+        "alternativeTitle": "Juan Siliang",
+        "id": "the-island-of-siliang-15751",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5375d3100de4a45c06835d3b1a27d8c5.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "A Place Further Than The Universe",
+        "alternativeTitle": "Sora yori mo Tooi Basho",
+        "id": "a-place-further-than-the-universe-73",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e63e96b0a804ae9663a002662414e383.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+        "alternativeTitle": "Mahou no Tenshi Creamy Mami: Eien no Once More",
+        "id": "mahou-no-tenshi-creamy-mami-eien-no-once-more-6743",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e94ebef81a9fa4fa26951395e25585e2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "87m"
+      },
+      {
+        "title": "Cosplay Complex",
+        "alternativeTitle": "Cosplay Complex",
+        "id": "cosplay-complex-8487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/86211b74539fddbc394d25a6bf99e5d3.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Legend of Supreme Soldier",
+        "alternativeTitle": "Shi Shi Chuanshuo",
+        "id": "legend-of-supreme-soldier-19167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b37a64bae46089269a04c6cef59e3ef2.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Zetsuai 1989",
+        "alternativeTitle": "Zetsuai 1989",
+        "id": "zetsuai-1989-16297",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f753e7df9abb0928a9047b109ca85f64.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Planetes Picture Drama",
+        "alternativeTitle": "Planetes Picture Drama",
+        "id": "planetes-picture-drama-8981",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/290463f3eac63bfc0d47b0772d094437.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Genshiken Nidaime Specials",
+        "alternativeTitle": "Genshiken Nidaime Specials",
+        "id": "genshiken-nidaime-specials-4524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c602d0fb5664c72eda2738e05332a58.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Macross Plus",
+        "alternativeTitle": "Macross Plus",
+        "id": "macross-plus-989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8eb2e0993ccd2d029320f5f94d2bfa6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "39m"
+      },
+      {
+        "title": "My Oni Girl",
+        "alternativeTitle": "Suki demo Kirai na Amanojaku",
+        "id": "my-oni-girl-19076",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/731d42b1db07294e397cf73acaa59398.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Shigofumi Picture Drama",
+        "alternativeTitle": "Shigofumi Picture Drama",
+        "id": "shigofumi-picture-drama-5623",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f94c003b8bf70b12e4cecfd5ac9b3730.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "AIKa Zero",
+        "alternativeTitle": "AIKa Zero",
+        "id": "aika-zero-8181",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c5c9bc7476ef3620b0a8324bdffa590.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "AIKa Zero Picture Drama",
+        "alternativeTitle": "AIKa Zero Picture Drama",
+        "id": "aika-zero-picture-drama-9078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c2da71f34953e81245c3efe50c1ab3c.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "5m"
+      },
+      {
+        "title": "Labyrinth Of Flames",
+        "alternativeTitle": "Honoo no Labyrinth",
+        "id": "labyrinth-of-flames-6926",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ac87c6e38ba583947365486859b5545.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Code Zero Daily Report",
+        "alternativeTitle": "Mars Red: Zero Kikan Nippou",
+        "id": "code-zero-daily-report-17341",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91d70c1a1e31e656699825eba92c8834.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Dead Dead Demons Dededede Destruction",
+        "alternativeTitle": "Dead Dead Demons Dededede Destruction",
+        "id": "dead-dead-demons-dededede-destruction-18925",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d112670f41684d97015004293a087dc.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "120m"
+      },
+      {
+        "title": "Garouden: The Way of the Lone Wolf",
+        "alternativeTitle": "Garouden: The Way of the Lone Wolf",
+        "id": "garouden-the-way-of-the-lone-wolf-19165",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91d04b295d2701576ca1c48b68701e54.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "24m"
+      }
+    ]
+  }
+}

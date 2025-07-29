@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 46,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Fairy Gone",
+        "alternativeTitle": "Fairy Gone",
+        "id": "fairy-gone-8508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0015519636eb12abd7e0348d17a3de7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Tale of Outcasts",
+        "alternativeTitle": "Nokemono-tachi no Yoru",
+        "id": "the-tale-of-outcasts-18303",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b442689947a4f64f75be75cb1e3b6a4.jpeg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side",
+        "alternativeTitle": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria",
+        "id": "sword-oratoria-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-on-the-side-3342",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/49b4151d1c2247c3169ddbc141d8cf1c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tomie",
+        "alternativeTitle": "Tomie",
+        "id": "tomie-8358",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52664002e18bdbd45e76d972c2b61353.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "10m"
+      },
+      {
+        "title": "Shadowverse Flame",
+        "alternativeTitle": "Shadowverse Flame",
+        "id": "shadowverse-flame-18002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df97a62ab675b844aebe1d89a62f9efc.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ao Haru Ride OVA",
+        "alternativeTitle": "Ao Haru Ride OVA",
+        "id": "ao-haru-ride-ova-1215",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/998e27e91da1d67f7a8f0863dcc78616.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "21m"
+      },
+      {
+        "title": "Heroic Age",
+        "alternativeTitle": "Heroic Age",
+        "id": "heroic-age-1378",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/763c9b86600db6d046957e982c91ad4c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Food for the Soul",
+        "alternativeTitle": "Hibi wa Sugiredo Meshi Umashi",
+        "id": "food-for-the-soul-19603",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/487b04941eb879c2e920db51cb1e37b8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Detectives These Days Are Crazy!",
+        "alternativeTitle": "Mattaku Saikin no Tantei to Kitara",
+        "id": "detectives-these-days-are-crazy-19756",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0125c85fd9b4cfe0a9977eed50b91b78.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Doraemon Movie 37: Great Adventure in the Antarctic Kachi Kochi",
+        "alternativeTitle": "Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken",
+        "id": "doraemon-movie-37-great-adventure-in-the-antarctic-kachi-kochi-2409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8c090174fed7b716c3856f94098018c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "101m"
+      },
+      {
+        "title": "Kamisama Hajimemashita OVA",
+        "alternativeTitle": "Kamisama Hajimemashita OVA",
+        "id": "kamisama-hajimemashita-ova-541",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05f69116f1e9cd8c6e34517dc56ede2e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Slay The Gods",
+        "alternativeTitle": "Zhan Shen: Fanchen Shenyu",
+        "id": "slay-the-gods-19401",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a8b91eb0df50e67874a3f534bc577b0.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Queen's Blade: Inheritor of the Throne",
+        "alternativeTitle": "Queen's Blade: Gyokuza wo Tsugu Mono",
+        "id": "queens-blade-inheritor-of-the-throne-5339",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7333ba014c2484f8d7e98033d63c6918.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball Z: Broly – Second Coming",
+        "alternativeTitle": "Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai",
+        "id": "dragon-ball-z-broly-second-coming-4196",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/966abef6daae72446f67b6a2385dfe70.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "Our love has always been 10 centimeters apart.",
+        "alternativeTitle": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+        "id": "our-love-has-always-been-10-centimeters-apart-1440",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c1f6f86a996527385045ae499695e65.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Big Windup!",
+        "alternativeTitle": "Ookiku Furikabutte",
+        "id": "big-windup-580",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23aba27696d496a8f35fb32c4de9179d.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "When They Cry: Kai",
+        "alternativeTitle": "Higurashi no Naku Koro ni Kai",
+        "id": "when-they-cry-kai-269",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81fdba5497e0c26568ce0becac07fdc7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyblade Burst Sparking",
+        "alternativeTitle": "Beyblade Burst Sparking",
+        "id": "beyblade-burst-sparking-6503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/92227fd039c18e7f80e132a14e9e7bc8.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "ONA",
+        "duration": "12m"
+      },
+      {
+        "title": "Castle in the Sky",
+        "alternativeTitle": "Tenkuu no Shiro Laputa",
+        "id": "castle-in-the-sky-198",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc63996afa59a5749d5c13ebab524878.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "124m"
+      },
+      {
+        "title": "A Gentle Dragon of 5000 Years Old, It Was Recognized as an Evil Dragon Without Any Cause",
+        "alternativeTitle": "Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei",
+        "id": "a-gentle-dragon-of-5000-years-old-it-was-recognized-as-an-evil-dragon-without-any-cause-18118",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8feee86c100b4d1c9931bdc1e426b7bc.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "Gintama: Enchousen",
+        "alternativeTitle": "Gintama': Enchousen",
+        "id": "gintama-enchousen-8",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a3718dee58fcdd9980377689bb379dc.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
+        "alternativeTitle": "Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon",
+        "id": "fategrand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon-15703",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aa582fcea2f8a74ce3b3db4d85a58ac4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Kino's Journey -the Beautiful World- the Animated Series",
+        "alternativeTitle": "Kino no Tabi: The Beautiful World - The Animated Series",
+        "id": "kinos-journey-the-beautiful-world-the-animated-series-1341",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d01944567efd1432af8fb68884cf685.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Natsume's Book of Friends Season 2",
+        "alternativeTitle": "Zoku Natsume Yuujinchou",
+        "id": "natsumes-book-of-friends-season-2-75",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/190d97dfb57b1c76bad9f9bd5dd17cd2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Demonic King Who Chases His Wife",
+        "alternativeTitle": "Xie Wang Zhui Qi",
+        "id": "the-demonic-king-who-chases-his-wife-4878",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7f74f8e8720b50bd455e62eb2035c00.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "13m"
+      },
+      {
+        "title": "No-Rin",
+        "alternativeTitle": "Nourin",
+        "id": "no-rin-4235",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1f3a0433eeaedc6fe87d2524baa9323c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Back Arrow",
+        "alternativeTitle": "Back Arrow",
+        "id": "back-arrow-15650",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0798537328d2f4f3a729f1f4b5e85fb.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Beyblade Burst Gachi",
+        "alternativeTitle": "Beyblade Burst Gachi",
+        "id": "beyblade-burst-gachi-7929",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d87568bc0a770ad4f8d9c775b55955e6.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "14m"
+      },
+      {
+        "title": "Divine Gate",
+        "alternativeTitle": "Divine Gate",
+        "id": "divine-gate-9086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1da08f80aeb92158ab88f2bdec7c3875.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dokyuu Hentai HxEros: HxEros Report",
+        "alternativeTitle": "Dokyuu Hentai HxEros: HxEros Report",
+        "id": "dokyuu-hentai-hxeros-hxeros-report-9158",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18af13431e5263d7931a76b5410d88d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Azur Lane",
+        "alternativeTitle": "Azur Lane",
+        "id": "azur-lane-6687",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7aaa1c3656b720bafbb3e0024fa239cd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Seven Heavenly Virtues",
+        "alternativeTitle": "Nanatsu no Bitoku",
+        "id": "the-seven-heavenly-virtues-9977",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2957cf91ac180525da41999613a0f1e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Date A Live Movie: Mayuri Judgment",
+        "alternativeTitle": "Date A Live Movie: Mayuri Judgment",
+        "id": "date-a-live-movie-mayuri-judgment-1982",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7bf707faf6614a6956df4af39d7df0f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "72m"
+      },
+      {
+        "title": "My Star: Specials",
+        "alternativeTitle": "Oshi no Ko Specials",
+        "id": "my-star-specials-18408",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb53270c806fa4aadac63604ebe59f01.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "25m"
+      },
+      {
+        "title": "Ave Mujica: The Die is Cast",
+        "alternativeTitle": "BanG Dream! Ave Mujica",
+        "id": "ave-mujica-the-die-is-cast-19467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1d51e636c031f8041260eadf9656947.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Waiting in the Summer",
+        "alternativeTitle": "Ano Natsu de Matteru",
+        "id": "waiting-in-the-summer-1514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58b6ed7c0ed874b6290b320c538e760e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Legend of Heroes: Trails of Cold Steel - Northern War",
+        "alternativeTitle": "The Legend of Heroes: Sen no Kiseki - Northern War",
+        "id": "the-legend-of-heroes-trails-of-cold-steel-northern-war-17691",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4587a3b8b4e58d058dea288d5940b1d6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "No Money",
+        "alternativeTitle": "Okane ga Nai",
+        "id": "no-money-16430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b02196cadc8dfc79b0cf51c352c36d6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Isekai Quartet 2",
+        "alternativeTitle": "Isekai Quartet 2",
+        "id": "isekai-quartet-2-1909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40c55ad9079f0fde0967b0418f3b3ddb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "This Art Club Has a Problem!",
+        "alternativeTitle": "Kono Bijutsubu ni wa Mondai ga Aru!",
+        "id": "this-art-club-has-a-problem-2420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5e0b96896d87691abc3d360d70c6b1d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 24,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Pluto",
+        "alternativeTitle": "Pluto",
+        "id": "pluto-15516",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2bfb50c09c520277ca746ad050a8fe1.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "60m"
+      },
+      {
+        "title": "My Next Life as a Villainess: All Routes Lead to Doom! 2nd Season",
+        "alternativeTitle": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X",
+        "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-2nd-season-15511",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4a176c1ece67cc2d9bba4cebbbecb3c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Hidden Dungeon Only I Can Enter",
+        "alternativeTitle": "Ore dake Haireru Kakushi Dungeon",
+        "id": "the-hidden-dungeon-only-i-can-enter-15507",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b64ef1a0ef9acf430887337dd0d7392.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dropout Idol Fruit Tart",
+        "alternativeTitle": "Ochikobore Fruit Tart",
+        "id": "dropout-idol-fruit-tart-15500",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5740e41952567626c6f987233cdfb5fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Legend of Deification",
+        "alternativeTitle": "Jiang Ziya",
+        "id": "legend-of-deification-14307",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96c301e0a26f37a725ffb5098ef99325.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Harbor Tale: a red brick",
+        "alternativeTitle": "Harbor Tale",
+        "id": "harbor-tale-a-red-brick-13911",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3eb51261c8111ad6188d416e3f7bc257.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "19m"
+      },
+      {
+        "title": "The Flower and the Phoenix",
+        "alternativeTitle": "Hana to Shounen",
+        "id": "the-flower-and-the-phoenix-13885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cabeaa31c9bd681a052eb7be0f3bf06d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Akudama Drive",
+        "alternativeTitle": "Akudama Drive",
+        "id": "akudama-drive-12846",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fee733a9759ff6ee4e27aea8af1db9fe.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Zo Zo Zombie",
+        "alternativeTitle": "Zo Zo Zo Zombie-kun (TV)",
+        "id": "zo-zo-zombie-12749",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c31d040c8acf636a3ce92b20b8000f3.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Boonie Bears: Homeward Journey",
+        "alternativeTitle": "Xiong Chumo Zhi: Guonian",
+        "id": "boonie-bears-homeward-journey-12514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c72d551e81140811c822d7213004ab4.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Special",
+        "duration": "68m"
+      },
+      {
+        "title": "Umibe no Étranger",
+        "alternativeTitle": "Umibe no Étranger",
+        "id": "umibe-no-etranger-12312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47436b74de98af9c09299376fd2ead1d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Strike Witches: Road to Berlin",
+        "alternativeTitle": "Strike Witches: Road to Berlin",
+        "id": "strike-witches-road-to-berlin-11831",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/28d977c2b57f30ed87a1b4ecf30ecded.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Haunted House: The Secret of the Ghost Ball",
+        "alternativeTitle": "Sinbi Apateu: Ghost Ball Bimil",
+        "id": "the-haunted-house-the-secret-of-the-ghost-ball-11673",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db83b66c5adb250473fb3350288da13c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Robot Trains",
+        "alternativeTitle": "Robot Trains",
+        "id": "robot-trains-11317",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cce9cb471849a1b1566e38b7a5296d4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 32,
+          "eps": 32
+        },
+        "type": "TV",
+        "duration": "13m"
+      },
+      {
+        "title": "Little Astro Boy",
+        "alternativeTitle": "Robot Atom",
+        "id": "little-astro-boy-11309",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58058b52dbc1d4aa1ab7732eb94c1f4b.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "11m"
+      },
+      {
+        "title": "Mars of Destruction",
+        "alternativeTitle": "Hametsu no Mars",
+        "id": "mars-of-destruction-10690",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd3d62d937899eca0bb0bb59c6cdfa40.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "19m"
+      },
+      {
+        "title": "Panzer Dragoon",
+        "alternativeTitle": "Panzer Dragoon",
+        "id": "panzer-dragoon-10672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e6f68e611e580ebafabd55de3755bf78.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Idol Fighter Su-Chi-Pai",
+        "alternativeTitle": "Idol Fight Suchie-Pai 2",
+        "id": "idol-fighter-su-chi-pai-10600",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/504dc8e960fd7fd7bcbc85ab787723d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Eiken",
+        "alternativeTitle": "Eiken: Eikenbu yori Ai wo Komete",
+        "id": "eiken-10576",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ef587de79381f6b90137e761f196f1b.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Captain of Cosmos",
+        "alternativeTitle": "Uju Heukgisa",
+        "id": "captain-of-cosmos-10549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c37ae0e70cadc8cc3c273b69bb3deae8.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 1,
+          "eps": 0
+        },
+        "type": "Movie",
+        "duration": "80m"
+      },
+      {
+        "title": "Apocalypse Zero",
+        "alternativeTitle": "Kakugo no Susume",
+        "id": "apocalypse-zero-10469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61da6c7d8f77cc3339de9f3e3a2af059.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "37m"
+      },
+      {
+        "title": "Conception",
+        "alternativeTitle": "Conception",
+        "id": "conception-10463",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dcca64c58e6e902f241d51e68f01affc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Art of Fighting",
+        "alternativeTitle": "Battle Spirits: Ryuuko no Ken",
+        "id": "art-of-fighting-10378",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dd901a15fe55a0bc354d0be90cfba89e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "49m"
+      },
+      {
+        "title": "Fantastic Cell",
+        "alternativeTitle": "Fantastic Cell",
+        "id": "fantastic-cell-10359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99aa64f4dc76c671fe2ca529a9f06182.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "6m"
+      },
+      {
+        "title": "Debutante Detective Corps",
+        "alternativeTitle": "Ojousama Sousamou",
+        "id": "debutante-detective-corps-10316",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/896aea85c07899941b7d7867ffa72d0c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "King's Game",
+        "alternativeTitle": "Ousama Game The Animation",
+        "id": "kings-game-10247",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90928250dcf73de6a1c869e458ced005.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Voltage Fighter Gowcaizer: The Movie",
+        "alternativeTitle": "Choujin Gakuen Gowcaizer: The Voltage Fighters",
+        "id": "voltage-fighter-gowcaizer-the-movie-10177",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9d5abafec3464e126cb2b1a9603a46e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Crimson Wolf",
+        "alternativeTitle": "Hon Ran",
+        "id": "crimson-wolf-10149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2b6bcdcd4d9b4b11e6f18e6c64ae1af2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "59m"
+      },
+      {
+        "title": "The Reflection",
+        "alternativeTitle": "The Reflection",
+        "id": "the-reflection-10102",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90606a6a7871972d38fd09c580c47cf2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Knights of the Zodiac: Saint Seiya",
+        "alternativeTitle": "Knights of the Zodiac: Saint Seiya",
+        "id": "knights-of-the-zodiac-saint-seiya-10079",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8096d76a8820327e75047ca9c5a0db48.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Harmagedon",
+        "alternativeTitle": "Genma Taisen",
+        "id": "harmagedon-10074",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e6e61deefcff9df1e9e87e9516f340c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "131m"
+      },
+      {
+        "title": "Bikini Warriors",
+        "alternativeTitle": "Bikini Warriors",
+        "id": "bikini-warriors-10015",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecab0935e054e4c4a6ed7dc2f97d8112.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "The Seven Heavenly Virtues",
+        "alternativeTitle": "Nanatsu no Bitoku",
+        "id": "the-seven-heavenly-virtues-9977",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c2957cf91ac180525da41999613a0f1e.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Violence Jack: Slumking",
+        "alternativeTitle": "Violence Jack: Harlem Bomber-hen",
+        "id": "violence-jack-slumking-9945",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d1ac05f9af339f1b88109046fa11cad.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "37m"
+      }
+    ]
+  }
+}

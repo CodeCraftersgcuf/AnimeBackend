@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 222,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Food Wars! The Third Plate",
+        "alternativeTitle": "Shokugeki no Souma: San no Sara",
+        "id": "food-wars-the-third-plate-295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3c916f408e9755523e5116ffe13c9b0.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ouran High School Host Club",
+        "alternativeTitle": "Ouran Koukou Host Club",
+        "id": "ouran-high-school-host-club-294",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/943c4e8e043203794350523120ed8273.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "One Piece: Episode of Merry - The Tale of One More Friend",
+        "alternativeTitle": "One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari",
+        "id": "one-piece-episode-of-merry-the-tale-of-one-more-friend-293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9c03a6e40d324f2cfc22f870abe1c15.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "106m"
+      },
+      {
+        "title": "Death Parade",
+        "alternativeTitle": "Death Parade",
+        "id": "death-parade-292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99a44ff5d886a06213eb9c386f76f450.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aria the Natural",
+        "alternativeTitle": "Aria the Natural",
+        "id": "aria-the-natural-291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c626937b602dd72623a039917da6988c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beyond the Boundary: I'll Be Here Movie 2 - Future",
+        "alternativeTitle": "Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen",
+        "id": "beyond-the-boundary-ill-be-here-movie-2-future-290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67f74c7caed5a3c4fb4bf384c75604be.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Card Captor Sakura Movie 2: The Sealed Card",
+        "alternativeTitle": "Cardcaptor Sakura Movie 2: Fuuin Sareta Card",
+        "id": "card-captor-sakura-movie-2-the-sealed-card-289",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcba5161c659568a7819fa883becbc66.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Bungo Stray Dogs 2",
+        "alternativeTitle": "Bungou Stray Dogs 2nd Season",
+        "id": "bungo-stray-dogs-2-288",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b585220a97d25a8d40ec83c763daf3fe.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Berserk: The Golden Age Arc III - The Advent",
+        "alternativeTitle": "Berserk: Ougon Jidai-hen III - Kourin",
+        "id": "berserk-the-golden-age-arc-iii-the-advent-287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/238525889f6baeafa0c382410fc89267.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Scissor Seven 2nd season",
+        "alternativeTitle": "Wu Liuqi Zhi Zui Qiang Fa Xing Shi",
+        "id": "scissor-seven-2nd-season-286",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53a21118b52dd85aec81aba8f73b37df.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "The Girl Who Leapt Through Time",
+        "alternativeTitle": "Toki wo Kakeru Shoujo",
+        "id": "the-girl-who-leapt-through-time-285",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f85a65ba186992cc43435361ae33faba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "The Pet Girl of Sakurasou",
+        "alternativeTitle": "Sakura-sou no Pet na Kanojo",
+        "id": "the-pet-girl-of-sakurasou-284",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff6cabc45cf5c62637c7fa418237213c.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Non Non Biyori Movie: Vacation",
+        "alternativeTitle": "Non Non Biyori Movie: Vacation",
+        "id": "non-non-biyori-movie-vacation-283",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fc8a0bc78cbf5c920702e2ba9a57723.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "71m"
+      },
+      {
+        "title": "xxxHOLiC Rou",
+        "alternativeTitle": "xxxHOLiC Rou",
+        "id": "xxxholic-rou-282",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2971976438696b7f559ff9d74c08f673.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "35m"
+      },
+      {
+        "title": "The Disastrous Life of Saiki K. Final Arc",
+        "alternativeTitle": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
+        "id": "the-disastrous-life-of-saiki-k-final-arc-281",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/50888b6a169a08dfaf4cf95e17eb6504.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "50m"
+      },
+      {
+        "title": "Major: Message",
+        "alternativeTitle": "Major: Message",
+        "id": "major-message-280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5a0187bab0a2b66e908f6e0463d7bac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Puella Magi Madoka Magica the Movie 1: Beginnings",
+        "alternativeTitle": "Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari",
+        "id": "puella-magi-madoka-magica-the-movie-part-1-beginnings-279",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ab0b2edd0156c2af4bb72e23baf543d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "Liz and the Blue Bird",
+        "alternativeTitle": "Liz to Aoi Tori",
+        "id": "liz-and-the-blue-bird-278",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/131d51ac1974206630c35027ca083667.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "InuYasha: The Final Act",
+        "alternativeTitle": "InuYasha: Kanketsu-hen",
+        "id": "inuyasha-the-final-act-277",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0f297d44bbf455f222f0169eafeb382.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hunter x Hunter: Greed Island",
+        "alternativeTitle": "Hunter x Hunter: Greed Island",
+        "id": "hunter-x-hunter-greed-island-276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48fcdaf3ba5ddcbcda344a682841b234.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Hinamatsuri",
+        "alternativeTitle": "Hinamatsuri (TV)",
+        "id": "hinamatsuri-275",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a0c50d8456f876eb6eafc884a18ecf16.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fighting Spirit: Mashiba vs. Kimura",
+        "alternativeTitle": "Hajime no Ippo: Mashiba vs. Kimura",
+        "id": "fighting-spirit-mashiba-vs-kimura-274",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f62986c0c0874d7f47ab822bb342411f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "61m"
+      },
+      {
+        "title": "Fruits Basket 1st Season",
+        "alternativeTitle": "Fruits Basket 1st Season",
+        "id": "fruits-basket-1st-season-273",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef8bb193718c36782dd4ee5f402981e0.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ace of Diamond Act II",
+        "alternativeTitle": "Diamond no Ace: Act II",
+        "id": "ace-of-diamond-act-ii-272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e3a94911133e0ca7a803fd6630a1e5f.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Welcome to the Ballroom",
+        "alternativeTitle": "Ballroom e Youkoso",
+        "id": "welcome-to-the-ballroom-271",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a418abdd21dea35df0bd2f03d1f9e2e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Tale of the Princess Kaguya",
+        "alternativeTitle": "Kaguya-hime no Monogatari",
+        "id": "the-tale-of-the-princess-kaguya-270",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e83a72b310c16fd73f6e97637d97e977.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "137m"
+      },
+      {
+        "title": "When They Cry: Kai",
+        "alternativeTitle": "Higurashi no Naku Koro ni Kai",
+        "id": "when-they-cry-kai-269",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/81fdba5497e0c26568ce0becac07fdc7.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fate/stay night: Unlimited Blade Works",
+        "alternativeTitle": "Fate/stay night: Unlimited Blade Works",
+        "id": "fatestay-night-unlimited-blade-works-268",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68eab973405a632e06d357b1cbaa910e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "28m"
+      },
+      {
+        "title": "Night Is Short, Walk on Girl",
+        "alternativeTitle": "Yoru wa Mijikashi Arukeyo Otome",
+        "id": "night-is-short-walk-on-girl-267",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/18c259376e345dfab7aa763986c0ca2f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Trigun",
+        "alternativeTitle": "Trigun",
+        "id": "trigun-266",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e03bf5773842843f07d5f5b6b222d19f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Senki Zesshou Symphogear XV",
+        "alternativeTitle": "Senki Zesshou Symphogear XV",
+        "id": "senki-zesshou-symphogear-xv-265",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0ee6cc155556257fe1950a8033d21f7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "ReLIFE: Kanketsu-hen",
+        "alternativeTitle": "ReLIFE: Kanketsu-hen",
+        "id": "relife-kanketsu-hen-264",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75aaf55bfd5dda101e356c5582034721.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "The King's Avatar: For the Glory",
+        "alternativeTitle": "Quanzhi Gaoshou Zhi Dianfeng Rongyao",
+        "id": "the-kings-avatar-for-the-glory-263",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2f4b807be95850e3282f273944d82b3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "Noragami Aragoto",
+        "alternativeTitle": "Noragami Aragoto",
+        "id": "noragami-aragoto-262",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a45f93b0ea52ce10ca44403afa16659d.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 13,
+          "eps": 15
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

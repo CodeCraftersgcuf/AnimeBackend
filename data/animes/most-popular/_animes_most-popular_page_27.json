@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 50,
+      "currentPage": 27,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Infinite Stratos 2",
+        "alternativeTitle": "IS: Infinite Stratos 2",
+        "id": "infinite-stratos-2-5324",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c139455bc1480a2f35a7b0dc5ba6f4b3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Beastars",
+        "alternativeTitle": "Beastars",
+        "id": "beastars-382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb532a0deb7f6d001acaeb9bbf4077a7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Domestic Girlfriend",
+        "alternativeTitle": "Domestic na Kanojo",
+        "id": "domestic-girlfriend-4219",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2f7fc31cbe99d73633744e633e4a3a50.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Naruto: Shippuuden Movie 5 - Blood Prison",
+        "alternativeTitle": "Naruto: Shippuuden Movie 5 - Blood Prison",
+        "id": "naruto-shippuuden-movie-5-blood-prison-1642",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23a436a4ae640fa191a587b5e417bf7d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "CHOYOYU!: High School Prodigies Have It Easy Even in Another World!",
+        "alternativeTitle": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!",
+        "id": "choyoyu-high-school-prodigies-have-it-easy-even-in-another-world-6448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2a4bf501ac8dae589af311b5f7989db.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Call of the Night Season 2",
+        "alternativeTitle": "Yofukashi no Uta Season 2",
+        "id": "call-of-the-night-season-2-19791",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e19ae2576c697406e319f26ac939fce.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Umibe no Étranger",
+        "alternativeTitle": "Umibe no Étranger",
+        "id": "umibe-no-etranger-12312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47436b74de98af9c09299376fd2ead1d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Beyblade Burst",
+        "alternativeTitle": "Beyblade Burst",
+        "id": "beyblade-burst-6502",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f289c589d1ad9748c16b7d5525a003d7.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tanaka-kun is Always Listless",
+        "alternativeTitle": "Tanaka-kun wa Itsumo Kedaruge",
+        "id": "tanaka-kun-is-always-listless-639",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e695e30015865308c2a53895cd5d9c70.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "My Home Hero",
+        "alternativeTitle": "My Home Hero",
+        "id": "my-home-hero-18348",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee90286e090d5e5956ea7ef0b4e86d45.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "IS: Infinite Stratos: A Sextet Yearns to Be in Love",
+        "alternativeTitle": "IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou",
+        "id": "is-infinite-stratos-a-sextet-yearns-to-be-in-love-3827",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5a471bea5cdbc51383c73425bcd6fa79.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Made in Abyss Movie 3: Dawn of the Deep Soul",
+        "alternativeTitle": "Made in Abyss Movie 3: Fukaki Tamashii no Reimei",
+        "id": "made-in-abyss-movie-3-dawn-of-the-deep-soul-25",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1dc451293e0fdee7c45d31de7e49d436.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Ayaka: A Story of Bonds and Wounds",
+        "alternativeTitle": "Ayaka",
+        "id": "ayaka-a-story-of-bonds-and-wounds-18467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/180fcc0036a291329bc80878546bd17d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Blue Orchestra",
+        "alternativeTitle": "Ao no Orchestra",
+        "id": "the-blue-orchestra-18359",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1163cc1867f3bf59b4ddb65f3c937330.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Shironeko Project ZERO CHRONICLE",
+        "alternativeTitle": "Shironeko Project: Zero Chronicle",
+        "id": "shironeko-project-zero-chronicle-9768",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/834a5d5bd5ea4ceaa4dda5ae402d4901.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Naruto Movie 1: Ninja Clash in the Land of Snow",
+        "alternativeTitle": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!",
+        "id": "naruto-the-movie-ninja-clash-in-the-land-of-snow-3162",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1ab85f1eb75ec0a986e4c9d5fe04b49.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Black Butler: Public School Arc",
+        "alternativeTitle": "Kuroshitsuji: Kishuku Gakkou-hen",
+        "id": "black-butler-public-school-arc-19137",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0e186794ce8e1e649399b3de4fe6470.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Queen's Blade: The Exiled Virgin",
+        "alternativeTitle": "Queen's Blade: Rurou no Senshi",
+        "id": "queens-blade-the-exiled-virgin-7230",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ffebf320e2990d1711b2221691e7bbf8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To Every You I've Loved Before",
+        "alternativeTitle": "Boku ga Aishita Subete no Kimi e",
+        "id": "to-every-you-ive-loved-before-18188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/367ad0995e8b6291efdc190dec85166e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Nanbaka",
+        "alternativeTitle": "Nanbaka",
+        "id": "nanbaka-2139",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1450f8c22148c455c5cfac3800a8436d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dr. Stone: Science Future Part 2",
+        "alternativeTitle": "Dr. Stone: Science Future Part 2",
+        "id": "dr-stone-science-future-part-2-19784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b75dcc53fe3edbd35ebd4f10e4d62ada.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kengan Ashura Part 2",
+        "alternativeTitle": "Kengan Ashura Part 2",
+        "id": "kengan-ashura-part-2-932",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5e74e931d5c636879ac09690101e4221.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Kono Oto Tomare!: Sounds of Life Season 2",
+        "alternativeTitle": "Kono Oto Tomare! 2nd Season",
+        "id": "kono-oto-tomare-sounds-of-life-season-2-125",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4b1626d09c7cd0eb4bd5c00145ece25.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mayo Chiki!",
+        "alternativeTitle": "Mayo Chiki!",
+        "id": "mayo-chiki-2167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef4829d91702bc068f70764ca568f467.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Black Butler: Emerald Witch Arc",
+        "alternativeTitle": "Kuroshitsuji: Midori no Majo-hen",
+        "id": "black-butler-emerald-witch-arc-19550",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d5b93e7a52232edce885edff7ab364e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sword Art Online Alternative: Gun Gale Online",
+        "alternativeTitle": "Sword Art Online Alternative: Gun Gale Online",
+        "id": "sword-art-online-alternative-gun-gale-online-3106",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/19fdf9012efd098ddcb762dfc09c9e7d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The King's Avatar 2",
+        "alternativeTitle": "Quanzhi Gaoshou 2",
+        "id": "the-kings-avatar-2-300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e2417e65191bb0c1534beb4eb5883bc6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "26m"
+      },
+      {
+        "title": "Attack on Titan OVA",
+        "alternativeTitle": "Shingeki no Kyojin OVA",
+        "id": "attack-on-titan-ova-761",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c563690ade996fc0f7788a8e961ae7e6.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "I Shall Survive Using Potions!",
+        "alternativeTitle": "Potion-danomi de Ikinobimasu!",
+        "id": "i-shall-survive-using-potions-18609",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/988a7f29e5feb98769b909654652d70b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Malevolent Spirits: Mononogatari",
+        "alternativeTitle": "Mononogatari",
+        "id": "malevolent-spirits-mononogatari-18300",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9fb3330b12e98c51a7d3bc3824ba1785.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bungou Stray Dogs: Dead Apple",
+        "alternativeTitle": "Bungou Stray Dogs: Dead Apple",
+        "id": "bungou-stray-dogs-dead-apple-778",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8fa969258e1333d80d397ed5fc9b144.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Kanokon: The Girl Who Cried Fox",
+        "alternativeTitle": "Kanokon",
+        "id": "kanokon-the-girl-who-cried-fox-5853",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c850474a576ad45579f7ef4bb2a908a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Citrus",
+        "alternativeTitle": "Citrus",
+        "id": "citrus-5651",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfb5d396d17c1935fe491764285fb702.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Summer Hikaru Died",
+        "alternativeTitle": "Hikaru ga Shinda Natsu",
+        "id": "the-summer-hikaru-died-19783",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59ecd5571fb25e6b09ff27f580fd2fbb.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Beyblade Burst Evolution",
+        "alternativeTitle": "Beyblade Burst God",
+        "id": "beyblade-burst-evolution-4885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5fe547c28b3ffce06c51197c2241bce1.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fog Hill of Five Elements",
+        "alternativeTitle": "Wu Shan Wu Xing",
+        "id": "fog-hill-of-five-elements-549",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0642885f4616369335626d59f0bf593.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "26m"
+      },
+      {
+        "title": "Ayakashi Triangle",
+        "alternativeTitle": "Ayakashi Triangle",
+        "id": "ayakashi-triangle-18292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/420216d5879919ca39f164dd04ba8b33.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Blood Lad",
+        "alternativeTitle": "Blood Lad",
+        "id": "blood-lad-2049",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03aacde64eecc5b519232f9a80268b00.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Freezing",
+        "alternativeTitle": "Freezing",
+        "id": "freezing-3816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e251074ee9e14864b4986dc0eecbc41a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gosick",
+        "alternativeTitle": "Gosick",
+        "id": "gosick-397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fcdad474a87417d34d51efe3a778f5b8.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

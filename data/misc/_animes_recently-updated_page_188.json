@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 188,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Comet Lucifer",
+        "alternativeTitle": "Comet Lucifer",
+        "id": "comet-lucifer-8424",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48352ca1c614c60930288348bd1ddea4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Between the Sky and Sea",
+        "alternativeTitle": "Sora to Umi no Aida",
+        "id": "between-the-sky-and-sea-8936",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/87873b5be4d51e3e63528106826f0a48.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bem Movie: Become Human",
+        "alternativeTitle": "Bem Movie: Become Human",
+        "id": "bem-movie-become-human-13032",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dbc91f64838695cdd71826b223f658d5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Voltage Fighter Gowcaizer: OVA",
+        "alternativeTitle": "Voltage Fighter Gowcaizer: OVA",
+        "id": "voltage-fighter-gowcaizer-ova-17896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d43dde976d0c68a5ed392c077874d95.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "64m"
+      },
+      {
+        "title": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD",
+        "alternativeTitle": "IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD",
+        "id": "idolish7-movie-live-4bit-beyond-the-period-19176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da7db51aaf278283e526632d29fe1ee5.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "In/Spectre Mini Anime Season 2",
+        "alternativeTitle": "Kyokou Suiri Mini Anime Season 2",
+        "id": "inspectre-mini-anime-season-2-19688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e8990880d2747950de4c593e19cf866.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "1m"
+      },
+      {
+        "title": "Tomorrow's Joe",
+        "alternativeTitle": "Ashita no Joe",
+        "id": "tomorrows-joe-233",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/84afd22a4078206ce58eddfdae13c14c.jpg",
+        "episodes": {
+          "sub": 79,
+          "dub": 0,
+          "eps": 79
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Major Movie: Yuujou no Winning Shot",
+        "alternativeTitle": "Major Movie: Yuujou no Winning Shot",
+        "id": "major-movie-yuujou-no-winning-shot-489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b0a6e18d168a4811b71b7b73ebf878a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Lupin the IIIrd: Chikemuri no Ishikawa Goemon",
+        "alternativeTitle": "Lupin the IIIrd: Chikemuri no Ishikawa Goemon",
+        "id": "lupin-the-iiird-chikemuri-no-ishikawa-goemon-745",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c705f54769060d1760ee8955cf49b2b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "53m"
+      },
+      {
+        "title": "Knights of Sidonia",
+        "alternativeTitle": "Sidonia no Kishi",
+        "id": "knights-of-sidonia-1001",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c6527ced654a56e36707c7743dd89b1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arakawa Under the Bridge",
+        "alternativeTitle": "Arakawa Under the Bridge",
+        "id": "arakawa-under-the-bridge-1257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/524145aff7cfb83a07d56923e16d866e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "How to Keep a Mummy",
+        "alternativeTitle": "Miira no Kaikata",
+        "id": "how-to-keep-a-mummy-1769",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8dd489b2d653eadb37555cd38fed6212.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Appleseed: Ex Machina",
+        "alternativeTitle": "Appleseed Saga Ex Machina",
+        "id": "appleseed-ex-machina-2025",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64be3e5867ec2cd512275a42ab0c75c4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Cardfight!! Vanguard Link Joker",
+        "alternativeTitle": "Cardfight!! Vanguard: Link Joker-hen",
+        "id": "cardfight-vanguard-link-joker-2793",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7986f18a3d140207e1c7164f1d9c4de.jpg",
+        "episodes": {
+          "sub": 59,
+          "dub": 0,
+          "eps": 59
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ronin Warriors",
+        "alternativeTitle": "Yoroiden Samurai Troopers",
+        "id": "ronin-warriors-3305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc20318fed93236b0c70fb3b837df4da.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Jubei-chan 2: The Counterattack of Siberia Yagyu",
+        "alternativeTitle": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
+        "id": "jubei-chan-2-the-counterattack-of-siberia-yagyu-4073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b114d13494d3418364733559221b728.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tesagure! Bukatsumono",
+        "alternativeTitle": "Tesagure! Bukatsumono",
+        "id": "tesagure-bukatsumono-4585",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7249d8566637edbe5b46951775879d0d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Galaxy Express 999: Eternal Fantasy",
+        "alternativeTitle": "Ginga Tetsudou 999: Eternal Fantasy",
+        "id": "galaxy-express-999-eternal-fantasy-5097",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfff6e92ae899ee4d3642d21feaab190.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "54m"
+      },
+      {
+        "title": "Queen's Blade: Beautiful Warriors",
+        "alternativeTitle": "Queen's Blade: Utsukushiki Toushi-tachi",
+        "id": "queens-blade-beautiful-warriors-5353",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9e236e959b9341b47b7c1ba759a8c762.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Noiseman Sound Insect",
+        "alternativeTitle": "Onkyo Seimeitai Noiseman",
+        "id": "noiseman-sound-insect-5609",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2badc500c79fb0852bbbd80dcca0e0bb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "15m"
+      },
+      {
+        "title": "Nagasaki 1945 ~ The Angelus Bells",
+        "alternativeTitle": "Nagasaki 1945: Angelus no Kane",
+        "id": "nagasaki-1945-the-angelus-bells-5865",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/effc01aee407dddb9971af2957bc98ba.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Wicked City",
+        "alternativeTitle": "Youjuu Toshi",
+        "id": "wicked-city-6121",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37beeb4e5e51d3700a40a3056a510a8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Magical Play",
+        "alternativeTitle": "Mahou Yuugi 2D",
+        "id": "magical-play-6377",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3e597a6611261bb88ac453295c888cb6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 24
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "King of Fighters: Another Day",
+        "alternativeTitle": "King of Fighters: Another Day",
+        "id": "king-of-fighters-another-day-6633",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09587de5acff2f816d90b9456b1a7e08.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa",
+        "alternativeTitle": "Ginga Eiyuu Densetsu Gaiden: Ougon no Tsubasa",
+        "id": "ginga-eiyuu-densetsu-gaiden-ougon-no-tsubasa-6889",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0190faca8583e5291559c102b233be0e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Detective Conan: Amuro Secret Call",
+        "alternativeTitle": "Detective Conan: Amuro Secret Call",
+        "id": "detective-conan-amuro-secret-call-7145",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4347dffb5ac719943af7fb1d8d2941f2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "Queen's Blade OVA Specials",
+        "alternativeTitle": "Queen's Blade OVA Specials",
+        "id": "queens-blade-ova-specials-7657",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/94db270f768b25a74b21133c0204ee79.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "20m"
+      },
+      {
+        "title": "Gun x Sword-san",
+        "alternativeTitle": "Gun x Sword-san",
+        "id": "gun-x-sword-san-8681",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f73f3aa3687565c311ba2102b50056d7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Beanie's Daily Extra Story: Don't Forget Me",
+        "alternativeTitle": "Qing Chi Hong Xiaodou Ba! Wai Zhuan: Mo Xiang Wang",
+        "id": "beanies-daily-extra-story-dont-forget-me-11241",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11a0d4e9a636d4e72398fffb80b3b89b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "The Young Imperial Guards 2nd Season",
+        "alternativeTitle": "Shaonian Jinyiwei 2nd Season",
+        "id": "the-young-imperial-guards-2nd-season-11497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d0207cfdc22dacf184b8cacea190c8a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "[RAW] Mouretsu Atarou",
+        "alternativeTitle": "[RAW] Mouretsu Atarou",
+        "id": "mouretsu-atarou-15337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0da350324a6b5712248ff63a54a88c5a.jpg",
+        "episodes": {
+          "sub": 90,
+          "dub": 0,
+          "eps": 90
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Uma Musume: Pretty Derby Season 2",
+        "alternativeTitle": "Uma Musume: Pretty Derby (TV) Season 2",
+        "id": "uma-musume-pretty-derby-season-2-15593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/023287977574f60fca09107ee5741503.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pretty Guardians Sailor Moon: COSMOS The Movie",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon Cosmos Movie",
+        "id": "pretty-guardians-sailor-moon-cosmos-the-movie-17641",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b04132e6a3627daa0aed2e270326061d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "130m"
+      },
+      {
+        "title": "Swallowed Star: Blood Luo Continent",
+        "alternativeTitle": "Tunshi Xingkong Movie: Xueluo Dalu",
+        "id": "swallowed-star-blood-luo-continent-19433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9a6a40862ba374caf0ca9e3ce2ca934f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "93m"
+      },
+      {
+        "title": "Mobile Suit Gundam: The 08th MS Team",
+        "alternativeTitle": "Mobile Suit Gundam: The 08th MS Team",
+        "id": "mobile-suit-gundam-the-08th-ms-team-490",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e315c4b033f36a27c4aa0dd59a6b2846.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Lupin III: Jigen's Gravestone",
+        "alternativeTitle": "Lupin the IIIrd: Jigen Daisuke no Bohyou",
+        "id": "lupin-iii-jigens-gravestone-746",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b90c841154120662175e5a0093447d59.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Movie",
+        "duration": "51m"
+      },
+      {
+        "title": "Tsuredure Children",
+        "alternativeTitle": "Tsurezure Children",
+        "id": "tsuredure-children-1002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d4c825b09dd114fee1cd8b57bbcf040.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "BanG Dream! 2nd Season",
+        "alternativeTitle": "BanG Dream! 2nd Season",
+        "id": "bang-dream-2nd-season-1258",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b810c9de7829c9c1d177ca031374609.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Waiting in the Summer",
+        "alternativeTitle": "Ano Natsu de Matteru",
+        "id": "waiting-in-the-summer-1514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58b6ed7c0ed874b6290b320c538e760e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mitsuboshi Colors",
+        "alternativeTitle": "Mitsuboshi Colors",
+        "id": "mitsuboshi-colors-1770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7aefffb1d6b2fb298ca8d313d7025e5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

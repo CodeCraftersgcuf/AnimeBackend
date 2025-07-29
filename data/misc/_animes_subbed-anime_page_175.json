@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 230,
+      "currentPage": 175,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Potemayo Specials",
+        "alternativeTitle": "Potemayo Specials",
+        "id": "potemayo-specials-2188",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d416ade4e87fcd8152fb50a041fd5aef.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "9m"
+      },
+      {
+        "title": "Outbreak Company",
+        "alternativeTitle": "Outbreak Company",
+        "id": "outbreak-company-2187",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d685ca618180d3608a60d721cb8b62af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Magical DoReMi: Sharp",
+        "alternativeTitle": "Ojamajo Doremi Sharp",
+        "id": "magical-doremi-sharp-2185",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c84318a9bb4d74c3c1345e9df4ae64d4.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Yuyushiki: Komarasetari, Komarasaretari",
+        "alternativeTitle": "Yuyushiki: Komarasetari, Komarasaretari",
+        "id": "yuyushiki-komarasetari-komarasaretari-2184",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/974a401c229cd3fc6e35e12d53946953.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Wan Jie Xian Zong 2nd Season",
+        "alternativeTitle": "Wan Jie Xian Zong 2nd Season",
+        "id": "wan-jie-xian-zong-2nd-season-2183",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11a396a9eddee0a18dfd136c9f83038c.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Wan Jie Xian Zong",
+        "alternativeTitle": "Wan Jie Xian Zong",
+        "id": "wan-jie-xian-zong-2182",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d70ef8fb6f0acd909f4df7088b9afb6.jpg",
+        "episodes": {
+          "sub": 40,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Top Secret: The Revelation",
+        "alternativeTitle": "Top Secret: The Revelation",
+        "id": "top-secret-the-revelation-2181",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddd042f724495eed33d1122079f7e8ec.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Tari Tari",
+        "alternativeTitle": "Tari Tari",
+        "id": "tari-tari-2180",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/11303a555e1b168d5d4746d2eba4a50d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Tales of Zestiria the X",
+        "alternativeTitle": "Tales of Zestiria the Cross",
+        "id": "tales-of-zestiria-the-x-2179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ff821f4ab36b42e5d9bb3316013e605.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Twin Star Exorcists",
+        "alternativeTitle": "Sousei no Onmyouji",
+        "id": "twin-star-exorcists-2178",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c0c2f71ae35c9d02dce5d847fe34e7e7.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 50,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Slayers Movie 3",
+        "alternativeTitle": "Slayers Great",
+        "id": "slayers-movie-3-2177",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/85e4317b703bcb606855b3469f7a792f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Slayers Excellent",
+        "alternativeTitle": "Slayers Excellent",
+        "id": "slayers-excellent-2176",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47574ff76a3b2b00b6ce2c3f38cd3073.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Saki Episode of Side A",
+        "alternativeTitle": "Saki Achiga-hen: Episode of Side-A",
+        "id": "saki-episode-of-side-a-2174",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eac102675637f70b17d93e8df89963cf.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Saekano: How to Raise a Boring Girlfriend .flat - Fan Service of Love and Pure heart",
+        "alternativeTitle": "Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai",
+        "id": "saekano-how-to-raise-a-boring-girlfriend-flat-fan-service-of-love-and-pure-heart-2173",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/03d6a7950b5b2c98caeb31d2e0478451.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "22m"
+      },
+      {
+        "title": "Peace Maker Kurogane",
+        "alternativeTitle": "Peace Maker Kurogane",
+        "id": "peace-maker-kurogane-2171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9dfb81593124ba13371f18fa606e7431.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Cat Soup",
+        "alternativeTitle": "Nekojiru-sou",
+        "id": "cat-soup-2169",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe5efe0eb230d29fcfb4f770bad3144e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "32m"
+      },
+      {
+        "title": "Rin: Daughters of Mnemosyne",
+        "alternativeTitle": "Mnemosyne: Mnemosyne no Musume-tachi",
+        "id": "rin-daughters-of-mnemosyne-2168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/baa4127997480a34e5ac0c5c4c1d8426.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "TV",
+        "duration": "45m"
+      },
+      {
+        "title": "Mayo Chiki!",
+        "alternativeTitle": "Mayo Chiki!",
+        "id": "mayo-chiki-2167",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef4829d91702bc068f70764ca568f467.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "KimiKiss: Pure Rouge",
+        "alternativeTitle": "KimiKiss Pure Rouge",
+        "id": "kimikiss-pure-rouge-2165",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cc69d631c98eca2cff23067186e6acc1.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kannagi: Crazy Shrine Maidens",
+        "alternativeTitle": "Kannagi",
+        "id": "kannagi-crazy-shrine-maidens-2163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c1766b54c24ccb168a0b8d2cb3fad70.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "JoJo's Bizarre Adventure",
+        "alternativeTitle": "JoJo no Kimyou na Bouken",
+        "id": "jojos-bizarre-adventure-2161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6e3c8512d5c909045c7d4df5cb3312f6.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "35m"
+      },
+      {
+        "title": "Initial D Extra Stage",
+        "alternativeTitle": "Initial D Extra Stage",
+        "id": "initial-d-extra-stage-2160",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cecb4f0ab6435f6916e64eeff5c9f55.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Hori-san to Miyamura-kun",
+        "alternativeTitle": "Hori-san to Miyamura-kun",
+        "id": "hori-san-to-miyamura-kun-2159",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fafebc15a9d2eba44c359dddaf0f5aad.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "High School DxD BorN Specials",
+        "alternativeTitle": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video",
+        "id": "high-school-dxd-born-specials-2158",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7c9ecbed19e480f0fb69f8c347d5c17.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "3m"
+      },
+      {
+        "title": "Hetalia: The World Twinkle",
+        "alternativeTitle": "Hetalia: The World Twinkle",
+        "id": "hetalia-the-world-twinkle-2157",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a92ef34260d81d71ce1b62632cc3713f.jpg",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Hatsukoi Limited",
+        "alternativeTitle": "Hatsukoi Limited.",
+        "id": "hatsukoi-limited-2156",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e0c7e688169941499b74a14a6a787dc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Hanayamata",
+        "alternativeTitle": "Hanayamata",
+        "id": "hanayamata-2155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43223a46cd71aa77d05b6ffcf9e5988c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gatchaman Crowds",
+        "alternativeTitle": "Gatchaman Crowds",
+        "id": "gatchaman-crowds-2154",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63b6f4087454214d5810082e4b95d6dd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Future GPX Cyber Formula",
+        "alternativeTitle": "Future GPX Cyber Formula",
+        "id": "future-gpx-cyber-formula-2153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/24d280d2dae71cedabda59a0bc606298.jpg",
+        "episodes": {
+          "sub": 37,
+          "dub": 0,
+          "eps": 37
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fullmetal Alchemist: The Sacred Star of Milos",
+        "alternativeTitle": "Fullmetal Alchemist: The Sacred Star of Milos",
+        "id": "fullmetal-alchemist-the-sacred-star-of-milos-2152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d38bb80136aae319d5829956fdb4b0a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Battle Through the Heavens",
+        "alternativeTitle": "Doupo Cangqiong",
+        "id": "battle-through-the-heavens-2150",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2eca9955980e30a007f410a15aff4fd.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Doraemon Movie 33: Nobita's Secret Gadget Museum",
+        "alternativeTitle": "Doraemon Movie 33: Nobita no Himitsu Dougu Museum",
+        "id": "doraemon-movie-33-nobitas-secret-gadget-museum-2149",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eadb2f5470c5921d7bbeb35b1c7e6005.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "104m"
+      },
+      {
+        "title": "Donten: Laughing Under the Clouds - Gaiden: Chapter 1 - One Year After the Battle",
+        "alternativeTitle": "Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai",
+        "id": "donten-laughing-under-the-clouds-gaiden-chapter-1-one-year-after-the-battle-2148",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0103379ad8379c46bb45aa39254dc3a2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "50m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 10: The Storm Called: The Battle of the Warring States",
+        "alternativeTitle": "Crayon Shin-chan Movie 10: Arashi wo Yobu Appare! Sengoku Daikassen",
+        "id": "crayon-shin-chan-movie-10-the-storm-called-the-battle-of-the-warring-states-2146",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ea49170f7c4d443e118ebb0a0bb49f1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      }
+    ]
+  }
+}

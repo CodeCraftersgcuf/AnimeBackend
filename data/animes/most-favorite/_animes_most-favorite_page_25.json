@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 25,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Kimi ni Todoke: From Me To You 2",
+        "alternativeTitle": "Kimi ni Todoke 2nd Season",
+        "id": "kimi-ni-todoke-from-me-to-you-2-486",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/596302f03f4a001bdfde68c592bf9604.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Tonari no Seki-kun: The Master of Killing Time",
+        "alternativeTitle": "Tonari no Seki-kun",
+        "id": "tonari-no-seki-kun-the-master-of-killing-time-1290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/303864337eded7232da64a6dc0c9f767.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 21,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Naruto: Shippuuden Movie 6: Road to Ninja",
+        "alternativeTitle": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+        "id": "naruto-shippuuden-movie-6-road-to-ninja-1066",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dde4a8a8ddd19648711845448d02d6d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Accel World",
+        "alternativeTitle": "Accel World",
+        "id": "accel-world-2109",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a31ed251de92862d8816f2930fd888f.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Chaika -The Coffin Princess-",
+        "alternativeTitle": "Hitsugi no Chaika",
+        "id": "chaika-the-coffin-princess-2330",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d57c52268b57006e2a0f75fc2f8411d1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Infinite Dendrogram",
+        "alternativeTitle": "Infinite Dendrogram",
+        "id": "infinite-dendrogram-7436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/295926ca2334663d3dbd0f53da1a14fd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Baka & Test - Summon the Beasts",
+        "alternativeTitle": "Baka to Test to Shoukanjuu",
+        "id": "baka-test-summon-the-beasts-1199",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e482f96af57358e7c2a1dadab9f79b2f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maquia: When the Promised Flower Blooms",
+        "alternativeTitle": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "id": "maquia-when-the-promised-flower-blooms-110",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a9b19137629f50c8bf9cb40353ecd52b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "115m"
+      },
+      {
+        "title": "The Boy and the Beast",
+        "alternativeTitle": "Bakemono no Ko",
+        "id": "the-boy-and-the-beast-173",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/79345280b2ef511dd48f25428faf485c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Super Dragon Ball Heroes",
+        "alternativeTitle": "Super Dragon Ball Heroes",
+        "id": "super-dragon-ball-heroes-9688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc1904280b9effa1624c0d2b2652aa52.jpg",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 20
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Kizumonogatari I: Tekketsu",
+        "alternativeTitle": "Kizumonogatari I: Tekketsu-hen",
+        "id": "kizumonogatari-part-1-tekketsu-143",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/087767bd3fc170a389ba8c7438bf709d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "64m"
+      },
+      {
+        "title": "Log Horizon: Destruction of the Round Table",
+        "alternativeTitle": "Log Horizon: Entaku Houkai",
+        "id": "log-horizon-destruction-of-the-round-table-15779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1ad9bd7f0bbcf53621a3496cce3a79d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Date A Live V",
+        "alternativeTitle": "Date A Live V",
+        "id": "date-a-live-v-19144",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/987156345df524528ff0001d350c407e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Afro Samurai",
+        "alternativeTitle": "Afro Samurai",
+        "id": "afro-samurai-2047",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46017c7aa6824d6665315c0795bd45af.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "TV",
+        "duration": "27m"
+      },
+      {
+        "title": "Akebi's Sailor Uniform",
+        "alternativeTitle": "Akebi-chan no Sailor-fuku",
+        "id": "akebis-sailor-uniform-17724",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/68d88b19bced0cd659aa73737b319566.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte",
+        "alternativeTitle": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san",
+        "id": "endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte-18287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fd83b451e94aa5b6ba23a1cd1472c788.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Record of Ragnarok II Part 2",
+        "alternativeTitle": "Shuumatsu no Walküre II Part 2",
+        "id": "record-of-ragnarok-ii-part-2-18456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6aa196071c5d34e43f4fdc94f18e96e.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 5,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Boruto: Naruto the Movie",
+        "alternativeTitle": "Boruto: Naruto the Movie",
+        "id": "boruto-naruto-the-movie-1391",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f0ad5b3ee01703cc817638973b535aa2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "95m"
+      },
+      {
+        "title": "Keijo!!!!!!!!",
+        "alternativeTitle": "Keijo!!!!!!!!",
+        "id": "keijo-3356",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/973e1deefe6d523c75f27ae55d59d385.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sword Art Online: Progressive - Scherzo of Deep Night",
+        "alternativeTitle": "Sword Art Online: Progressive Movie - Kuraki Yuuyami no Scherzo",
+        "id": "sword-art-online-progressive-scherzo-of-deep-night-18189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1fae90b9ac557db63c781bae51ba2fa1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "100m"
+      },
+      {
+        "title": "Kiki's Delivery Service",
+        "alternativeTitle": "Majo no Takkyuubin",
+        "id": "kikis-delivery-service-257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a4253a0527c2a5f6e363a990529439e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "103m"
+      },
+      {
+        "title": "Ajin: Demi-Human",
+        "alternativeTitle": "Ajin",
+        "id": "ajin-demi-human-1512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/83d665fddd648684ded2222240832df5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Claymore",
+        "alternativeTitle": "Claymore",
+        "id": "claymore-844",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c3408d612c15928293728909118eef8.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Kawai Complex Guide to Manors and Hostel Behavior",
+        "alternativeTitle": "Bokura wa Minna Kawai-sou",
+        "id": "the-kawai-complex-guide-to-manors-and-hostel-behavior-927",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2597e2036d6b1d6e93517a94c89049d2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "NAKAIMO - My Little Sister Is Among Them!",
+        "alternativeTitle": "Kono Naka ni Hitori, Imouto ga Iru!",
+        "id": "nakaimo-my-little-sister-is-among-them-5189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a37887704243f05435cfebc46ad049c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Eden of Grisaia",
+        "alternativeTitle": "Grisaia no Rakuen",
+        "id": "the-eden-of-grisaia-665",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/14a8ddd8698742ace5e9a0ecf0db5c1b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shadows House",
+        "alternativeTitle": "Shadows House",
+        "id": "shadows-house-17254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/876881fbaafdde48ea2ea9d48ee8bb7c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Scarlet Nexus",
+        "alternativeTitle": "Scarlet Nexus",
+        "id": "scarlet-nexus-17715",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f55620a17272778cc73968f8c2c060e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "No. 6",
+        "alternativeTitle": "No.6",
+        "id": "no-6-1293",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b90b440892775dc743660936641c9f1e.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Medaka Box",
+        "alternativeTitle": "Medaka Box",
+        "id": "medaka-box-3249",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/88beb3e1ce98e19f5750704b63bf9442.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To the Abandoned Sacred Beasts",
+        "alternativeTitle": "Katsute Kami Datta Kemono-tachi e",
+        "id": "to-the-abandoned-sacred-beasts-6163",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/201eadf2331f22da6d386744129f333b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Wind Rises",
+        "alternativeTitle": "Kaze Tachinu",
+        "id": "the-wind-rises-369",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8d6ab61489ebd528f6471174040dbb48.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "126m"
+      },
+      {
+        "title": "The Duke of Death and His Maid Season 2",
+        "alternativeTitle": "Shinigami Bocchan to Kuro Maid 2nd Season",
+        "id": "the-duke-of-death-and-his-maid-season-2-18489",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1581fb1cc0d929f11fdd190ff5f6a7b.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dusk Maiden of Amnesia",
+        "alternativeTitle": "Tasogare Otome x Amnesia",
+        "id": "dusk-maiden-of-amnesia-709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1891b259a73724cdd7d389abc44bc2f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Monogatari Series",
+        "alternativeTitle": "Nisemonogatari",
+        "id": "the-monogatari-series-319",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66c8ef7dca0995ff79af5998c8bc7d90.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Teasing Master Takagi-san 2",
+        "alternativeTitle": "Karakai Jouzu no Takagi-san 2",
+        "id": "teasing-master-takagi-san-2-305",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe55c80160987eb301dfb3283c9748fa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "A Lull in the Sea",
+        "alternativeTitle": "Nagi no Asu kara",
+        "id": "a-lull-in-the-sea-395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1484f38d8a9c7065c9dffc5087285670.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Honor Student at Magic High School",
+        "alternativeTitle": "Mahouka Koukou no Yuutousei",
+        "id": "the-honor-student-at-magic-high-school-17466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6767fbc29ead271ee16f9268433a0bd9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shaman King (2021)",
+        "alternativeTitle": "Shaman King (2021)",
+        "id": "shaman-king-2021-15541",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b8e8ab94a56f1e3eb720f1b218ba1c4c.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 52,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Do-Over Damsel Conquers The Dragon Emperor",
+        "alternativeTitle": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
+        "id": "the-do-over-damsel-conquers-the-dragon-emperor-19341",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75c35bc0256474202d917ca320fa99e4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

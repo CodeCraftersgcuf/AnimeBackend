@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 68,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": ".hack//Legend Of The Twilight",
+        "alternativeTitle": ".hack//Tasogare no Udewa Densetsu",
+        "id": "hacklegend-of-the-twilight-5303",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c415c1cfb7480e2bcdae300578e7d9d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragon Quest: Legend of the Hero Abel",
+        "alternativeTitle": "Dragon Quest: Abel Yuusha Densetsu",
+        "id": "dragon-quest-legend-of-the-hero-abel-4048",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a1ec5220b2d8d1f3b81c7e10ca4c851.jpg",
+        "episodes": {
+          "sub": 42,
+          "dub": 0,
+          "eps": 42
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": ".hack//Intermezzo",
+        "alternativeTitle": ".hack//Intermezzo",
+        "id": "hackintermezzo-5449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/20068dbb6c6a731c9fb34185ddc44c0f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": ".hack//Unison",
+        "alternativeTitle": ".hack//Unison",
+        "id": "hackunison-4812",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/920038ce8947d09b32102efe0da8b8d3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Element Hunters",
+        "alternativeTitle": "Element Hunters",
+        "id": "element-hunters-5088",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea6e79ecadfbfff76fa4d5e84b416749.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dream Eater Merry",
+        "alternativeTitle": "Yumekui Merry",
+        "id": "dream-eater-merry-3697",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf887d7b935f6039eaaf71ed33fd9af9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragonaut - The Resonance",
+        "alternativeTitle": "Dragonaut: The Resonance",
+        "id": "dragonaut-the-resonance-4983",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ea131c11ed0589475f15908236f2297f.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Dragonaut: The Resonance - Kotou - Tozasareta Kyousoo",
+        "alternativeTitle": "Dragonaut: The Resonance - Kotou - Tozasareta Kyousoo",
+        "id": "dragonaut-the-resonance-kotou-tozasareta-kyousoo-4050",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8c6952d9ae8766b58ba8d7f3b65d7aa.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Triage X",
+        "alternativeTitle": "Triage X",
+        "id": "triage-x-6499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8c4cc3328b896e7392ee142dac539dcf.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Dragonar Academy",
+        "alternativeTitle": "Seikoku no Dragonar",
+        "id": "dragonar-academy-5515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/34383ccdd826863738142948befb58f7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Honobono Log",
+        "alternativeTitle": "Honobono Log",
+        "id": "honobono-log-1967",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a328c7d14a1ad985bfafba29d6714ec4.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "My Two-Faced Little Sister S",
+        "alternativeTitle": "Himouto! Umaru-chanS",
+        "id": "my-two-faced-little-sister-s-3736",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ada271b00c969634947bb1b6d760455.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "Special",
+        "duration": "2m"
+      },
+      {
+        "title": "My Two-Faced Little Sister OVA",
+        "alternativeTitle": "Himouto! Umaru-chan OVA",
+        "id": "my-two-faced-little-sister-ova-2493",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d6f044f136a306170ce446e994caa39c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": ".hack//Quantum",
+        "alternativeTitle": ".hack//Quantum",
+        "id": "hackquantum-2790",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d18e2bde7a7282f6146d3ec43c4074bb.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "26m"
+      },
+      {
+        "title": "Fantastic Children",
+        "alternativeTitle": "Fantastic Children",
+        "id": "fantastic-children-1393",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/40133ad213f4f590fc63e4e5c7d92075.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dororo and Hyakkimaru",
+        "alternativeTitle": "Dororo to Hyakkimaru",
+        "id": "dororo-and-hyakkimaru-2998",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e55095f14b20af9350d200c03d7ac991.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "Ghastly Prince Enma Burning Up",
+        "alternativeTitle": "Dororon Enma-kun Meeramera",
+        "id": "ghastly-prince-enma-burning-up-5590",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3a87469d9485aec8479fef57ac9f3c4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dororo",
+        "alternativeTitle": "Dororo",
+        "id": "dororo-324",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09e13f545f690e4278625b68aea755aa.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fei Ren Zai",
+        "alternativeTitle": "Fei Ren Zai",
+        "id": "fei-ren-zai-3499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c906ebc2cf1d39b662394f8e63c8dede.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Fei Ren Zai 2nd Season",
+        "alternativeTitle": "Fei Ren Zai 2nd Season",
+        "id": "fei-ren-zai-2nd-season-13557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a2b84a120c454d248a9a73d3b8479b1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Triage X: Recollection XOXO",
+        "alternativeTitle": "Triage X: Recollection XOXO",
+        "id": "triage-x-recollection-xoxo-5709",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62db663444d9979451ab4bba13570561.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Triage X (Uncensored)",
+        "alternativeTitle": "Triage X (Uncensored)",
+        "id": "triage-x-uncensored-17886",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60d907f07272725909023dcb73a2171b.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Hero Return",
+        "alternativeTitle": "Yingxiong Zai Lin",
+        "id": "hero-return-15614",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/16b5954a13f4a584f61570db5d9d2e09.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "16m"
+      },
+      {
+        "title": "Final Approach",
+        "alternativeTitle": "Final Approach",
+        "id": "final-approach-5406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/758abedd84661df886541ad2091b424b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "14m"
+      },
+      {
+        "title": "Fighting Beauty Wulong Rebirth",
+        "alternativeTitle": "Kakutou Bijin Wulong: Rebirth",
+        "id": "fighting-beauty-wulong-rebirth-4060",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05c916bcc6d32f5d5bb671197bc348c5.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fei Ren Zai: Specials",
+        "alternativeTitle": "Fei Ren Zai: Specials",
+        "id": "fei-ren-zai-specials-17887",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abf28c3be3c0c67a0031dade6bb851a8.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Fei Ren Zai 3rd Season",
+        "alternativeTitle": "Fei Ren Zai 3rd Season",
+        "id": "fei-ren-zai-3rd-season-13558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/abec5935e0e17e8e91df2e6cd0b286a2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Fighting Beauty Wulong",
+        "alternativeTitle": "Kakutou Bijin Wulong",
+        "id": "fighting-beauty-wulong-5220",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/29e0978ee23c6f218ad7134d7d7e31d0.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fei Ren Zai 4th Season",
+        "alternativeTitle": "Fei Ren Zai 4th Season",
+        "id": "fei-ren-zai-4th-season-17624",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ffbe17f4d9ec351920af32a0cda3667.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Luck & Logic",
+        "alternativeTitle": "Luck & Logic",
+        "id": "luck-logic-7535",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/708ef6afcad643c3a8aee9b922062507.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kanon (Special): Kazahana",
+        "alternativeTitle": "Kanon Kazahana",
+        "id": "kanon-special-kazahana-4564",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e67698277e4e3f6a6e828a3c13e15476.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "20m"
+      },
+      {
+        "title": "Kanon",
+        "alternativeTitle": "Kanon",
+        "id": "kanon-3065",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3453b36163cd898e56b3d3210bb2f341.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "DNA² OVA",
+        "alternativeTitle": "DNA² OVA",
+        "id": "dna2-ova-5402",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7eb7d7dfbd3cfe07cc392d00068410cd.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Disgaea",
+        "alternativeTitle": "Makai Senki Disgaea",
+        "id": "disgaea-4534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48660c640ef82e08c5d5dcfefb07dbdf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fight!! Ramenman",
+        "alternativeTitle": "Tatakae!! Ramenman",
+        "id": "fight-ramenman-6311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/afe8dc60a13d2b70058e39e539e55a46.jpg",
+        "episodes": {
+          "sub": 35,
+          "dub": 0,
+          "eps": 35
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Baldr Force Exe Resolution",
+        "alternativeTitle": "Baldr Force Exe Resolution",
+        "id": "baldr-force-exe-resolution-5835",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3ac56ef7fa7318fa0a0638ee6402a7d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Stigma of the Wind",
+        "alternativeTitle": "Kaze no Stigma",
+        "id": "stigma-of-the-wind-2392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf88560885c82b51999e6e7394d28dd3.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "His and Her Circumstances",
+        "alternativeTitle": "Kareshi Kanojo no Jijou",
+        "id": "his-and-her-circumstances-1264",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/04121c2ba0906392e3635bb4a57dceba.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Story of Saiunkoku",
+        "alternativeTitle": "Saiunkoku Monogatari",
+        "id": "the-story-of-saiunkoku-582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0fe0be65bd4c74ba66b7370e6d713e84.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "My-Otome",
+        "alternativeTitle": "Mai-Otome",
+        "id": "my-otome-2304",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dedf1311643ff15cc0cc834beab2c515.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

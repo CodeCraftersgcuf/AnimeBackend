@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 20,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Pokémon: Twilight Wings - The Gathering of Stars",
+        "alternativeTitle": "Hakumei no Tsubasa: Expansion - Hoshi no Matsuri",
+        "id": "pokemon-twilight-wings-the-gathering-of-stars-17231",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa2635e4ceae6bdff233d28bf83358d1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Hetalia World Stars",
+        "alternativeTitle": "Hetalia World★Stars",
+        "id": "hetalia-world-stars-17229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a29fd31011f0eb8a88158eca15293fa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Kaguya-sama Love is War: Ultra Romantic",
+        "alternativeTitle": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 3rd Season",
+        "id": "kaguya-sama-love-is-war-ultra-romantic-17224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5b0a4b1b70e9e765a03bfa29ccdacb3f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Ranking of Kings",
+        "alternativeTitle": "Ousama Ranking",
+        "id": "ranking-of-kings-17195",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/179a17974d902c300fc72bda458f9608.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Weather Report Girl",
+        "alternativeTitle": "Otenki Oneesan",
+        "id": "weather-report-girl-16916",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6890f1e09d56e0c7a5cfcd3e637123a4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Choujin Densetsu Urotsukidouji Movie",
+        "alternativeTitle": "Choujin Densetsu Urotsukidouji Movie",
+        "id": "choujin-densetsu-urotsukidouji-movie-16529",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d2d335f58ba56287dbc645bde471aa8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "106m"
+      },
+      {
+        "title": "Kizuna",
+        "alternativeTitle": "Kizuna",
+        "id": "kizuna-16420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f7510ca4e7c2c428dce1cc37389c2918.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Mezzo Forte",
+        "alternativeTitle": "Mezzo Forte",
+        "id": "mezzo-forte-16168",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2172ce770bf04fb343be33d1073224f7.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ai no Kusabi (2012)",
+        "alternativeTitle": "Ai no Kusabi (2012)",
+        "id": "ai-no-kusabi-2012-16141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/52371306362cfe659dfc69868a1a4de4.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Judgement of Fury",
+        "alternativeTitle": "Nanatsu no Taizai: Fundo no Shinpan",
+        "id": "nanatsu-no-taizai-fundo-no-shinpan-15823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7513cf8e467b29f49967ac2110d5970d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mushoku Tensei: Jobless Reincarnation",
+        "alternativeTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "id": "mushoku-tensei-jobless-reincarnation-15820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/368b47bf4417b07cc9f316fffe10d342.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Moonrise",
+        "alternativeTitle": "Moonrise",
+        "id": "moonrise-15817",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/773fd8d751aabd509240fa36ac7b3a85.jpg",
+        "episodes": {
+          "sub": 18,
+          "dub": 18,
+          "eps": 18
+        },
+        "type": "ONA",
+        "duration": "28m"
+      },
+      {
+        "title": "The Dungeon of Black Company",
+        "alternativeTitle": "Meikyuu Black Company",
+        "id": "the-dungeon-of-black-company-15801",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f4ed02683ab2d8936ded597a7c698c0f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mother of the Goddess' Dormitory",
+        "alternativeTitle": "Megami-ryou no Ryoubo-kun.",
+        "id": "mother-of-the-goddess-dormitory-15799",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4baa39376c62b622a5bf42a2d4c597f.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Megalo Box 2",
+        "alternativeTitle": "Nomad: Megalo Box 2",
+        "id": "megalo-box-2-15798",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/48471dc3e2cecf5ef1127360cbcd0768.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mars Red",
+        "alternativeTitle": "Mars Red",
+        "id": "mars-red-15795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/353bff400248d1da2b840df238727da3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sorcerous Stabber Orphen: Battle of Kimluck",
+        "alternativeTitle": "Majutsushi Orphen Hagure Tabi: Kimluck-hen",
+        "id": "sorcerous-stabber-orphen-battle-of-kimluck-15794",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf1782110eda6e16aad085a9389da175.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Welcome to Demon School! Iruma-kun 2nd Season",
+        "alternativeTitle": "Mairimashita! Iruma-kun 2nd Season",
+        "id": "welcome-to-demon-school-iruma-kun-2nd-season-15792",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9bd4bf1d1b5ceb643bcce4d6bb8f590c.jpg",
+        "episodes": {
+          "sub": 21,
+          "dub": 21,
+          "eps": 21
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season",
+        "alternativeTitle": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season",
+        "id": "magia-record-mahou-shoujo-madokamagica-gaiden-tv-2nd-season-15787",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d71d57118585b5797840c8c29a535ff.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "MAGATSU WAHRHEIT",
+        "alternativeTitle": "Magatsu Wahrheit: Zuerst",
+        "id": "magatsu-wahrheit-15786",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9669e566f0faf65c498a34f164af71bf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Maesetsu! Opening Act",
+        "alternativeTitle": "Maesetsu!",
+        "id": "maesetsu-opening-act-15785",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ba02f0733b258e53e647fbe9ab488c4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Made in Abyss: The Golden City of the Scorching Sun",
+        "alternativeTitle": "Made in Abyss: Retsujitsu no Ougonkyou",
+        "id": "made-in-abyss-the-golden-city-of-the-scorching-sun-15784",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cfb473a0157437e02bd732ef8f40ae8a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Demon Girl Next Door 2nd Season",
+        "alternativeTitle": "Machikado Mazoku 2nd Season",
+        "id": "the-demon-girl-next-door-2nd-season-15781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8ab7698bfe28babc2f5b70dca33f6d9e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Log Horizon: Destruction of the Round Table",
+        "alternativeTitle": "Log Horizon: Entaku Houkai",
+        "id": "log-horizon-destruction-of-the-round-table-15779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1ad9bd7f0bbcf53621a3496cce3a79d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Vampire dies in no time",
+        "alternativeTitle": "Kyuuketsuki Sugu Shinu",
+        "id": "the-vampire-dies-in-no-time-15776",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cf38f4ad369693cab4fd3812e536ebb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "So I'm a Spider, So What?",
+        "alternativeTitle": "Kumo Desu ga, Nani ka?",
+        "id": "so-im-a-spider-so-what-15773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8e497ebaf33cf6fd58f6729b1c27084.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Eureka Seven Hi-Evolution 3",
+        "alternativeTitle": "Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka",
+        "id": "eureka-seven-hi-evolution-3-15770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/73d2164b599bc254a92e1d2633b0d235.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "116m"
+      },
+      {
+        "title": "The Boy and the Heron",
+        "alternativeTitle": "Kimitachi wa Dou Ikiru ka",
+        "id": "the-boy-and-the-heron-15765",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e52b75e7e14f6840ce39b96b17e8f9e5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "123m"
+      },
+      {
+        "title": "Demon Slayer Movie: Mugen Train",
+        "alternativeTitle": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+        "id": "kimetsu-no-yaiba-movie-mugen-ressha-hen-15763",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab45afa989aa5a2e06ef973c8482b015.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "She professed herself the pupil of the wise man.",
+        "alternativeTitle": "Kenja no Deshi wo Nanoru Kenja",
+        "id": "she-professed-herself-the-pupil-of-the-wise-man-15762",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31cc09da5bc793e7327f114618444142.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kemono Jihen",
+        "alternativeTitle": "Kemono Jihen",
+        "id": "kemono-jihen-15761",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c0311ccf3de7d04a82648f7ef3a68e8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Rent-A-Girlfriend 2nd Season",
+        "alternativeTitle": "Kanojo, Okarishimasu 2nd Season",
+        "id": "rent-a-girlfriend-2nd-season-15758",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc74be406954570894c7112980af10ff.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Day I Became a God",
+        "alternativeTitle": "Kamisama ni Natta Hi",
+        "id": "the-day-i-became-a-god-15757",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/53b70f158dd6299da500a0fa7f8b1faf.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Child of Kamiari Month",
+        "alternativeTitle": "Kamiarizuki no Kodomo",
+        "id": "child-of-kamiari-month-15756",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/02a31454d22e4f93d02fc6c1745b0e60.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "99m"
+      }
+    ]
+  }
+}

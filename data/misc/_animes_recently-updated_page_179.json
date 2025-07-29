@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 179,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Tian Guan Ci Fu",
+        "alternativeTitle": "Tian Guan Ci Fu",
+        "id": "tian-guan-ci-fu-15579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9209135e301a83da469922151d369f53.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "ABCiee Working Diary",
+        "alternativeTitle": "Abciee Shuugyou Nikki",
+        "id": "abciee-working-diary-17371",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a3dd11265bb0ca3af7a23125ecfcae15.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "BeyWarriors Cyborg Special",
+        "alternativeTitle": "BeyWarriors Cyborg Special",
+        "id": "beywarriors-cyborg-special-18395",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ee38781cc52514fd9d313da23a184f2.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "1st Kiss",
+        "alternativeTitle": "Ni De Rensheng Shi Wo Lai Chi Le",
+        "id": "1st-kiss-19419",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a11af49c54b50be807ce2d1d4ed5257.jpg",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Laid-Back Camp Season 3 Specials",
+        "alternativeTitle": "Yuru Camp△ Season 3 Specials",
+        "id": "laid-back-camp-season-3-specials-19675",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5076904ac8f65a276df212dd580f7635.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Ghost in the Shell",
+        "alternativeTitle": "Koukaku Kidoutai",
+        "id": "ghost-in-the-shell-220",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee5dad15cc3c6aeb58f74be440cf233d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Detective Conan Movie 15: Quarter of Silence",
+        "alternativeTitle": "Detective Conan Movie 15: Quarter of Silence",
+        "id": "detective-conan-movie-15-quarter-of-silence-476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1a7f3fad95a7df626bd5c980e31b70b1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Detective Conan Movie 08: Magician of the Silver Sky",
+        "alternativeTitle": "Detective Conan Movie 08: Magician of the Silver Sky",
+        "id": "detective-conan-movie-08-magician-of-the-silver-sky-732",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b42de55e8b7b93440f53d9107088ab6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "108m"
+      },
+      {
+        "title": "Lupin the 3rd: The First",
+        "alternativeTitle": "Lupin III: The First",
+        "id": "lupin-the-3rd-the-first-988",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab2e1b58cad968846e87b1e6f73745c3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "92m"
+      },
+      {
+        "title": "Persona 3 the Movie 1: Spring of Birth",
+        "alternativeTitle": "Persona 3 the Movie 1: Spring of Birth",
+        "id": "persona-3-the-movie-1-spring-of-birth-1244",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5fe2ce8429d445df4124e1fe6dd85a9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "City Hunter: .357 Magnum",
+        "alternativeTitle": "City Hunter: Ai to Shukumei no Magnum",
+        "id": "city-hunter-357-magnum-1756",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3c9657fc63c60065d2c7c61ddb272d25.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "87m"
+      },
+      {
+        "title": "Pretty Rhythm: Aurora Dream",
+        "alternativeTitle": "Pretty Rhythm: Aurora Dream",
+        "id": "pretty-rhythm-aurora-dream-2012",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e4dfae0ea048ae134f7204226071fed.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Seraph of the Endless",
+        "alternativeTitle": "Owaranai Seraph: Nagoya-hen",
+        "id": "seraph-of-the-endless-2268",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4dd55b5741dab28ed42c525a4fb3ec13.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Guyver: The Bio-boosted Armor",
+        "alternativeTitle": "Kyoushoku Soukou Guyver (2005)",
+        "id": "guyver-the-bio-boosted-armor-2524",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7e888e47716bfc5f2074ca89bdc9ebf4.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "SaiKano: She, The Ultimate Weapon",
+        "alternativeTitle": "Saishuu Heiki Kanojo",
+        "id": "saikano-she-the-ultimate-weapon-2780",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d8f3200aebc17d66a18ddeb581a1b86d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "New Atashin'chi",
+        "alternativeTitle": "Shin Atashin'chi",
+        "id": "new-atashinchi-3036",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31fe232b380a1e1dc719bc483f437515.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Occult Academy",
+        "alternativeTitle": "Seikimatsu Occult Gakuin",
+        "id": "occult-academy-3292",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/80ffe2ff43dd1ca5852c1a1f14fed76b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Corpse Princess: Kuro - Even So, As a Person",
+        "alternativeTitle": "Shikabane Hime: Kuro – Soredemo, Hito to Shite",
+        "id": "corpse-princess-kuro-even-so-as-a-person-3548",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0ee1888e73ec05e70248bdfb990649e7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Lupin III: Voyage to Danger",
+        "alternativeTitle": "Lupin III: Lupin Ansatsu Shirei",
+        "id": "lupin-iii-voyage-to-danger-3804",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/069b73005a38538206ee7cc8c74f5dd9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Fighting Beauty Wulong Rebirth",
+        "alternativeTitle": "Kakutou Bijin Wulong: Rebirth",
+        "id": "fighting-beauty-wulong-rebirth-4060",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05c916bcc6d32f5d5bb671197bc348c5.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Lupin III: Touhou Kenbunroku - Another Page",
+        "alternativeTitle": "Lupin III: Touhou Kenbunroku - Another Page",
+        "id": "lupin-iii-touhou-kenbunroku-another-page-4316",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ab06e0399695c09cf3bbc1dbd5d8bc27.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "90m"
+      },
+      {
+        "title": "Mobile Suit V Gundam",
+        "alternativeTitle": "Mobile Suit Victory Gundam",
+        "id": "mobile-suit-v-gundam-4572",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/05668b19c11ca04ec543a3b3cb270487.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 0,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Inazuma Eleven: Balance of Ares",
+        "alternativeTitle": "Inazuma Eleven: Ares no Tenbin",
+        "id": "inazuma-eleven-balance-of-ares-4828",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c9bf8da4c799362a024d70b96b5cfb1.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 0,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3 Pun Dai Shingeki",
+        "alternativeTitle": "Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3 Pun Dai Shingeki",
+        "id": "crayon-shin-chan-movie-13-densetsu-wo-yobu-buriburi-3-pun-dai-shingeki-5084",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e5b799bb98de96ff7b8ff250ae608b10.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "88m"
+      },
+      {
+        "title": "The Rolling Girls",
+        "alternativeTitle": "Rolling☆Girls",
+        "id": "the-rolling-girls-5340",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8e55f7f423caf3148b81c4f46e73a40d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "IDOLM@STER Xenoglossia",
+        "alternativeTitle": "iDOLM@STER Xenoglossia",
+        "id": "idolmster-xenoglossia-5596",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/45ea7ff84a5036f34835890335f0aa0e.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "[RAW] Kaibutsu-kun (1980)",
+        "alternativeTitle": "[RAW] Kaibutsu-kun (1980)",
+        "id": "kaibutsu-kun-1980-5852",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8a6fe268668383b7174342330e4e2405.jpg",
+        "episodes": {
+          "sub": 188,
+          "dub": 0,
+          "eps": 188
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Pokémon: Black & White: Rival Destinies",
+        "alternativeTitle": "Pokemon Best Wishes! Season 2",
+        "id": "pokemon-black-white-rival-destinies-6108",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8476d0d7a80e5cb2726139748d9f559.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 49,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Xiong Bing Lian",
+        "alternativeTitle": "Xiong Bing Lian",
+        "id": "xiong-bing-lian-12508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c43db89baa0cdb114d9423c4cdd98f67.jpg",
+        "episodes": {
+          "sub": 33,
+          "dub": 0,
+          "eps": 33
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Chouetsu Sekai",
+        "alternativeTitle": "Chouetsu Sekai",
+        "id": "chouetsu-sekai-13276",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/607f9c2ddfc575a878878c550fe5a7f7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "OVA",
+        "duration": "6m"
+      },
+      {
+        "title": "Overflow (Uncensored)",
+        "alternativeTitle": "Overflow (Uncensored)",
+        "id": "overflow-uncensored-17884",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09b6f4a88ba059297c00fb380ca6fb18.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "World, Before You End",
+        "alternativeTitle": "Sekai ga Horobiru Mae ni Kimi ni Aitai",
+        "id": "world-before-you-end-18396",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d079be57326c232a87d8f4ce8a5e4b02.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "31m"
+      },
+      {
+        "title": "Ghost Tale",
+        "alternativeTitle": "Ghost Tale",
+        "id": "ghost-tale-18652",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b0e5d984f428fc8d729658a46f50d38a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "2m"
+      },
+      {
+        "title": "Spare Me, Great Lord! 2nd Season",
+        "alternativeTitle": "Da Wang Rao Ming 2",
+        "id": "spare-me-great-lord-2nd-season-19164",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b111c87a33d221a6168ff85fc9b96c2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Mountain and Sea Organization",
+        "alternativeTitle": "Shanhai Jihui",
+        "id": "mountain-and-sea-organization-19420",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cbdf474806c0a58961224ef3fa828659.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "One Piece: The Log of the Rivalry! The Straw Hats vs. Cipher Pol",
+        "alternativeTitle": "One Piece: Innen no Log! Mugiwara no Ichimi to Cipher Pol",
+        "id": "one-piece-the-log-of-the-rivalry-the-straw-hats-vs-cipher-pol-19676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b5627cb205cdf2959cc59314b3a18b42.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Daily Lives of High School Boys",
+        "alternativeTitle": "Danshi Koukousei no Nichijou",
+        "id": "daily-lives-of-high-school-boys-221",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1c39ee3be86973c25767f2e8bff5ac9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Soul Land: 4th Season",
+        "alternativeTitle": "Douluo Dalu: Qian Hua Xi Jin",
+        "id": "soul-land-4th-season-477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21b14074996e0d5f1d65f5ffd992e5cd.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Detective Conan Movie 09: Strategy Above the Depths",
+        "alternativeTitle": "Detective Conan Movie 09: Strategy Above the Depths",
+        "id": "detective-conan-movie-09-strategy-above-the-depths-733",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b851cd6b1cdee4846d4420c950b335b6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Macross Plus",
+        "alternativeTitle": "Macross Plus",
+        "id": "macross-plus-989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e8eb2e0993ccd2d029320f5f94d2bfa6.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "39m"
+      }
+    ]
+  }
+}

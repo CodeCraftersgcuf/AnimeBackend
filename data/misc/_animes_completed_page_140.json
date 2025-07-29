@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 140,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Foreordination",
+        "alternativeTitle": "Yinhe Zhi Xin",
+        "id": "foreordination-17324",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60cef45cec9b40eabf194393255b248c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Good Morning Althea",
+        "alternativeTitle": "Good Morning Althea",
+        "id": "good-morning-althea-9242",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cbe362de13d012e88cf3962fdc14c46e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Super Street Fighter IV",
+        "alternativeTitle": "Super Street Fighter IV",
+        "id": "super-street-fighter-iv-6411",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2d68a835d026a4b4b2aaa947274e4f08.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "35m"
+      },
+      {
+        "title": "KonoSuba: God's Blessing on This Wonderful World! 2: God's blessing on this wonderful Art!",
+        "alternativeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
+        "id": "konosuba-gods-blessing-on-this-wonderful-world-2-gods-blessing-on-this-wonderful-art-438",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c702027ad43b64cd5483e379f21e783f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "28m"
+      },
+      {
+        "title": "Love Live! The School Idol Movie",
+        "alternativeTitle": "Love Live! The School Idol Movie",
+        "id": "love-live-the-school-idol-movie-572",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5c16b7f72441be935da06ee17991e39.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "102m"
+      },
+      {
+        "title": "Brotherhood: Final Fantasy XV",
+        "alternativeTitle": "Brotherhood: Final Fantasy XV",
+        "id": "brotherhood-final-fantasy-xv-3579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/193ae3584c285e878e9e7510aef8b540.jpg",
+        "episodes": {
+          "sub": 5,
+          "dub": 0,
+          "eps": 5
+        },
+        "type": "ONA",
+        "duration": "14m"
+      },
+      {
+        "title": "I Have Refined Qi For 3000 Years!",
+        "alternativeTitle": "Lianqi Lianle 3000 Nian",
+        "id": "i-have-refined-qi-for-3000-years-18194",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f294ec3ddc7886eeca650a0cc46d28f8.png",
+        "episodes": {
+          "sub": 16,
+          "dub": 0,
+          "eps": 16
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Cat God: Ohanami Ghostbusters",
+        "alternativeTitle": "Nekogami Yaoyorozu: Ohanami Ghostbusters",
+        "id": "cat-god-ohanami-ghostbusters-4911",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76f834749d14735afa54e8a54a58c032.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Street Fighter Alpha: Generations",
+        "alternativeTitle": "Street Fighter Alpha: Generations",
+        "id": "street-fighter-alpha-generations-5807",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3a2db07444152bc444ddaa305477e03d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "42m"
+      },
+      {
+        "title": "Obey Me! 2nd Season",
+        "alternativeTitle": "Obey Me! Season 2",
+        "id": "obey-me-2nd-season-18130",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/513aa564ee1ae053e70c70185bddfac5.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "6m"
+      },
+      {
+        "title": "Girlfriend, Girlfriend",
+        "alternativeTitle": "Kanojo mo Kanojo",
+        "id": "girlfriend-girlfriend-17275",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb6c115c752e27fdd900167209c7fef2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Umibe no Étranger",
+        "alternativeTitle": "Umibe no Étranger",
+        "id": "umibe-no-etranger-12312",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47436b74de98af9c09299376fd2ead1d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "59m"
+      },
+      {
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+        "alternativeTitle": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!",
+        "id": "kono-subarashii-sekai-ni-shukufuku-wo-kono-subarashii-choker-ni-shukufuku-wo-719",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0637372672d7d54d964f7a8f1704dc54.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Sweet Bite Marks",
+        "alternativeTitle": "Tian Mei De Yao Hen",
+        "id": "sweet-bite-marks-17413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4388ff83614f370db40be262e89874fc.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Fortune Favors Lady Nikuko",
+        "alternativeTitle": "Gyokou no Nikuko-chan",
+        "id": "fortune-favors-lady-nikuko-17447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cd658234aaa9cebff001135022aa9d61.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "96m"
+      },
+      {
+        "title": "Kite",
+        "alternativeTitle": "A Kite",
+        "id": "kite-16204",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/746d993e054e200c4e3148dd90df225c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Riding Bean",
+        "alternativeTitle": "Riding Bean",
+        "id": "riding-bean-3290",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8059683575e1c058c63eb8764cecdf21.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "46m"
+      },
+      {
+        "title": "Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune",
+        "alternativeTitle": "Uchuu Senkan Yamato 2199: Hoshimeguru Hakobune",
+        "id": "uchuu-senkan-yamato-2199-hoshimeguru-hakobune-839",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fb4917f6a60f5e695db3c9a30eadf6b6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "111m"
+      },
+      {
+        "title": "Vexille",
+        "alternativeTitle": "Vexille: 2077 Nihon Sakoku",
+        "id": "vexille-3781",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dfb4ac1d17b08f0233db95a58401c6a2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "110m"
+      },
+      {
+        "title": "Shingeki no Bahamut: Genesis - Short Story",
+        "alternativeTitle": "Shingeki no Bahamut: Genesis - Short Story",
+        "id": "shingeki-no-bahamut-genesis-short-story-3037",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5be8c1fd6931e1fa92364f0d4615b2d0.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "9m"
+      },
+      {
+        "title": "Play It Cool, Guys",
+        "alternativeTitle": "Cool Doji Danshi",
+        "id": "play-it-cool-guys-18172",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd6cc124389350b4657397e6e15c02a4.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Shadowverse Flame",
+        "alternativeTitle": "Shadowverse Flame",
+        "id": "shadowverse-flame-18002",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df97a62ab675b844aebe1d89a62f9efc.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mobile Suit Gundam: The Witch from Mercury",
+        "alternativeTitle": "Mobile Suit Gundam: The Witch from Mercury",
+        "id": "mobile-suit-gundam-the-witch-from-mercury-18171",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8007ca243c09ad60b98c7364dd2fd0d3.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Laughing Target",
+        "alternativeTitle": "Warau Hyouteki",
+        "id": "laughing-target-6954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7daa88e6a4134b0c160d52594da9b7b5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "50m"
+      },
+      {
+        "title": "Fight!! Iczer-1",
+        "alternativeTitle": "Tatakae!! Iczer-1",
+        "id": "fight-iczer-1-7747",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cba253596adcfd4187598ccc26909051.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Fate/stay night TV Reproduction",
+        "alternativeTitle": "Fate/stay night TV Reproduction",
+        "id": "fatestay-night-tv-reproduction-3986",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1d0f77ebc94cb7b3914eeb1a2fd97a6c.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "60m"
+      },
+      {
+        "title": "Girls & Panzer: This is the Real Anzio Battle!",
+        "alternativeTitle": "Girls & Panzer: Kore ga Hontou no Anzio-sen Desu!",
+        "id": "girls-panzer-this-is-the-real-anzio-battle-981",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/457b7447a8738dbf08326fa962b1ff54.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "38m"
+      },
+      {
+        "title": "Sentou Yousei Shoujo Tasukete! Mave-chan",
+        "alternativeTitle": "Sentou Yousei Shoujo Tasukete! Mave-chan",
+        "id": "sentou-yousei-shoujo-tasukete-mave-chan-9686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4200499ecb4ddd6ac2ca418792bc3ac.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "KanColle Season 2: Let's Meet at Sea",
+        "alternativeTitle": "KanColle: Itsuka Ano Umi de",
+        "id": "kancolle-season-2-lets-meet-at-sea-15759",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8eebba88d58498346c5e12878cfa9863.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Chainsaw Man",
+        "alternativeTitle": "Chainsaw Man",
+        "id": "chainsaw-man-17406",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3da1326e07269ddd8d73475c5dabf2c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gokujo.: Souda Onsen ni Ikou!!",
+        "alternativeTitle": "Gokujo.: Souda Onsen ni Ikou!!",
+        "id": "gokujo-souda-onsen-ni-ikou-7882",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37cd9d0ad0ba076cfabbe1697f1833af.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "11m"
+      },
+      {
+        "title": "Fumoon",
+        "alternativeTitle": "Fumoon",
+        "id": "fumoon-8134",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/df5a758f93d0aac6d7b5d89c5cf44355.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "86m"
+      },
+      {
+        "title": "Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland",
+        "alternativeTitle": "Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland",
+        "id": "frame-arms-girl-movie-kyakkya-ufufu-na-wonderland-7880",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/263f59f9405f4e683e16a51964a2fb08.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "Kagaku Ninja-tai Gatchaman (Movie)",
+        "alternativeTitle": "Kagaku Ninja-tai Gatchaman (Movie)",
+        "id": "kagaku-ninja-tai-gatchaman-movie-7507",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/624c685db479cd055d52c6d42d5bf671.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "111m"
+      },
+      {
+        "title": "IDOLiSH7 Third BEAT! Part 2",
+        "alternativeTitle": "IDOLiSH7: Third Beat! Part 2",
+        "id": "idolish7-third-beat-part-2-17514",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b82ce9493a5a92ca096c377c9f7fd31f.jpg",
+        "episodes": {
+          "sub": 17,
+          "dub": 0,
+          "eps": 17
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "GJ-bu@",
+        "alternativeTitle": "GJ-bu@",
+        "id": "gj-bu-2488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5dad651ad9c9b0e96f98afdd30410969.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "46m"
+      },
+      {
+        "title": "Blood and heart: The legendary life of a Japanese youth in China",
+        "alternativeTitle": "Xue Yu Xin",
+        "id": "blood-and-heart-the-legendary-life-of-a-japanese-youth-in-china-18223",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5078b9d65ddf14fe7f696ed85617edd4.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "20m"
+      },
+      {
+        "title": "Yuru Camp△ Specials",
+        "alternativeTitle": "Yuru Camp△ Specials",
+        "id": "yuru-camp-specials-1425",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10369dbe9429a659e4c26bbdda224263.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "8m"
+      },
+      {
+        "title": "Tailenders",
+        "alternativeTitle": "Tailenders",
+        "id": "tailenders-4582",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ba90ee574aef3dae18d798cf07f698d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "27m"
+      },
+      {
+        "title": "Arknights Animation: Prelude to Dawn",
+        "alternativeTitle": "Arknights: Reimei Zensou",
+        "id": "arknights-animation-prelude-to-dawn-18175",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/989587ed4bb13d80711dd8be32854a22.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

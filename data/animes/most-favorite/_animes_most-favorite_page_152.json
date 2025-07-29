@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 152,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!",
+        "alternativeTitle": "Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!",
+        "id": "youkai-watch-movie-3-soratobu-kujira-to-double-sekai-no-daibouken-da-nyan-6401",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9fd6fc45540cd3fb025b1c4eea255bf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Hidamari Sketch x SP",
+        "alternativeTitle": "Hidamari Sketch x SP",
+        "id": "hidamari-sketch-x-sp-816",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c7bbc3c3be44dfac6d38bdfbcec4bd11.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Aguu: Genius Dolls",
+        "alternativeTitle": "Aguu: Tensai Ningyou",
+        "id": "aguu-genius-dolls-9408",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9815642d466faad575cd8d9fc45ae81c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bihada Ichizoku",
+        "alternativeTitle": "Bihada Ichizoku",
+        "id": "bihada-ichizoku-8676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5918947d7db0a74a2ced5a352dd864d1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "9m"
+      },
+      {
+        "title": "The Diary of a Crazed Family",
+        "alternativeTitle": "Kyouran Kazoku Nikki",
+        "id": "the-diary-of-a-crazed-family-2421",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ee02d0e0a7e07106b957bca17ed825bc.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "You're My Love Prize",
+        "alternativeTitle": "Finder Series",
+        "id": "youre-my-love-prize-16245",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e94982ae55f3f51d2821df63fc9c577d.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Beast Saga",
+        "alternativeTitle": "Beast Saga",
+        "id": "beast-saga-8845",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d7840957b0a00d8a98cad2d3177c33df.jpg",
+        "episodes": {
+          "sub": 38,
+          "dub": 0,
+          "eps": 38
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Jewelpet Sunshine",
+        "alternativeTitle": "Jewelpet Sunshine",
+        "id": "jewelpet-sunshine-5597",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/661abae1f7551515dec6222c524f428e.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Sugar: A Little Snow Fairy Summer Special",
+        "alternativeTitle": "Chicchana Yukitsukai Sugar Specials",
+        "id": "sugar-a-little-snow-fairy-summer-special-3558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4cf350dcd9e60753739bdb879769feaa.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Working Buddies!",
+        "alternativeTitle": "Hataraku Onii-san!",
+        "id": "working-buddies-6545",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a2299a4d1b8bc4da713b195f7daba17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Wooser's Hand-to-Mouth Life",
+        "alternativeTitle": "Wooser no Sono Higurashi",
+        "id": "woosers-hand-to-mouth-life-7058",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67d1879c717c1c80c6635af188327995.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Rilakkuma and Kaoru",
+        "alternativeTitle": "Rilakkuma to Kaoru-san",
+        "id": "rilakkuma-and-kaoru-1181",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ea646f90f5cb6d5e2585b79118d92ba.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Metal Skin Panic MADOX-01",
+        "alternativeTitle": "Metal Skin Panic MADOX-01",
+        "id": "metal-skin-panic-madox-01-8141",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/369390ecc1bbeee0e2dca7d5cff75a61.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "42m"
+      },
+      {
+        "title": "Cat God: Ohanami Ghostbusters",
+        "alternativeTitle": "Nekogami Yaoyorozu: Ohanami Ghostbusters",
+        "id": "cat-god-ohanami-ghostbusters-4911",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76f834749d14735afa54e8a54a58c032.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Yama no Susume: Second Season Specials",
+        "alternativeTitle": "Yama no Susume: Second Season Specials",
+        "id": "yama-no-susume-second-season-specials-4179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/29db873e2332be1934460032768ca626.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "15m"
+      },
+      {
+        "title": "[RAW] Sally the Witch",
+        "alternativeTitle": "[RAW] Mahoutsukai Sally",
+        "id": "sally-the-witch-6254",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cac09cc8bf542379e4451df40644ca9.jpg",
+        "episodes": {
+          "sub": 109,
+          "dub": 0,
+          "eps": 109
+        },
+        "type": "TV",
+        "duration": "30m"
+      },
+      {
+        "title": "The Wind Guardians",
+        "alternativeTitle": "Feng Yu Zhou",
+        "id": "the-wind-guardians-3439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1315a74f995b65c2d2e1a7b8fef8919d.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "105m"
+      },
+      {
+        "title": "Kindaichi Shounen no Jikenbo Returns 2nd Season: Akechi Keibu no Jikenbo",
+        "alternativeTitle": "Kindaichi Shounen no Jikenbo Returns 2nd Season: Akechi Keibu no Jikenbo",
+        "id": "kindaichi-shounen-no-jikenbo-returns-2nd-season-akechi-keibu-no-jikenbo-3006",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8aaeca0c28d95ce8b792a71458bbce19.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "47m"
+      },
+      {
+        "title": "Tales of Eternia",
+        "alternativeTitle": "Tales of Eternia The Animation",
+        "id": "tales-of-eternia-7111",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/351d5fb64b46ffe8be9e28f4e24e9296.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Green Legend Ran",
+        "alternativeTitle": "Green Legend Ran",
+        "id": "green-legend-ran-4931",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eac946d16fe38a9b621283227c6355d2.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
+        "alternativeTitle": "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+        "id": "mobile-suit-gundam-0083-the-afterglow-of-zeon-4909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/703580c3d5c2860e64c6e5040f34f944.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Battle Spirits: Heroes",
+        "alternativeTitle": "Battle Spirits: Heroes",
+        "id": "battle-spirits-heroes-6980",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c40df0bd93f36fb140efdd3c506c0928.jpg",
+        "episodes": {
+          "sub": 50,
+          "dub": 0,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sword of Kamyi",
+        "alternativeTitle": "Kamui no Ken",
+        "id": "sword-of-kamyi-5295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c9b16dd883f0183ace7ea46c5122ce11.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "132m"
+      },
+      {
+        "title": "Wake Up, Girls! ZOO",
+        "alternativeTitle": "Wake Up, Girl Zoo!",
+        "id": "wake-up-girls-zoo-7464",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f58c1cdcb95d241c93393546e60380f3.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "3m"
+      },
+      {
+        "title": "Hand Maid Mai",
+        "alternativeTitle": "Hand Maid Mai",
+        "id": "hand-maid-mai-7774",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/308af76551438b4a17034059c53c8731.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Denshin Mamotte Shugogetten",
+        "alternativeTitle": "Denshin Mamotte Shugogetten",
+        "id": "denshin-mamotte-shugogetten-5773",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23d78e9ad46988d88b73f87d43e5e9ac.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Sparrow's Hotel",
+        "alternativeTitle": "Sparrow's Hotel",
+        "id": "sparrows-hotel-9437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6c74b0ab89f11b86365cecae5e95f123.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Gall Force 1: Eternal Story",
+        "alternativeTitle": "Gall Force 1: Eternal Story",
+        "id": "gall-force-1-eternal-story-5954",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c577cb0a1a0e15f534df82ca579e564b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "86m"
+      },
+      {
+        "title": "Nazotokine",
+        "alternativeTitle": "Nazotokine",
+        "id": "nazotokine-10365",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4b87c1ad3e9b56158945c44c528ad734.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Igano Kabamaru",
+        "alternativeTitle": "Igano Kabamaru",
+        "id": "igano-kabamaru-674",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ece329395582f825f0055295e0b21594.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Bomberman Jetters",
+        "alternativeTitle": "Bomberman Jetters",
+        "id": "bomberman-jetters-4043",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a7dacc5b414bdf10a844c327962890d8.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Qin Shi Ming Yue: Tian Xing Jiu Ge",
+        "alternativeTitle": "Qin Shi Ming Yue: Tian Xing Jiu Ge",
+        "id": "qin-shi-ming-yue-tian-xing-jiu-ge-2779",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bef441a8c3f37da7a70b580f207c3ab.jpg",
+        "episodes": {
+          "sub": 60,
+          "dub": 0,
+          "eps": 60
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Wan Jie Xian Zong 4th Season",
+        "alternativeTitle": "Wan Jie Xian Zong 4th Season",
+        "id": "wan-jie-xian-zong-4th-season-12382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a2eba1d7201f5f6eb2a692c24edaea42.jpg",
+        "episodes": {
+          "sub": 48,
+          "dub": 0,
+          "eps": 48
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Aria The Origination Picture Drama",
+        "alternativeTitle": "Aria the Origination Picture Drama",
+        "id": "aria-the-origination-picture-drama-3222",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d665a6eb32a6c2eecd531b136c7639f.jpg",
+        "episodes": {
+          "sub": 7,
+          "dub": 0,
+          "eps": 7
+        },
+        "type": "Special",
+        "duration": "7m"
+      },
+      {
+        "title": "Legend of the Crystals: Final Fantasy",
+        "alternativeTitle": "Final Fantasy",
+        "id": "legend-of-the-crystals-final-fantasy-7497",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f1a7da934f87655e971da32cecde0a35.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Space Pirate Captain Harlock: Riddle of the Arcadia Episode",
+        "alternativeTitle": "Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo",
+        "id": "space-pirate-captain-harlock-riddle-of-the-arcadia-episode-3686",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31423298a8f4ef902507fa67ba90dce0.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "35m"
+      },
+      {
+        "title": "Flint the Time Detective",
+        "alternativeTitle": "Jikuu Tantei Genshi-kun",
+        "id": "flint-the-time-detective-6631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/21189e4c4b098a96a4eb5ff6cd5a42a4.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 0,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+        "alternativeTitle": "Aikatsu!: Nerawareta Mahou no Aikatsu! Card",
+        "id": "aikatsu-nerawareta-mahou-no-aikatsu-card-2621",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f3026966cc134f4c73ecadf22e91e32c.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "27m"
+      },
+      {
+        "title": "Matoi the Sacred Slayer",
+        "alternativeTitle": "Soushin Shoujo Matoi",
+        "id": "matoi-the-sacred-slayer-4678",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63a9dff42eaec166a9215fa01a76b99d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ghost in the Shell: Stand Alone Complex - The Laughing Man - Tachikomatic Days",
+        "alternativeTitle": "Koukaku Kidoutai: Stand Alone Complex - The Laughing Man - Tachikoma na Hibi",
+        "id": "ghost-in-the-shell-stand-alone-complex-the-laughing-man-tachikomatic-days-4479",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d72f61f8d90a5543a21df83af316ba8a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "2m"
+      }
+    ]
+  }
+}

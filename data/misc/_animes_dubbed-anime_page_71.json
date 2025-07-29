@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 93,
+      "currentPage": 71,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "BNA",
+        "alternativeTitle": "BNA",
+        "id": "bna-1493",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e390932e38585ec71ce3db2e858a4a97.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Bleach the Movie: Fade to Black",
+        "alternativeTitle": "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
+        "id": "bleach-the-movie-fade-to-black-1492",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d3d5c027c921932c5a561d2bb8d3fcc3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      },
+      {
+        "title": "Area 88",
+        "alternativeTitle": "Area 88",
+        "id": "area-88-1491",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9f6ec7b4e1bffbe986372ae7b4068751.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "65m"
+      },
+      {
+        "title": "To LOVE Ru Darkness 2",
+        "alternativeTitle": "To LOVE-Ru Darkness 2nd",
+        "id": "to-love-ru-darkness-2-1488",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0a45c811208689afb7ba358d70d8199d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Big O",
+        "alternativeTitle": "The Big O",
+        "id": "the-big-o-1487",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/06c5daf10f82925b4b2f6aecc086d194.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Squid Girl 2",
+        "alternativeTitle": "Shinryaku!? Ika Musume 2nd season",
+        "id": "the-squid-girl-2-1485",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ab920016bb47a9f4490a283b788f7ac.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Persona 4 the Animation",
+        "alternativeTitle": "Persona 4 the Animation",
+        "id": "persona-4-the-animation-1484",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/60aba8150b2346c9674171db1db5d1ee.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "My Next Life as a Villainess: All Routes Lead to Doom!",
+        "alternativeTitle": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...",
+        "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-1482",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a21af89d0231b5e80b73d845f04b0916.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "To LOVE Ru Darkness",
+        "alternativeTitle": "To LOVE-Ru Darkness",
+        "id": "to-love-ru-darkness-1477",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7d9a247977b4d5881fa6a24f88eecf8f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "You're Under Arrest (1996)",
+        "alternativeTitle": "Taiho Shichau zo (TV)",
+        "id": "youre-under-arrest-1996-1476",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/595740a16fc92fcdd1e3c21807a5b463.jpg",
+        "episodes": {
+          "sub": 51,
+          "dub": 51,
+          "eps": 51
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shakugan no Shana: Season I",
+        "alternativeTitle": "Shakugan no Shana",
+        "id": "shakugan-no-shana-season-i-1474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/46b469f368cc095a724912d50d51229a.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Royal Space Force: The Wings of Honneamise",
+        "alternativeTitle": "Ouritsu Uchuugun: Honneamise no Tsubasa",
+        "id": "royal-space-force-the-wings-of-honneamise-1470",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8cb3caac9cab00364a04def51d095c8e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "121m"
+      },
+      {
+        "title": "Metropolis",
+        "alternativeTitle": "Metropolis",
+        "id": "metropolis-1469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ad5f9ba7c385a4af0cbec25dc217799.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "109m"
+      },
+      {
+        "title": "Sleepy Princess in the Demon Castle",
+        "alternativeTitle": "Maoujou de Oyasumi",
+        "id": "sleepy-princess-in-the-demon-castle-1467",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ed62cb82973260ecd96e2fb84b22b94.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Little Busters!",
+        "alternativeTitle": "Little Busters!",
+        "id": "little-busters-1466",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ce95ae56189970967888b978846d192c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "K-Project",
+        "alternativeTitle": "K",
+        "id": "k-project-1461",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2e3863a725ae73caf51a0a591478f35f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Nadia: Secret of Blue Water",
+        "alternativeTitle": "Fushigi no Umi no Nadia",
+        "id": "nadia-secret-of-blue-water-1456",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4e5894f36e11a94c849ae86a9ad24e51.jpg",
+        "episodes": {
+          "sub": 39,
+          "dub": 39,
+          "eps": 39
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fairy Tail Movie 2: Dragon Cry",
+        "alternativeTitle": "Fairy Tail Movie 2: Dragon Cry",
+        "id": "fairy-tail-movie-2-dragon-cry-1455",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ff86d76c2ce368fd96d2dabc47f9619a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "84m"
+      },
+      {
+        "title": "Laughing Under the Clouds",
+        "alternativeTitle": "Donten ni Warau",
+        "id": "laughing-under-the-clouds-1454",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1ea4809607f1babc8cb514979ce0ce92.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Interviews With Monster Girls: The Demi-chans' Summer Break",
+        "alternativeTitle": "Demi-chan wa Kataritai: Demi-chan no Natsuyasumi",
+        "id": "interviews-with-monster-girls-the-demi-chans-summer-break-1453",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2d277a65ee7fe618fbc007655975c68.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Amagi Brilliant Park",
+        "alternativeTitle": "Amagi Brilliant Park",
+        "id": "amagi-brilliant-park-1452",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2207409e2c327d626fe4563c92748f1a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Air Gear",
+        "alternativeTitle": "Air Gear",
+        "id": "air-gear-1449",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/590667c5e75bc93230b3429e20a6da02.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ah! My Goddess: Flights of Fancy Specials",
+        "alternativeTitle": "Aa! Megami-sama!: Sorezore no Tsubasa Specials",
+        "id": "ah-my-goddess-flights-of-fancy-specials-1447",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1968a7f1154dbd1e52faf1fb489a41fd.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Aa! Megami-sama! (TV) Specials",
+        "alternativeTitle": "Aa! Megami-sama! (TV) Specials",
+        "id": "aa-megami-sama-tv-specials-1446",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/881141e7df47bc45befc2ad238633896.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 3
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "After the Rain",
+        "alternativeTitle": "Koi wa Ameagari no You ni",
+        "id": "after-the-rain-1445",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/66a922222c3a7778c0038cec52f25b8c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Heaven's Memo Pad",
+        "alternativeTitle": "Kamisama no Memochou",
+        "id": "heavens-memo-pad-1442",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b77b312be57ae18e44aa31bc04114d9c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "26m"
+      },
+      {
+        "title": "InuYasha the Movie 4: Fire on the Mystic Island",
+        "alternativeTitle": "InuYasha Movie 4: Guren no Houraijima",
+        "id": "inuyasha-the-movie-4-fire-on-the-mystic-island-1439",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2cbf2d60ee6ca274335c3cf45c4fc47b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "87m"
+      },
+      {
+        "title": "GUNDAM BUILD DIVERS Re:RISE",
+        "alternativeTitle": "Gundam Build Divers Re:Rise 2nd Season",
+        "id": "gundam-build-divers-rerise-1437",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da46fead537e5c6e2ff11c3f3f55eec2.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Guilty Crown",
+        "alternativeTitle": "Guilty Crown",
+        "id": "guilty-crown-1436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75a19d5a15602d767a34dc98811be3ba.jpg",
+        "episodes": {
+          "sub": 22,
+          "dub": 22,
+          "eps": 22
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Flying Witch",
+        "alternativeTitle": "Flying Witch",
+        "id": "flying-witch-1435",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3650577a3931c5812f6b96587d6f4e17.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sailor Moon SuperS: The Movie - Black Dream Hole",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki",
+        "id": "sailor-moon-supers-the-movie-black-dream-hole-1430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/43ab7457acc9a87d5cff4bb899e4777f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "1m"
+      },
+      {
+        "title": "The Heroic Legend of Arslan: Dust Storm Dance",
+        "alternativeTitle": "Arslan Senki (TV): Fuujin Ranbu",
+        "id": "the-heroic-legend-of-arslan-dust-storm-dance-1429",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1405fb31323f4f2bcaa4b36fc41088b5.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Zombie Land Saga",
+        "alternativeTitle": "Zombieland Saga",
+        "id": "zombie-land-saga-1427",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/61822f6a6402ea90db7cb87038ee0f62.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Okko's Inn",
+        "alternativeTitle": "Wakaokami wa Shougakusei! Movie",
+        "id": "okkos-inn-1422",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/72516293f61536b27d3f31fc1abcbdf3.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "94m"
+      }
+    ]
+  }
+}

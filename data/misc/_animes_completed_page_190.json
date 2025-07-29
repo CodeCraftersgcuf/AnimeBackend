@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 190,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Fist of the North Star",
+        "alternativeTitle": "Hokuto no Ken",
+        "id": "fist-of-the-north-star-532",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0e5e50def1e24e973918f791f95ed2c3.jpg",
+        "episodes": {
+          "sub": 152,
+          "dub": 0,
+          "eps": 152
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Fire Force",
+        "alternativeTitle": "Enen no Shouboutai",
+        "id": "fire-force-979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6d9cbc5cc655c5600f296acb1138975.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Extra: Last Encore - Illustrias Tendousetsu",
+        "alternativeTitle": "Fate/Extra: Last Encore - Illustrias Tendousetsu",
+        "id": "fateextra-last-encore-illustrias-tendousetsu-5405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bd09f501e042c3189287467869b52b84.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "TV",
+        "duration": "32m"
+      },
+      {
+        "title": "Digimon Universe App Monsters",
+        "alternativeTitle": "Digimon Universe: Appli Monsters",
+        "id": "digimon-universe-app-monsters-5179",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf3ce8530c844b60d67a635de824856a.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Arakawa Under the Bridge x Bridge",
+        "alternativeTitle": "Arakawa Under the Bridge x Bridge",
+        "id": "arakawa-under-the-bridge-x-bridge-894",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/67853bd63357eb14fad8ed9a48e6c558.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Arakawa Under the Bridge",
+        "alternativeTitle": "Arakawa Under the Bridge",
+        "id": "arakawa-under-the-bridge-1257",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/524145aff7cfb83a07d56923e16d866e.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Amanchu! Advance",
+        "alternativeTitle": "Amanchu! Advance",
+        "id": "amanchu-advance-2994",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f49f55c60c9837305e29943ba1d213b3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Amanchu!",
+        "alternativeTitle": "Amanchu!",
+        "id": "amanchu-2403",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ef480e179e7b4853a77da82ba0abcb4c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fate/Grand Order -First Order-",
+        "alternativeTitle": "Fate/Grand Order: First Order",
+        "id": "fategrand-order-first-order-4384",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2524ebf8c491cc4521356e50178ab86.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "74m"
+      },
+      {
+        "title": "Fist of the North Star: Legend of Kenshiro",
+        "alternativeTitle": "Hokuto no Ken Zero: Kenshirou Den",
+        "id": "fist-of-the-north-star-legend-of-kenshiro-1631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5297a3e894ca4ae8a4fea04fd1c329c5.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "90m"
+      },
+      {
+        "title": "Fate/Grand Order: Moonlight/Lostroom",
+        "alternativeTitle": "Fate/Grand Order: Moonlight/Lostroom",
+        "id": "fategrand-order-moonlightlostroom-6918",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4db697946c23bba43913ce58540be0b1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "32m"
+      },
+      {
+        "title": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+        "alternativeTitle": "Hokuto no Ken: Raoh Gaiden Gekitou-hen",
+        "id": "hokuto-no-ken-raoh-gaiden-gekitou-hen-1381",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9c0175f76aec16e973ed86e1f58d835.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "89m"
+      },
+      {
+        "title": "Fairy Tail OVA",
+        "alternativeTitle": "Fairy Tail OVA",
+        "id": "fairy-tail-ova-1433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/23bff6199081969657cc788f77921631.jpg",
+        "episodes": {
+          "sub": 9,
+          "dub": 0,
+          "eps": 9
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Hokuto no Ken: Yuria-den",
+        "alternativeTitle": "Hokuto no Ken: Yuria-den",
+        "id": "hokuto-no-ken-yuria-den-3078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6fb592efaecb861b3c6e2ad56e3edbdb.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "64m"
+      },
+      {
+        "title": "Sword Art Online Alternative: Gun Gale Online - Refrain",
+        "alternativeTitle": "Sword Art Online Alternative: Gun Gale Online - Refrain",
+        "id": "sword-art-online-alternative-gun-gale-online-refrain-6021",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c257068774ba890650f2d12a30bc387.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Fist of the North Star: The Legend of Toki",
+        "alternativeTitle": "Hokuto no Ken: Toki-den",
+        "id": "fist-of-the-north-star-the-legend-of-toki-1908",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9033faebe68a6353c1f26b499f260279.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "57m"
+      },
+      {
+        "title": "New Fist of the North Star",
+        "alternativeTitle": "Shin Hokuto no Ken",
+        "id": "new-fist-of-the-north-star-3692",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1204df29e633eefc5ac33b2091a93036.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "58m"
+      },
+      {
+        "title": "Aratanari Fukaki Ao",
+        "alternativeTitle": "Aratanari Fukaki Ao",
+        "id": "aratanari-fukaki-ao-7515",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90134c2c6f89a22c9242d13ef326ada9.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "ONA",
+        "duration": "40m"
+      },
+      {
+        "title": "Yu-Gi-Oh! Arc-V",
+        "alternativeTitle": "Yu☆Gi☆Oh! Arc-V",
+        "id": "yu-gi-oh-arc-v-4266",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/423796b3867825e7d136027279e24d4a.jpg",
+        "episodes": {
+          "sub": 148,
+          "dub": 99,
+          "eps": 148
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wagnaria!!3",
+        "alternativeTitle": "Working!!!",
+        "id": "wagnaria3-474",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac8ee1f46d281ee692fb4a65eb00f5d9.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wagnaria!!2",
+        "alternativeTitle": "Working'!!",
+        "id": "wagnaria2-682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/122633642cebb7b960cceac625274a22.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Wagnaria!!",
+        "alternativeTitle": "Working!!",
+        "id": "wagnaria-1005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d94224fdc32276c8df0685440da9353.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Strike the Blood Second",
+        "alternativeTitle": "Strike the Blood II",
+        "id": "strike-the-blood-second-3127",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf2e92f0da17d3ef457e79a2c98b224b.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Strike the Blood",
+        "alternativeTitle": "Strike the Blood",
+        "id": "strike-the-blood-2845",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec4a8be09237fb02bb9f1120e25a60d1.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Slow Start",
+        "alternativeTitle": "Slow Start",
+        "id": "slow-start-3405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/82ba2e62a67c4ecca320b38b1ec44add.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Revue Starlight",
+        "alternativeTitle": "Shoujo☆Kageki Revue Starlight",
+        "id": "revue-starlight-1234",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eed0a0e79f90f801430caa02dd55b7ab.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Frankenstein Family",
+        "alternativeTitle": "Shiyan Pin Jiating",
+        "id": "frankenstein-family-6481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c5f6b75a5511757f8c3be91fb1122ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "15m"
+      },
+      {
+        "title": "Shin Chuuka Ichiban!",
+        "alternativeTitle": "Shin Chuuka Ichiban!",
+        "id": "shin-chuuka-ichiban-6394",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/00a6356ec8d919f40d17beb76faaf157.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Sengoku Night Blood",
+        "alternativeTitle": "Sengoku Night Blood",
+        "id": "sengoku-night-blood-7660",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d828e5e70b673ee9122d4a045705122d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Ninja Girl & Samurai Master 2nd",
+        "alternativeTitle": "Nobunaga no Shinobi: Ise Kanegasaki-hen",
+        "id": "ninja-girl-samurai-master-2nd-3027",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/694260dd6286059d80609f3c6eaefc9a.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ninja Girl & Samurai Master: Anegawa and Ishiyama Arc",
+        "alternativeTitle": "Nobunaga no Shinobi: Anegawa Ishiyama-hen",
+        "id": "ninja-girl-samurai-master-anegawa-and-ishiyama-arc-3455",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9564872f1e098257c8bf2a070df29d80.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Ninja Girl & Samurai Master",
+        "alternativeTitle": "Nobunaga no Shinobi",
+        "id": "ninja-girl-samurai-master-3287",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f90441270fe210cd20653813858771fe.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Sword Art Online: Alicization - War of Underworld Recap",
+        "alternativeTitle": "Sword Art Online: Alicization - War of Underworld Recap",
+        "id": "sword-art-online-alicization-war-of-underworld-recap-4333",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/54fe8d3dd21ef1f4425edd7aacb45f2e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "The Future Diary: Redial",
+        "alternativeTitle": "Mirai Nikki: Redial",
+        "id": "the-future-diary-redial-1820",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8b3f4685ebb80490cd66c985bbcf289f.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "Sword Art Online: Alicization - Recollection",
+        "alternativeTitle": "Sword Art Online: Alicization - Recollection",
+        "id": "sword-art-online-alicization-recollection-5154",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1ee1fe36a5e46ff7b69b20ddd16fb87.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Mirai Nikki OVA",
+        "alternativeTitle": "Mirai Nikki",
+        "id": "mirai-nikki-ova-2396",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da31f4ebbd3f1ad4254441fc0f04d5e8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "8m"
+      },
+      {
+        "title": "Pokémon The Series: XY",
+        "alternativeTitle": "Pokemon XY",
+        "id": "pokemon-the-series-xy-2366",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bf976d430933c1d513b263a37b42bc9c.jpg",
+        "episodes": {
+          "sub": 93,
+          "dub": 93,
+          "eps": 93
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+        "alternativeTitle": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+        "id": "mobile-suit-gundam-the-origin-advent-of-the-red-comet-451",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/89f8a773979f28fb0d06b34f2ebe974d.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Magic Kaito 1412",
+        "alternativeTitle": "Magic Kaito 1412",
+        "id": "magic-kaito-1412-676",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b3c75138082020ba0af12018ffce4ae9.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lostorage Conflated WIXOSS",
+        "alternativeTitle": "Lostorage Conflated WIXOSS",
+        "id": "lostorage-conflated-wixoss-3159",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f9541829a8916ee3a33fc080bac41a7a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      }
+    ]
+  }
+}

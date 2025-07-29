@@ -1,0 +1,454 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 94,
+      "currentPage": 53,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Kurokami The Animation",
+        "alternativeTitle": "Kurokami The Animation",
+        "id": "kurokami-the-animation-2827",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f20b03477a368c79c73efd0123c272d1.jpg",
+        "episodes": {
+          "sub": 23,
+          "dub": 23,
+          "eps": 23
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kurokami: Tora to Tsubasa",
+        "alternativeTitle": "Kurokami: Tora to Tsubasa",
+        "id": "kurokami-tora-to-tsubasa-4078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1e6e211cee22d2fed054fabe8b6316e7.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Cyborg 009 VS Devilman",
+        "alternativeTitle": "Cyborg 009 VS Devilman",
+        "id": "cyborg-009-vs-devilman-6430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/42e789cf25df988a9bc42c915add63c0.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "31m"
+      },
+      {
+        "title": "Dance in the Vampire Bund: Special Edition",
+        "alternativeTitle": "Dance in the Vampire Bund: Special Edition",
+        "id": "dance-in-the-vampire-bund-special-edition-5481",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3631c17a7c98674ad82be668fde99472.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Final Fantasy: Unlimited",
+        "alternativeTitle": "Final Fantasy: Unlimited",
+        "id": "final-fantasy-unlimited-7152",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d63569e7f687eb377342c2341b7191d6.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dallos Special",
+        "alternativeTitle": "Dallos Special",
+        "id": "dallos-special-9311",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6f4229fc2ded5912a4aa5097c975736.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "85m"
+      },
+      {
+        "title": "Dance in the Vampire Bund",
+        "alternativeTitle": "Dance in the Vampire Bund",
+        "id": "dance-in-the-vampire-bund-3338",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f64ec96abc62356ba75bf0c45b0015f0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Xue Ying Ling Zhu 3rd Season",
+        "alternativeTitle": "Xue Ying Ling Zhu 3rd Season",
+        "id": "xue-ying-ling-zhu-3rd-season-18059",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0d9d38095ca3adf331f8dedbe557b239.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Xue Ying Ling Zhu 2nd Season",
+        "alternativeTitle": "Xue Ying Ling Zhu Zhi Qi Yu Pian",
+        "id": "xue-ying-ling-zhu-2nd-season-2963",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3bed8c84aa69eaf5296e3208981df14.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Galilei Donna: Storia di tre sorelle a caccia di un mistero",
+        "alternativeTitle": "Galilei Donna",
+        "id": "galilei-donna-storia-di-tre-sorelle-a-caccia-di-un-mistero-6086",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e797ae81d3f64411e0ede0339446c44f.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama.: Silver Soul Arc - Second Half War",
+        "alternativeTitle": "Gintama.: Shirogane no Tamashii-hen - Kouhan-sen",
+        "id": "gintama-silver-soul-arc-second-half-war-21",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/052c2bf4847c61963a605066c036298a.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 0,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Gintama: Dai Hanseikai",
+        "alternativeTitle": "Gintama: Dai Hanseikai",
+        "id": "gintama-dai-hanseikai-462",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2748fbf5d337a709afecace011b98896.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "14m"
+      },
+      {
+        "title": "Gintama: Monster Strike-hen",
+        "alternativeTitle": "Gintama: Monster Strike-hen",
+        "id": "gintama-monster-strike-hen-2063",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/76bda540971cef5895acf56bc3e77ecf.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "Blood Blockade Battlefront: Even These Are the Worst and Best Days Ever",
+        "alternativeTitle": "Kekkai Sensen: Soresaemo Saitei de Saikou na Hibi",
+        "id": "blood-blockade-battlefront-even-these-are-the-worst-and-best-days-ever-4368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/070d20664ac0bd618a1d54499fd0a5a9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Blood Reign: Curse of the Yoma",
+        "alternativeTitle": "Youma",
+        "id": "blood-reign-curse-of-the-yoma-7668",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/448733c70c96f4871ca2c07aaff8e080.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "38m"
+      },
+      {
+        "title": "God Bless Dancougar",
+        "alternativeTitle": "Choujuu Kishin Dancougar: God Bless Dancougar",
+        "id": "god-bless-dancougar-5770",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/361a203f972960bd45e52025249054b9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "80m"
+      },
+      {
+        "title": "Blue Comet SPT Layzner",
+        "alternativeTitle": "Aoki Ryuusei SPT Layzner OVA",
+        "id": "blue-comet-spt-layzner-4519",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2bd57bd07b1352d4d841c9060b99f485.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "55m"
+      },
+      {
+        "title": "Blame! Prologue",
+        "alternativeTitle": "Blame! Prologue",
+        "id": "blame-prologue-9413",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a826670903c63e54b98b589e6ab7fc8f.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "4m"
+      },
+      {
+        "title": "Bleach: Memories in the Rain",
+        "alternativeTitle": "Bleach: Memories in the Rain",
+        "id": "bleach-memories-in-the-rain-2900",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2832869a128404ef544cbda6a1a000e9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "29m"
+      },
+      {
+        "title": "The Executioner and Her Way of Life",
+        "alternativeTitle": "Shokei Shoujo no Virgin Road",
+        "id": "the-executioner-and-her-way-of-life-17503",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/55ba9a400222c9ce7c60153c54aaf57e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Tale of The Spirit Stone",
+        "alternativeTitle": "Jing Cui Xian Zun",
+        "id": "the-tale-of-the-spirit-stone-18078",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/98d2f552d8e22aa60d8380a8a8ae86a9.png",
+        "episodes": {
+          "sub": 20,
+          "dub": 0,
+          "eps": 40
+        },
+        "type": "ONA",
+        "duration": "10m"
+      },
+      {
+        "title": "Spriggan (ONA)",
+        "alternativeTitle": "Spriggan (ONA)",
+        "id": "spriggan-ona-15562",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b03461937f3fce0ab679004983c0b16.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 6,
+          "eps": 6
+        },
+        "type": "ONA",
+        "duration": "45m"
+      },
+      {
+        "title": "DT Eightron",
+        "alternativeTitle": "DT Eightron",
+        "id": "dt-eightron-6541",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b08ade5bfc54c75b5e9e7c65c77b638f.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Birdy the Mighty",
+        "alternativeTitle": "Tetsuwan Birdy",
+        "id": "birdy-the-mighty-3107",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/09fd690406d0e751b55f3db8b60b404b.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "33m"
+      },
+      {
+        "title": "Ikkitousen: Extravaganza Epoch",
+        "alternativeTitle": "Ikkitousen: Extravaganza Epoch",
+        "id": "ikkitousen-extravaganza-epoch-5105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b119df166781c9a4b3b4b613d231830.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Big Order",
+        "alternativeTitle": "Big Order",
+        "id": "big-order-8546",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ec6fb71346b1b9eb1fbde1a956e4c7a1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
+        "alternativeTitle": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru",
+        "id": "the-greatest-demon-lord-is-reborn-as-a-typical-nobody-17682",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2a0aab028bbcaba876e6853973e12615.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Skeleton Knight in Another World",
+        "alternativeTitle": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+        "id": "skeleton-knight-in-another-world-17979",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c32a2fc9a170dc5055225600772dce7f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Requiem of the Rose King",
+        "alternativeTitle": "Baraou no Souretsu",
+        "id": "requiem-of-the-rose-king-15655",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0506970d1863560c2ec7dc7e87d09e53.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Naruto: Shippuden",
+        "alternativeTitle": "Naruto: Shippuuden",
+        "id": "naruto-shippuden-355",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9cbcf87f54194742e7686119089478f8.jpg",
+        "episodes": {
+          "sub": 500,
+          "dub": 500,
+          "eps": 500
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "AMAIM Warrior at the Borderline",
+        "alternativeTitle": "Kyoukai Senki Part 2",
+        "id": "amaim-warrior-at-the-borderline-18007",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c4991410e6c50eb931032c873658492.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Rising of the Shield Hero 2nd Season",
+        "alternativeTitle": "Tate no Yuusha no Nariagari Season 2",
+        "id": "the-rising-of-the-shield-hero-2nd-season-15570",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fffadff17fe026c2031fb44ff5d70175.png",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ikkitousen: Western Wolves",
+        "alternativeTitle": "Ikkitousen: Western Wolves",
+        "id": "ikkitousen-western-wolves-6436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9066f11604d4e6caa8f4b3909fcdf90.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "The Dawn of the Witch",
+        "alternativeTitle": "Mahoutsukai Reimeiki",
+        "id": "the-dawn-of-the-witch-17983",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/360d863712c65123f29bc9c22d2e2301.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

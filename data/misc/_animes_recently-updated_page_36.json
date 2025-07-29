@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 36,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Wonder Egg Priority",
+        "alternativeTitle": "Wonder Egg Priority",
+        "id": "wonder-egg-priority-17272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cbd489c8be1b14cce16b04eea65f664a.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Aikatsu Planet!",
+        "alternativeTitle": "Aikatsu Planet!",
+        "id": "aikatsu-planet-17201",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f5b69bf8802dbfe95b195f3bd193f61e.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "10m"
+      },
+      {
+        "title": "The Seven Deadly Sins: Judgement of Fury",
+        "alternativeTitle": "Nanatsu no Taizai: Fundo no Shinpan",
+        "id": "nanatsu-no-taizai-fundo-no-shinpan-15823",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7513cf8e467b29f49967ac2110d5970d.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Osamake: Romcom Where The Childhood Friend Won't Lose!",
+        "alternativeTitle": "Osananajimi ga Zettai ni Makenai Love Comedy",
+        "id": "osamake-romcom-where-the-childhood-friend-wont-lose-15508",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/95da570af4525b35fd2ec7b9cbd16bf9.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ikkitousen: Western Wolves",
+        "alternativeTitle": "Ikkitousen: Western Wolves",
+        "id": "ikkitousen-western-wolves-6436",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9066f11604d4e6caa8f4b3909fcdf90.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Ikkitousen: Shuugaku Toushi Keppuuroku",
+        "alternativeTitle": "Ikkitousen: Shuugaku Toushi Keppuuroku",
+        "id": "ikkitousen-shuugaku-toushi-keppuuroku-4989",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d014469dee7393f25e439192f3253a8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "43m"
+      },
+      {
+        "title": "Ikkitousen: Extravaganza Epoch",
+        "alternativeTitle": "Ikkitousen: Extravaganza Epoch",
+        "id": "ikkitousen-extravaganza-epoch-5105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7b119df166781c9a4b3b4b613d231830.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 2,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Mars Red",
+        "alternativeTitle": "Mars Red",
+        "id": "mars-red-15795",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/353bff400248d1da2b840df238727da3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Fruits Basket: The Final",
+        "alternativeTitle": "Fruits Basket: The Final",
+        "id": "fruits-basket-the-final-15707",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9ca4b9ba283da5ecdd1daf1ea2f70ee9.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Odd Taxi",
+        "alternativeTitle": "Odd Taxi",
+        "id": "odd-taxi-17430",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a33c36da7c49e9679d1dc3b71c7ba0be.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "GLOOMY The Naughty Grizzly",
+        "alternativeTitle": "Itazuraguma no Gloomy",
+        "id": "gloomy-the-naughty-grizzly-17713",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f87bc53d600a5904fba051891e87a4fb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "1m"
+      },
+      {
+        "title": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
+        "alternativeTitle": "Hige wo Soru. Soshite Joshikousei wo Hirou.",
+        "id": "higehiro-after-being-rejected-i-shaved-and-took-in-a-high-school-runaway-15729",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f6cd00b0e2c7d344890695bd0960ee2b.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Moriarty the Patriot",
+        "alternativeTitle": "Yuukoku no Moriarty 2nd Season",
+        "id": "moriarty-the-patriot-17269",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2c609590d0bb52e76c753723efae683.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Good-bye, Cramer",
+        "alternativeTitle": "Sayonara Watashi no Cramer",
+        "id": "good-bye-cramer-15534",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7ab61e316e0c130af2530fa699d2f90f.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Don't Toy with Me, Miss Nagatoro",
+        "alternativeTitle": "Ijiranaide, Nagatoro-san",
+        "id": "dont-toy-with-me-miss-nagatoro-15740",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4ddd88f82bfcb66f404afb6f580a72ed.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Battle Athletes Victory ReSTART!",
+        "alternativeTitle": "Battle Athletess Daiundoukai ReSTART!",
+        "id": "battle-athletes-victory-restart-15656",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/64d2ebb5f9bf42873ae6e2f614f591d6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "KADO: The Right Answer - Ninovo",
+        "alternativeTitle": "Seikaisuru Kado: Ninovo",
+        "id": "kado-the-right-answer-ninovo-4759",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b4e47c0ead7a87d9bbd8e70fb05fdad9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "23m"
+      },
+      {
+        "title": "Banner of the Stars II",
+        "alternativeTitle": "Seikai no Senki II",
+        "id": "banner-of-the-stars-ii-753",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2da1e2034d3ee5c9eae2f120714d5eec.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Haven't You Heard? I'm Sakamoto",
+        "alternativeTitle": "Sakamoto Desu ga?",
+        "id": "havent-you-heard-im-sakamoto-1247",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb452e2c2d93e810a555b293c996b587.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fairy Ranmaru",
+        "alternativeTitle": "Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu",
+        "id": "fairy-ranmaru-17442",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ecef88b15c9dcd9fb2eff9b85f27baee.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cestvs: The Roman Fighter",
+        "alternativeTitle": "Cestvs: The Roman Fighter",
+        "id": "cestvs-the-roman-fighter-17291",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d0852f0628708172a98a96174d27779b.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Super Cub",
+        "alternativeTitle": "Super Cub",
+        "id": "super-cub-15567",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d94ccadef64a5ef06b4813b3c9207d18.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Stage!!",
+        "alternativeTitle": "Love Stage!!",
+        "id": "love-stage-2039",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6be31d0f417487cd1f166195154223f1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "That Time I Got Reincarnated as a Slime Season 2",
+        "alternativeTitle": "Tensei shitara Slime Datta Ken 2nd Season",
+        "id": "that-time-i-got-reincarnated-as-a-slime-season-2-15575",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75a23fa4eb94eee8d8e9b973915052af.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Slime Diaries: That Time I Got Reincarnated as a Slime",
+        "alternativeTitle": "Tensura Nikki: Tensei shitara Slime Datta Ken",
+        "id": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime-15577",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3dc0ccc5096044cc205d88d48ca337df.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wotaku ni Koi wa Muzukashii OVA",
+        "alternativeTitle": "Wotaku ni Koi wa Muzukashii OVA",
+        "id": "wotaku-ni-koi-wa-muzukashii-ova-712",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/acd0006eda9c74c9b9571f1eb139aa0a.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Baki: Dai Raitaisai-hen",
+        "alternativeTitle": "Baki: Dai Raitaisai-hen",
+        "id": "baki-dai-raitaisai-hen-1563",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3b45c40e018680e462d51c2c0c7da181.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "24m"
+      },
+      {
+        "title": "Paranoia Agent",
+        "alternativeTitle": "Mousou Dairinin",
+        "id": "paranoia-agent-1065",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3fb2ab9a7982d8ef1566382f6a933016.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Let's Make a Mug Too",
+        "alternativeTitle": "Yakunara Mug Cup mo",
+        "id": "lets-make-a-mug-too-15610",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/958424516dbf55733593f1e6f03c66ad.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "14m"
+      },
+      {
+        "title": "The Promised Neverland: 2nd Season",
+        "alternativeTitle": "Yakusoku no Neverland 2nd Season",
+        "id": "the-promised-neverland-2nd-season-15611",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/99011289efbc96c942f48ffc06478ea7.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Seven Knights Revolution: The Hero's Successor",
+        "alternativeTitle": "Seven Knights Revolution: Eiyuu no Keishousha",
+        "id": "seven-knights-revolution-the-heros-successor-17496",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d9ea71694386e8955063813cdd6e5312.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Quintessential Quintuplets 2",
+        "alternativeTitle": "5-toubun no Hanayome ∬",
+        "id": "the-quintessential-quintuplets-2-15631",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7db11c095d9406b85e3817a492beb449.png",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Those Snow White Notes",
+        "alternativeTitle": "Mashiro no Oto",
+        "id": "those-snow-white-notes-15796",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bc908a2399d97b71571e544c76bedc90.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Burning Kabaddi",
+        "alternativeTitle": "Shakunetsu Kabaddi",
+        "id": "burning-kabaddi-15540",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cca9fc3f4d274abd7209911454388913.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Godzilla: Singular Point",
+        "alternativeTitle": "Godzilla: S.P",
+        "id": "godzilla-singular-point-15719",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/41365ac1af33ea415577f01d760cbf17.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cells at Work! 2nd Season",
+        "alternativeTitle": "Hataraku Saibou!!",
+        "id": "cells-at-work-2nd-season-15725",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/aed17a19cbfc328b4c6a0f0f824e356b.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Higurashi: When They Cry – Gou",
+        "alternativeTitle": "Higurashi no Naku Koro ni Gou",
+        "id": "higurashi-when-they-cry-gou-1518",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1cd1ab997ed0ae2d6ec14ef690fcd65e.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Backflip!!",
+        "alternativeTitle": "Bakuten!!",
+        "id": "backflip-17295",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/26ba23575d9162b25ebd18f52ec08668.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Hetalia World Stars",
+        "alternativeTitle": "Hetalia World★Stars",
+        "id": "hetalia-world-stars-17229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a29fd31011f0eb8a88158eca15293fa.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Joran The Princess of Snow and Blood",
+        "alternativeTitle": "Jouran: The Princess of Snow and Blood",
+        "id": "joran-the-princess-of-snow-and-blood-17499",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d5b9a6314f413ffca1b97e1bf92f0c98.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "22m"
+      }
+    ]
+  }
+}

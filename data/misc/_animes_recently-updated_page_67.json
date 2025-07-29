@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 67,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Azumanga Daioh: The Animation",
+        "alternativeTitle": "Azumanga Daioh",
+        "id": "azumanga-daioh-the-animation-557",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fe11db71e0a7ff6253f21595ac5ef3b1.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Barefoot Gen",
+        "alternativeTitle": "Hadashi no Gen",
+        "id": "barefoot-gen-813",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9170b17699793997ad8f9ba883c5a304.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "83m"
+      },
+      {
+        "title": "Bokura wa Minna Kawai-sou: Hajimete no",
+        "alternativeTitle": "Bokura wa Minna Kawai-sou: Hajimete no",
+        "id": "bokura-wa-minna-kawai-sou-hajimete-no-1069",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/285aab25e7df01f38dd9370a2b5af8d2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Minami-ke Okaeri",
+        "alternativeTitle": "Minami-ke Okaeri",
+        "id": "minami-ke-okaeri-1325",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/526f0edb4f1fd7241e0784ed3f808835.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Spiritpact: Bond of the Underworld",
+        "alternativeTitle": "Ling Qi 2",
+        "id": "spiritpact-bond-of-the-underworld-1581",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1c10c819cdded1f28416a6d32bd7de41.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Live! School Idol Project: Sunshine!!",
+        "alternativeTitle": "Love Live! Sunshine!!",
+        "id": "love-live-school-idol-project-sunshine-1837",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2b16197aaca7c3b973cf632c4096780.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Familiar of Zero",
+        "alternativeTitle": "Zero no Tsukaima",
+        "id": "the-familiar-of-zero-2093",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ddb9a0a77bc6d8fed4b4b5c4226974e1.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Mental Choices Are Completely Interfering With My School Romantic Comedy",
+        "alternativeTitle": "Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru",
+        "id": "my-mental-choices-are-completely-interfering-with-my-school-romantic-comedy-2349",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa9347ffee5e45dea2d813058648af20.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 0,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "The Melancholy of Haruhi Suzumiya: 2nd Season (2009)",
+        "alternativeTitle": "Suzumiya Haruhi no Yuuutsu (2009)",
+        "id": "the-melancholy-of-haruhi-suzumiya-2nd-season-2009-2605",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c15f50d278a1265093a86aeb59b286b.jpg",
+        "episodes": {
+          "sub": 14,
+          "dub": 14,
+          "eps": 14
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Bluer Than Indigo: Fate",
+        "alternativeTitle": "Ai Yori Aoshi: Enishi",
+        "id": "bluer-than-indigo-fate-2861",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b32a9e5462bb616b1048acd112dd21b3.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Pokemon The Movie 03: Spell Of The Unown",
+        "alternativeTitle": "Pokemon Movie 03: Kesshoutou no Teiou Entei",
+        "id": "pokemon-the-movie-03-spell-of-the-unown-3117",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/651c4305c39587c86e39a68ef5946909.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "91m"
+      },
+      {
+        "title": "Concrete Revolutio: Choujin Gensou - The Last Song",
+        "alternativeTitle": "Concrete Revolutio: Choujin Gensou - The Last Song",
+        "id": "concrete-revolutio-choujin-gensou-the-last-song-3373",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f8b9c2cd80c1ddd0f830df08a4cc5264.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 11,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "UFO Ultramaiden Valkyrie 2: December Nocturne",
+        "alternativeTitle": "UFO Princess Valkyrie 2: Juunigatsu no Yasoukyoku",
+        "id": "ufo-ultramaiden-valkyrie-2-december-nocturne-3629",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/415f2ed3c134072ffa17daf9d77efe1f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi",
+        "alternativeTitle": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi",
+        "id": "bungaku-shoujo-kyou-no-oyatsu-hatsukoi-3885",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/59ce9282ff53efcd1777584ee1a06579.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "15m"
+      },
+      {
+        "title": "Inazuma Eleven: Orion no Kokuin",
+        "alternativeTitle": "Inazuma Eleven: Orion no Kokuin",
+        "id": "inazuma-eleven-orion-no-kokuin-4397",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/2ae56e1e4231ac58f3af0068ec4eb50b.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 0,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Cooking with Valkyries II",
+        "alternativeTitle": "Nu Wushen de Canzhuo II",
+        "id": "cooking-with-valkyries-ii-4653",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c23fb06f3202bd5b9992671cdcc5772e.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 0,
+          "eps": 8
+        },
+        "type": "ONA",
+        "duration": "7m"
+      },
+      {
+        "title": "Mobile Suit Gundam 0083: The Afterglow Of Zeon",
+        "alternativeTitle": "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+        "id": "mobile-suit-gundam-0083-the-afterglow-of-zeon-4909",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/703580c3d5c2860e64c6e5040f34f944.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "119m"
+      },
+      {
+        "title": "Bananya and the Curious Bunch",
+        "alternativeTitle": "Bananya: Fushigi na Nakama-tachi",
+        "id": "bananya-and-the-curious-bunch-5677",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6f7ea7c8351ed2b139c64591dd48c5dc.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Vividred Operation",
+        "alternativeTitle": "Vividred Operation",
+        "id": "vividred-operation-5933",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6be7cdc86764786680549da0c2989ca7.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fairy gone Season 1 Part 2",
+        "alternativeTitle": "Fairy Gone 2nd Season",
+        "id": "fairy-gone-season-1-part-2-6189",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/1b1730d089cb956cbac1eee7783e9759.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Getsumen To Heiki Mina",
+        "alternativeTitle": "Getsumen To Heiki Mina",
+        "id": "getsumen-to-heiki-mina-6701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ae1163e1b70c0c7d1692aa1ed39e58bc.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "What's Up Mechadoc",
+        "alternativeTitle": "Yoroshiku Mechadock",
+        "id": "whats-up-mechadoc-6957",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7743e1a55ef6bd75cf185b5dedc9221d.jpg",
+        "episodes": {
+          "sub": 30,
+          "dub": 0,
+          "eps": 30
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Prism Ark Specials",
+        "alternativeTitle": "Prism Ark Specials",
+        "id": "prism-ark-specials-7469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/eb192e4673ef88ec2910658ce2a0bf41.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "Special",
+        "duration": "4m"
+      },
+      {
+        "title": "Secret Little Akko (Movie)",
+        "alternativeTitle": "Himitsu no Akko-chan (Movie)",
+        "id": "secret-little-akko-movie-7725",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3ce62111c2db823a8032bdd5f48a66f4.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "25m"
+      },
+      {
+        "title": "G-On Riders",
+        "alternativeTitle": "G-On Riders",
+        "id": "g-on-riders-8493",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/143c8250ddfeae0aafd9ee7cdf3d0b0c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Dimension Movement of Nazca",
+        "alternativeTitle": "Jikuu Tenshou Nazca",
+        "id": "dimension-movement-of-nazca-9005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/47116e1efae2d83fc3b28e8f924f6fee.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Little Astro Boy",
+        "alternativeTitle": "Robot Atom",
+        "id": "little-astro-boy-11309",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/58058b52dbc1d4aa1ab7732eb94c1f4b.jpg",
+        "episodes": {
+          "sub": 0,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "11m"
+      },
+      {
+        "title": "Kikou Heidan J-Phoenix: PF Lips Shoutai",
+        "alternativeTitle": "Kikou Heidan J-Phoenix: PF Lips Shoutai",
+        "id": "kikou-heidan-j-phoenix-pf-lips-shoutai-14637",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/923a4c570b2ccdf1b950a1c24923e724.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "19m"
+      },
+      {
+        "title": "Sailor Moon Eternal: The Movie I",
+        "alternativeTitle": "Bishoujo Senshi Sailor Moon Eternal Movie 1",
+        "id": "sailor-moon-eternal-the-movie-i-15661",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/96162b2252139b2d7d36ee7826c6aba6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "82m"
+      },
+      {
+        "title": "The Land of Miracles",
+        "alternativeTitle": "Shen Lan Qi Yu Wushuang Zhu",
+        "id": "the-land-of-miracles-18221",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/da61109d5525406b68c11ad4e809ad7c.png",
+        "episodes": {
+          "sub": 15,
+          "dub": 0,
+          "eps": 15
+        },
+        "type": "ONA",
+        "duration": "22m"
+      },
+      {
+        "title": "Tales of Demons and Gods Season 8",
+        "alternativeTitle": "Yao Shen Ji 8th Season",
+        "id": "tales-of-demons-and-gods-season-8-19501",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a34126ef6e71d064e0fd3516ebffe8e0.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "ONA",
+        "duration": "8m"
+      },
+      {
+        "title": "Fighting Spirit: New Challenger",
+        "alternativeTitle": "Hajime no Ippo: New Challenger",
+        "id": "fighting-spirit-new-challenger-46",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5be4bc2d005fbcb3eaaecd82056775be.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Black Lagoon: The Second Barrage",
+        "alternativeTitle": "Black Lagoon: The Second Barrage",
+        "id": "black-lagoon-the-second-barrage-302",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/008a817ca0373a09b30199587a63c2e0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Darker than Black: Gaiden",
+        "alternativeTitle": "Darker than Black: Kuro no Keiyakusha Gaiden",
+        "id": "darker-than-black-gaiden-558",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e3f01b85077a10cba851c22458fc8bdf.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "Haikyuu!!: Riku vs. Kuu",
+        "alternativeTitle": "Haikyuu!!: Riku vs. Kuu",
+        "id": "haikyuu-riku-vs-kuu-814",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c19a95c714dcbb7382cf8776b793c6d4.jpg",
+        "episodes": {
+          "sub": 2,
+          "dub": 0,
+          "eps": 2
+        },
+        "type": "OVA",
+        "duration": "22m"
+      },
+      {
+        "title": "Broken Blade",
+        "alternativeTitle": "Break Blade 1: Kakusei no Toki",
+        "id": "broken-blade-1070",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b7372cf944f4a343a7b1878ced6f7b40.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "51m"
+      },
+      {
+        "title": "Mitsudomoe: Oppai Ippai Mama Genki",
+        "alternativeTitle": "Mitsudomoe: Oppai Ippai Mama Genki",
+        "id": "mitsudomoe-oppai-ippai-mama-genki-1326",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22fe63d2147ec3bfc72ac3da57f88834.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "23m"
+      },
+      {
+        "title": "Minami-ke Omatase",
+        "alternativeTitle": "Minami-ke Omatase",
+        "id": "minami-ke-omatase-1838",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8441c7deff52d6089fe15b30cf75f5b2.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "25m"
+      },
+      {
+        "title": "Listen to Me, Girls. I Am Your Father!",
+        "alternativeTitle": "Papa no Iukoto wo Kikinasai!",
+        "id": "listen-to-me-girls-i-am-your-father-2094",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22961cbfa80815388b63fc2ed93d61c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Sweet Blue Flowers",
+        "alternativeTitle": "Aoi Hana",
+        "id": "sweet-blue-flowers-2862",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ad2e75b629403cbe873c9da65770efe8.jpg",
+        "episodes": {
+          "sub": 11,
+          "dub": 0,
+          "eps": 11
+        },
+        "type": "TV",
+        "duration": "22m"
+      }
+    ]
+  }
+}

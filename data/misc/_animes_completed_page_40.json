@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 198,
+      "currentPage": 40,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Witch Hunter Robin",
+        "alternativeTitle": "Witch Hunter Robin",
+        "id": "witch-hunter-robin-2448",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/bcf1a4cc6ff23d28a048386875dcb1da.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Bubblegum Crisis",
+        "alternativeTitle": "Bubblegum Crisis",
+        "id": "bubblegum-crisis-2382",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5d0aefe3a9d9a6136f4103d037928e99.jpg",
+        "episodes": {
+          "sub": 8,
+          "dub": 8,
+          "eps": 8
+        },
+        "type": "OVA",
+        "duration": "41m"
+      },
+      {
+        "title": "Ba La La Xiao Mo Xian Zhi: Caihong Xin Shi",
+        "alternativeTitle": "Ba La La Xiao Mo Xian Zhi: Caihong Xin Shi",
+        "id": "ba-la-la-xiao-mo-xian-zhi-caihong-xin-shi-7927",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7a2395a8c9daad29c2c493eaa34c0e6d.jpg",
+        "episodes": {
+          "sub": 36,
+          "dub": 0,
+          "eps": 36
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ba La La Xiao Mo Xian Zhi: Qiji Wubu",
+        "alternativeTitle": "Ba La La Xiao Mo Xian Zhi: Qiji Wubu",
+        "id": "ba-la-la-xiao-mo-xian-zhi-qiji-wubu-8362",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0b804da4ef81e4a91be7d998d0e124ac.jpg",
+        "episodes": {
+          "sub": 52,
+          "dub": 0,
+          "eps": 52
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kokoro Connect",
+        "alternativeTitle": "Kokoro Connect",
+        "id": "kokoro-connect-744",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/8362a6d9e25762223b85a9f62cca95f4.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Happiness Charge Precure!",
+        "alternativeTitle": "Happiness Charge Precure!",
+        "id": "happiness-charge-precure-4469",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5966ffcc22c22967a2f8ca274a47d308.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 1,
+          "eps": 49
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kiznaiver",
+        "alternativeTitle": "Kiznaiver",
+        "id": "kiznaiver-1701",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/91df960552e6bf8ba75129145300ebd6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Shinya! Tensai Bakabon",
+        "alternativeTitle": "Shinya! Tensai Bakabon",
+        "id": "shinya-tensai-bakabon-7914",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/31746d7625020ab13dacb27e2f2a95f8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "King's Game",
+        "alternativeTitle": "Ousama Game The Animation",
+        "id": "kings-game-10247",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/90928250dcf73de6a1c869e458ced005.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+        "alternativeTitle": "Kono Aozora ni Yakusoku wo: Youkoso Tsugumi Ryou e",
+        "id": "kono-aozora-ni-yakusoku-wo-youkoso-tsugumi-ryou-e-7073",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/cf2b87fd837bdf4e7d3e33ef1aa6d019.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Komori-san Can't Decline!",
+        "alternativeTitle": "Komori-san wa Kotowarenai!",
+        "id": "komori-san-cant-decline-6897",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/537cd760a064d3bb4308e1b18d6a5bea.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "2m"
+      },
+      {
+        "title": "Kiss Him, Not Me!",
+        "alternativeTitle": "Watashi ga Motete Dousunda",
+        "id": "kiss-him-not-me-3024",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f97903976aeccddf82d32e30f01f5e9c.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Kino's Journey -the Beautiful World- the Animated Series",
+        "alternativeTitle": "Kino no Tabi: The Beautiful World - The Animated Series",
+        "id": "kinos-journey-the-beautiful-world-the-animated-series-1341",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3d01944567efd1432af8fb68884cf685.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Last Period: The Journey to the End of the Despair",
+        "alternativeTitle": "Last Period: Owarinaki Rasen no Monogatari",
+        "id": "last-period-the-journey-to-the-end-of-the-despair-6005",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13b07994b40a7b3fb54c8379112ab350.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lostorage incited WIXOSS",
+        "alternativeTitle": "Lostorage Incited WIXOSS",
+        "id": "lostorage-incited-wixoss-4752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/622eecbe531452cff5627daef2978374.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "The Troubled Life of Miss Kotoura",
+        "alternativeTitle": "Kotoura-san",
+        "id": "the-troubled-life-of-miss-kotoura-2565",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/964e7f1bc0c86a14b04e8acedb7e6a19.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+        "alternativeTitle": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note",
+        "id": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-2070",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9b5472df32eb7416eb1d34cbd1458c98.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Locodol",
+        "alternativeTitle": "Futsuu no Joshikousei ga [Locodol] Yattemita.",
+        "id": "locodol-3987",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/7c89278eedc83f7c05654a8ca265691c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Libra of Nil Admirari",
+        "alternativeTitle": "Nil Admirari no Tenbin",
+        "id": "libra-of-nil-admirari-5249",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a5c729daef2ed3cf39d24ea0f1c11cc1.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lance N' Masques",
+        "alternativeTitle": "Lance N' Masques",
+        "id": "lance-n-masques-9316",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fa59d203c4eb6cce4b0b1e3e4a8867cb.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kowabon",
+        "alternativeTitle": "Kowabon",
+        "id": "kowabon-9938",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c1c52b1e59a6e7424ada8e0e969b55ad.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Konohana Kitan",
+        "alternativeTitle": "Konohana Kitan",
+        "id": "konohana-kitan-1343",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6ecebdf5349b111414f240835ad5da32.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love To-LIE-Angle",
+        "alternativeTitle": "Tachibanakan Triangle",
+        "id": "love-to-lie-angle-9229",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/122a793c85b0f5f6758edd89820ce921.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Lovely Muuuuuuuco!",
+        "alternativeTitle": "Itoshi no Muco",
+        "id": "lovely-muuuuuuuco-4400",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/800c19cf3e1d82f4fde39286edc52ccc.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "12m"
+      },
+      {
+        "title": "Love is Like a Cocktail",
+        "alternativeTitle": "Osake wa Fuufu ni Natte kara",
+        "id": "love-is-like-a-cocktail-3834",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3f761b41d3a60df3ad1077ccd05b9281.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Lord of Vermilion: The Crimson King",
+        "alternativeTitle": "Lord of Vermilion: Guren no Ou",
+        "id": "lord-of-vermilion-the-crimson-king-9752",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b465502a9d9b564de16dbbd992bcdf2b.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Lab",
+        "alternativeTitle": "Love Lab",
+        "id": "love-lab-2038",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/75ea981fac0ae41136eb44cfff7a87b3.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Lost Universe",
+        "alternativeTitle": "Lost Universe",
+        "id": "lost-universe-3507",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/858a6e5e9c53b1896d346e556a6032a0.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 26,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "22m"
+      },
+      {
+        "title": "Love Rice",
+        "alternativeTitle": "Love Kome: We Love Rice",
+        "id": "love-rice-10521",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6a26367702f77c00d4a39f5148fda315.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "4m"
+      },
+      {
+        "title": "Love Rice 2",
+        "alternativeTitle": "Love Kome: We Love Rice 2nd Season",
+        "id": "love-rice-2-10405",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e337399352700b1b6bfdbbd558fa1f40.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Love Stage!!",
+        "alternativeTitle": "Love Stage!!",
+        "id": "love-stage-2039",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6be31d0f417487cd1f166195154223f1.jpg",
+        "episodes": {
+          "sub": 10,
+          "dub": 10,
+          "eps": 10
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Listen to Me, Girls. I Am Your Father!",
+        "alternativeTitle": "Papa no Iukoto wo Kikinasai!",
+        "id": "listen-to-me-girls-i-am-your-father-2094",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/22961cbfa80815388b63fc2ed93d61c6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Love Live! School Idol Project: Sunshine!! 2nd Season",
+        "alternativeTitle": "Love Live! Sunshine!! 2nd Season",
+        "id": "love-live-school-idol-project-sunshine-2nd-season-1280",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/391ba719c00d753a237e66606093096c.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Lovely Complex",
+        "alternativeTitle": "Lovely★Complex",
+        "id": "lovely-complex-450",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1dd2cd8e01c4c1a1c92b6dffb5fd5a5.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 0,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Love Live! School Idol Project: Sunshine!!",
+        "alternativeTitle": "Love Live! Sunshine!!",
+        "id": "love-live-school-idol-project-sunshine-1837",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b2b16197aaca7c3b973cf632c4096780.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 13,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "La corda d'oro: primo passo",
+        "alternativeTitle": "Kiniro no Corda: Primo Passo",
+        "id": "la-corda-doro-primo-passo-1579",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/614a1a0298b024a80fec2bc72f872937.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 0,
+          "eps": 25
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Fushigi na Somera-chan",
+        "alternativeTitle": "Fushigi na Somera-chan",
+        "id": "fushigi-na-somera-chan-8368",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e1f02ce27e27fa372d0f6fd7408f7651.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Love, Chunibyo & Other Delusions! 2nd Season: Heart Throb",
+        "alternativeTitle": "Chuunibyou demo Koi ga Shitai! Ren",
+        "id": "love-chunibyo-other-delusions-2nd-season-heart-throb-1392",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/779d4fb2001a7af6abba89716387651f.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Mix",
+        "alternativeTitle": "Mix",
+        "id": "mix-2426",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/dbda9df6530a5814a29729ebcffd1dad.jpg",
+        "episodes": {
+          "sub": 24,
+          "dub": 24,
+          "eps": 24
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Magimoji Rurumo",
+        "alternativeTitle": "Majimoji Rurumo",
+        "id": "magimoji-rurumo-4155",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/947b3604852155f670ccb3ebb9edd123.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      }
+    ]
+  }
+}

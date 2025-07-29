@@ -1,0 +1,532 @@
+{
+  "success": true,
+  "data": {
+    "pageInfo": {
+      "totalPages": 202,
+      "currentPage": 74,
+      "hasNextPage": true
+    },
+    "response": [
+      {
+        "title": "Dirty Pair",
+        "alternativeTitle": "Dirty Pair",
+        "id": "dirty-pair-2872",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/10890cc9ed99f75c02776beb099f8b2c.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "25m"
+      },
+      {
+        "title": "Tesagure! Bukatsumono Encore",
+        "alternativeTitle": "Tesagure! Bukatsumono Encore",
+        "id": "tesagure-bukatsumono-encore-3128",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13962753ea948c1a7f47691057be6cf2.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "11m"
+      },
+      {
+        "title": "Kokkoku",
+        "alternativeTitle": "Kokkoku",
+        "id": "kokkoku-3384",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/965d1832c26f70b38291964dd5ca34e6.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Magical Witch Punie-Chan",
+        "alternativeTitle": "Dai Mahou Touge",
+        "id": "magical-witch-punie-chan-3640",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/d27d457a592e1bed565a69c1e508c7f2.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "24m"
+      },
+      {
+        "title": "Dragon Ball Z: Super Android 13!",
+        "alternativeTitle": "Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin",
+        "id": "dragon-ball-z-super-android-13-3896",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9d86d8fdff6282a65d10913a3a4a9b2a.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "45m"
+      },
+      {
+        "title": "Tekkaman Blade: Burning Clock",
+        "alternativeTitle": "Uchuu no Kishi Tekkaman Blade OVA: Burning Clock",
+        "id": "tekkaman-blade-burning-clock-5432",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a430bf7a7c3fc39bf664a2b96e387ecf.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "9m"
+      },
+      {
+        "title": "How to Steal 55 Kisses 2nd season",
+        "alternativeTitle": "Guomin Laogong Dai Huijia 2nd season",
+        "id": "how-to-steal-55-kisses-2nd-season-5688",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/57685cfff40a2baa5901df464fdccca0.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "11m"
+      },
+      {
+        "title": "For Whom the Alchemist Exists",
+        "alternativeTitle": "Ta ga Tame no Alchemist",
+        "id": "for-whom-the-alchemist-exists-6968",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/37ce5a0fa07bc1cb40e1e16270eb97c1.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "117m"
+      },
+      {
+        "title": "Space Pirate Mito 2",
+        "alternativeTitle": "Uchuu Kaizoku Mito no Daibouken: Futari no Joou-sama",
+        "id": "space-pirate-mito-2-7224",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/ac5912577989d3b0499de9633b3fc0d7.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Strange+",
+        "alternativeTitle": "Strange+",
+        "id": "strange-7992",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a410d1430171ee8a5fdc6adf20817c26.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "3m"
+      },
+      {
+        "title": "Galaxy Investigation 2100: Border Planet",
+        "alternativeTitle": "Ginga Tansa 2100-nen: Border Planet",
+        "id": "galaxy-investigation-2100-border-planet-8248",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5ebe3caa5c9c41096af84077b0a56c9b.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "72m"
+      },
+      {
+        "title": "Iczer Reborn",
+        "alternativeTitle": "Bouken! Iczer 3",
+        "id": "iczer-reborn-8504",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/672d951a7a8bbe8acb1eb3ebfd385de0.jpg",
+        "episodes": {
+          "sub": 6,
+          "dub": 0,
+          "eps": 6
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Princess Minerva",
+        "alternativeTitle": "Princess Minerva",
+        "id": "princess-minerva-9272",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0cf292cd7b1ab6ef0e3c9b13faf7d78e.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "45m"
+      },
+      {
+        "title": "Legend of Duo",
+        "alternativeTitle": "Legend of Duo",
+        "id": "legend-of-duo-10296",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/e7f820862f647ae3eeaac4f73e8a303e.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "5m"
+      },
+      {
+        "title": "Revelation",
+        "alternativeTitle": "Tian Yu",
+        "id": "revelation-12088",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/07aeef38d4378e767d62a842307dafa5.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Cap Kakumei Bottleman",
+        "alternativeTitle": "Cap Kakumei Bottleman",
+        "id": "cap-kakumei-bottleman-15672",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/db1a991a2d722f899fb169d3f7e465e0.jpg",
+        "episodes": {
+          "sub": 25,
+          "dub": 25,
+          "eps": 25
+        },
+        "type": "ONA",
+        "duration": "5m"
+      },
+      {
+        "title": "Honor of Kings: Chapter of Glory",
+        "alternativeTitle": "Wangzhe Rongyao: Rongyao Zhi Zhang",
+        "id": "honor-of-kings-chapter-of-glory-19000",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a1d603900b3d774214507ea372592b5d.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "ONA",
+        "duration": "26m"
+      },
+      {
+        "title": "Apocalypse Day",
+        "alternativeTitle": "Tian Qi Ri",
+        "id": "apocalypse-day-19512",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/9c376ed1ff5e9d07ee353cffecb3b5d9.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "19m"
+      },
+      {
+        "title": "Mushishi Zoku Shou: Suzu no Shizuku",
+        "alternativeTitle": "Mushishi Zoku Shou: Suzu no Shizuku",
+        "id": "mushishi-zoku-shou-suzu-no-shizuku-57",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/f2c5e91703c869567db8a6c1e7e858f6.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "47m"
+      },
+      {
+        "title": "Magical Girl Lyrical Nanoha: The Movie 2nd A's",
+        "alternativeTitle": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's",
+        "id": "magical-girl-lyrical-nanoha-the-movie-2nd-as-313",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6b902fd24e809c7981037c2a29b09679.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "149m"
+      },
+      {
+        "title": "The World God Only Knows II",
+        "alternativeTitle": "Kami nomi zo Shiru Sekai II",
+        "id": "the-world-god-only-knows-ii-569",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6397332a529951bf4186eaed8c40b451.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Mobile Suit Gundam SEED",
+        "alternativeTitle": "Mobile Suit Gundam SEED",
+        "id": "mobile-suit-gundam-seed-825",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/4c91b039d231792996505ca5c3793631.jpg",
+        "episodes": {
+          "sub": 49,
+          "dub": 48,
+          "eps": 50
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
+        "alternativeTitle": "Kuroko no Basket: Mou Ikkai Yarimasen ka",
+        "id": "kuroko-no-basket-mou-ikkai-yarimasen-ka-1081",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/fc7c23c7519f961c612ec59801ebe7d8.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 1,
+          "eps": 1
+        },
+        "type": "Special",
+        "duration": "24m"
+      },
+      {
+        "title": "The Fruit of Grisaia",
+        "alternativeTitle": "Grisaia no Kajitsu",
+        "id": "the-fruit-of-grisaia-1337",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/6cd87972738bbd801b5747d4a808e476.jpg",
+        "episodes": {
+          "sub": 13,
+          "dub": 0,
+          "eps": 13
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Wu Dong Qian Kun 2nd Season",
+        "alternativeTitle": "Wu Dong Qian Kun 2nd Season",
+        "id": "wu-dong-qian-kun-2nd-season-1593",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/62c9e0f813775fa1bed0c7c437528b5a.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "ONA",
+        "duration": "25m"
+      },
+      {
+        "title": "Shigurui: Death Frenzy",
+        "alternativeTitle": "Shigurui",
+        "id": "shigurui-death-frenzy-1849",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/13051d95a66bdb254a8ad19259139842.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Yuu☆Yuu☆Hakusho: Eizou Hakusho II",
+        "alternativeTitle": "Yuu☆Yuu☆Hakusho: Eizou Hakusho II",
+        "id": "yuuyuuhakusho-eizou-hakusho-ii-2105",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/070ecdb6aca00baa9359d39f608f735c.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "23m"
+      },
+      {
+        "title": "Beyond the Heavens",
+        "alternativeTitle": "Souten Kouro",
+        "id": "beyond-the-heavens-2361",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/a33a22dff9eecd63673b6dcb6f7244a5.jpg",
+        "episodes": {
+          "sub": 26,
+          "dub": 0,
+          "eps": 26
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "Utawarerumono OVA",
+        "alternativeTitle": "Utawarerumono OVA",
+        "id": "utawarerumono-ova-2617",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/154a4c3224e34a142e692ade6610b1a4.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "29m"
+      },
+      {
+        "title": "This Boy is a Professional Wizard",
+        "alternativeTitle": "Kono Danshi, Mahou ga Oshigoto Desu.",
+        "id": "this-boy-is-a-professional-wizard-3385",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/63cfd889b0393efc58b34b6c4683e2de.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 0,
+          "eps": 4
+        },
+        "type": "TV",
+        "duration": "7m"
+      },
+      {
+        "title": "Kuma Kuma Kuma Bear",
+        "alternativeTitle": "Kuma Kuma Kuma Bear",
+        "id": "kuma-kuma-kuma-bear-4153",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/c19bc963d80c8166da43b1cce519535d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 12,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "23m"
+      },
+      {
+        "title": "My Wife is the Student Council President OVA",
+        "alternativeTitle": "Okusama ga Seitokaichou!: Seitokaichou to Ofuro Asobi",
+        "id": "my-wife-is-the-student-council-president-ova-4409",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b6d55845c065dccf64e9d9c48aa14221.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "10m"
+      },
+      {
+        "title": "C³ - CubexCursedxCurious",
+        "alternativeTitle": "C³",
+        "id": "c3-cubexcursedxcurious-4921",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/b252ab52e02fd2e5055ab3fc55cd944d.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Ronin Warriors Legend of Kikoutei",
+        "alternativeTitle": "Yoroiden Samurai Troopers Kikoutei Densetsu",
+        "id": "ronin-warriors-legend-of-kikoutei-5433",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/3bc583d836ae57b05fc96d50b00db199.jpg",
+        "episodes": {
+          "sub": 4,
+          "dub": 4,
+          "eps": 4
+        },
+        "type": "OVA",
+        "duration": "30m"
+      },
+      {
+        "title": "Detonator Orgun",
+        "alternativeTitle": "Detonator Orgun",
+        "id": "detonator-orgun-5945",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/028da6984167acc92258b245229ad68b.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 3,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "52m"
+      },
+      {
+        "title": "Haruchika: Haruta & Chika",
+        "alternativeTitle": "HaruChika: Haruta to Chika wa Seishun suru",
+        "id": "haruchika-haruta-chika-6457",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/5c58fbe38d3659f50bc0779afb71c7c8.jpg",
+        "episodes": {
+          "sub": 12,
+          "dub": 0,
+          "eps": 12
+        },
+        "type": "TV",
+        "duration": "24m"
+      },
+      {
+        "title": "Loups=Garous",
+        "alternativeTitle": "Loups=Garous",
+        "id": "loupsgarous-6713",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/74bda5923858be668a5492c8db55fe36.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "Movie",
+        "duration": "98m"
+      },
+      {
+        "title": "Akane Maniax",
+        "alternativeTitle": "Akane Maniax",
+        "id": "akane-maniax-8761",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/716711be7a2e62ede2ee9dcaab96ac5f.jpg",
+        "episodes": {
+          "sub": 3,
+          "dub": 0,
+          "eps": 3
+        },
+        "type": "OVA",
+        "duration": "27m"
+      },
+      {
+        "title": "Mellow",
+        "alternativeTitle": "Mellow",
+        "id": "mellow-15161",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/78691b1c8ba4cde344db41aa61062d81.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "OVA",
+        "duration": "44m"
+      },
+      {
+        "title": "Arknights: Holy Knight Light",
+        "alternativeTitle": "Holy Knight Light",
+        "id": "arknights-holy-knight-light-17465",
+        "poster": "https://cdn.noitatnemucod.net/thumbnail/300x400/100/0276f53a1923cf9883d9c3a99aa68411.jpg",
+        "episodes": {
+          "sub": 1,
+          "dub": 0,
+          "eps": 1
+        },
+        "type": "ONA",
+        "duration": "9m"
+      }
+    ]
+  }
+}
