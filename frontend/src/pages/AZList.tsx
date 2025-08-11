@@ -1,13 +1,23 @@
 import { useEffect, useState } from 'react';
+import { useParams } from 'react-router-dom';
 import AnimeCardGrid from '../components/AnimeCardGrid';
 import type { Anime } from '../components/AnimeCardGrid';
+
 type PageInfo = {
   totalPages: number;
   currentPage: number;
   hasNextPage: boolean;
 };
 
-const Completed = () => {
+const getApiLetter = (letter: string) => {
+  if (letter === 'all') return 'all';
+  if (letter === 'symbol') return 'symbol';
+  if (letter === '0-9') return '0-9';
+  return letter;
+};
+
+const AZList = () => {
+  const { letter = 'all' } = useParams<{ letter: string }>();
   const [animes, setAnimes] = useState<Anime[]>([]);
   const [pageInfo, setPageInfo] = useState<PageInfo>({ totalPages: 1, currentPage: 1, hasNextPage: false });
   const [loading, setLoading] = useState(true);
@@ -15,7 +25,8 @@ const Completed = () => {
   const fetchData = async (page = 1) => {
     setLoading(true);
     try {
-      const res = await fetch(`http://localhost:3030/api/v1/animes/completed?page=${page}`);
+      const apiLetter = getApiLetter(letter);
+      const res = await fetch(`http://localhost:3030/api/v1/animes/az-list/${apiLetter}?page=${page}`);
       const json = await res.json();
       setAnimes(json.data.response);
       setPageInfo(json.data.pageInfo);
@@ -27,7 +38,8 @@ const Completed = () => {
 
   useEffect(() => {
     fetchData(1);
-  }, []);
+    // eslint-disable-next-line
+  }, [letter]);
 
   const handlePage = (page: number) => {
     fetchData(page);
@@ -35,7 +47,7 @@ const Completed = () => {
 
   return (
     <div>
-      <h1 className="text-green-400 text-2xl font-bold mb-6">Completed Anime</h1>
+      <h1 className="text-pink-300 text-2xl font-bold mb-6">A-Z List: {letter?.toUpperCase() || 'ALL'}</h1>
       {loading ? (
         <div className="text-white text-center mt-10">Loading...</div>
       ) : (
@@ -66,4 +78,4 @@ const Completed = () => {
   );
 };
 
-export default Completed;
+export default AZList;

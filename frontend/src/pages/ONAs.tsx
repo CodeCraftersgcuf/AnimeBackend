@@ -1,13 +1,14 @@
 import { useEffect, useState } from 'react';
 import AnimeCardGrid from '../components/AnimeCardGrid';
 import type { Anime } from '../components/AnimeCardGrid';
+
 type PageInfo = {
   totalPages: number;
   currentPage: number;
   hasNextPage: boolean;
 };
 
-const Completed = () => {
+const ONAs = () => {
   const [animes, setAnimes] = useState<Anime[]>([]);
   const [pageInfo, setPageInfo] = useState<PageInfo>({ totalPages: 1, currentPage: 1, hasNextPage: false });
   const [loading, setLoading] = useState(true);
@@ -15,7 +16,7 @@ const Completed = () => {
   const fetchData = async (page = 1) => {
     setLoading(true);
     try {
-      const res = await fetch(`http://localhost:3030/api/v1/animes/completed?page=${page}`);
+      const res = await fetch(`http://localhost:3030/api/v1/animes/ona?page=${page}`);
       const json = await res.json();
       setAnimes(json.data.response);
       setPageInfo(json.data.pageInfo);
@@ -35,7 +36,7 @@ const Completed = () => {
 
   return (
     <div>
-      <h1 className="text-green-400 text-2xl font-bold mb-6">Completed Anime</h1>
+      <h1 className="text-pink-200 text-2xl font-bold mb-6">Anime ONAs</h1>
       {loading ? (
         <div className="text-white text-center mt-10">Loading...</div>
       ) : (
@@ -66,4 +67,4 @@ const Completed = () => {
   );
 };
 
-export default Completed;
+export default ONAs;
