@@ -31,7 +31,7 @@ function ScrollToTop() {
 
 function App() {
   return (
-    <div className="bg-gray-900 min-h-screen text-white flex flex-col min-h-screen">
+    <div className="bg-gray-900 text-white flex flex-col min-h-screen">
       <ScrollToTop />
       <Navbar />
       <div className="p-4 flex-1">
