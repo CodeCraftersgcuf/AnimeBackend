@@ -20,6 +20,7 @@ import ONAs from './pages/ONAs';
 import Footer from './components/Footer';
 import AZList from './pages/AZList';
 import GenreList from './pages/GenreList';
+import Login from './pages/login';
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -53,6 +54,7 @@ function App() {
           <Route path="/ona" element={<ONAs />} />
           <Route path="/az-list/:letter" element={<AZList />} />
           <Route path="/genre/:genre" element={<GenreList />} />
+          <Route path="/login" element={<Login />} />
 
           {/* Optional fallback */}
           <Route path="*" element={<div className="text-center mt-10">404: Not Found</div>} />

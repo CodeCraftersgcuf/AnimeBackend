@@ -105,13 +105,7 @@ const Navbar = () => {
             <button type="submit" className="px-3 text-gray-700 hover:text-black">
               <FaSearch />
             </button>
-            <button
-              type="button"
-              className="bg-black text-white px-3 py-1 ml-1 rounded"
-              tabIndex={-1}
-            >
-              Filter
-            </button>
+          
           </form>
 
           {/* Search dropdown results */}
